@@ -21,11 +21,13 @@ export default function AppShell({ children }: { children: React.ReactNode }) {
       <header className="app-nav">
         <Link href={localePath(locale, "/")} className="app-logo">
           <span className="logo-mark" aria-hidden="true" />
-          <span>{t("brand.name")}</span>
+          <span className="logo-word">{t("brand.name")}</span>
         </Link>
-        <nav className="app-links">
+        <nav className="app-links" aria-label="Primary">
           {NAV.map((link) => (
-            <Link key={link.href} href={localePath(locale, link.href)}>{t(link.key)}</Link>
+            <Link key={link.href} href={localePath(locale, link.href)}>
+              {t(link.key)}
+            </Link>
           ))}
         </nav>
         <div className="app-nav-end">

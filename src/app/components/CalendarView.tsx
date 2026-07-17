@@ -91,7 +91,7 @@ export default function CalendarView({
         <p className="review-eyebrow">Calendar</p>
         <h1>Trading calendar</h1>
         <p className="review-lede">
-          Daily PnL heat-map into saved day and week reviews. Every sync keeps history — weeks stack forever.
+          Heat-map into day and week reviews. Sync keeps the record — no excuses, no reset.
         </p>
       </header>
 

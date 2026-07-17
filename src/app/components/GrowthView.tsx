@@ -67,7 +67,7 @@ export default function GrowthView({
       <header className="review-hero">
         <p className="review-eyebrow">Account</p>
         <h1>Growth</h1>
-        <p className="review-lede">Equity snapshots and weekly realized — the long arc, not the tick.</p>
+        <p className="review-lede">Equity curve and weekly realized — the long arc.</p>
       </header>
 
       <GoalProgress goal={goal} />
