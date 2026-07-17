@@ -12,37 +12,16 @@ function fmtRatio(n: number | null | undefined, infinite?: boolean, digits = 2) 
   return n.toFixed(digits);
 }
 
-function Meter({
-  label,
-  value,
-  display,
-  max = 1,
-  goodHigh = true,
-  tone,
-}: {
-  label: string;
-  value: number | null;
-  display: string;
-  max?: number;
-  goodHigh?: boolean;
-  tone?: "pos" | "neg" | "neutral";
-}) {
-  const v = value == null ? 0 : Math.max(0, Math.min(1, value / max));
-  const cls =
-    tone === "pos" ? "pos" : tone === "neg" ? "neg" : goodHigh ? (v >= 0.5 ? "pos" : "warn") : "neutral";
-  return (
-    <div className="metric-meter">
-      <div className="metric-meter-top">
-        <span>{label}</span>
-        <strong className={tone === "pos" ? "pnl-pos" : tone === "neg" ? "pnl-neg" : undefined}>
-          {display}
-        </strong>
-      </div>
-      <div className="metric-meter-bar" aria-hidden="true">
-        <i className={cls} style={{ width: `${v * 100}%` }} />
-      </div>
-    </div>
-  );
+function toneClass(tone: "pos" | "neg" | "neutral") {
+  if (tone === "pos") return "text-success";
+  if (tone === "neg") return "text-error";
+  return "";
+}
+
+function pfTone(metrics: TradeMetrics): "pos" | "neg" | "neutral" {
+  if (metrics.profitFactorInfinite || (metrics.profitFactor != null && metrics.profitFactor >= 1.5)) return "pos";
+  if (metrics.profitFactor != null && metrics.profitFactor < 1) return "neg";
+  return "neutral";
 }
 
 export function MetricsGrid({
@@ -54,131 +33,208 @@ export function MetricsGrid({
   title?: string;
   subtitle?: string;
 }) {
-  const pfDisplay = metrics.profitFactorInfinite
-    ? "∞"
-    : fmtRatio(metrics.profitFactor);
-  const pfTone =
-    metrics.profitFactorInfinite || (metrics.profitFactor != null && metrics.profitFactor >= 1.5)
-      ? "pos"
-      : metrics.profitFactor != null && metrics.profitFactor < 1
-        ? "neg"
-        : "neutral";
+  const pfDisplay = metrics.profitFactorInfinite ? "∞" : fmtRatio(metrics.profitFactor);
+  const pf = pfTone(metrics);
+
+  const winPct = metrics.winPct ?? 0;
+  const pfNorm = metrics.profitFactorInfinite
+    ? 100
+    : Math.min(100, ((metrics.profitFactor ?? 0) / 3) * 100);
+  const rrNorm = Math.min(100, ((metrics.rewardRisk ?? 0) / 3) * 100);
 
   return (
-    <section className="review-panel metrics-panel">
-      <h2>{title}</h2>
-      {subtitle ? <p className="score-meta">{subtitle}</p> : null}
-      <div className="metrics-stat-grid">
-        <div className="metrics-stat">
-          <span>Win rate</span>
-          <strong>{fmtPct(metrics.winPct)}</strong>
-          <em>
-            {metrics.winCount}W / {metrics.lossCount}L · {metrics.tradeCount} closes
-          </em>
+    <section className="card bg-base-200 border border-base-300 shadow-sm">
+      <div className="card-body gap-4 p-4 sm:p-5">
+        <div className="flex flex-wrap items-end justify-between gap-2">
+          <div>
+            <h3 className="font-bold tracking-tight">{title}</h3>
+            {subtitle ? <p className="text-xs opacity-50">{subtitle}</p> : null}
+          </div>
+          <div className={`badge badge-lg font-bold ${metrics.realizedPnl >= 0 ? "badge-success" : "badge-error"}`}>
+            Net {money(metrics.realizedPnl, 0)}
+          </div>
         </div>
-        <div className="metrics-stat">
-          <span>Profit factor</span>
-          <strong className={pfTone === "pos" ? "pnl-pos" : pfTone === "neg" ? "pnl-neg" : undefined}>
-            {pfDisplay}
-          </strong>
-          <em>
-            +{money(metrics.grossWin, 0).replace("+", "")} /{" "}
-            {money(Math.abs(metrics.grossLoss), 0).replace("+", "")} loss
-          </em>
-        </div>
-        <div className="metrics-stat">
-          <span>R:R (avg)</span>
-          <strong>{fmtRatio(metrics.rewardRisk)} : 1</strong>
-          <em>
-            avg W {metrics.avgWin == null ? "—" : money(metrics.avgWin, 0)} · avg L{" "}
-            {metrics.avgLoss == null ? "—" : money(metrics.avgLoss, 0)}
-          </em>
-        </div>
-        <div className="metrics-stat">
-          <span>Expectancy</span>
-          <strong className={pnlClass(metrics.expectancy ?? 0)}>
-            {metrics.expectancy == null ? "—" : money(metrics.expectancy, 2)}
-          </strong>
-          <em>per close</em>
-        </div>
-        <div className="metrics-stat">
-          <span>Best / worst</span>
-          <strong>
-            <span className="pnl-pos">{metrics.bestTrade == null ? "—" : money(metrics.bestTrade, 0)}</span>
-            {" / "}
-            <span className="pnl-neg">{metrics.worstTrade == null ? "—" : money(metrics.worstTrade, 0)}</span>
-          </strong>
-          <em>avg hold {metrics.avgHoldMinutes == null ? "—" : `${metrics.avgHoldMinutes.toFixed(0)}m`}</em>
-        </div>
-        <div className="metrics-stat">
-          <span>Net</span>
-          <strong className={pnlClass(metrics.realizedPnl)}>{money(metrics.realizedPnl, 0)}</strong>
-          <em>realized</em>
-        </div>
-      </div>
 
-      <div className="metrics-meters">
-        <Meter
-          label="Win %"
-          value={metrics.winRate}
-          display={fmtPct(metrics.winPct)}
-          max={1}
-        />
-        <Meter
-          label="Profit factor"
-          value={
-            metrics.profitFactorInfinite
-              ? 1
-              : metrics.profitFactor == null
-                ? null
-                : Math.min(metrics.profitFactor / 3, 1)
-          }
-          display={pfDisplay}
-          max={1}
-          tone={pfTone}
-        />
-        <Meter
-          label="R:R"
-          value={metrics.rewardRisk == null ? null : Math.min(metrics.rewardRisk / 3, 1)}
-          display={`${fmtRatio(metrics.rewardRisk)}x`}
-          max={1}
-          tone={
-            metrics.rewardRisk != null && metrics.rewardRisk >= 1.2
-              ? "pos"
-              : metrics.rewardRisk != null && metrics.rewardRisk < 1
-                ? "neg"
-                : "neutral"
-          }
-        />
-      </div>
+        <div className="stats stats-vertical lg:stats-horizontal w-full bg-base-100 border border-base-300 shadow-none">
+          <div className="stat py-3">
+            <div className="stat-title text-xs">Win rate</div>
+            <div className="stat-value text-2xl">{fmtPct(metrics.winPct)}</div>
+            <div className="stat-desc">
+              {metrics.winCount}W / {metrics.lossCount}L · {metrics.tradeCount} closes
+            </div>
+          </div>
+          <div className="stat py-3">
+            <div className="stat-title text-xs">Profit factor</div>
+            <div className={`stat-value text-2xl ${toneClass(pf)}`}>{pfDisplay}</div>
+            <div className="stat-desc">
+              +{money(metrics.grossWin, 0).replace("+", "")} / {money(Math.abs(metrics.grossLoss), 0).replace("+", "")} loss
+            </div>
+          </div>
+          <div className="stat py-3">
+            <div className="stat-title text-xs">R:R (avg)</div>
+            <div className="stat-value text-2xl">{fmtRatio(metrics.rewardRisk)} : 1</div>
+            <div className="stat-desc">
+              avg W {metrics.avgWin == null ? "—" : money(metrics.avgWin, 0)} · avg L{" "}
+              {metrics.avgLoss == null ? "—" : money(metrics.avgLoss, 0)}
+            </div>
+          </div>
+          <div className="stat py-3">
+            <div className="stat-title text-xs">Expectancy</div>
+            <div className={`stat-value text-2xl ${pnlClass(metrics.expectancy ?? 0)}`}>
+              {metrics.expectancy == null ? "—" : money(metrics.expectancy, 2)}
+            </div>
+            <div className="stat-desc">per close</div>
+          </div>
+        </div>
 
-      {metrics.equityCurve && metrics.equityCurve.length > 1 ? (
-        <WeekSpark curve={metrics.equityCurve} />
-      ) : null}
+        <div className="grid gap-3 sm:grid-cols-3">
+          <div className="rounded-box border border-base-300 bg-base-100 p-3">
+            <div className="mb-2 flex items-center justify-between text-xs">
+              <span className="opacity-60">Win %</span>
+              <span className="font-bold">{fmtPct(metrics.winPct)}</span>
+            </div>
+            <progress
+              className={`progress w-full h-2 ${winPct >= 50 ? "progress-success" : winPct >= 40 ? "progress-warning" : "progress-error"}`}
+              value={winPct}
+              max={100}
+            />
+            <p className="mt-2 text-[11px] opacity-50">Target ≥ 50% with positive R:R</p>
+          </div>
+          <div className="rounded-box border border-base-300 bg-base-100 p-3">
+            <div className="mb-2 flex items-center justify-between text-xs">
+              <span className="opacity-60">Profit factor</span>
+              <span className={`font-bold ${toneClass(pf)}`}>{pfDisplay}</span>
+            </div>
+            <progress
+              className={`progress w-full h-2 ${pf === "pos" ? "progress-success" : pf === "neg" ? "progress-error" : "progress-warning"}`}
+              value={pfNorm}
+              max={100}
+            />
+            <p className="mt-2 text-[11px] opacity-50">Scale marks 0 → 3.0</p>
+          </div>
+          <div className="rounded-box border border-base-300 bg-base-100 p-3">
+            <div className="mb-2 flex items-center justify-between text-xs">
+              <span className="opacity-60">R:R</span>
+              <span className="font-bold">{fmtRatio(metrics.rewardRisk)}x</span>
+            </div>
+            <progress
+              className={`progress w-full h-2 ${(metrics.rewardRisk ?? 0) >= 1.2 ? "progress-success" : (metrics.rewardRisk ?? 0) < 1 ? "progress-error" : "progress-warning"}`}
+              value={rrNorm}
+              max={100}
+            />
+            <p className="mt-2 text-[11px] opacity-50">
+              Best {metrics.bestTrade == null ? "—" : money(metrics.bestTrade, 0)} · worst{" "}
+              {metrics.worstTrade == null ? "—" : money(metrics.worstTrade, 0)}
+            </p>
+          </div>
+        </div>
+
+        {metrics.equityCurve && metrics.equityCurve.length > 1 ? (
+          <WeekSpark curve={metrics.equityCurve} />
+        ) : null}
+      </div>
     </section>
   );
 }
 
 function WeekSpark({ curve }: { curve: Array<{ t: string; pnl: number }> }) {
-  const w = 640;
-  const h = 72;
-  const pad = 6;
+  const w = 720;
+  const h = 96;
+  const padX = 8;
+  const padY = 10;
   const vals = curve.map((c) => c.pnl);
   const min = Math.min(...vals, 0);
   const max = Math.max(...vals, 1);
-  const pts = curve
+  const range = max - min || 1;
+  const zeroY = padY + (1 - (0 - min) / range) * (h - padY * 2);
+  const line = curve
     .map((c, i) => {
-      const x = pad + (i / Math.max(1, curve.length - 1)) * (w - pad * 2);
-      const y = pad + (1 - (c.pnl - min) / (max - min || 1)) * (h - pad * 2);
+      const x = padX + (i / Math.max(1, curve.length - 1)) * (w - padX * 2);
+      const y = padY + (1 - (c.pnl - min) / range) * (h - padY * 2);
       return `${i === 0 ? "M" : "L"}${x.toFixed(1)},${y.toFixed(1)}`;
     })
     .join(" ");
+  const area =
+    `${line} L${padX + (w - padX * 2)},${h - padY} L${padX},${h - padY} Z`;
   const end = vals[vals.length - 1] ?? 0;
+  const stroke = end >= 0 ? "var(--color-success)" : "var(--color-error)";
+  const fill = end >= 0 ? "color-mix(in oklab, var(--color-success) 22%, transparent)" : "color-mix(in oklab, var(--color-error) 22%, transparent)";
+
   return (
-    <div className="metrics-spark">
-      <span className="score-label">Trade equity (week)</span>
-      <svg viewBox={`0 0 ${w} ${h}`} className={`metrics-spark-svg ${end >= 0 ? "pos" : "neg"}`} aria-hidden>
-        <path d={pts} fill="none" stroke="currentColor" strokeWidth="2" />
+    <div className="rounded-box border border-base-300 bg-base-100 p-3">
+      <div className="mb-2 flex items-center justify-between">
+        <span className="text-xs font-semibold uppercase tracking-wide opacity-50">Equity curve</span>
+        <span className={`text-xs font-bold ${pnlClass(end)}`}>{money(end, 0)} cum</span>
+      </div>
+      <svg viewBox={`0 0 ${w} ${h}`} className="w-full h-24" role="img" aria-label="Cumulative equity curve">
+        <line x1={padX} x2={w - padX} y1={zeroY} y2={zeroY} stroke="currentColor" strokeOpacity="0.12" strokeWidth="1" />
+        <path d={area} fill={fill} />
+        <path d={line} fill="none" stroke={stroke} strokeWidth="2.5" strokeLinejoin="round" strokeLinecap="round" />
+      </svg>
+    </div>
+  );
+}
+
+function WeeklyPnlChart({
+  weeks,
+}: {
+  weeks: MetricsForwardFile["weeks"];
+}) {
+  if (!weeks.length) return null;
+  const w = 640;
+  const h = 200;
+  const padL = 36;
+  const padR = 12;
+  const padT = 16;
+  const padB = 36;
+  const maxAbs = Math.max(1, ...weeks.map((x) => Math.abs(x.realizedPnl)));
+  const chartW = w - padL - padR;
+  const chartH = h - padT - padB;
+  const midY = padT + chartH / 2;
+  const gap = 8;
+  const barW = Math.max(10, (chartW - gap * (weeks.length - 1)) / weeks.length);
+
+  return (
+    <div className="rounded-box border border-base-300 bg-base-100 p-3 sm:p-4">
+      <div className="mb-3 flex flex-wrap items-center justify-between gap-2">
+        <div>
+          <h4 className="font-bold tracking-tight text-sm">Weekly realized</h4>
+          <p className="text-[11px] opacity-50">Forward window by week</p>
+        </div>
+      </div>
+      <svg viewBox={`0 0 ${w} ${h}`} className="w-full h-48" role="img" aria-label="Weekly realized PnL bars">
+        <line x1={padL} x2={w - padR} y1={midY} y2={midY} stroke="currentColor" strokeOpacity="0.15" strokeWidth="1" />
+        {weeks.map((wk, i) => {
+          const x = padL + i * (barW + gap);
+          const mag = (Math.abs(wk.realizedPnl) / maxAbs) * (chartH / 2 - 4);
+          const y = wk.realizedPnl >= 0 ? midY - mag : midY;
+          const fill =
+            wk.realizedPnl >= 0
+              ? "var(--color-success)"
+              : "var(--color-error)";
+          return (
+            <g key={wk.id}>
+              <rect x={x} y={y} width={barW} height={Math.max(3, mag)} rx="4" fill={fill} opacity="0.9" />
+              <text
+                x={x + barW / 2}
+                y={h - 14}
+                textAnchor="middle"
+                className="fill-current"
+                style={{ fontSize: 10, opacity: 0.55 }}
+              >
+                {wk.id.replace(/^\d{4}-/, "")}
+              </text>
+              <text
+                x={x + barW / 2}
+                y={wk.realizedPnl >= 0 ? y - 6 : y + mag + 12}
+                textAnchor="middle"
+                style={{ fontSize: 9, fontWeight: 700, fill }}
+              >
+                {money(wk.realizedPnl, 0)}
+              </text>
+            </g>
+          );
+        })}
       </svg>
     </div>
   );
@@ -186,84 +242,60 @@ function WeekSpark({ curve }: { curve: Array<{ t: string; pnl: number }> }) {
 
 export function ForwardMetricsBoard({ forward }: { forward: MetricsForwardFile }) {
   if (!forward.weeks.length) return null;
-  const maxAbs = Math.max(1, ...forward.weeks.map((w) => Math.abs(w.realizedPnl)));
-  const cumMax = Math.max(1, ...forward.weeks.map((w) => Math.abs(w.cumulativePnl)), 1);
 
   return (
-    <section className="review-panel metrics-forward">
-      <h2>From {forward.fromWeek} forward</h2>
-      <p className="score-meta">{forward.note || "Weekly metrics stack here as weeks complete."}</p>
+    <section className="space-y-4">
+      <div className="flex flex-wrap items-end justify-between gap-2">
+        <div>
+          <h3 className="text-lg font-extrabold tracking-tight">From {forward.fromWeek} forward</h3>
+          <p className="text-xs opacity-50">{forward.note || "Weekly metrics stack as weeks complete."}</p>
+        </div>
+      </div>
 
       <MetricsGrid
         metrics={forward.cumulative}
-        title="Cumulative (this week →)"
+        title="Cumulative"
         subtitle={`${forward.weeks.length} week(s) in window`}
       />
 
-      <div className="forward-bars">
-        {forward.weeks.map((w) => (
-          <div key={w.id} className="forward-bar-col" title={w.label}>
-            <div
-              className={`forward-bar ${w.realizedPnl >= 0 ? "pos" : "neg"}`}
-              style={{ height: `${Math.max(6, (Math.abs(w.realizedPnl) / maxAbs) * 100)}%` }}
-            />
-            <span>{w.id.replace(/^\d{4}-/, "")}</span>
-            <em className={pnlClass(w.realizedPnl)}>{money(w.realizedPnl, 0)}</em>
-            <em className="muted">
-              WR {w.winPct == null ? "—" : `${w.winPct.toFixed(0)}%`}
-            </em>
-            <em className="muted">PF {w.profitFactor == null ? "—" : w.profitFactor.toFixed(2)}</em>
-            <em className="muted">R:R {w.rewardRisk == null ? "—" : w.rewardRisk.toFixed(2)}</em>
-          </div>
-        ))}
-      </div>
-
-      <div className="forward-cum">
-        <span className="score-label">Cumulative PnL</span>
-        <div className="forward-cum-track">
-          {forward.weeks.map((w) => (
-            <div
-              key={w.id}
-              className={`forward-cum-seg ${w.cumulativePnl >= 0 ? "pos" : "neg"}`}
-              style={{ flex: Math.max(0.15, Math.abs(w.cumulativePnl) / cumMax) }}
-              title={`${w.id}: ${money(w.cumulativePnl, 0)} cum`}
-            />
-          ))}
+      <div className="grid gap-4 xl:grid-cols-5">
+        <div className="xl:col-span-3">
+          <WeeklyPnlChart weeks={forward.weeks} />
         </div>
-        <strong className={pnlClass(forward.cumulative.realizedPnl)}>
-          {money(forward.cumulative.realizedPnl, 0)}
-        </strong>
-      </div>
-
-      <div className="forward-table-wrap">
-        <table className="forward-table">
-          <thead>
-            <tr>
-              <th>Week</th>
-              <th>PnL</th>
-              <th>WR%</th>
-              <th>PF</th>
-              <th>R:R</th>
-              <th>Exp</th>
-              <th>n</th>
-            </tr>
-          </thead>
-          <tbody>
-            {[...forward.weeks].reverse().map((w) => (
-              <tr key={w.id}>
-                <td>{w.id}</td>
-                <td className={pnlClass(w.realizedPnl)}>{money(w.realizedPnl, 0)}</td>
-                <td>{w.winPct == null ? "—" : w.winPct.toFixed(1)}</td>
-                <td>{w.profitFactor == null ? "—" : w.profitFactor.toFixed(2)}</td>
-                <td>{w.rewardRisk == null ? "—" : w.rewardRisk.toFixed(2)}</td>
-                <td className={pnlClass(w.expectancy ?? 0)}>
-                  {w.expectancy == null ? "—" : money(w.expectancy, 2)}
-                </td>
-                <td>{w.tradeCount}</td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
+        <div className="xl:col-span-2">
+          <div className="card bg-base-200 border border-base-300 shadow-sm h-full">
+            <div className="card-body gap-2 p-0">
+              <div className="px-4 pt-4">
+                <h4 className="font-bold tracking-tight text-sm">Week ledger</h4>
+                <p className="text-[11px] opacity-50">WR · PF · R:R · expectancy</p>
+              </div>
+              <div className="overflow-x-auto">
+                <table className="table table-sm">
+                  <thead>
+                    <tr>
+                      <th>Week</th>
+                      <th>PnL</th>
+                      <th>WR</th>
+                      <th>PF</th>
+                      <th>R:R</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {[...forward.weeks].reverse().map((w) => (
+                      <tr key={w.id} className="hover">
+                        <td className="font-semibold">{w.id.replace(/^\d{4}-/, "")}</td>
+                        <td className={`font-semibold ${pnlClass(w.realizedPnl)}`}>{money(w.realizedPnl, 0)}</td>
+                        <td>{w.winPct == null ? "—" : `${w.winPct.toFixed(0)}%`}</td>
+                        <td>{w.profitFactor == null ? "—" : w.profitFactor.toFixed(2)}</td>
+                        <td>{w.rewardRisk == null ? "—" : w.rewardRisk.toFixed(2)}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </section>
   );
