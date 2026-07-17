@@ -2,6 +2,8 @@
 
 import { money, pct, pnlClass } from "@/lib/review/format";
 import type { EquityFile, TradesFile, WeeksIndexFile } from "@/lib/review/types";
+import type { GoalPlan } from "@/lib/review/goal";
+import GoalProgress from "@/app/components/GoalProgress";
 
 function sparkPath(points: Array<{ x: number; y: number }>, w: number, h: number) {
   if (points.length < 2) return "";
@@ -14,10 +16,12 @@ export default function GrowthView({
   equity,
   trades,
   weeks,
+  goal,
 }: {
   equity: EquityFile;
   trades: TradesFile;
   weeks: WeeksIndexFile;
+  goal: GoalPlan;
 }) {
   const series = equity.series.length
     ? equity.series
@@ -61,6 +65,8 @@ export default function GrowthView({
         <h1>Growth</h1>
         <p className="review-lede">Equity snapshots and weekly realized — the long arc, not the tick.</p>
       </header>
+
+      <GoalProgress goal={goal} />
 
       <section className="review-scoreboard">
         <div className="score-card score-main">

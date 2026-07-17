@@ -5,7 +5,9 @@ import Link from "next/link";
 import { money, pnlClass, tiltLabel } from "@/lib/review/format";
 import { localePath } from "@/lib/locale";
 import type { CalendarIndexFile, DaySummary, MetricsForwardFile, SizingFile, WeekReviewFile, WeeksIndexFile } from "@/lib/review/types";
+import type { GoalPlan } from "@/lib/review/goal";
 import SizingCard from "@/app/components/SizingCard";
+import GoalProgress from "@/app/components/GoalProgress";
 import { ForwardMetricsBoard } from "@/app/components/MetricsBoard";
 
 function monthLabel(ym: string) {
@@ -47,6 +49,7 @@ export default function CalendarView({
   locale,
   sizing,
   forward,
+  goal,
 }: {
   calendar: CalendarIndexFile;
   weeks: WeeksIndexFile;
@@ -54,6 +57,7 @@ export default function CalendarView({
   locale: string;
   sizing: SizingFile;
   forward: MetricsForwardFile;
+  goal: GoalPlan;
 }) {
   const months = calendar.months;
   const [activeMonth, setActiveMonth] = useState(
@@ -86,6 +90,8 @@ export default function CalendarView({
           Daily PnL heat-map into saved day and week reviews. Every sync keeps history — weeks stack forever.
         </p>
       </header>
+
+      <GoalProgress goal={goal} />
 
       {currentWeek ? (
         <section className="score-card score-main cal-current-week">
