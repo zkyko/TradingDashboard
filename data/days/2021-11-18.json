@@ -1,0 +1,110 @@
+{
+  "id": "2021-11-18",
+  "date": "2021-11-18",
+  "label": "Thursday, Nov 18, 2021",
+  "weekday": "Thu",
+  "weekId": "2021-W46",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:03.681Z",
+  "realizedPnl": -6.143769000000003,
+  "tradeCount": 1,
+  "winCount": 0,
+  "lossCount": 1,
+  "processGrades": {
+    "A": 0,
+    "B": 0,
+    "C": 1
+  },
+  "metrics": {
+    "tradeCount": 1,
+    "winCount": 0,
+    "lossCount": 1,
+    "flatCount": 0,
+    "winRate": 0,
+    "winPct": 0,
+    "profitFactor": 0,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": -6.143769000000003,
+    "avgWin": null,
+    "avgLoss": -6.143769000000003,
+    "avgLossAbs": 6.143769000000003,
+    "grossWin": 0,
+    "grossLoss": -6.143769000000003,
+    "realizedPnl": -6.143769000000003,
+    "bestTrade": -6.143769000000003,
+    "worstTrade": -6.143769000000003,
+    "avgHoldMinutes": 31740.323016666665,
+    "equityCurve": [
+      {
+        "t": "2021-11-18T15:33:10.534Z",
+        "pnl": -6.143769000000003
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "METX",
+      "pnl": -6.143769000000003,
+      "trades": 1,
+      "wins": 0
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "METX",
+      "qty": 131,
+      "entryPrice": 0.476899,
+      "exitPrice": 0.43,
+      "pnl": -6.143769000000003,
+      "openedAt": "2021-10-27T14:32:51.153Z",
+      "closedAt": "2021-11-18T15:33:10.534Z",
+      "holdMinutes": 31740.323016666665,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "METX",
+      "qty": 131,
+      "entryPrice": 0.476899,
+      "exitPrice": 0.43,
+      "pnl": -6.143769000000003,
+      "openedAt": "2021-10-27T14:32:51.153Z",
+      "closedAt": "2021-11-18T15:33:10.534Z",
+      "holdMinutes": 31740.323016666665,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.046899000000000024,
+      "notional": 62.473769000000004,
+      "review": "overnight · 31740m · 0.05 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 1
+    },
+    "maxWin": 0,
+    "maxLoss": 1
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

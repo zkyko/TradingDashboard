@@ -1,0 +1,153 @@
+{
+  "id": "2026-06-30",
+  "date": "2026-06-30",
+  "label": "Tuesday, Jun 30, 2026",
+  "weekday": "Tue",
+  "weekId": "2026-W27",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:04.589Z",
+  "realizedPnl": 19.150000000000027,
+  "tradeCount": 2,
+  "winCount": 1,
+  "lossCount": 1,
+  "processGrades": {
+    "A": 0,
+    "B": 1,
+    "C": 1
+  },
+  "metrics": {
+    "tradeCount": 2,
+    "winCount": 1,
+    "lossCount": 1,
+    "flatCount": 0,
+    "winRate": 0.5,
+    "winPct": 50,
+    "profitFactor": 2.255737704918036,
+    "profitFactorInfinite": false,
+    "rewardRisk": 2.255737704918036,
+    "expectancy": 9.575000000000014,
+    "avgWin": 34.40000000000001,
+    "avgLoss": -15.249999999999986,
+    "avgLossAbs": 15.249999999999986,
+    "grossWin": 34.40000000000001,
+    "grossLoss": -15.249999999999986,
+    "realizedPnl": 19.150000000000027,
+    "bestTrade": 34.40000000000001,
+    "worstTrade": -15.249999999999986,
+    "avgHoldMinutes": 41603.163258333334,
+    "equityCurve": [
+      {
+        "t": "2026-06-30T13:27:04.787Z",
+        "pnl": 34.40000000000001
+      },
+      {
+        "t": "2026-06-30T13:27:25.709Z",
+        "pnl": 19.150000000000027
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "PSNL",
+      "pnl": 34.40000000000001,
+      "trades": 1,
+      "wins": 1
+    },
+    {
+      "ticker": "BULL",
+      "pnl": -15.249999999999986,
+      "trades": 1,
+      "wins": 0
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "PSNL",
+      "qty": 20,
+      "entryPrice": 11.67,
+      "exitPrice": 13.39,
+      "pnl": 34.40000000000001,
+      "openedAt": "2026-06-25T12:57:56.217Z",
+      "closedAt": "2026-06-30T13:27:04.787Z",
+      "holdMinutes": 7229.142833333333,
+      "overnight": true
+    },
+    {
+      "ticker": "BULL",
+      "qty": 50,
+      "entryPrice": 7.045,
+      "exitPrice": 6.74,
+      "pnl": -15.249999999999986,
+      "openedAt": "2026-05-08T19:10:14.688Z",
+      "closedAt": "2026-06-30T13:27:25.709Z",
+      "holdMinutes": 75977.18368333334,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "PSNL",
+      "qty": 20,
+      "entryPrice": 11.67,
+      "exitPrice": 13.39,
+      "pnl": 34.40000000000001,
+      "openedAt": "2026-06-25T12:57:56.217Z",
+      "closedAt": "2026-06-30T13:27:04.787Z",
+      "holdMinutes": 7229.142833333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 1.7200000000000006,
+      "notional": 233.4,
+      "review": "overnight · 7229m · 1.72 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "BULL",
+      "qty": 50,
+      "entryPrice": 7.045,
+      "exitPrice": 6.74,
+      "pnl": -15.249999999999986,
+      "openedAt": "2026-05-08T19:10:14.688Z",
+      "closedAt": "2026-06-30T13:27:25.709Z",
+      "holdMinutes": 75977.18368333334,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.3049999999999997,
+      "notional": 352.25,
+      "review": "overnight · 75977m · 0.30 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 1
+    },
+    "maxWin": 1,
+    "maxLoss": 1
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

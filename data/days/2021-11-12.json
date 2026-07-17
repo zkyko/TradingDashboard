@@ -1,0 +1,350 @@
+{
+  "id": "2021-11-12",
+  "date": "2021-11-12",
+  "label": "Friday, Nov 12, 2021",
+  "weekday": "Fri",
+  "weekId": "2021-W45",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:03.621Z",
+  "realizedPnl": -22.649134539999995,
+  "tradeCount": 7,
+  "winCount": 0,
+  "lossCount": 7,
+  "processGrades": {
+    "A": 0,
+    "B": 0,
+    "C": 7
+  },
+  "metrics": {
+    "tradeCount": 7,
+    "winCount": 0,
+    "lossCount": 7,
+    "flatCount": 0,
+    "winRate": 0,
+    "winPct": 0,
+    "profitFactor": 0,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": -3.235590648571428,
+    "avgWin": null,
+    "avgLoss": -3.235590648571428,
+    "avgLossAbs": 3.235590648571428,
+    "grossWin": 0,
+    "grossLoss": -22.649134539999995,
+    "realizedPnl": -22.649134539999995,
+    "bestTrade": -0.06318229499999997,
+    "worstTrade": -8.719511249999998,
+    "avgHoldMinutes": 18413.679861904762,
+    "equityCurve": [
+      {
+        "t": "2021-11-12T20:58:26.668839Z",
+        "pnl": -0.06318229499999997
+      },
+      {
+        "t": "2021-11-12T20:58:26.806Z",
+        "pnl": -5.967487454999997
+      },
+      {
+        "t": "2021-11-12T20:58:26.806Z",
+        "pnl": -6.042169654999997
+      },
+      {
+        "t": "2021-11-12T20:58:37.085Z",
+        "pnl": -6.4669367899999965
+      },
+      {
+        "t": "2021-11-12T20:58:37.085Z",
+        "pnl": -15.186448039999995
+      },
+      {
+        "t": "2021-11-12T20:58:37.085Z",
+        "pnl": -15.649134539999995
+      },
+      {
+        "t": "2021-11-12T20:58:37.085Z",
+        "pnl": -22.649134539999995
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "CPOP",
+      "pnl": -16.606964884999996,
+      "trades": 4,
+      "wins": 0
+    },
+    {
+      "ticker": "CIFR",
+      "pnl": -6.042169654999997,
+      "trades": 3,
+      "wins": 0
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "CIFR",
+      "qty": 0.042547,
+      "entryPrice": 9.895,
+      "exitPrice": 8.41,
+      "pnl": -0.06318229499999997,
+      "openedAt": "2021-11-01T19:53:47.214Z",
+      "closedAt": "2021-11-12T20:58:26.668839Z",
+      "holdMinutes": 15904.657566666667,
+      "overnight": true
+    },
+    {
+      "ticker": "CIFR",
+      "qty": 3.949368,
+      "entryPrice": 9.895,
+      "exitPrice": 8.4,
+      "pnl": -5.904305159999997,
+      "openedAt": "2021-11-01T19:53:47.214Z",
+      "closedAt": "2021-11-12T20:58:26.806Z",
+      "holdMinutes": 15904.659866666667,
+      "overnight": true
+    },
+    {
+      "ticker": "CIFR",
+      "qty": 0.05063199999999979,
+      "entryPrice": 9.875,
+      "exitPrice": 8.4,
+      "pnl": -0.07468219999999967,
+      "openedAt": "2021-11-01T19:53:47.140416Z",
+      "closedAt": "2021-11-12T20:58:26.806Z",
+      "holdMinutes": 15904.6611,
+      "overnight": true
+    },
+    {
+      "ticker": "CPOP",
+      "qty": 0.343941,
+      "entryPrice": 4.085,
+      "exitPrice": 2.85,
+      "pnl": -0.42476713499999996,
+      "openedAt": "2021-10-29T17:29:11.398742Z",
+      "closedAt": "2021-11-12T20:58:37.085Z",
+      "holdMinutes": 20369.428116666666,
+      "overnight": true
+    },
+    {
+      "ticker": "CPOP",
+      "qty": 6.975609,
+      "entryPrice": 4.1,
+      "exitPrice": 2.85,
+      "pnl": -8.719511249999998,
+      "openedAt": "2021-10-29T17:29:11.489Z",
+      "closedAt": "2021-11-12T20:58:37.085Z",
+      "holdMinutes": 20369.4266,
+      "overnight": true
+    },
+    {
+      "ticker": "CPOP",
+      "qty": 0.925373,
+      "entryPrice": 3.35,
+      "exitPrice": 2.85,
+      "pnl": -0.4626865,
+      "openedAt": "2021-10-29T19:57:09.284969Z",
+      "closedAt": "2021-11-12T20:58:37.085Z",
+      "holdMinutes": 20221.46335,
+      "overnight": true
+    },
+    {
+      "ticker": "CPOP",
+      "qty": 13.999999999999998,
+      "entryPrice": 3.35,
+      "exitPrice": 2.85,
+      "pnl": -6.999999999999999,
+      "openedAt": "2021-10-29T19:57:09.339Z",
+      "closedAt": "2021-11-12T20:58:37.085Z",
+      "holdMinutes": 20221.462433333334,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "CIFR",
+      "qty": 0.042547,
+      "entryPrice": 9.895,
+      "exitPrice": 8.41,
+      "pnl": -0.06318229499999997,
+      "openedAt": "2021-11-01T19:53:47.214Z",
+      "closedAt": "2021-11-12T20:58:26.668839Z",
+      "holdMinutes": 15904.657566666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 1.4849999999999994,
+      "notional": 0.421002565,
+      "review": "overnight · 15905m · 1.48 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "CIFR",
+      "qty": 3.949368,
+      "entryPrice": 9.895,
+      "exitPrice": 8.4,
+      "pnl": -5.904305159999997,
+      "openedAt": "2021-11-01T19:53:47.214Z",
+      "closedAt": "2021-11-12T20:58:26.806Z",
+      "holdMinutes": 15904.659866666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "size_up_after_loss"
+      ],
+      "movePts": 1.4949999999999992,
+      "notional": 39.07899636,
+      "review": "overnight · 15905m · 1.49 pts · Flags: overnight, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "CIFR",
+      "qty": 0.05063199999999979,
+      "entryPrice": 9.875,
+      "exitPrice": 8.4,
+      "pnl": -0.07468219999999967,
+      "openedAt": "2021-11-01T19:53:47.140416Z",
+      "closedAt": "2021-11-12T20:58:26.806Z",
+      "holdMinutes": 15904.6611,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak"
+      ],
+      "movePts": 1.4749999999999996,
+      "notional": 0.4999909999999979,
+      "review": "overnight · 15905m · 1.47 pts · Flags: overnight, after_loss_streak · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "CPOP",
+      "qty": 0.343941,
+      "entryPrice": 4.085,
+      "exitPrice": 2.85,
+      "pnl": -0.42476713499999996,
+      "openedAt": "2021-10-29T17:29:11.398742Z",
+      "closedAt": "2021-11-12T20:58:37.085Z",
+      "holdMinutes": 20369.428116666666,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "size_up_after_loss"
+      ],
+      "movePts": 1.2349999999999999,
+      "notional": 1.404998985,
+      "review": "overnight · 20369m · 1.23 pts · Flags: overnight, after_loss_streak, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "CPOP",
+      "qty": 6.975609,
+      "entryPrice": 4.1,
+      "exitPrice": 2.85,
+      "pnl": -8.719511249999998,
+      "openedAt": "2021-10-29T17:29:11.489Z",
+      "closedAt": "2021-11-12T20:58:37.085Z",
+      "holdMinutes": 20369.4266,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 1.2499999999999996,
+      "notional": 28.5999969,
+      "review": "overnight · 20369m · 1.25 pts · Flags: overnight, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "CPOP",
+      "qty": 0.925373,
+      "entryPrice": 3.35,
+      "exitPrice": 2.85,
+      "pnl": -0.4626865,
+      "openedAt": "2021-10-29T19:57:09.284969Z",
+      "closedAt": "2021-11-12T20:58:37.085Z",
+      "holdMinutes": 20221.46335,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 0.5,
+      "notional": 3.09999955,
+      "review": "overnight · 20221m · 0.50 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "CPOP",
+      "qty": 13.999999999999998,
+      "entryPrice": 3.35,
+      "exitPrice": 2.85,
+      "pnl": -6.999999999999999,
+      "openedAt": "2021-10-29T19:57:09.339Z",
+      "closedAt": "2021-11-12T20:58:37.085Z",
+      "holdMinutes": 20221.462433333334,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 0.5,
+      "notional": 46.9,
+      "review": "overnight · 20221m · 0.50 pts · Flags: overnight, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    }
+  ],
+  "tilt": {
+    "state": "cooling_off",
+    "score": 70,
+    "reasons": [
+      "Loss streak ×7"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 7
+    },
+    "maxWin": 0,
+    "maxLoss": 7
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

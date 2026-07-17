@@ -1,0 +1,193 @@
+{
+  "id": "2021-W04",
+  "label": "Jan 25 – Jan 29, 2021",
+  "start": "2021-01-25",
+  "end": "2021-02-01",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:08.060Z",
+  "realizedPnl": 116.13499109559997,
+  "tradeCount": 11,
+  "winCount": 10,
+  "lossCount": 1,
+  "priorWeekPnl": 4.44189999999999,
+  "metrics": {
+    "tradeCount": 11,
+    "winCount": 10,
+    "lossCount": 1,
+    "flatCount": 0,
+    "winRate": 0.9090909090909091,
+    "winPct": 90.9090909090909,
+    "profitFactor": 443.76462311190875,
+    "profitFactorInfinite": false,
+    "rewardRisk": 44.37646231119088,
+    "expectancy": 10.557726463236362,
+    "avgWin": 11.639728619559998,
+    "avgLoss": -0.262295099999999,
+    "avgLossAbs": 0.262295099999999,
+    "grossWin": 116.39728619559997,
+    "grossLoss": -0.262295099999999,
+    "realizedPnl": 116.13499109559997,
+    "bestTrade": 57.500399999999985,
+    "worstTrade": -0.262295099999999,
+    "avgHoldMinutes": 31035.898298484844,
+    "equityCurve": [
+      {
+        "t": "2021-01-26T19:40:29.548Z",
+        "pnl": 18.045
+      },
+      {
+        "t": "2021-01-27T15:17:31.669Z",
+        "pnl": 25.422049
+      },
+      {
+        "t": "2021-01-27T15:17:31.669Z",
+        "pnl": 25.159753900000002
+      },
+      {
+        "t": "2021-01-27T16:22:26.964698Z",
+        "pnl": 28.6023973432
+      },
+      {
+        "t": "2021-01-27T19:52:02.786926Z",
+        "pnl": 32.9839273432
+      },
+      {
+        "t": "2021-01-27T19:52:02.886Z",
+        "pnl": 90.4843273432
+      },
+      {
+        "t": "2021-01-27T19:53:13.26899Z",
+        "pnl": 90.7753479532
+      },
+      {
+        "t": "2021-01-27T19:53:13.26899Z",
+        "pnl": 102.04134371319999
+      },
+      {
+        "t": "2021-01-27T19:53:13.391Z",
+        "pnl": 103.61309237079999
+      },
+      {
+        "t": "2021-01-27T19:53:13.391Z",
+        "pnl": 109.31909109559999
+      },
+      {
+        "t": "2021-01-29T20:14:24.107Z",
+        "pnl": 116.13499109559999
+      }
+    ]
+  },
+  "soxlMetrics": {
+    "tradeCount": 0,
+    "winCount": 0,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": null,
+    "winPct": null,
+    "profitFactor": null,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": null,
+    "avgWin": null,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0,
+    "grossLoss": 0,
+    "realizedPnl": 0,
+    "bestTrade": null,
+    "worstTrade": null,
+    "avgHoldMinutes": null,
+    "equityCurve": []
+  },
+  "days": [
+    {
+      "date": "2021-01-25",
+      "label": "Mon",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-01-26",
+      "label": "Tue",
+      "pnl": 18.045,
+      "trades": 1
+    },
+    {
+      "date": "2021-01-27",
+      "label": "Wed",
+      "pnl": 91.27409109559997,
+      "trades": 9
+    },
+    {
+      "date": "2021-01-28",
+      "label": "Thu",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-01-29",
+      "label": "Fri",
+      "pnl": 6.815899999999999,
+      "trades": 1
+    }
+  ],
+  "byTicker": [
+    {
+      "ticker": "JMIA",
+      "pnl": 61.88192999999998,
+      "trades": 2,
+      "wins": 2
+    },
+    {
+      "ticker": "NIO",
+      "pnl": 18.834763752399997,
+      "trades": 4,
+      "wins": 4
+    },
+    {
+      "ticker": "CCIV",
+      "pnl": 18.045,
+      "trades": 1,
+      "wins": 1
+    },
+    {
+      "ticker": "SOS",
+      "pnl": 7.114753900000001,
+      "trades": 2,
+      "wins": 1
+    },
+    {
+      "ticker": "GME",
+      "pnl": 6.815899999999999,
+      "trades": 1,
+      "wins": 1
+    },
+    {
+      "ticker": "ARKQ",
+      "pnl": 3.442643443199997,
+      "trades": 1,
+      "wins": 1
+    }
+  ],
+  "tilt": {
+    "state": "on_streak",
+    "score": 40,
+    "reasons": [
+      "Win streak ×8"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 8
+    },
+    "maxWin": 8,
+    "maxLoss": 1
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "mistakes": [],
+  "openNotes": []
+}

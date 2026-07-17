@@ -1,0 +1,186 @@
+{
+  "id": "2021-09-09",
+  "date": "2021-09-09",
+  "label": "Thursday, Sep 9, 2021",
+  "weekday": "Thu",
+  "weekId": "2021-W36",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:03.400Z",
+  "realizedPnl": -33.340775833,
+  "tradeCount": 3,
+  "winCount": 0,
+  "lossCount": 3,
+  "processGrades": {
+    "A": 0,
+    "B": 0,
+    "C": 3
+  },
+  "metrics": {
+    "tradeCount": 3,
+    "winCount": 0,
+    "lossCount": 3,
+    "flatCount": 0,
+    "winRate": 0,
+    "winPct": 0,
+    "profitFactor": 0,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": -11.113591944333335,
+    "avgWin": null,
+    "avgLoss": -11.113591944333335,
+    "avgLossAbs": 11.113591944333335,
+    "grossWin": 0,
+    "grossLoss": -33.340775833,
+    "realizedPnl": -33.340775833,
+    "bestTrade": -0.6709043200000001,
+    "worstTrade": -19.607944861799997,
+    "avgHoldMinutes": 303797.3087722222,
+    "equityCurve": [
+      {
+        "t": "2021-09-09T14:45:03.341Z",
+        "pnl": -19.607944861799997
+      },
+      {
+        "t": "2021-09-09T14:45:03.341Z",
+        "pnl": -20.2788491818
+      },
+      {
+        "t": "2021-09-09T14:45:03.341Z",
+        "pnl": -33.340775833
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "GEVO",
+      "pnl": -33.340775833,
+      "trades": 3,
+      "wins": 0
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "GEVO",
+      "qty": 2.9203259999999998,
+      "entryPrice": 14.2343,
+      "exitPrice": 7.52,
+      "pnl": -19.607944861799997,
+      "openedAt": "2021-02-10T15:22:00.911Z",
+      "closedAt": "2021-09-09T14:45:03.341Z",
+      "holdMinutes": 303803.0405,
+      "overnight": true
+    },
+    {
+      "ticker": "GEVO",
+      "qty": 0.102272,
+      "entryPrice": 14.08,
+      "exitPrice": 7.52,
+      "pnl": -0.6709043200000001,
+      "openedAt": "2021-02-10T15:30:36.657048Z",
+      "closedAt": "2021-09-09T14:45:03.341Z",
+      "holdMinutes": 303794.4447333333,
+      "overnight": true
+    },
+    {
+      "ticker": "GEVO",
+      "qty": 1.9774020000000003,
+      "entryPrice": 14.1256,
+      "exitPrice": 7.52,
+      "pnl": -13.061926651200004,
+      "openedAt": "2021-02-10T15:30:36.876Z",
+      "closedAt": "2021-09-09T14:45:03.341Z",
+      "holdMinutes": 303794.44108333334,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "GEVO",
+      "qty": 2.9203259999999998,
+      "entryPrice": 14.2343,
+      "exitPrice": 7.52,
+      "pnl": -19.607944861799997,
+      "openedAt": "2021-02-10T15:22:00.911Z",
+      "closedAt": "2021-09-09T14:45:03.341Z",
+      "holdMinutes": 303803.0405,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 6.7143,
+      "notional": 41.56879638179999,
+      "review": "overnight · 303803m · 6.71 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "GEVO",
+      "qty": 0.102272,
+      "entryPrice": 14.08,
+      "exitPrice": 7.52,
+      "pnl": -0.6709043200000001,
+      "openedAt": "2021-02-10T15:30:36.657048Z",
+      "closedAt": "2021-09-09T14:45:03.341Z",
+      "holdMinutes": 303794.4447333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 6.5600000000000005,
+      "notional": 1.43998976,
+      "review": "overnight · 303794m · 6.56 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "GEVO",
+      "qty": 1.9774020000000003,
+      "entryPrice": 14.1256,
+      "exitPrice": 7.52,
+      "pnl": -13.061926651200004,
+      "openedAt": "2021-02-10T15:30:36.876Z",
+      "closedAt": "2021-09-09T14:45:03.341Z",
+      "holdMinutes": 303794.44108333334,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "size_up_after_loss"
+      ],
+      "movePts": 6.605600000000001,
+      "notional": 27.931989691200005,
+      "review": "overnight · 303794m · 6.61 pts · Flags: overnight, after_loss_streak, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    }
+  ],
+  "tilt": {
+    "state": "cooling_off",
+    "score": 60,
+    "reasons": [
+      "Loss streak ×3"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 3
+    },
+    "maxWin": 0,
+    "maxLoss": 3
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

@@ -1,0 +1,110 @@
+{
+  "id": "2021-01-20",
+  "date": "2021-01-20",
+  "label": "Wednesday, Jan 20, 2021",
+  "weekday": "Wed",
+  "weekId": "2021-W03",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:02.708Z",
+  "realizedPnl": 4.44189999999999,
+  "tradeCount": 1,
+  "winCount": 1,
+  "lossCount": 0,
+  "processGrades": {
+    "A": 0,
+    "B": 1,
+    "C": 0
+  },
+  "metrics": {
+    "tradeCount": 1,
+    "winCount": 1,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": 1,
+    "winPct": 100,
+    "profitFactor": null,
+    "profitFactorInfinite": true,
+    "rewardRisk": null,
+    "expectancy": 4.44189999999999,
+    "avgWin": 4.44189999999999,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 4.44189999999999,
+    "grossLoss": 0,
+    "realizedPnl": 4.44189999999999,
+    "bestTrade": 4.44189999999999,
+    "worstTrade": 4.44189999999999,
+    "avgHoldMinutes": 11434.70695,
+    "equityCurve": [
+      {
+        "t": "2021-01-20T18:01:03.137Z",
+        "pnl": 4.44189999999999
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "ARKQ",
+      "pnl": 4.44189999999999,
+      "trades": 1,
+      "wins": 1
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "ARKQ",
+      "qty": 1,
+      "entryPrice": 85.5631,
+      "exitPrice": 90.005,
+      "pnl": 4.44189999999999,
+      "openedAt": "2021-01-12T19:26:20.72Z",
+      "closedAt": "2021-01-20T18:01:03.137Z",
+      "holdMinutes": 11434.70695,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "ARKQ",
+      "qty": 1,
+      "entryPrice": 85.5631,
+      "exitPrice": 90.005,
+      "pnl": 4.44189999999999,
+      "openedAt": "2021-01-12T19:26:20.72Z",
+      "closedAt": "2021-01-20T18:01:03.137Z",
+      "holdMinutes": 11434.70695,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 4.44189999999999,
+      "notional": 85.5631,
+      "review": "overnight · 11435m · 4.44 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 1
+    },
+    "maxWin": 1,
+    "maxLoss": 0
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

@@ -1,0 +1,475 @@
+{
+  "id": "2026-07-17",
+  "date": "2026-07-17",
+  "label": "Friday, Jul 17, 2026",
+  "weekday": "Fri",
+  "weekId": "2026-W29",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:04.819Z",
+  "realizedPnl": 382.86800000000005,
+  "tradeCount": 10,
+  "winCount": 7,
+  "lossCount": 3,
+  "processGrades": {
+    "A": 5,
+    "B": 3,
+    "C": 2
+  },
+  "metrics": {
+    "tradeCount": 10,
+    "winCount": 7,
+    "lossCount": 3,
+    "flatCount": 0,
+    "winRate": 0.7,
+    "winPct": 70,
+    "profitFactor": 13.142204744386635,
+    "profitFactorInfinite": false,
+    "rewardRisk": 5.632373461879986,
+    "expectancy": 38.28680000000001,
+    "avgWin": 59.20000000000001,
+    "avgLoss": -10.510666666666685,
+    "avgLossAbs": 10.510666666666685,
+    "grossWin": 414.4000000000001,
+    "grossLoss": -31.532000000000053,
+    "realizedPnl": 382.86800000000005,
+    "bestTrade": 109.20000000000016,
+    "worstTrade": -22.40000000000009,
+    "avgHoldMinutes": 70.48189166666667,
+    "equityCurve": [
+      {
+        "t": "2026-07-17T12:45:15.993Z",
+        "pnl": -22.40000000000009
+      },
+      {
+        "t": "2026-07-17T13:28:20.8Z",
+        "pnl": -28.400000000000105
+      },
+      {
+        "t": "2026-07-17T13:54:02.343Z",
+        "pnl": -7.500000000000071
+      },
+      {
+        "t": "2026-07-17T14:01:03.134Z",
+        "pnl": 40.74999999999996
+      },
+      {
+        "t": "2026-07-17T14:01:03.134Z",
+        "pnl": 100.74999999999996
+      },
+      {
+        "t": "2026-07-17T14:10:29.956Z",
+        "pnl": 190.74999999999994
+      },
+      {
+        "t": "2026-07-17T15:25:17.203Z",
+        "pnl": 190.84999999999985
+      },
+      {
+        "t": "2026-07-17T15:29:12.523Z",
+        "pnl": 187.7179999999999
+      },
+      {
+        "t": "2026-07-17T15:56:25.613Z",
+        "pnl": 273.6679999999999
+      },
+      {
+        "t": "2026-07-17T16:16:04.407Z",
+        "pnl": 382.86800000000005
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "SOXL",
+      "pnl": 414.4000000000001,
+      "trades": 7,
+      "wins": 7
+    },
+    {
+      "ticker": "NUGT",
+      "pnl": -22.40000000000009,
+      "trades": 1,
+      "wins": 0
+    },
+    {
+      "ticker": "AAPU",
+      "pnl": -6.000000000000014,
+      "trades": 1,
+      "wins": 0
+    },
+    {
+      "ticker": "SOXS",
+      "pnl": -3.131999999999948,
+      "trades": 1,
+      "wins": 0
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "NUGT",
+      "qty": 20,
+      "entryPrice": 102.72,
+      "exitPrice": 101.6,
+      "pnl": -22.40000000000009,
+      "openedAt": "2026-07-17T04:45:34.007Z",
+      "closedAt": "2026-07-17T12:45:15.993Z",
+      "holdMinutes": 479.6997666666667,
+      "overnight": false
+    },
+    {
+      "ticker": "AAPU",
+      "qty": 10,
+      "entryPrice": 45.97,
+      "exitPrice": 45.37,
+      "pnl": -6.000000000000014,
+      "openedAt": "2026-07-17T12:37:39.987Z",
+      "closedAt": "2026-07-17T13:28:20.8Z",
+      "holdMinutes": 50.68021666666667,
+      "overnight": false
+    },
+    {
+      "ticker": "SOXL",
+      "qty": 5,
+      "entryPrice": 120.35,
+      "exitPrice": 124.53,
+      "pnl": 20.900000000000034,
+      "openedAt": "2026-07-17T13:38:27.79Z",
+      "closedAt": "2026-07-17T13:54:02.343Z",
+      "holdMinutes": 15.575883333333334,
+      "overnight": false
+    },
+    {
+      "ticker": "SOXL",
+      "qty": 5,
+      "entryPrice": 120.35,
+      "exitPrice": 130,
+      "pnl": 48.25000000000003,
+      "openedAt": "2026-07-17T13:38:27.79Z",
+      "closedAt": "2026-07-17T14:01:03.134Z",
+      "holdMinutes": 22.589066666666668,
+      "overnight": false
+    },
+    {
+      "ticker": "SOXL",
+      "qty": 5,
+      "entryPrice": 118,
+      "exitPrice": 130,
+      "pnl": 60,
+      "openedAt": "2026-07-17T13:42:04.359Z",
+      "closedAt": "2026-07-17T14:01:03.134Z",
+      "holdMinutes": 18.979583333333334,
+      "overnight": false
+    },
+    {
+      "ticker": "SOXL",
+      "qty": 5,
+      "entryPrice": 118,
+      "exitPrice": 136,
+      "pnl": 90,
+      "openedAt": "2026-07-17T13:42:04.359Z",
+      "closedAt": "2026-07-17T14:10:29.956Z",
+      "holdMinutes": 28.426616666666668,
+      "overnight": false
+    },
+    {
+      "ticker": "SOXL",
+      "qty": 10,
+      "entryPrice": 129.05,
+      "exitPrice": 129.06,
+      "pnl": 0.09999999999990905,
+      "openedAt": "2026-07-17T15:11:05.158Z",
+      "closedAt": "2026-07-17T15:25:17.203Z",
+      "holdMinutes": 14.20075,
+      "overnight": false
+    },
+    {
+      "ticker": "SOXS",
+      "qty": 20,
+      "entryPrice": 56.71,
+      "exitPrice": 56.5534,
+      "pnl": -3.131999999999948,
+      "openedAt": "2026-07-17T15:26:24.555Z",
+      "closedAt": "2026-07-17T15:29:12.523Z",
+      "holdMinutes": 2.7994666666666665,
+      "overnight": false
+    },
+    {
+      "ticker": "SOXL",
+      "qty": 10,
+      "entryPrice": 130.45,
+      "exitPrice": 139.045,
+      "pnl": 85.94999999999999,
+      "openedAt": "2026-07-17T15:30:18.983Z",
+      "closedAt": "2026-07-17T15:56:25.613Z",
+      "holdMinutes": 26.1105,
+      "overnight": false
+    },
+    {
+      "ticker": "SOXL",
+      "qty": 10,
+      "entryPrice": 130.45,
+      "exitPrice": 141.37,
+      "pnl": 109.20000000000016,
+      "openedAt": "2026-07-17T15:30:18.983Z",
+      "closedAt": "2026-07-17T16:16:04.407Z",
+      "holdMinutes": 45.75706666666667,
+      "overnight": false
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "NUGT",
+      "qty": 20,
+      "entryPrice": 102.72,
+      "exitPrice": 101.6,
+      "pnl": -22.40000000000009,
+      "openedAt": "2026-07-17T04:45:34.007Z",
+      "closedAt": "2026-07-17T12:45:15.993Z",
+      "holdMinutes": 479.6997666666667,
+      "overnight": false,
+      "holdBucket": "over_60m",
+      "grade": "A",
+      "flags": [
+        "gave_room"
+      ],
+      "movePts": 1.1200000000000045,
+      "notional": 2054.4,
+      "review": "over 60m · 480m · 1.12 pts · Flags: gave_room · Held past noise. Matches your positive-EV hold window.",
+      "whatWorked": "Held past noise. Matches your positive-EV hold window.",
+      "whatFailed": "",
+      "nextTime": "Repeat only if entry/invalidation were written first."
+    },
+    {
+      "ticker": "AAPU",
+      "qty": 10,
+      "entryPrice": 45.97,
+      "exitPrice": 45.37,
+      "pnl": -6.000000000000014,
+      "openedAt": "2026-07-17T12:37:39.987Z",
+      "closedAt": "2026-07-17T13:28:20.8Z",
+      "holdMinutes": 50.68021666666667,
+      "overnight": false,
+      "holdBucket": "m15_60",
+      "grade": "B",
+      "flags": [],
+      "movePts": 0.6000000000000014,
+      "notional": 459.7,
+      "review": "m15 60 · 51m · 0.60 pts · Valid hold window; loss is cost of doing business if stop was planned.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "Repeat only if entry/invalidation were written first."
+    },
+    {
+      "ticker": "SOXL",
+      "qty": 5,
+      "entryPrice": 120.35,
+      "exitPrice": 124.53,
+      "pnl": 20.900000000000034,
+      "openedAt": "2026-07-17T13:38:27.79Z",
+      "closedAt": "2026-07-17T13:54:02.343Z",
+      "holdMinutes": 15.575883333333334,
+      "overnight": false,
+      "holdBucket": "m15_60",
+      "grade": "C",
+      "flags": [
+        "gave_room",
+        "after_loss_streak",
+        "size_up_after_loss"
+      ],
+      "movePts": 4.180000000000007,
+      "notional": 601.75,
+      "review": "m15 60 · 16m · 4.18 pts · Flags: gave_room, after_loss_streak, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "Held through noise.",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "SOXL",
+      "qty": 5,
+      "entryPrice": 120.35,
+      "exitPrice": 130,
+      "pnl": 48.25000000000003,
+      "openedAt": "2026-07-17T13:38:27.79Z",
+      "closedAt": "2026-07-17T14:01:03.134Z",
+      "holdMinutes": 22.589066666666668,
+      "overnight": false,
+      "holdBucket": "m15_60",
+      "grade": "A",
+      "flags": [
+        "gave_room"
+      ],
+      "movePts": 9.650000000000006,
+      "notional": 601.75,
+      "review": "m15 60 · 23m · 9.65 pts · Flags: gave_room · Held past noise. Matches your positive-EV hold window.",
+      "whatWorked": "Held past noise. Matches your positive-EV hold window.",
+      "whatFailed": "",
+      "nextTime": "Repeat only if entry/invalidation were written first."
+    },
+    {
+      "ticker": "SOXL",
+      "qty": 5,
+      "entryPrice": 118,
+      "exitPrice": 130,
+      "pnl": 60,
+      "openedAt": "2026-07-17T13:42:04.359Z",
+      "closedAt": "2026-07-17T14:01:03.134Z",
+      "holdMinutes": 18.979583333333334,
+      "overnight": false,
+      "holdBucket": "m15_60",
+      "grade": "A",
+      "flags": [
+        "gave_room",
+        "high_frequency_day"
+      ],
+      "movePts": 12,
+      "notional": 590,
+      "review": "m15 60 · 19m · 12.00 pts · Flags: gave_room, high_frequency_day · Held past noise. Matches your positive-EV hold window.",
+      "whatWorked": "Held past noise. Matches your positive-EV hold window.",
+      "whatFailed": "",
+      "nextTime": "Repeat only if entry/invalidation were written first."
+    },
+    {
+      "ticker": "SOXL",
+      "qty": 5,
+      "entryPrice": 118,
+      "exitPrice": 136,
+      "pnl": 90,
+      "openedAt": "2026-07-17T13:42:04.359Z",
+      "closedAt": "2026-07-17T14:10:29.956Z",
+      "holdMinutes": 28.426616666666668,
+      "overnight": false,
+      "holdBucket": "m15_60",
+      "grade": "A",
+      "flags": [
+        "gave_room",
+        "high_frequency_day"
+      ],
+      "movePts": 18,
+      "notional": 590,
+      "review": "m15 60 · 28m · 18.00 pts · Flags: gave_room, high_frequency_day · Held past noise. Matches your positive-EV hold window.",
+      "whatWorked": "Held past noise. Matches your positive-EV hold window.",
+      "whatFailed": "",
+      "nextTime": "Repeat only if entry/invalidation were written first."
+    },
+    {
+      "ticker": "SOXL",
+      "qty": 10,
+      "entryPrice": 129.05,
+      "exitPrice": 129.06,
+      "pnl": 0.09999999999990905,
+      "openedAt": "2026-07-17T15:11:05.158Z",
+      "closedAt": "2026-07-17T15:25:17.203Z",
+      "holdMinutes": 14.20075,
+      "overnight": false,
+      "holdBucket": "sub_15m",
+      "grade": "B",
+      "flags": [
+        "fast_win",
+        "high_frequency_day"
+      ],
+      "movePts": 0.009999999999990905,
+      "notional": 1290.5,
+      "review": "sub 15m · 14m · 0.01 pts · Flags: fast_win, high_frequency_day · Neutral process.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "Default to ≥15m hold or stand down — your sub-15m sample is negative EV."
+    },
+    {
+      "ticker": "SOXS",
+      "qty": 20,
+      "entryPrice": 56.71,
+      "exitPrice": 56.5534,
+      "pnl": -3.131999999999948,
+      "openedAt": "2026-07-17T15:26:24.555Z",
+      "closedAt": "2026-07-17T15:29:12.523Z",
+      "holdMinutes": 2.7994666666666665,
+      "overnight": false,
+      "holdBucket": "sub_15m",
+      "grade": "B",
+      "flags": [
+        "losing_scratch",
+        "high_frequency_day"
+      ],
+      "movePts": 0.1565999999999974,
+      "notional": 1134.2,
+      "review": "sub 15m · 3m · 0.16 pts · Flags: losing_scratch, high_frequency_day · Neutral process.",
+      "whatWorked": "",
+      "whatFailed": "Scratch/chop — no edge proven.",
+      "nextTime": "Default to ≥15m hold or stand down — your sub-15m sample is negative EV."
+    },
+    {
+      "ticker": "SOXL",
+      "qty": 10,
+      "entryPrice": 130.45,
+      "exitPrice": 139.045,
+      "pnl": 85.94999999999999,
+      "openedAt": "2026-07-17T15:30:18.983Z",
+      "closedAt": "2026-07-17T15:56:25.613Z",
+      "holdMinutes": 26.1105,
+      "overnight": false,
+      "holdBucket": "m15_60",
+      "grade": "C",
+      "flags": [
+        "gave_room",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 8.594999999999999,
+      "notional": 1304.5,
+      "review": "m15 60 · 26m · 8.59 pts · Flags: gave_room, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "Held through noise.",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "SOXL",
+      "qty": 10,
+      "entryPrice": 130.45,
+      "exitPrice": 141.37,
+      "pnl": 109.20000000000016,
+      "openedAt": "2026-07-17T15:30:18.983Z",
+      "closedAt": "2026-07-17T16:16:04.407Z",
+      "holdMinutes": 45.75706666666667,
+      "overnight": false,
+      "holdBucket": "m15_60",
+      "grade": "A",
+      "flags": [
+        "gave_room",
+        "high_frequency_day"
+      ],
+      "movePts": 10.920000000000016,
+      "notional": 1304.5,
+      "review": "m15 60 · 46m · 10.92 pts · Flags: gave_room, high_frequency_day · Held past noise. Matches your positive-EV hold window.",
+      "whatWorked": "Held past noise. Matches your positive-EV hold window.",
+      "whatFailed": "",
+      "nextTime": "Repeat only if entry/invalidation were written first."
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 2
+    },
+    "maxWin": 5,
+    "maxLoss": 2
+  },
+  "keep": [
+    "Bounce ladders on SOXL weakness",
+    "Let winners develop past 15m"
+  ],
+  "stop": [
+    "Overnight junk after emotional SOXL days"
+  ],
+  "improve": [
+    "Two-loss morning kill switch"
+  ],
+  "lesson": "Friday bounce recovered SOXL week; overnight CONL still the real damage.",
+  "notes": ""
+}

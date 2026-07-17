@@ -1,0 +1,208 @@
+{
+  "id": "2021-W21",
+  "label": "May 24 – May 28, 2021",
+  "start": "2021-05-24",
+  "end": "2021-05-31",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:07.631Z",
+  "realizedPnl": -91.86282625159997,
+  "tradeCount": 16,
+  "winCount": 2,
+  "lossCount": 14,
+  "priorWeekPnl": -11.194499999999996,
+  "metrics": {
+    "tradeCount": 16,
+    "winCount": 2,
+    "lossCount": 14,
+    "flatCount": 0,
+    "winRate": 0.125,
+    "winPct": 12.5,
+    "profitFactor": 0.006065387125646616,
+    "profitFactorInfinite": false,
+    "rewardRisk": 0.042457709879526316,
+    "expectancy": -5.741426640724998,
+    "avgWin": 0.2802918805999977,
+    "avgLoss": -6.601672143771426,
+    "avgLossAbs": 6.601672143771426,
+    "grossWin": 0.5605837611999954,
+    "grossLoss": -92.42341001279996,
+    "realizedPnl": -91.86282625159997,
+    "bestTrade": 0.4747372811999957,
+    "worstTrade": -36.873200000000004,
+    "avgHoldMinutes": 148322.29670729168,
+    "equityCurve": [
+      {
+        "t": "2021-05-26T13:36:20.114Z",
+        "pnl": -3.7420550915999793
+      },
+      {
+        "t": "2021-05-26T13:36:20.114Z",
+        "pnl": -5.31263905159998
+      },
+      {
+        "t": "2021-05-26T13:36:20.114Z",
+        "pnl": -13.7230511516
+      },
+      {
+        "t": "2021-05-26T13:36:42.866Z",
+        "pnl": -15.293751151599999
+      },
+      {
+        "t": "2021-05-26T14:07:24.345Z",
+        "pnl": -28.078767923399965
+      },
+      {
+        "t": "2021-05-26T14:07:24.345Z",
+        "pnl": -28.079786032799966
+      },
+      {
+        "t": "2021-05-26T16:14:14.947661Z",
+        "pnl": -27.60504875159997
+      },
+      {
+        "t": "2021-05-26T16:14:14.947661Z",
+        "pnl": -27.51920227159997
+      },
+      {
+        "t": "2021-05-28T14:43:01.661Z",
+        "pnl": -29.38011923209997
+      },
+      {
+        "t": "2021-05-28T14:43:01.661Z",
+        "pnl": -29.39800458089997
+      },
+      {
+        "t": "2021-05-28T14:43:01.661Z",
+        "pnl": -35.29577057489997
+      },
+      {
+        "t": "2021-05-28T14:43:01.661Z",
+        "pnl": -72.16897057489997
+      },
+      {
+        "t": "2021-05-28T14:43:01.661Z",
+        "pnl": -77.42429926159997
+      },
+      {
+        "t": "2021-05-28T15:54:47.243307Z",
+        "pnl": -78.02291774159997
+      },
+      {
+        "t": "2021-05-28T15:54:47.312Z",
+        "pnl": -78.03865402159997
+      },
+      {
+        "t": "2021-05-28T15:54:47.312Z",
+        "pnl": -91.86282625159997
+      }
+    ]
+  },
+  "soxlMetrics": {
+    "tradeCount": 0,
+    "winCount": 0,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": null,
+    "winPct": null,
+    "profitFactor": null,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": null,
+    "avgWin": null,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0,
+    "grossLoss": 0,
+    "realizedPnl": 0,
+    "bestTrade": null,
+    "worstTrade": null,
+    "avgHoldMinutes": null,
+    "equityCurve": []
+  },
+  "days": [
+    {
+      "date": "2021-05-24",
+      "label": "Mon",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-05-25",
+      "label": "Tue",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-05-26",
+      "label": "Wed",
+      "pnl": -27.51920227159997,
+      "trades": 8
+    },
+    {
+      "date": "2021-05-27",
+      "label": "Thu",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-05-28",
+      "label": "Fri",
+      "pnl": -64.34362398,
+      "trades": 8
+    }
+  ],
+  "byTicker": [
+    {
+      "ticker": "BB",
+      "pnl": -49.90509699000001,
+      "trades": 5,
+      "wins": 0
+    },
+    {
+      "ticker": "HEXO",
+      "pnl": -14.438526989999996,
+      "trades": 3,
+      "wins": 0
+    },
+    {
+      "ticker": "OCGN",
+      "pnl": -13.7230511516,
+      "trades": 3,
+      "wins": 0
+    },
+    {
+      "ticker": "TSLA",
+      "pnl": -12.22545111999997,
+      "trades": 4,
+      "wins": 2
+    },
+    {
+      "ticker": "BBBYQ",
+      "pnl": -1.5706999999999987,
+      "trades": 1,
+      "wins": 0
+    }
+  ],
+  "tilt": {
+    "state": "overnight_hungover",
+    "score": 80,
+    "reasons": [
+      "Loss streak ×8",
+      "Overnight PnL $-92"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 8
+    },
+    "maxWin": 2,
+    "maxLoss": 8
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "mistakes": [],
+  "openNotes": []
+}

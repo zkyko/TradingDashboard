@@ -1,0 +1,110 @@
+{
+  "id": "2026-07-13",
+  "date": "2026-07-13",
+  "label": "Monday, Jul 13, 2026",
+  "weekday": "Mon",
+  "weekId": "2026-W29",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:04.719Z",
+  "realizedPnl": -87.92500000000004,
+  "tradeCount": 1,
+  "winCount": 0,
+  "lossCount": 1,
+  "processGrades": {
+    "A": 1,
+    "B": 0,
+    "C": 0
+  },
+  "metrics": {
+    "tradeCount": 1,
+    "winCount": 0,
+    "lossCount": 1,
+    "flatCount": 0,
+    "winRate": 0,
+    "winPct": 0,
+    "profitFactor": 0,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": -87.92500000000004,
+    "avgWin": null,
+    "avgLoss": -87.92500000000004,
+    "avgLossAbs": 87.92500000000004,
+    "grossWin": 0,
+    "grossLoss": -87.92500000000004,
+    "realizedPnl": -87.92500000000004,
+    "bestTrade": -87.92500000000004,
+    "worstTrade": -87.92500000000004,
+    "avgHoldMinutes": 996.7894,
+    "equityCurve": [
+      {
+        "t": "2026-07-13T19:13:27.001Z",
+        "pnl": -87.92500000000004
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "SOXL",
+      "pnl": -87.92500000000004,
+      "trades": 1,
+      "wins": 0
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "SOXL",
+      "qty": 5,
+      "entryPrice": 180.49,
+      "exitPrice": 162.905,
+      "pnl": -87.92500000000004,
+      "openedAt": "2026-07-13T02:36:39.637Z",
+      "closedAt": "2026-07-13T19:13:27.001Z",
+      "holdMinutes": 996.7894,
+      "overnight": false
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "SOXL",
+      "qty": 5,
+      "entryPrice": 180.49,
+      "exitPrice": 162.905,
+      "pnl": -87.92500000000004,
+      "openedAt": "2026-07-13T02:36:39.637Z",
+      "closedAt": "2026-07-13T19:13:27.001Z",
+      "holdMinutes": 996.7894,
+      "overnight": false,
+      "holdBucket": "over_60m",
+      "grade": "A",
+      "flags": [
+        "gave_room"
+      ],
+      "movePts": 17.585000000000008,
+      "notional": 902.45,
+      "review": "over 60m · 997m · 17.59 pts · Flags: gave_room · Held past noise. Matches your positive-EV hold window.",
+      "whatWorked": "Held past noise. Matches your positive-EV hold window.",
+      "whatFailed": "",
+      "nextTime": "Repeat only if entry/invalidation were written first."
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 1
+    },
+    "maxWin": 0,
+    "maxLoss": 1
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

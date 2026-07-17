@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+  <key>Label</key><string>com.thesis-loop.watchlist-hourly</string>
+  <key>ProgramArguments</key><array>
+    <string>/usr/local/bin/node</string>
+    <string>/Users/zk/Trading/scripts/hourly-watchlist-refresh.mjs</string>
+  </array>
+  <key>WorkingDirectory</key><string>/Users/zk/Trading</string>
+  <key>EnvironmentVariables</key><dict>
+    <key>THESIS_LOOP_URL</key><string>http://127.0.0.1:3000</string>
+    <key>SYNC_SECRET</key><string>change-me</string>
+  </dict>
+  <key>StartInterval</key><integer>3600</integer>
+  <key>StandardOutPath</key><string>/tmp/thesis-loop-watchlist-hourly.log</string>
+  <key>StandardErrorPath</key><string>/tmp/thesis-loop-watchlist-hourly-error.log</string>
+</dict></plist>

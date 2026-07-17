@@ -1,0 +1,227 @@
+{
+  "id": "2021-01-12",
+  "date": "2021-01-12",
+  "label": "Tuesday, Jan 12, 2021",
+  "weekday": "Tue",
+  "weekId": "2021-W02",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:02.646Z",
+  "realizedPnl": 846.5742000000001,
+  "tradeCount": 4,
+  "winCount": 4,
+  "lossCount": 0,
+  "processGrades": {
+    "A": 0,
+    "B": 4,
+    "C": 0
+  },
+  "metrics": {
+    "tradeCount": 4,
+    "winCount": 4,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": 1,
+    "winPct": 100,
+    "profitFactor": null,
+    "profitFactorInfinite": true,
+    "rewardRisk": null,
+    "expectancy": 211.64355000000003,
+    "avgWin": 211.64355000000003,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 846.5742000000001,
+    "grossLoss": 0,
+    "realizedPnl": 846.5742000000001,
+    "bestTrade": 834.3280000000001,
+    "worstTrade": 1.3114,
+    "avgHoldMinutes": 9661.2574625,
+    "equityCurve": [
+      {
+        "t": "2021-01-12T14:30:00.162Z",
+        "pnl": 1.3114
+      },
+      {
+        "t": "2021-01-12T14:53:24.391Z",
+        "pnl": 835.6394000000001
+      },
+      {
+        "t": "2021-01-12T14:53:24.391Z",
+        "pnl": 837.4632000000001
+      },
+      {
+        "t": "2021-01-12T15:25:10.831Z",
+        "pnl": 846.5742000000001
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "ZOMDF",
+      "pnl": 837.4632000000001,
+      "trades": 3,
+      "wins": 3
+    },
+    {
+      "ticker": "WKHS",
+      "pnl": 9.111000000000004,
+      "trades": 1,
+      "wins": 1
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "ZOMDF",
+      "qty": 2,
+      "entryPrice": 0.4843,
+      "exitPrice": 1.14,
+      "pnl": 1.3114,
+      "openedAt": "2021-01-05T16:13:45.962Z",
+      "closedAt": "2021-01-12T14:30:00.162Z",
+      "holdMinutes": 9976.236666666666,
+      "overnight": true
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 998,
+      "entryPrice": 0.4843,
+      "exitPrice": 1.3203,
+      "pnl": 834.3280000000001,
+      "openedAt": "2021-01-05T16:13:45.962Z",
+      "closedAt": "2021-01-12T14:53:24.391Z",
+      "holdMinutes": 9999.640483333333,
+      "overnight": true
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 2,
+      "entryPrice": 0.4084,
+      "exitPrice": 1.3203,
+      "pnl": 1.8238,
+      "openedAt": "2021-01-07T14:39:39.222Z",
+      "closedAt": "2021-01-12T14:53:24.391Z",
+      "holdMinutes": 7213.752816666667,
+      "overnight": true
+    },
+    {
+      "ticker": "WKHS",
+      "qty": 2,
+      "entryPrice": 20.5795,
+      "exitPrice": 25.135,
+      "pnl": 9.111000000000004,
+      "openedAt": "2021-01-04T16:29:46.838Z",
+      "closedAt": "2021-01-12T15:25:10.831Z",
+      "holdMinutes": 11455.399883333333,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "ZOMDF",
+      "qty": 2,
+      "entryPrice": 0.4843,
+      "exitPrice": 1.14,
+      "pnl": 1.3114,
+      "openedAt": "2021-01-05T16:13:45.962Z",
+      "closedAt": "2021-01-12T14:30:00.162Z",
+      "holdMinutes": 9976.236666666666,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.6557,
+      "notional": 0.9686,
+      "review": "overnight · 9976m · 0.66 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 998,
+      "entryPrice": 0.4843,
+      "exitPrice": 1.3203,
+      "pnl": 834.3280000000001,
+      "openedAt": "2021-01-05T16:13:45.962Z",
+      "closedAt": "2021-01-12T14:53:24.391Z",
+      "holdMinutes": 9999.640483333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.8360000000000001,
+      "notional": 483.33140000000003,
+      "review": "overnight · 10000m · 0.84 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 2,
+      "entryPrice": 0.4084,
+      "exitPrice": 1.3203,
+      "pnl": 1.8238,
+      "openedAt": "2021-01-07T14:39:39.222Z",
+      "closedAt": "2021-01-12T14:53:24.391Z",
+      "holdMinutes": 7213.752816666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.9119,
+      "notional": 0.8168,
+      "review": "overnight · 7214m · 0.91 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "WKHS",
+      "qty": 2,
+      "entryPrice": 20.5795,
+      "exitPrice": 25.135,
+      "pnl": 9.111000000000004,
+      "openedAt": "2021-01-04T16:29:46.838Z",
+      "closedAt": "2021-01-12T15:25:10.831Z",
+      "holdMinutes": 11455.399883333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 4.555500000000002,
+      "notional": 41.159,
+      "review": "overnight · 11455m · 4.56 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "on_streak",
+    "score": 32,
+    "reasons": [
+      "Win streak ×4"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 4
+    },
+    "maxWin": 4,
+    "maxLoss": 0
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

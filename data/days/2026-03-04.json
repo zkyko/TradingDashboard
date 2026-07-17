@@ -1,0 +1,186 @@
+{
+  "id": "2026-03-04",
+  "date": "2026-03-04",
+  "label": "Wednesday, Mar 4, 2026",
+  "weekday": "Wed",
+  "weekId": "2026-W10",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:04.355Z",
+  "realizedPnl": -6.196294977599995,
+  "tradeCount": 3,
+  "winCount": 0,
+  "lossCount": 3,
+  "processGrades": {
+    "A": 0,
+    "B": 0,
+    "C": 3
+  },
+  "metrics": {
+    "tradeCount": 3,
+    "winCount": 0,
+    "lossCount": 3,
+    "flatCount": 0,
+    "winRate": 0,
+    "winPct": 0,
+    "profitFactor": 0,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": -2.0654316591999984,
+    "avgWin": null,
+    "avgLoss": -2.0654316591999984,
+    "avgLossAbs": 2.0654316591999984,
+    "grossWin": 0,
+    "grossLoss": -6.196294977599995,
+    "realizedPnl": -6.196294977599995,
+    "bestTrade": -0.3330021135999997,
+    "worstTrade": -5.480597886399995,
+    "avgHoldMinutes": 37193.118116666665,
+    "equityCurve": [
+      {
+        "t": "2026-03-04T15:32:07.337Z",
+        "pnl": -0.38269497759999965
+      },
+      {
+        "t": "2026-03-04T15:32:07.337Z",
+        "pnl": -5.863292863999995
+      },
+      {
+        "t": "2026-03-04T15:32:07.337Z",
+        "pnl": -6.196294977599995
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "UA",
+      "pnl": -6.196294977599995,
+      "trades": 3,
+      "wins": 0
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "UA",
+      "qty": 0.855758,
+      "entryPrice": 7.2086,
+      "exitPrice": 6.7614,
+      "pnl": -0.38269497759999965,
+      "openedAt": "2026-02-06T19:39:00.25Z",
+      "closedAt": "2026-03-04T15:32:07.337Z",
+      "holdMinutes": 37193.118116666665,
+      "overnight": true
+    },
+    {
+      "ticker": "UA",
+      "qty": 12.255362,
+      "entryPrice": 7.2086,
+      "exitPrice": 6.7614,
+      "pnl": -5.480597886399995,
+      "openedAt": "2026-02-06T19:39:00.25Z",
+      "closedAt": "2026-03-04T15:32:07.337Z",
+      "holdMinutes": 37193.118116666665,
+      "overnight": true
+    },
+    {
+      "ticker": "UA",
+      "qty": 0.744638,
+      "entryPrice": 7.2086,
+      "exitPrice": 6.7614,
+      "pnl": -0.3330021135999997,
+      "openedAt": "2026-02-06T19:39:00.25Z",
+      "closedAt": "2026-03-04T15:32:07.337Z",
+      "holdMinutes": 37193.118116666665,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "UA",
+      "qty": 0.855758,
+      "entryPrice": 7.2086,
+      "exitPrice": 6.7614,
+      "pnl": -0.38269497759999965,
+      "openedAt": "2026-02-06T19:39:00.25Z",
+      "closedAt": "2026-03-04T15:32:07.337Z",
+      "holdMinutes": 37193.118116666665,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.4471999999999996,
+      "notional": 6.1688171188,
+      "review": "overnight · 37193m · 0.45 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "UA",
+      "qty": 12.255362,
+      "entryPrice": 7.2086,
+      "exitPrice": 6.7614,
+      "pnl": -5.480597886399995,
+      "openedAt": "2026-02-06T19:39:00.25Z",
+      "closedAt": "2026-03-04T15:32:07.337Z",
+      "holdMinutes": 37193.118116666665,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "size_up_after_loss"
+      ],
+      "movePts": 0.4471999999999996,
+      "notional": 88.3440025132,
+      "review": "overnight · 37193m · 0.45 pts · Flags: overnight, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "UA",
+      "qty": 0.744638,
+      "entryPrice": 7.2086,
+      "exitPrice": 6.7614,
+      "pnl": -0.3330021135999997,
+      "openedAt": "2026-02-06T19:39:00.25Z",
+      "closedAt": "2026-03-04T15:32:07.337Z",
+      "holdMinutes": 37193.118116666665,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak"
+      ],
+      "movePts": 0.4471999999999996,
+      "notional": 5.3677974868,
+      "review": "overnight · 37193m · 0.45 pts · Flags: overnight, after_loss_streak · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "cooling_off",
+    "score": 60,
+    "reasons": [
+      "Loss streak ×3"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 3
+    },
+    "maxWin": 0,
+    "maxLoss": 3
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

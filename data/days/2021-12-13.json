@@ -1,0 +1,264 @@
+{
+  "id": "2021-12-13",
+  "date": "2021-12-13",
+  "label": "Monday, Dec 13, 2021",
+  "weekday": "Mon",
+  "weekId": "2021-W50",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:03.732Z",
+  "realizedPnl": -2501.649402861,
+  "tradeCount": 5,
+  "winCount": 0,
+  "lossCount": 5,
+  "processGrades": {
+    "A": 0,
+    "B": 0,
+    "C": 5
+  },
+  "metrics": {
+    "tradeCount": 5,
+    "winCount": 0,
+    "lossCount": 5,
+    "flatCount": 0,
+    "winRate": 0,
+    "winPct": 0,
+    "profitFactor": 0,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": -500.3298805722,
+    "avgWin": null,
+    "avgLoss": -500.3298805722,
+    "avgLossAbs": 500.3298805722,
+    "grossWin": 0,
+    "grossLoss": -2501.649402861,
+    "realizedPnl": -2501.649402861,
+    "bestTrade": -6.6407254650000045,
+    "worstTrade": -934.6740000000001,
+    "avgHoldMinutes": 109009.20915333333,
+    "equityCurve": [
+      {
+        "t": "2021-12-13T15:25:18.852Z",
+        "pnl": -934.6740000000001
+      },
+      {
+        "t": "2021-12-13T15:25:18.852Z",
+        "pnl": -1571.0429932470001
+      },
+      {
+        "t": "2021-12-13T15:25:18.852Z",
+        "pnl": -2395.2631327560002
+      },
+      {
+        "t": "2021-12-13T15:25:18.852Z",
+        "pnl": -2495.008677396
+      },
+      {
+        "t": "2021-12-13T15:25:18.852Z",
+        "pnl": -2501.649402861
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "AMC",
+      "pnl": -2501.649402861,
+      "trades": 5,
+      "wins": 0
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "AMC",
+      "qty": 46,
+      "entryPrice": 43.929,
+      "exitPrice": 23.61,
+      "pnl": -934.6740000000001,
+      "openedAt": "2021-08-24T19:08:41.834Z",
+      "closedAt": "2021-12-13T15:25:18.852Z",
+      "holdMinutes": 159616.61696666665,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 31.318913,
+      "entryPrice": 43.929,
+      "exitPrice": 23.61,
+      "pnl": -636.368993247,
+      "openedAt": "2021-08-24T19:08:41.834Z",
+      "closedAt": "2021-12-13T15:25:18.852Z",
+      "holdMinutes": 159616.61696666665,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 40.564010999999994,
+      "entryPrice": 43.929,
+      "exitPrice": 23.61,
+      "pnl": -824.220139509,
+      "openedAt": "2021-08-24T19:08:41.834Z",
+      "closedAt": "2021-12-13T15:25:18.852Z",
+      "holdMinutes": 159616.61696666665,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 8.481764,
+      "entryPrice": 35.37,
+      "exitPrice": 23.61,
+      "pnl": -99.74554463999998,
+      "openedAt": "2021-10-28T16:18:46.167Z",
+      "closedAt": "2021-12-13T15:25:18.852Z",
+      "holdMinutes": 66186.54475,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 3.954225,
+      "entryPrice": 25.2894,
+      "exitPrice": 23.61,
+      "pnl": -6.6407254650000045,
+      "openedAt": "2021-12-13T15:15:39.845Z",
+      "closedAt": "2021-12-13T15:25:18.852Z",
+      "holdMinutes": 9.650116666666667,
+      "overnight": false
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "AMC",
+      "qty": 46,
+      "entryPrice": 43.929,
+      "exitPrice": 23.61,
+      "pnl": -934.6740000000001,
+      "openedAt": "2021-08-24T19:08:41.834Z",
+      "closedAt": "2021-12-13T15:25:18.852Z",
+      "holdMinutes": 159616.61696666665,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 20.319000000000003,
+      "notional": 2020.7340000000002,
+      "review": "overnight · 159617m · 20.32 pts · Flags: overnight · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 31.318913,
+      "entryPrice": 43.929,
+      "exitPrice": 23.61,
+      "pnl": -636.368993247,
+      "openedAt": "2021-08-24T19:08:41.834Z",
+      "closedAt": "2021-12-13T15:25:18.852Z",
+      "holdMinutes": 159616.61696666665,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 20.319000000000003,
+      "notional": 1375.808529177,
+      "review": "overnight · 159617m · 20.32 pts · Flags: overnight · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 40.564010999999994,
+      "entryPrice": 43.929,
+      "exitPrice": 23.61,
+      "pnl": -824.220139509,
+      "openedAt": "2021-08-24T19:08:41.834Z",
+      "closedAt": "2021-12-13T15:25:18.852Z",
+      "holdMinutes": 159616.61696666665,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "size_up_after_loss"
+      ],
+      "movePts": 20.319000000000003,
+      "notional": 1781.9364392189998,
+      "review": "overnight · 159617m · 20.32 pts · Flags: overnight, after_loss_streak, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 8.481764,
+      "entryPrice": 35.37,
+      "exitPrice": 23.61,
+      "pnl": -99.74554463999998,
+      "openedAt": "2021-10-28T16:18:46.167Z",
+      "closedAt": "2021-12-13T15:25:18.852Z",
+      "holdMinutes": 66186.54475,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak"
+      ],
+      "movePts": 11.759999999999998,
+      "notional": 299.99999268,
+      "review": "overnight · 66187m · 11.76 pts · Flags: overnight, after_loss_streak · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 3.954225,
+      "entryPrice": 25.2894,
+      "exitPrice": 23.61,
+      "pnl": -6.6407254650000045,
+      "openedAt": "2021-12-13T15:15:39.845Z",
+      "closedAt": "2021-12-13T15:25:18.852Z",
+      "holdMinutes": 9.650116666666667,
+      "overnight": false,
+      "holdBucket": "sub_15m",
+      "grade": "C",
+      "flags": [
+        "losing_scratch",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 1.6794000000000011,
+      "notional": 99.999977715,
+      "review": "sub 15m · 10m · 1.68 pts · Flags: losing_scratch, after_loss_streak, high_frequency_day · Chop after losses — consistency cost, not information.",
+      "whatWorked": "",
+      "whatFailed": "Chop after losses — consistency cost, not information.",
+      "nextTime": "Default to ≥15m hold or stand down — your sub-15m sample is negative EV."
+    }
+  ],
+  "tilt": {
+    "state": "overnight_hungover",
+    "score": 80,
+    "reasons": [
+      "Loss streak ×5",
+      "Overnight PnL $-2495"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 5
+    },
+    "maxWin": 0,
+    "maxLoss": 5
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

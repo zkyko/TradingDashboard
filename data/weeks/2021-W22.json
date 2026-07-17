@@ -1,0 +1,123 @@
+{
+  "id": "2021-W22",
+  "label": "May 31 – Jun 4, 2021",
+  "start": "2021-05-31",
+  "end": "2021-06-07",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:07.587Z",
+  "realizedPnl": -0.3748957601999979,
+  "tradeCount": 1,
+  "winCount": 0,
+  "lossCount": 1,
+  "priorWeekPnl": -91.86282625159997,
+  "metrics": {
+    "tradeCount": 1,
+    "winCount": 0,
+    "lossCount": 1,
+    "flatCount": 0,
+    "winRate": 0,
+    "winPct": 0,
+    "profitFactor": 0,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": -0.3748957601999979,
+    "avgWin": null,
+    "avgLoss": -0.3748957601999979,
+    "avgLossAbs": 0.3748957601999979,
+    "grossWin": 0,
+    "grossLoss": -0.3748957601999979,
+    "realizedPnl": -0.3748957601999979,
+    "bestTrade": -0.3748957601999979,
+    "worstTrade": -0.3748957601999979,
+    "avgHoldMinutes": 119506.79706666667,
+    "equityCurve": [
+      {
+        "t": "2021-06-01T17:39:36.099151Z",
+        "pnl": -0.3748957601999979
+      }
+    ]
+  },
+  "soxlMetrics": {
+    "tradeCount": 0,
+    "winCount": 0,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": null,
+    "winPct": null,
+    "profitFactor": null,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": null,
+    "avgWin": null,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0,
+    "grossLoss": 0,
+    "realizedPnl": 0,
+    "bestTrade": null,
+    "worstTrade": null,
+    "avgHoldMinutes": null,
+    "equityCurve": []
+  },
+  "days": [
+    {
+      "date": "2021-05-31",
+      "label": "Mon",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-06-01",
+      "label": "Tue",
+      "pnl": -0.3748957601999979,
+      "trades": 1
+    },
+    {
+      "date": "2021-06-02",
+      "label": "Wed",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-06-03",
+      "label": "Thu",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-06-04",
+      "label": "Fri",
+      "pnl": 0,
+      "trades": 0
+    }
+  ],
+  "byTicker": [
+    {
+      "ticker": "GME",
+      "pnl": -0.3748957601999979,
+      "trades": 1,
+      "wins": 0
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 1
+    },
+    "maxWin": 0,
+    "maxLoss": 1
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "mistakes": [],
+  "openNotes": []
+}

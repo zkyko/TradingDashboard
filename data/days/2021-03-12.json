@@ -1,0 +1,110 @@
+{
+  "id": "2021-03-12",
+  "date": "2021-03-12",
+  "label": "Friday, Mar 12, 2021",
+  "weekday": "Fri",
+  "weekId": "2021-W10",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:03.086Z",
+  "realizedPnl": -5.100000000000001,
+  "tradeCount": 1,
+  "winCount": 0,
+  "lossCount": 1,
+  "processGrades": {
+    "A": 0,
+    "B": 0,
+    "C": 1
+  },
+  "metrics": {
+    "tradeCount": 1,
+    "winCount": 0,
+    "lossCount": 1,
+    "flatCount": 0,
+    "winRate": 0,
+    "winPct": 0,
+    "profitFactor": 0,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": -5.100000000000001,
+    "avgWin": null,
+    "avgLoss": -5.100000000000001,
+    "avgLossAbs": 5.100000000000001,
+    "grossWin": 0,
+    "grossLoss": -5.100000000000001,
+    "realizedPnl": -5.100000000000001,
+    "bestTrade": -5.100000000000001,
+    "worstTrade": -5.100000000000001,
+    "avgHoldMinutes": 1328.0087333333333,
+    "equityCurve": [
+      {
+        "t": "2021-03-12T18:01:06.207Z",
+        "pnl": -5.100000000000001
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "CPNG",
+      "pnl": -5.100000000000001,
+      "trades": 1,
+      "wins": 0
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "CPNG",
+      "qty": 1,
+      "entryPrice": 53.63,
+      "exitPrice": 48.53,
+      "pnl": -5.100000000000001,
+      "openedAt": "2021-03-11T19:53:05.683Z",
+      "closedAt": "2021-03-12T18:01:06.207Z",
+      "holdMinutes": 1328.0087333333333,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "CPNG",
+      "qty": 1,
+      "entryPrice": 53.63,
+      "exitPrice": 48.53,
+      "pnl": -5.100000000000001,
+      "openedAt": "2021-03-11T19:53:05.683Z",
+      "closedAt": "2021-03-12T18:01:06.207Z",
+      "holdMinutes": 1328.0087333333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 5.100000000000001,
+      "notional": 53.63,
+      "review": "overnight · 1328m · 5.10 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 1
+    },
+    "maxWin": 0,
+    "maxLoss": 1
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

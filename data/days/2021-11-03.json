@@ -1,0 +1,310 @@
+{
+  "id": "2021-11-03",
+  "date": "2021-11-03",
+  "label": "Wednesday, Nov 3, 2021",
+  "weekday": "Wed",
+  "weekId": "2021-W44",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:03.602Z",
+  "realizedPnl": -270.79370409579974,
+  "tradeCount": 6,
+  "winCount": 0,
+  "lossCount": 6,
+  "processGrades": {
+    "A": 0,
+    "B": 1,
+    "C": 5
+  },
+  "metrics": {
+    "tradeCount": 6,
+    "winCount": 0,
+    "lossCount": 6,
+    "flatCount": 0,
+    "winRate": 0,
+    "winPct": 0,
+    "profitFactor": 0,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": -45.132284015966626,
+    "avgWin": null,
+    "avgLoss": -45.132284015966626,
+    "avgLossAbs": 45.132284015966626,
+    "grossWin": 0,
+    "grossLoss": -270.79370409579974,
+    "realizedPnl": -270.79370409579974,
+    "bestTrade": -0.024638011199999962,
+    "worstTrade": -140.29999006099976,
+    "avgHoldMinutes": 85040.58096666668,
+    "equityCurve": [
+      {
+        "t": "2021-11-03T14:01:41.48Z",
+        "pnl": -39.25949546999996
+      },
+      {
+        "t": "2021-11-03T15:54:52.206Z",
+        "pnl": -39.28413348119996
+      },
+      {
+        "t": "2021-11-03T15:54:52.206Z",
+        "pnl": -179.58412354219973
+      },
+      {
+        "t": "2021-11-03T15:54:52.206Z",
+        "pnl": -182.72352354219973
+      },
+      {
+        "t": "2021-11-03T15:54:52.206Z",
+        "pnl": -185.88192354219973
+      },
+      {
+        "t": "2021-11-03T15:54:52.206Z",
+        "pnl": -270.79370409579974
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "AMC",
+      "pnl": -231.5342086257998,
+      "trades": 5,
+      "wins": 0
+    },
+    {
+      "ticker": "OCGN",
+      "pnl": -39.25949546999996,
+      "trades": 1,
+      "wins": 0
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "OCGN",
+      "qty": 31.918289,
+      "entryPrice": 15.665,
+      "exitPrice": 14.435,
+      "pnl": -39.25949546999996,
+      "openedAt": "2021-11-03T13:49:04.212Z",
+      "closedAt": "2021-11-03T14:01:41.48Z",
+      "holdMinutes": 12.621133333333333,
+      "overnight": false
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.007848,
+      "entryPrice": 43.91,
+      "exitPrice": 40.7706,
+      "pnl": -0.024638011199999962,
+      "openedAt": "2021-08-24T19:08:41.827Z",
+      "closedAt": "2021-11-03T15:54:52.206Z",
+      "holdMinutes": 102046.17298333334,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 44.690065,
+      "entryPrice": 43.91,
+      "exitPrice": 40.7706,
+      "pnl": -140.29999006099976,
+      "openedAt": "2021-08-24T19:08:41.827Z",
+      "closedAt": "2021-11-03T15:54:52.206Z",
+      "holdMinutes": 102046.17298333334,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 1,
+      "entryPrice": 43.91,
+      "exitPrice": 40.7706,
+      "pnl": -3.139399999999995,
+      "openedAt": "2021-08-24T19:08:41.827Z",
+      "closedAt": "2021-11-03T15:54:52.206Z",
+      "holdMinutes": 102046.17298333334,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 1,
+      "entryPrice": 43.929,
+      "exitPrice": 40.7706,
+      "pnl": -3.1584000000000003,
+      "openedAt": "2021-08-24T19:08:41.835Z",
+      "closedAt": "2021-11-03T15:54:52.206Z",
+      "holdMinutes": 102046.17285,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 26.884429000000004,
+      "entryPrice": 43.929,
+      "exitPrice": 40.7706,
+      "pnl": -84.91178055360002,
+      "openedAt": "2021-08-24T19:08:41.834Z",
+      "closedAt": "2021-11-03T15:54:52.206Z",
+      "holdMinutes": 102046.17286666666,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "OCGN",
+      "qty": 31.918289,
+      "entryPrice": 15.665,
+      "exitPrice": 14.435,
+      "pnl": -39.25949546999996,
+      "openedAt": "2021-11-03T13:49:04.212Z",
+      "closedAt": "2021-11-03T14:01:41.48Z",
+      "holdMinutes": 12.621133333333333,
+      "overnight": false,
+      "holdBucket": "sub_15m",
+      "grade": "B",
+      "flags": [
+        "losing_scratch"
+      ],
+      "movePts": 1.2299999999999986,
+      "notional": 499.999997185,
+      "review": "sub 15m · 13m · 1.23 pts · Flags: losing_scratch · Neutral process.",
+      "whatWorked": "",
+      "whatFailed": "Scratch/chop — no edge proven.",
+      "nextTime": "Default to ≥15m hold or stand down — your sub-15m sample is negative EV."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.007848,
+      "entryPrice": 43.91,
+      "exitPrice": 40.7706,
+      "pnl": -0.024638011199999962,
+      "openedAt": "2021-08-24T19:08:41.827Z",
+      "closedAt": "2021-11-03T15:54:52.206Z",
+      "holdMinutes": 102046.17298333334,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 3.139399999999995,
+      "notional": 0.34460568,
+      "review": "overnight · 102046m · 3.14 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 44.690065,
+      "entryPrice": 43.91,
+      "exitPrice": 40.7706,
+      "pnl": -140.29999006099976,
+      "openedAt": "2021-08-24T19:08:41.827Z",
+      "closedAt": "2021-11-03T15:54:52.206Z",
+      "holdMinutes": 102046.17298333334,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "size_up_after_loss"
+      ],
+      "movePts": 3.139399999999995,
+      "notional": 1962.3407541499996,
+      "review": "overnight · 102046m · 3.14 pts · Flags: overnight, after_loss_streak, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 1,
+      "entryPrice": 43.91,
+      "exitPrice": 40.7706,
+      "pnl": -3.139399999999995,
+      "openedAt": "2021-08-24T19:08:41.827Z",
+      "closedAt": "2021-11-03T15:54:52.206Z",
+      "holdMinutes": 102046.17298333334,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak"
+      ],
+      "movePts": 3.139399999999995,
+      "notional": 43.91,
+      "review": "overnight · 102046m · 3.14 pts · Flags: overnight, after_loss_streak · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 1,
+      "entryPrice": 43.929,
+      "exitPrice": 40.7706,
+      "pnl": -3.1584000000000003,
+      "openedAt": "2021-08-24T19:08:41.835Z",
+      "closedAt": "2021-11-03T15:54:52.206Z",
+      "holdMinutes": 102046.17285,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 3.1584000000000003,
+      "notional": 43.929,
+      "review": "overnight · 102046m · 3.16 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 26.884429000000004,
+      "entryPrice": 43.929,
+      "exitPrice": 40.7706,
+      "pnl": -84.91178055360002,
+      "openedAt": "2021-08-24T19:08:41.834Z",
+      "closedAt": "2021-11-03T15:54:52.206Z",
+      "holdMinutes": 102046.17286666666,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 3.1584000000000003,
+      "notional": 1181.0060815410002,
+      "review": "overnight · 102046m · 3.16 pts · Flags: overnight, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    }
+  ],
+  "tilt": {
+    "state": "overnight_hungover",
+    "score": 80,
+    "reasons": [
+      "Loss streak ×6",
+      "Overnight PnL $-232"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 6
+    },
+    "maxWin": 0,
+    "maxLoss": 6
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

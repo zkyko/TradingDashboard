@@ -1,0 +1,123 @@
+{
+  "id": "2022-W29",
+  "label": "Jul 18 – Jul 22, 2022",
+  "start": "2022-07-18",
+  "end": "2022-07-25",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:06.454Z",
+  "realizedPnl": -8.713205267000003,
+  "tradeCount": 1,
+  "winCount": 0,
+  "lossCount": 1,
+  "priorWeekPnl": 36.21740163859991,
+  "metrics": {
+    "tradeCount": 1,
+    "winCount": 0,
+    "lossCount": 1,
+    "flatCount": 0,
+    "winRate": 0,
+    "winPct": 0,
+    "profitFactor": 0,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": -8.713205267000003,
+    "avgWin": null,
+    "avgLoss": -8.713205267000003,
+    "avgLossAbs": 8.713205267000003,
+    "grossWin": 0,
+    "grossLoss": -8.713205267000003,
+    "realizedPnl": -8.713205267000003,
+    "bestTrade": -8.713205267000003,
+    "worstTrade": -8.713205267000003,
+    "avgHoldMinutes": 7070.867966666667,
+    "equityCurve": [
+      {
+        "t": "2022-07-19T15:52:36.069Z",
+        "pnl": -8.713205267000003
+      }
+    ]
+  },
+  "soxlMetrics": {
+    "tradeCount": 0,
+    "winCount": 0,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": null,
+    "winPct": null,
+    "profitFactor": null,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": null,
+    "avgWin": null,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0,
+    "grossLoss": 0,
+    "realizedPnl": 0,
+    "bestTrade": null,
+    "worstTrade": null,
+    "avgHoldMinutes": null,
+    "equityCurve": []
+  },
+  "days": [
+    {
+      "date": "2022-07-18",
+      "label": "Mon",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2022-07-19",
+      "label": "Tue",
+      "pnl": -8.713205267000003,
+      "trades": 1
+    },
+    {
+      "date": "2022-07-20",
+      "label": "Wed",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2022-07-21",
+      "label": "Thu",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2022-07-22",
+      "label": "Fri",
+      "pnl": 0,
+      "trades": 0
+    }
+  ],
+  "byTicker": [
+    {
+      "ticker": "GOEV",
+      "pnl": -8.713205267000003,
+      "trades": 1,
+      "wins": 0
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 1
+    },
+    "maxWin": 0,
+    "maxLoss": 1
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "mistakes": [],
+  "openNotes": []
+}

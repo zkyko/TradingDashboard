@@ -1,0 +1,189 @@
+{
+  "id": "2021-W02",
+  "label": "Jan 11 – Jan 15, 2021",
+  "start": "2021-01-11",
+  "end": "2021-01-18",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:08.138Z",
+  "realizedPnl": 864.5066550747001,
+  "tradeCount": 10,
+  "winCount": 10,
+  "lossCount": 0,
+  "priorWeekPnl": 385.9408935,
+  "metrics": {
+    "tradeCount": 10,
+    "winCount": 10,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": 1,
+    "winPct": 100,
+    "profitFactor": null,
+    "profitFactorInfinite": true,
+    "rewardRisk": null,
+    "expectancy": 86.45066550747,
+    "avgWin": 86.45066550747,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 864.5066550747001,
+    "grossLoss": 0,
+    "realizedPnl": 864.5066550747001,
+    "bestTrade": 834.3280000000001,
+    "worstTrade": 0.0016612580999997729,
+    "avgHoldMinutes": 9248.999908333331,
+    "equityCurve": [
+      {
+        "t": "2021-01-11T15:36:36.422Z",
+        "pnl": 10.471000000000004
+      },
+      {
+        "t": "2021-01-12T14:30:00.162Z",
+        "pnl": 11.782400000000003
+      },
+      {
+        "t": "2021-01-12T14:53:24.391Z",
+        "pnl": 846.1104000000001
+      },
+      {
+        "t": "2021-01-12T14:53:24.391Z",
+        "pnl": 847.9342000000001
+      },
+      {
+        "t": "2021-01-12T15:25:10.831Z",
+        "pnl": 857.0452000000001
+      },
+      {
+        "t": "2021-01-14T18:27:48.274Z",
+        "pnl": 859.9171000000001
+      },
+      {
+        "t": "2021-01-14T19:00:06.363Z",
+        "pnl": 860.0073000000001
+      },
+      {
+        "t": "2021-01-15T14:38:32.040833Z",
+        "pnl": 862.7127331266001
+      },
+      {
+        "t": "2021-01-15T14:38:32.040833Z",
+        "pnl": 862.7143943847001
+      },
+      {
+        "t": "2021-01-15T14:41:19.297Z",
+        "pnl": 864.5066550747001
+      }
+    ]
+  },
+  "soxlMetrics": {
+    "tradeCount": 0,
+    "winCount": 0,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": null,
+    "winPct": null,
+    "profitFactor": null,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": null,
+    "avgWin": null,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0,
+    "grossLoss": 0,
+    "realizedPnl": 0,
+    "bestTrade": null,
+    "worstTrade": null,
+    "avgHoldMinutes": null,
+    "equityCurve": []
+  },
+  "days": [
+    {
+      "date": "2021-01-11",
+      "label": "Mon",
+      "pnl": 10.471000000000004,
+      "trades": 1
+    },
+    {
+      "date": "2021-01-12",
+      "label": "Tue",
+      "pnl": 846.5742000000001,
+      "trades": 4
+    },
+    {
+      "date": "2021-01-13",
+      "label": "Wed",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-01-14",
+      "label": "Thu",
+      "pnl": 2.962099999999997,
+      "trades": 2
+    },
+    {
+      "date": "2021-01-15",
+      "label": "Fri",
+      "pnl": 4.49935507470006,
+      "trades": 3
+    }
+  ],
+  "byTicker": [
+    {
+      "ticker": "ZOMDF",
+      "pnl": 837.4632000000001,
+      "trades": 3,
+      "wins": 3
+    },
+    {
+      "ticker": "WKHS",
+      "pnl": 19.582000000000008,
+      "trades": 2,
+      "wins": 2
+    },
+    {
+      "ticker": "ARKQ",
+      "pnl": 2.8718999999999966,
+      "trades": 1,
+      "wins": 1
+    },
+    {
+      "ticker": "TSLA",
+      "pnl": 2.7070943847000595,
+      "trades": 2,
+      "wins": 2
+    },
+    {
+      "ticker": "FRSX",
+      "pnl": 1.7922606900000002,
+      "trades": 1,
+      "wins": 1
+    },
+    {
+      "ticker": "KOPN",
+      "pnl": 0.09020000000000028,
+      "trades": 1,
+      "wins": 1
+    }
+  ],
+  "tilt": {
+    "state": "on_streak",
+    "score": 40,
+    "reasons": [
+      "Win streak ×10"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 10
+    },
+    "maxWin": 10,
+    "maxLoss": 0
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "mistakes": [],
+  "openNotes": []
+}

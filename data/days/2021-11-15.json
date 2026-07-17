@@ -1,0 +1,186 @@
+{
+  "id": "2021-11-15",
+  "date": "2021-11-15",
+  "label": "Monday, Nov 15, 2021",
+  "weekday": "Mon",
+  "weekId": "2021-W46",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:03.638Z",
+  "realizedPnl": -11.936340000000001,
+  "tradeCount": 3,
+  "winCount": 0,
+  "lossCount": 3,
+  "processGrades": {
+    "A": 0,
+    "B": 0,
+    "C": 3
+  },
+  "metrics": {
+    "tradeCount": 3,
+    "winCount": 0,
+    "lossCount": 3,
+    "flatCount": 0,
+    "winRate": 0,
+    "winPct": 0,
+    "profitFactor": 0,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": -3.9787800000000004,
+    "avgWin": null,
+    "avgLoss": -3.9787800000000004,
+    "avgLossAbs": 3.9787800000000004,
+    "grossWin": 0,
+    "grossLoss": -11.936340000000001,
+    "realizedPnl": -11.936340000000001,
+    "bestTrade": -0.0005399999999999997,
+    "worstTrade": -6.535800000000004,
+    "avgHoldMinutes": 7762.044922222222,
+    "equityCurve": [
+      {
+        "t": "2021-11-15T16:27:25.581871Z",
+        "pnl": -0.0005399999999999997
+      },
+      {
+        "t": "2021-11-15T16:27:25.639Z",
+        "pnl": -5.400539999999997
+      },
+      {
+        "t": "2021-11-15T16:27:25.639Z",
+        "pnl": -11.936340000000001
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "WISH",
+      "pnl": -11.936340000000001,
+      "trades": 3,
+      "wins": 0
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "WISH",
+      "qty": 0.0018,
+      "entryPrice": 5.555,
+      "exitPrice": 5.255,
+      "pnl": -0.0005399999999999997,
+      "openedAt": "2021-11-09T15:02:25.551789Z",
+      "closedAt": "2021-11-15T16:27:25.581871Z",
+      "holdMinutes": 8725.0005,
+      "overnight": true
+    },
+    {
+      "ticker": "WISH",
+      "qty": 18,
+      "entryPrice": 5.555,
+      "exitPrice": 5.255,
+      "pnl": -5.399999999999997,
+      "openedAt": "2021-11-09T15:02:25.611Z",
+      "closedAt": "2021-11-15T16:27:25.639Z",
+      "holdMinutes": 8725.000466666666,
+      "overnight": true
+    },
+    {
+      "ticker": "WISH",
+      "qty": 18,
+      "entryPrice": 5.6181,
+      "exitPrice": 5.255,
+      "pnl": -6.535800000000004,
+      "openedAt": "2021-11-11T15:11:17.611Z",
+      "closedAt": "2021-11-15T16:27:25.639Z",
+      "holdMinutes": 5836.1338,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "WISH",
+      "qty": 0.0018,
+      "entryPrice": 5.555,
+      "exitPrice": 5.255,
+      "pnl": -0.0005399999999999997,
+      "openedAt": "2021-11-09T15:02:25.551789Z",
+      "closedAt": "2021-11-15T16:27:25.581871Z",
+      "holdMinutes": 8725.0005,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.2999999999999998,
+      "notional": 0.009999,
+      "review": "overnight · 8725m · 0.30 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "WISH",
+      "qty": 18,
+      "entryPrice": 5.555,
+      "exitPrice": 5.255,
+      "pnl": -5.399999999999997,
+      "openedAt": "2021-11-09T15:02:25.611Z",
+      "closedAt": "2021-11-15T16:27:25.639Z",
+      "holdMinutes": 8725.000466666666,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "size_up_after_loss"
+      ],
+      "movePts": 0.2999999999999998,
+      "notional": 99.99,
+      "review": "overnight · 8725m · 0.30 pts · Flags: overnight, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "WISH",
+      "qty": 18,
+      "entryPrice": 5.6181,
+      "exitPrice": 5.255,
+      "pnl": -6.535800000000004,
+      "openedAt": "2021-11-11T15:11:17.611Z",
+      "closedAt": "2021-11-15T16:27:25.639Z",
+      "holdMinutes": 5836.1338,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak"
+      ],
+      "movePts": 0.3631000000000002,
+      "notional": 101.1258,
+      "review": "overnight · 5836m · 0.36 pts · Flags: overnight, after_loss_streak · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "cooling_off",
+    "score": 60,
+    "reasons": [
+      "Loss streak ×3"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 3
+    },
+    "maxWin": 0,
+    "maxLoss": 3
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

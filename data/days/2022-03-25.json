@@ -1,0 +1,297 @@
+{
+  "id": "2022-03-25",
+  "date": "2022-03-25",
+  "label": "Friday, Mar 25, 2022",
+  "weekday": "Fri",
+  "weekId": "2022-W12",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:03.854Z",
+  "realizedPnl": 8.58082546,
+  "tradeCount": 6,
+  "winCount": 5,
+  "lossCount": 1,
+  "processGrades": {
+    "A": 0,
+    "B": 5,
+    "C": 1
+  },
+  "metrics": {
+    "tradeCount": 6,
+    "winCount": 5,
+    "lossCount": 1,
+    "flatCount": 0,
+    "winRate": 0.8333333333333334,
+    "winPct": 83.33333333333334,
+    "profitFactor": 2.547549951626315,
+    "profitFactorInfinite": false,
+    "rewardRisk": 0.509509990325263,
+    "expectancy": 1.4301375766666666,
+    "avgWin": 2.8251212779999983,
+    "avgLoss": -5.544780929999991,
+    "avgLossAbs": 5.544780929999991,
+    "grossWin": 14.12560638999999,
+    "grossLoss": -5.544780929999991,
+    "realizedPnl": 8.58082546,
+    "bestTrade": 6.495968959999995,
+    "worstTrade": -5.544780929999991,
+    "avgHoldMinutes": 977.1972555555557,
+    "equityCurve": [
+      {
+        "t": "2022-03-25T13:30:32.308Z",
+        "pnl": 2.3184951900000006
+      },
+      {
+        "t": "2022-03-25T13:30:32.308Z",
+        "pnl": 2.4471387900000003
+      },
+      {
+        "t": "2022-03-25T13:30:32.308Z",
+        "pnl": 2.67411023
+      },
+      {
+        "t": "2022-03-25T13:30:32.308Z",
+        "pnl": 9.170079189999996
+      },
+      {
+        "t": "2022-03-25T13:30:32.308Z",
+        "pnl": 14.12560638999999
+      },
+      {
+        "t": "2022-03-25T13:30:32.308Z",
+        "pnl": 8.58082546
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "TLRY",
+      "pnl": 8.58082546,
+      "trades": 6,
+      "wins": 5
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "TLRY",
+      "qty": 7.994811,
+      "entryPrice": 7.71,
+      "exitPrice": 8,
+      "pnl": 2.3184951900000006,
+      "openedAt": "2022-03-24T21:06:59.23Z",
+      "closedAt": "2022-03-25T13:30:32.308Z",
+      "holdMinutes": 983.5513,
+      "overnight": true
+    },
+    {
+      "ticker": "TLRY",
+      "qty": 0.43608,
+      "entryPrice": 7.705,
+      "exitPrice": 8,
+      "pnl": 0.12864359999999997,
+      "openedAt": "2022-03-24T21:06:59.159455Z",
+      "closedAt": "2022-03-25T13:30:32.308Z",
+      "holdMinutes": 983.5524833333334,
+      "overnight": true
+    },
+    {
+      "ticker": "TLRY",
+      "qty": 0.856496,
+      "entryPrice": 7.735,
+      "exitPrice": 8,
+      "pnl": 0.22697143999999975,
+      "openedAt": "2022-03-24T21:07:26.252969Z",
+      "closedAt": "2022-03-25T13:30:32.308Z",
+      "holdMinutes": 983.1009333333334,
+      "overnight": true
+    },
+    {
+      "ticker": "TLRY",
+      "qty": 24.984496,
+      "entryPrice": 7.74,
+      "exitPrice": 8,
+      "pnl": 6.495968959999995,
+      "openedAt": "2022-03-24T21:07:26.314Z",
+      "closedAt": "2022-03-25T13:30:32.308Z",
+      "holdMinutes": 983.0999,
+      "overnight": true
+    },
+    {
+      "ticker": "TLRY",
+      "qty": 38.11944,
+      "entryPrice": 7.87,
+      "exitPrice": 8,
+      "pnl": 4.955527199999995,
+      "openedAt": "2022-03-24T21:12:44.138Z",
+      "closedAt": "2022-03-25T13:30:32.308Z",
+      "holdMinutes": 977.8028333333333,
+      "overnight": true
+    },
+    {
+      "ticker": "TLRY",
+      "qty": 61.608677,
+      "entryPrice": 8.09,
+      "exitPrice": 8,
+      "pnl": -5.544780929999991,
+      "openedAt": "2022-03-24T21:38:27.743Z",
+      "closedAt": "2022-03-25T13:30:32.308Z",
+      "holdMinutes": 952.0760833333334,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "TLRY",
+      "qty": 7.994811,
+      "entryPrice": 7.71,
+      "exitPrice": 8,
+      "pnl": 2.3184951900000006,
+      "openedAt": "2022-03-24T21:06:59.23Z",
+      "closedAt": "2022-03-25T13:30:32.308Z",
+      "holdMinutes": 983.5513,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.29000000000000004,
+      "notional": 61.63999281,
+      "review": "overnight · 984m · 0.29 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "TLRY",
+      "qty": 0.43608,
+      "entryPrice": 7.705,
+      "exitPrice": 8,
+      "pnl": 0.12864359999999997,
+      "openedAt": "2022-03-24T21:06:59.159455Z",
+      "closedAt": "2022-03-25T13:30:32.308Z",
+      "holdMinutes": 983.5524833333334,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.29499999999999993,
+      "notional": 3.3599964,
+      "review": "overnight · 984m · 0.29 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "TLRY",
+      "qty": 0.856496,
+      "entryPrice": 7.735,
+      "exitPrice": 8,
+      "pnl": 0.22697143999999975,
+      "openedAt": "2022-03-24T21:07:26.252969Z",
+      "closedAt": "2022-03-25T13:30:32.308Z",
+      "holdMinutes": 983.1009333333334,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.2649999999999997,
+      "notional": 6.6249965600000005,
+      "review": "overnight · 983m · 0.26 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "TLRY",
+      "qty": 24.984496,
+      "entryPrice": 7.74,
+      "exitPrice": 8,
+      "pnl": 6.495968959999995,
+      "openedAt": "2022-03-24T21:07:26.314Z",
+      "closedAt": "2022-03-25T13:30:32.308Z",
+      "holdMinutes": 983.0999,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.2599999999999998,
+      "notional": 193.37999904,
+      "review": "overnight · 983m · 0.26 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "TLRY",
+      "qty": 38.11944,
+      "entryPrice": 7.87,
+      "exitPrice": 8,
+      "pnl": 4.955527199999995,
+      "openedAt": "2022-03-24T21:12:44.138Z",
+      "closedAt": "2022-03-25T13:30:32.308Z",
+      "holdMinutes": 977.8028333333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 0.1299999999999999,
+      "notional": 299.9999928,
+      "review": "overnight · 978m · 0.13 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "TLRY",
+      "qty": 61.608677,
+      "entryPrice": 8.09,
+      "exitPrice": 8,
+      "pnl": -5.544780929999991,
+      "openedAt": "2022-03-24T21:38:27.743Z",
+      "closedAt": "2022-03-25T13:30:32.308Z",
+      "holdMinutes": 952.0760833333334,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 0.08999999999999986,
+      "notional": 498.41419693,
+      "review": "overnight · 952m · 0.09 pts · Flags: overnight, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 1
+    },
+    "maxWin": 5,
+    "maxLoss": 1
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

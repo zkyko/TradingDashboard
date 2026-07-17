@@ -1,0 +1,184 @@
+{
+  "id": "2021-02-17",
+  "date": "2021-02-17",
+  "label": "Wednesday, Feb 17, 2021",
+  "weekday": "Wed",
+  "weekId": "2021-W07",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:02.954Z",
+  "realizedPnl": 9.48125632,
+  "tradeCount": 3,
+  "winCount": 3,
+  "lossCount": 0,
+  "processGrades": {
+    "A": 0,
+    "B": 3,
+    "C": 0
+  },
+  "metrics": {
+    "tradeCount": 3,
+    "winCount": 3,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": 1,
+    "winPct": 100,
+    "profitFactor": null,
+    "profitFactorInfinite": true,
+    "rewardRisk": null,
+    "expectancy": 3.1604187733333333,
+    "avgWin": 3.1604187733333333,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 9.48125632,
+    "grossLoss": 0,
+    "realizedPnl": 9.48125632,
+    "bestTrade": 9.27,
+    "worstTrade": 0.04976136,
+    "avgHoldMinutes": 7149.7002111111115,
+    "equityCurve": [
+      {
+        "t": "2021-02-17T18:20:26.885434Z",
+        "pnl": 0.16149496
+      },
+      {
+        "t": "2021-02-17T18:20:26.955Z",
+        "pnl": 9.43149496
+      },
+      {
+        "t": "2021-02-17T18:20:26.955Z",
+        "pnl": 9.48125632
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "ZKIN",
+      "pnl": 9.48125632,
+      "trades": 3,
+      "wins": 3
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "ZKIN",
+      "qty": 6,
+      "entryPrice": 4.975,
+      "exitPrice": 6.52,
+      "pnl": 9.27,
+      "openedAt": "2021-02-12T19:10:44.919Z",
+      "closedAt": "2021-02-17T18:20:26.955Z",
+      "holdMinutes": 7149.7006,
+      "overnight": true
+    },
+    {
+      "ticker": "ZKIN",
+      "qty": 0.102212,
+      "entryPrice": 4.975,
+      "exitPrice": 6.555,
+      "pnl": 0.16149496,
+      "openedAt": "2021-02-12T19:10:44.919Z",
+      "closedAt": "2021-02-17T18:20:26.885434Z",
+      "holdMinutes": 7149.699433333333,
+      "overnight": true
+    },
+    {
+      "ticker": "ZKIN",
+      "qty": 0.032208,
+      "entryPrice": 4.975,
+      "exitPrice": 6.52,
+      "pnl": 0.04976136,
+      "openedAt": "2021-02-12T19:10:44.919Z",
+      "closedAt": "2021-02-17T18:20:26.955Z",
+      "holdMinutes": 7149.7006,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "ZKIN",
+      "qty": 6,
+      "entryPrice": 4.975,
+      "exitPrice": 6.52,
+      "pnl": 9.27,
+      "openedAt": "2021-02-12T19:10:44.919Z",
+      "closedAt": "2021-02-17T18:20:26.955Z",
+      "holdMinutes": 7149.7006,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 1.545,
+      "notional": 29.849999999999998,
+      "review": "overnight · 7150m · 1.54 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "ZKIN",
+      "qty": 0.102212,
+      "entryPrice": 4.975,
+      "exitPrice": 6.555,
+      "pnl": 0.16149496,
+      "openedAt": "2021-02-12T19:10:44.919Z",
+      "closedAt": "2021-02-17T18:20:26.885434Z",
+      "holdMinutes": 7149.699433333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 1.58,
+      "notional": 0.5085046999999999,
+      "review": "overnight · 7150m · 1.58 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "ZKIN",
+      "qty": 0.032208,
+      "entryPrice": 4.975,
+      "exitPrice": 6.52,
+      "pnl": 0.04976136,
+      "openedAt": "2021-02-12T19:10:44.919Z",
+      "closedAt": "2021-02-17T18:20:26.955Z",
+      "holdMinutes": 7149.7006,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 1.545,
+      "notional": 0.16023479999999998,
+      "review": "overnight · 7150m · 1.54 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "on_streak",
+    "score": 24,
+    "reasons": [
+      "Win streak ×3"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 3
+    },
+    "maxWin": 3,
+    "maxLoss": 0
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

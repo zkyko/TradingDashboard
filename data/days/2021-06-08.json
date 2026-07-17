@@ -1,0 +1,110 @@
+{
+  "id": "2021-06-08",
+  "date": "2021-06-08",
+  "label": "Tuesday, Jun 8, 2021",
+  "weekday": "Tue",
+  "weekId": "2021-W23",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:03.297Z",
+  "realizedPnl": 5.134200000000003,
+  "tradeCount": 1,
+  "winCount": 1,
+  "lossCount": 0,
+  "processGrades": {
+    "A": 0,
+    "B": 1,
+    "C": 0
+  },
+  "metrics": {
+    "tradeCount": 1,
+    "winCount": 1,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": 1,
+    "winPct": 100,
+    "profitFactor": null,
+    "profitFactorInfinite": true,
+    "rewardRisk": null,
+    "expectancy": 5.134200000000003,
+    "avgWin": 5.134200000000003,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 5.134200000000003,
+    "grossLoss": 0,
+    "realizedPnl": 5.134200000000003,
+    "bestTrade": 5.134200000000003,
+    "worstTrade": 5.134200000000003,
+    "avgHoldMinutes": 151027.91571666667,
+    "equityCurve": [
+      {
+        "t": "2021-06-08T17:55:57.021Z",
+        "pnl": 5.134200000000003
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "WKHS",
+      "pnl": 5.134200000000003,
+      "trades": 1,
+      "wins": 1
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "WKHS",
+      "qty": 3,
+      "entryPrice": 14.79,
+      "exitPrice": 16.5014,
+      "pnl": 5.134200000000003,
+      "openedAt": "2021-02-23T20:48:02.078Z",
+      "closedAt": "2021-06-08T17:55:57.021Z",
+      "holdMinutes": 151027.91571666667,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "WKHS",
+      "qty": 3,
+      "entryPrice": 14.79,
+      "exitPrice": 16.5014,
+      "pnl": 5.134200000000003,
+      "openedAt": "2021-02-23T20:48:02.078Z",
+      "closedAt": "2021-06-08T17:55:57.021Z",
+      "holdMinutes": 151027.91571666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 1.7114000000000011,
+      "notional": 44.37,
+      "review": "overnight · 151028m · 1.71 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 1
+    },
+    "maxWin": 1,
+    "maxLoss": 0
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

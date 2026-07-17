@@ -1,0 +1,1770 @@
+{
+  "id": "2021-10-22",
+  "date": "2021-10-22",
+  "label": "Friday, Oct 22, 2021",
+  "weekday": "Fri",
+  "weekId": "2021-W42",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:03.462Z",
+  "realizedPnl": -1829.5134639333994,
+  "tradeCount": 43,
+  "winCount": 0,
+  "lossCount": 43,
+  "processGrades": {
+    "A": 0,
+    "B": 6,
+    "C": 37
+  },
+  "metrics": {
+    "tradeCount": 43,
+    "winCount": 0,
+    "lossCount": 43,
+    "flatCount": 0,
+    "winRate": 0,
+    "winPct": 0,
+    "profitFactor": 0,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": -42.5468247426372,
+    "avgWin": null,
+    "avgLoss": -42.5468247426372,
+    "avgLossAbs": 42.5468247426372,
+    "grossWin": 0,
+    "grossLoss": -1829.5134639333994,
+    "realizedPnl": -1829.5134639333994,
+    "bestTrade": -0.03594721680000001,
+    "worstTrade": -425.97499999999985,
+    "avgHoldMinutes": 240889.90831899218,
+    "equityCurve": [
+      {
+        "t": "2021-10-22T17:34:55.418703Z",
+        "pnl": -0.43481389130000003
+      },
+      {
+        "t": "2021-10-22T17:34:55.544Z",
+        "pnl": -11.5334717231
+      },
+      {
+        "t": "2021-10-22T17:34:55.544Z",
+        "pnl": -24.7169717231
+      },
+      {
+        "t": "2021-10-22T17:34:55.544Z",
+        "pnl": -57.0729717231
+      },
+      {
+        "t": "2021-10-22T17:34:55.544Z",
+        "pnl": -81.7899717231
+      },
+      {
+        "t": "2021-10-22T17:34:55.544Z",
+        "pnl": -82.51887172309999
+      },
+      {
+        "t": "2021-10-22T17:34:55.544Z",
+        "pnl": -82.55481893989999
+      },
+      {
+        "t": "2021-10-22T17:34:55.544Z",
+        "pnl": -92.85287507299999
+      },
+      {
+        "t": "2021-10-22T17:34:55.544Z",
+        "pnl": -116.55267507299999
+      },
+      {
+        "t": "2021-10-22T17:34:55.544Z",
+        "pnl": -117.82047507299998
+      },
+      {
+        "t": "2021-10-22T17:34:55.544Z",
+        "pnl": -130.59847507299997
+      },
+      {
+        "t": "2021-10-22T17:34:55.544Z",
+        "pnl": -132.50017507299998
+      },
+      {
+        "t": "2021-10-22T17:34:55.544Z",
+        "pnl": -133.02821421519997
+      },
+      {
+        "t": "2021-10-22T17:34:55.544Z",
+        "pnl": -211.35641472399996
+      },
+      {
+        "t": "2021-10-22T17:34:55.544Z",
+        "pnl": -266.5559909536
+      },
+      {
+        "t": "2021-10-22T17:34:55.544Z",
+        "pnl": -345.0497909536
+      },
+      {
+        "t": "2021-10-22T17:34:55.544Z",
+        "pnl": -346.13735796459997
+      },
+      {
+        "t": "2021-10-22T17:34:55.544Z",
+        "pnl": -346.20040624599994
+      },
+      {
+        "t": "2021-10-22T17:34:55.544Z",
+        "pnl": -346.51550897239997
+      },
+      {
+        "t": "2021-10-22T17:34:55.544Z",
+        "pnl": -423.09635689539994
+      },
+      {
+        "t": "2021-10-22T17:34:55.544Z",
+        "pnl": -498.1523565783999
+      },
+      {
+        "t": "2021-10-22T17:34:55.544Z",
+        "pnl": -528.8181565783999
+      },
+      {
+        "t": "2021-10-22T17:34:55.544Z",
+        "pnl": -529.0461818915999
+      },
+      {
+        "t": "2021-10-22T17:34:55.544Z",
+        "pnl": -575.1861818915999
+      },
+      {
+        "t": "2021-10-22T17:34:55.544Z",
+        "pnl": -589.6974742634999
+      },
+      {
+        "t": "2021-10-22T17:34:55.544Z",
+        "pnl": -599.7024742634999
+      },
+      {
+        "t": "2021-10-22T17:48:50.950184Z",
+        "pnl": -608.4649066234999
+      },
+      {
+        "t": "2021-10-22T17:48:51.09Z",
+        "pnl": -741.8649066234999
+      },
+      {
+        "t": "2021-10-22T17:52:43.62612Z",
+        "pnl": -744.2045704384999
+      },
+      {
+        "t": "2021-10-22T17:52:43.745Z",
+        "pnl": -1170.1795704384997
+      },
+      {
+        "t": "2021-10-22T18:18:58.654Z",
+        "pnl": -1170.4691571834996
+      },
+      {
+        "t": "2021-10-22T18:18:58.654Z",
+        "pnl": -1184.1028359534996
+      },
+      {
+        "t": "2021-10-22T18:18:58.654Z",
+        "pnl": -1207.2606365284996
+      },
+      {
+        "t": "2021-10-22T18:18:58.654Z",
+        "pnl": -1230.1862253244997
+      },
+      {
+        "t": "2021-10-22T18:18:58.654Z",
+        "pnl": -1236.1771408594998
+      },
+      {
+        "t": "2021-10-22T18:18:58.654Z",
+        "pnl": -1376.2875417244998
+      },
+      {
+        "t": "2021-10-22T18:18:58.654Z",
+        "pnl": -1548.8521408594997
+      },
+      {
+        "t": "2021-10-22T18:18:58.654Z",
+        "pnl": -1549.6121788094997
+      },
+      {
+        "t": "2021-10-22T18:18:58.654Z",
+        "pnl": -1657.2574856594997
+      },
+      {
+        "t": "2021-10-22T18:18:58.654Z",
+        "pnl": -1657.2967968844996
+      },
+      {
+        "t": "2021-10-22T18:18:58.654Z",
+        "pnl": -1710.3827618244995
+      },
+      {
+        "t": "2021-10-22T18:47:54.417Z",
+        "pnl": -1710.5716413234995
+      },
+      {
+        "t": "2021-10-22T18:47:54.417Z",
+        "pnl": -1829.5134639333994
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "BENE",
+      "pnl": -659.3338934949,
+      "trades": 13,
+      "wins": 0
+    },
+    {
+      "ticker": "ZOMDF",
+      "pnl": -599.7024742634999,
+      "trades": 26,
+      "wins": 0
+    },
+    {
+      "ticker": "AMC",
+      "pnl": -428.31466381499985,
+      "trades": 2,
+      "wins": 0
+    },
+    {
+      "ticker": "JMIA",
+      "pnl": -142.16243236,
+      "trades": 2,
+      "wins": 0
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "ZOMDF",
+      "qty": 0.565538,
+      "entryPrice": 1.27,
+      "exitPrice": 0.50115,
+      "pnl": -0.43481389130000003,
+      "openedAt": "2021-01-12T16:46:47.313Z",
+      "closedAt": "2021-10-22T17:34:55.418703Z",
+      "holdMinutes": 407568.13508333336,
+      "overnight": true
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 14.434462,
+      "entryPrice": 1.27,
+      "exitPrice": 0.5011,
+      "pnl": -11.0986578318,
+      "openedAt": "2021-01-12T16:46:47.313Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 407568.13718333334,
+      "overnight": true
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 15,
+      "entryPrice": 1.38,
+      "exitPrice": 0.5011,
+      "pnl": -13.183499999999999,
+      "openedAt": "2021-01-12T18:22:15.525Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 407472.66698333336,
+      "overnight": true
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 40,
+      "entryPrice": 1.31,
+      "exitPrice": 0.5011,
+      "pnl": -32.356,
+      "openedAt": "2021-01-12T18:34:50.651Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 407460.08155,
+      "overnight": true
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 30,
+      "entryPrice": 1.325,
+      "exitPrice": 0.5011,
+      "pnl": -24.717,
+      "openedAt": "2021-01-12T18:46:04.448Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 407448.8516,
+      "overnight": true
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 1,
+      "entryPrice": 1.23,
+      "exitPrice": 0.5011,
+      "pnl": -0.7289,
+      "openedAt": "2021-01-12T21:17:27.839Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 407297.46175,
+      "overnight": true
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 0.087912,
+      "entryPrice": 0.91,
+      "exitPrice": 0.5011,
+      "pnl": -0.03594721680000001,
+      "openedAt": "2021-01-14T14:30:01.399Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 404824.9024166667,
+      "overnight": true
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 25.184779,
+      "entryPrice": 0.91,
+      "exitPrice": 0.5011,
+      "pnl": -10.298056133100001,
+      "openedAt": "2021-01-14T14:30:01.399Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 404824.9024166667,
+      "overnight": true
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 50,
+      "entryPrice": 0.975096,
+      "exitPrice": 0.5011,
+      "pnl": -23.6998,
+      "openedAt": "2021-01-15T17:47:12.638Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 403187.7151,
+      "overnight": true
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 2,
+      "entryPrice": 1.135,
+      "exitPrice": 0.5011,
+      "pnl": -1.2678,
+      "openedAt": "2021-02-03T19:47:07.036Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 375707.80846666667,
+      "overnight": true
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 20,
+      "entryPrice": 1.14,
+      "exitPrice": 0.5011,
+      "pnl": -12.777999999999999,
+      "openedAt": "2021-02-03T19:52:15.555Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 375702.66648333333,
+      "overnight": true
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 3,
+      "entryPrice": 1.135,
+      "exitPrice": 0.5011,
+      "pnl": -1.9017,
+      "openedAt": "2021-02-03T20:09:15.091Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 375685.67421666667,
+      "overnight": true
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 0.283298,
+      "entryPrice": 2.365,
+      "exitPrice": 0.5011,
+      "pnl": -0.5280391422,
+      "openedAt": "2021-02-16T20:23:58.830711Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 356950.94523333333,
+      "overnight": true
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 41.911392,
+      "entryPrice": 2.37,
+      "exitPrice": 0.5011,
+      "pnl": -78.3282005088,
+      "openedAt": "2021-02-16T20:23:58.908Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 356950.9439333333,
+      "overnight": true
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 29.535864,
+      "entryPrice": 2.37,
+      "exitPrice": 0.5011,
+      "pnl": -55.1995762296,
+      "openedAt": "2021-02-16T20:26:16.998Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 356948.6424333333,
+      "overnight": true
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 42,
+      "entryPrice": 2.37,
+      "exitPrice": 0.5011,
+      "pnl": -78.4938,
+      "openedAt": "2021-02-16T20:29:01.564Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 356945.8996666667,
+      "overnight": true
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 0.58349,
+      "entryPrice": 2.365,
+      "exitPrice": 0.5011,
+      "pnl": -1.087567011,
+      "openedAt": "2021-02-16T20:29:01.49115Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 356945.90088333335,
+      "overnight": true
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 0.033826,
+      "entryPrice": 2.365,
+      "exitPrice": 0.5011,
+      "pnl": -0.0630482814,
+      "openedAt": "2021-02-16T20:29:02.285957Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 356945.88765,
+      "overnight": true
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 0.189376,
+      "entryPrice": 2.165,
+      "exitPrice": 0.5011,
+      "pnl": -0.3151027264,
+      "openedAt": "2021-02-17T17:02:54.489239Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 355712.0175833333,
+      "overnight": true
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 45.917285,
+      "entryPrice": 2.1689,
+      "exitPrice": 0.5011,
+      "pnl": -76.580847923,
+      "openedAt": "2021-02-17T17:02:54.59Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 355712.0159,
+      "overnight": true
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 49.778485,
+      "entryPrice": 2.0089,
+      "exitPrice": 0.5011,
+      "pnl": -75.05599968300001,
+      "openedAt": "2021-02-23T16:07:36.5Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 347127.3174,
+      "overnight": true
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 22,
+      "entryPrice": 1.895,
+      "exitPrice": 0.5011,
+      "pnl": -30.665799999999997,
+      "openedAt": "2021-02-25T18:46:02.603Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 344088.88235,
+      "overnight": true
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 0.163588,
+      "entryPrice": 1.895,
+      "exitPrice": 0.5011,
+      "pnl": -0.2280253132,
+      "openedAt": "2021-02-25T18:46:02.48926Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 344088.88425,
+      "overnight": true
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 100,
+      "entryPrice": 0.9625,
+      "exitPrice": 0.5011,
+      "pnl": -46.14,
+      "openedAt": "2021-04-23T16:58:03.598Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 262116.86576666665,
+      "overnight": true
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 36.896243,
+      "entryPrice": 0.8944,
+      "exitPrice": 0.5011,
+      "pnl": -14.511292371899998,
+      "openedAt": "2021-05-05T17:12:36.183Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 244822.32268333333,
+      "overnight": true
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 30,
+      "entryPrice": 0.8346,
+      "exitPrice": 0.5011,
+      "pnl": -10.005,
+      "openedAt": "2021-05-27T15:15:00.58Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 213259.91606666666,
+      "overnight": true
+    },
+    {
+      "ticker": "JMIA",
+      "qty": 0.328427,
+      "entryPrice": 45.325,
+      "exitPrice": 18.645,
+      "pnl": -8.762432360000002,
+      "openedAt": "2021-01-19T18:22:04.068Z",
+      "closedAt": "2021-10-22T17:48:50.950184Z",
+      "holdMinutes": 397406.78136666666,
+      "overnight": true
+    },
+    {
+      "ticker": "JMIA",
+      "qty": 5,
+      "entryPrice": 45.325,
+      "exitPrice": 18.645,
+      "pnl": -133.4,
+      "openedAt": "2021-01-19T18:22:04.068Z",
+      "closedAt": "2021-10-22T17:48:51.09Z",
+      "holdMinutes": 397406.7837,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.302087,
+      "entryPrice": 43.91,
+      "exitPrice": 36.165,
+      "pnl": -2.3396638149999993,
+      "openedAt": "2021-08-24T19:08:41.827Z",
+      "closedAt": "2021-10-22T17:52:43.62612Z",
+      "holdMinutes": 84884.02998333333,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 55,
+      "entryPrice": 43.91,
+      "exitPrice": 36.165,
+      "pnl": -425.97499999999985,
+      "openedAt": "2021-08-24T19:08:41.827Z",
+      "closedAt": "2021-10-22T17:52:43.745Z",
+      "holdMinutes": 84884.03196666666,
+      "overnight": true
+    },
+    {
+      "ticker": "BENE",
+      "qty": 0.244377,
+      "entryPrice": 13.34,
+      "exitPrice": 12.155,
+      "pnl": -0.28958674500000015,
+      "openedAt": "2021-10-22T17:35:12.724073Z",
+      "closedAt": "2021-10-22T18:18:58.654Z",
+      "holdMinutes": 43.7655,
+      "overnight": false
+    },
+    {
+      "ticker": "BENE",
+      "qty": 10.950746,
+      "entryPrice": 13.4,
+      "exitPrice": 12.155,
+      "pnl": -13.633678770000012,
+      "openedAt": "2021-10-22T17:35:12.856Z",
+      "closedAt": "2021-10-22T18:18:58.654Z",
+      "holdMinutes": 43.7633,
+      "overnight": false
+    },
+    {
+      "ticker": "BENE",
+      "qty": 10.846745,
+      "entryPrice": 14.29,
+      "exitPrice": 12.155,
+      "pnl": -23.157800575,
+      "openedAt": "2021-10-22T17:45:52.708Z",
+      "closedAt": "2021-10-22T18:18:58.654Z",
+      "holdMinutes": 33.0991,
+      "overnight": false
+    },
+    {
+      "ticker": "BENE",
+      "qty": 6.258692,
+      "entryPrice": 15.818,
+      "exitPrice": 12.155,
+      "pnl": -22.925588796,
+      "openedAt": "2021-10-22T17:49:05.646Z",
+      "closedAt": "2021-10-22T18:18:58.654Z",
+      "holdMinutes": 29.883466666666667,
+      "overnight": false
+    },
+    {
+      "ticker": "BENE",
+      "qty": 1.053811,
+      "entryPrice": 17.84,
+      "exitPrice": 12.155,
+      "pnl": -5.990915535000001,
+      "openedAt": "2021-10-22T17:56:39.812643Z",
+      "closedAt": "2021-10-22T18:18:58.654Z",
+      "holdMinutes": 22.314033333333334,
+      "overnight": false
+    },
+    {
+      "ticker": "BENE",
+      "qty": 24.645629,
+      "entryPrice": 17.84,
+      "exitPrice": 12.155,
+      "pnl": -140.110400865,
+      "openedAt": "2021-10-22T17:56:39.891Z",
+      "closedAt": "2021-10-22T18:18:58.654Z",
+      "holdMinutes": 22.312716666666667,
+      "overnight": false
+    },
+    {
+      "ticker": "BENE",
+      "qty": 30.354371,
+      "entryPrice": 17.84,
+      "exitPrice": 12.155,
+      "pnl": -172.564599135,
+      "openedAt": "2021-10-22T17:56:39.891Z",
+      "closedAt": "2021-10-22T18:18:58.654Z",
+      "holdMinutes": 22.312716666666667,
+      "overnight": false
+    },
+    {
+      "ticker": "BENE",
+      "qty": 0.226877,
+      "entryPrice": 15.505,
+      "exitPrice": 12.155,
+      "pnl": -0.7600379500000003,
+      "openedAt": "2021-10-22T17:58:28.919467Z",
+      "closedAt": "2021-10-22T18:18:58.654Z",
+      "holdMinutes": 20.495583333333332,
+      "overnight": false
+    },
+    {
+      "ticker": "BENE",
+      "qty": 31.98969,
+      "entryPrice": 15.52,
+      "exitPrice": 12.155,
+      "pnl": -107.64530685000001,
+      "openedAt": "2021-10-22T17:58:29.027Z",
+      "closedAt": "2021-10-22T18:18:58.654Z",
+      "holdMinutes": 20.493783333333333,
+      "overnight": false
+    },
+    {
+      "ticker": "BENE",
+      "qty": 0.027205,
+      "entryPrice": 13.6,
+      "exitPrice": 12.155,
+      "pnl": -0.039311225000000005,
+      "openedAt": "2021-10-22T18:15:51.829Z",
+      "closedAt": "2021-10-22T18:18:58.654Z",
+      "holdMinutes": 3.11375,
+      "overnight": false
+    },
+    {
+      "ticker": "BENE",
+      "qty": 36.737692,
+      "entryPrice": 13.6,
+      "exitPrice": 12.155,
+      "pnl": -53.08596494000001,
+      "openedAt": "2021-10-22T18:15:51.829Z",
+      "closedAt": "2021-10-22T18:18:58.654Z",
+      "holdMinutes": 3.11375,
+      "overnight": false
+    },
+    {
+      "ticker": "BENE",
+      "qty": 0.239391,
+      "entryPrice": 12.49,
+      "exitPrice": 11.701,
+      "pnl": -0.18887949899999992,
+      "openedAt": "2021-10-22T18:20:44.848866Z",
+      "closedAt": "2021-10-22T18:47:54.417Z",
+      "holdMinutes": 27.159483333333334,
+      "overnight": false
+    },
+    {
+      "ticker": "BENE",
+      "qty": 148.881991,
+      "entryPrice": 12.4999,
+      "exitPrice": 11.701,
+      "pnl": -118.94182260989996,
+      "openedAt": "2021-10-22T18:20:44.909Z",
+      "closedAt": "2021-10-22T18:47:54.417Z",
+      "holdMinutes": 27.158466666666666,
+      "overnight": false
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "ZOMDF",
+      "qty": 0.565538,
+      "entryPrice": 1.27,
+      "exitPrice": 0.50115,
+      "pnl": -0.43481389130000003,
+      "openedAt": "2021-01-12T16:46:47.313Z",
+      "closedAt": "2021-10-22T17:34:55.418703Z",
+      "holdMinutes": 407568.13508333336,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.76885,
+      "notional": 0.71823326,
+      "review": "overnight · 407568m · 0.77 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 14.434462,
+      "entryPrice": 1.27,
+      "exitPrice": 0.5011,
+      "pnl": -11.0986578318,
+      "openedAt": "2021-01-12T16:46:47.313Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 407568.13718333334,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "size_up_after_loss"
+      ],
+      "movePts": 0.7689,
+      "notional": 18.33176674,
+      "review": "overnight · 407568m · 0.77 pts · Flags: overnight, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 15,
+      "entryPrice": 1.38,
+      "exitPrice": 0.5011,
+      "pnl": -13.183499999999999,
+      "openedAt": "2021-01-12T18:22:15.525Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 407472.66698333336,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak"
+      ],
+      "movePts": 0.8788999999999999,
+      "notional": 20.7,
+      "review": "overnight · 407473m · 0.88 pts · Flags: overnight, after_loss_streak · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 40,
+      "entryPrice": 1.31,
+      "exitPrice": 0.5011,
+      "pnl": -32.356,
+      "openedAt": "2021-01-12T18:34:50.651Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 407460.08155,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "size_up_after_loss"
+      ],
+      "movePts": 0.8089000000000001,
+      "notional": 52.400000000000006,
+      "review": "overnight · 407460m · 0.81 pts · Flags: overnight, after_loss_streak, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 30,
+      "entryPrice": 1.325,
+      "exitPrice": 0.5011,
+      "pnl": -24.717,
+      "openedAt": "2021-01-12T18:46:04.448Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 407448.8516,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 0.8239,
+      "notional": 39.75,
+      "review": "overnight · 407449m · 0.82 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 1,
+      "entryPrice": 1.23,
+      "exitPrice": 0.5011,
+      "pnl": -0.7289,
+      "openedAt": "2021-01-12T21:17:27.839Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 407297.46175,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 0.7289,
+      "notional": 1.23,
+      "review": "overnight · 407297m · 0.73 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 0.087912,
+      "entryPrice": 0.91,
+      "exitPrice": 0.5011,
+      "pnl": -0.03594721680000001,
+      "openedAt": "2021-01-14T14:30:01.399Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 404824.9024166667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 0.40890000000000004,
+      "notional": 0.07999992,
+      "review": "overnight · 404825m · 0.41 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 25.184779,
+      "entryPrice": 0.91,
+      "exitPrice": 0.5011,
+      "pnl": -10.298056133100001,
+      "openedAt": "2021-01-14T14:30:01.399Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 404824.9024166667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 0.40890000000000004,
+      "notional": 22.91814889,
+      "review": "overnight · 404825m · 0.41 pts · Flags: overnight, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 50,
+      "entryPrice": 0.975096,
+      "exitPrice": 0.5011,
+      "pnl": -23.6998,
+      "openedAt": "2021-01-15T17:47:12.638Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 403187.7151,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 0.473996,
+      "notional": 48.754799999999996,
+      "review": "overnight · 403188m · 0.47 pts · Flags: overnight, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 2,
+      "entryPrice": 1.135,
+      "exitPrice": 0.5011,
+      "pnl": -1.2678,
+      "openedAt": "2021-02-03T19:47:07.036Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 375707.80846666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 0.6339,
+      "notional": 2.27,
+      "review": "overnight · 375708m · 0.63 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 20,
+      "entryPrice": 1.14,
+      "exitPrice": 0.5011,
+      "pnl": -12.777999999999999,
+      "openedAt": "2021-02-03T19:52:15.555Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 375702.66648333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 0.6388999999999999,
+      "notional": 22.799999999999997,
+      "review": "overnight · 375703m · 0.64 pts · Flags: overnight, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 3,
+      "entryPrice": 1.135,
+      "exitPrice": 0.5011,
+      "pnl": -1.9017,
+      "openedAt": "2021-02-03T20:09:15.091Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 375685.67421666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 0.6339,
+      "notional": 3.4050000000000002,
+      "review": "overnight · 375686m · 0.63 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 0.283298,
+      "entryPrice": 2.365,
+      "exitPrice": 0.5011,
+      "pnl": -0.5280391422,
+      "openedAt": "2021-02-16T20:23:58.830711Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 356950.94523333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 1.8639000000000001,
+      "notional": 0.66999977,
+      "review": "overnight · 356951m · 1.86 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 41.911392,
+      "entryPrice": 2.37,
+      "exitPrice": 0.5011,
+      "pnl": -78.3282005088,
+      "openedAt": "2021-02-16T20:23:58.908Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 356950.9439333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 1.8689,
+      "notional": 99.32999904,
+      "review": "overnight · 356951m · 1.87 pts · Flags: overnight, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 29.535864,
+      "entryPrice": 2.37,
+      "exitPrice": 0.5011,
+      "pnl": -55.1995762296,
+      "openedAt": "2021-02-16T20:26:16.998Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 356948.6424333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 1.8689,
+      "notional": 69.99999768,
+      "review": "overnight · 356949m · 1.87 pts · Flags: overnight, after_loss_streak, high_frequency_day · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 42,
+      "entryPrice": 2.37,
+      "exitPrice": 0.5011,
+      "pnl": -78.4938,
+      "openedAt": "2021-02-16T20:29:01.564Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 356945.8996666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 1.8689,
+      "notional": 99.54,
+      "review": "overnight · 356946m · 1.87 pts · Flags: overnight, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 0.58349,
+      "entryPrice": 2.365,
+      "exitPrice": 0.5011,
+      "pnl": -1.087567011,
+      "openedAt": "2021-02-16T20:29:01.49115Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 356945.90088333335,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 1.8639000000000001,
+      "notional": 1.37995385,
+      "review": "overnight · 356946m · 1.86 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 0.033826,
+      "entryPrice": 2.365,
+      "exitPrice": 0.5011,
+      "pnl": -0.0630482814,
+      "openedAt": "2021-02-16T20:29:02.285957Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 356945.88765,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 1.8639000000000001,
+      "notional": 0.07999849,
+      "review": "overnight · 356946m · 1.86 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 0.189376,
+      "entryPrice": 2.165,
+      "exitPrice": 0.5011,
+      "pnl": -0.3151027264,
+      "openedAt": "2021-02-17T17:02:54.489239Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 355712.0175833333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 1.6639,
+      "notional": 0.40999904,
+      "review": "overnight · 355712m · 1.66 pts · Flags: overnight, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 45.917285,
+      "entryPrice": 2.1689,
+      "exitPrice": 0.5011,
+      "pnl": -76.580847923,
+      "openedAt": "2021-02-17T17:02:54.59Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 355712.0159,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 1.6677999999999997,
+      "notional": 99.5899994365,
+      "review": "overnight · 355712m · 1.67 pts · Flags: overnight, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 49.778485,
+      "entryPrice": 2.0089,
+      "exitPrice": 0.5011,
+      "pnl": -75.05599968300001,
+      "openedAt": "2021-02-23T16:07:36.5Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 347127.3174,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 1.5078,
+      "notional": 99.99999851650001,
+      "review": "overnight · 347127m · 1.51 pts · Flags: overnight, after_loss_streak, high_frequency_day · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 22,
+      "entryPrice": 1.895,
+      "exitPrice": 0.5011,
+      "pnl": -30.665799999999997,
+      "openedAt": "2021-02-25T18:46:02.603Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 344088.88235,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 1.3939,
+      "notional": 41.69,
+      "review": "overnight · 344089m · 1.39 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 0.163588,
+      "entryPrice": 1.895,
+      "exitPrice": 0.5011,
+      "pnl": -0.2280253132,
+      "openedAt": "2021-02-25T18:46:02.48926Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 344088.88425,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 1.3939,
+      "notional": 0.30999926,
+      "review": "overnight · 344089m · 1.39 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 100,
+      "entryPrice": 0.9625,
+      "exitPrice": 0.5011,
+      "pnl": -46.14,
+      "openedAt": "2021-04-23T16:58:03.598Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 262116.86576666665,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 0.46140000000000003,
+      "notional": 96.25,
+      "review": "overnight · 262117m · 0.46 pts · Flags: overnight, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 36.896243,
+      "entryPrice": 0.8944,
+      "exitPrice": 0.5011,
+      "pnl": -14.511292371899998,
+      "openedAt": "2021-05-05T17:12:36.183Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 244822.32268333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 0.3933,
+      "notional": 32.9999997392,
+      "review": "overnight · 244822m · 0.39 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "ZOMDF",
+      "qty": 30,
+      "entryPrice": 0.8346,
+      "exitPrice": 0.5011,
+      "pnl": -10.005,
+      "openedAt": "2021-05-27T15:15:00.58Z",
+      "closedAt": "2021-10-22T17:34:55.544Z",
+      "holdMinutes": 213259.91606666666,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 0.3335,
+      "notional": 25.038,
+      "review": "overnight · 213260m · 0.33 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "JMIA",
+      "qty": 0.328427,
+      "entryPrice": 45.325,
+      "exitPrice": 18.645,
+      "pnl": -8.762432360000002,
+      "openedAt": "2021-01-19T18:22:04.068Z",
+      "closedAt": "2021-10-22T17:48:50.950184Z",
+      "holdMinutes": 397406.78136666666,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 26.680000000000003,
+      "notional": 14.885953775000003,
+      "review": "overnight · 397407m · 26.68 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "JMIA",
+      "qty": 5,
+      "entryPrice": 45.325,
+      "exitPrice": 18.645,
+      "pnl": -133.4,
+      "openedAt": "2021-01-19T18:22:04.068Z",
+      "closedAt": "2021-10-22T17:48:51.09Z",
+      "holdMinutes": 397406.7837,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 26.680000000000003,
+      "notional": 226.625,
+      "review": "overnight · 397407m · 26.68 pts · Flags: overnight, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.302087,
+      "entryPrice": 43.91,
+      "exitPrice": 36.165,
+      "pnl": -2.3396638149999993,
+      "openedAt": "2021-08-24T19:08:41.827Z",
+      "closedAt": "2021-10-22T17:52:43.62612Z",
+      "holdMinutes": 84884.02998333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 7.744999999999997,
+      "notional": 13.264640169999998,
+      "review": "overnight · 84884m · 7.74 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 55,
+      "entryPrice": 43.91,
+      "exitPrice": 36.165,
+      "pnl": -425.97499999999985,
+      "openedAt": "2021-08-24T19:08:41.827Z",
+      "closedAt": "2021-10-22T17:52:43.745Z",
+      "holdMinutes": 84884.03196666666,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 7.744999999999997,
+      "notional": 2415.0499999999997,
+      "review": "overnight · 84884m · 7.74 pts · Flags: overnight, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "BENE",
+      "qty": 0.244377,
+      "entryPrice": 13.34,
+      "exitPrice": 12.155,
+      "pnl": -0.28958674500000015,
+      "openedAt": "2021-10-22T17:35:12.724073Z",
+      "closedAt": "2021-10-22T18:18:58.654Z",
+      "holdMinutes": 43.7655,
+      "overnight": false,
+      "holdBucket": "m15_60",
+      "grade": "B",
+      "flags": [
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 1.1850000000000005,
+      "notional": 3.2599891800000003,
+      "review": "m15 60 · 44m · 1.19 pts · Flags: after_loss_streak, high_frequency_day · Valid hold window; loss is cost of doing business if stop was planned.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "Repeat only if entry/invalidation were written first."
+    },
+    {
+      "ticker": "BENE",
+      "qty": 10.950746,
+      "entryPrice": 13.4,
+      "exitPrice": 12.155,
+      "pnl": -13.633678770000012,
+      "openedAt": "2021-10-22T17:35:12.856Z",
+      "closedAt": "2021-10-22T18:18:58.654Z",
+      "holdMinutes": 43.7633,
+      "overnight": false,
+      "holdBucket": "m15_60",
+      "grade": "C",
+      "flags": [
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 1.245000000000001,
+      "notional": 146.73999640000002,
+      "review": "m15 60 · 44m · 1.25 pts · Flags: after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "BENE",
+      "qty": 10.846745,
+      "entryPrice": 14.29,
+      "exitPrice": 12.155,
+      "pnl": -23.157800575,
+      "openedAt": "2021-10-22T17:45:52.708Z",
+      "closedAt": "2021-10-22T18:18:58.654Z",
+      "holdMinutes": 33.0991,
+      "overnight": false,
+      "holdBucket": "m15_60",
+      "grade": "B",
+      "flags": [
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 2.135,
+      "notional": 154.99998605,
+      "review": "m15 60 · 33m · 2.13 pts · Flags: after_loss_streak, high_frequency_day · Valid hold window; loss is cost of doing business if stop was planned.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "Repeat only if entry/invalidation were written first."
+    },
+    {
+      "ticker": "BENE",
+      "qty": 6.258692,
+      "entryPrice": 15.818,
+      "exitPrice": 12.155,
+      "pnl": -22.925588796,
+      "openedAt": "2021-10-22T17:49:05.646Z",
+      "closedAt": "2021-10-22T18:18:58.654Z",
+      "holdMinutes": 29.883466666666667,
+      "overnight": false,
+      "holdBucket": "m15_60",
+      "grade": "B",
+      "flags": [
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 3.6630000000000003,
+      "notional": 98.999990056,
+      "review": "m15 60 · 30m · 3.66 pts · Flags: after_loss_streak, high_frequency_day · Valid hold window; loss is cost of doing business if stop was planned.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "Repeat only if entry/invalidation were written first."
+    },
+    {
+      "ticker": "BENE",
+      "qty": 1.053811,
+      "entryPrice": 17.84,
+      "exitPrice": 12.155,
+      "pnl": -5.990915535000001,
+      "openedAt": "2021-10-22T17:56:39.812643Z",
+      "closedAt": "2021-10-22T18:18:58.654Z",
+      "holdMinutes": 22.314033333333334,
+      "overnight": false,
+      "holdBucket": "m15_60",
+      "grade": "B",
+      "flags": [
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 5.6850000000000005,
+      "notional": 18.79998824,
+      "review": "m15 60 · 22m · 5.69 pts · Flags: after_loss_streak, high_frequency_day · Valid hold window; loss is cost of doing business if stop was planned.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "Repeat only if entry/invalidation were written first."
+    },
+    {
+      "ticker": "BENE",
+      "qty": 24.645629,
+      "entryPrice": 17.84,
+      "exitPrice": 12.155,
+      "pnl": -140.110400865,
+      "openedAt": "2021-10-22T17:56:39.891Z",
+      "closedAt": "2021-10-22T18:18:58.654Z",
+      "holdMinutes": 22.312716666666667,
+      "overnight": false,
+      "holdBucket": "m15_60",
+      "grade": "C",
+      "flags": [
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 5.6850000000000005,
+      "notional": 439.67802136,
+      "review": "m15 60 · 22m · 5.69 pts · Flags: after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "BENE",
+      "qty": 30.354371,
+      "entryPrice": 17.84,
+      "exitPrice": 12.155,
+      "pnl": -172.564599135,
+      "openedAt": "2021-10-22T17:56:39.891Z",
+      "closedAt": "2021-10-22T18:18:58.654Z",
+      "holdMinutes": 22.312716666666667,
+      "overnight": false,
+      "holdBucket": "m15_60",
+      "grade": "C",
+      "flags": [
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 5.6850000000000005,
+      "notional": 541.52197864,
+      "review": "m15 60 · 22m · 5.69 pts · Flags: after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "BENE",
+      "qty": 0.226877,
+      "entryPrice": 15.505,
+      "exitPrice": 12.155,
+      "pnl": -0.7600379500000003,
+      "openedAt": "2021-10-22T17:58:28.919467Z",
+      "closedAt": "2021-10-22T18:18:58.654Z",
+      "holdMinutes": 20.495583333333332,
+      "overnight": false,
+      "holdBucket": "m15_60",
+      "grade": "B",
+      "flags": [
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 3.3500000000000014,
+      "notional": 3.517727885,
+      "review": "m15 60 · 20m · 3.35 pts · Flags: after_loss_streak, high_frequency_day · Valid hold window; loss is cost of doing business if stop was planned.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "Repeat only if entry/invalidation were written first."
+    },
+    {
+      "ticker": "BENE",
+      "qty": 31.98969,
+      "entryPrice": 15.52,
+      "exitPrice": 12.155,
+      "pnl": -107.64530685000001,
+      "openedAt": "2021-10-22T17:58:29.027Z",
+      "closedAt": "2021-10-22T18:18:58.654Z",
+      "holdMinutes": 20.493783333333333,
+      "overnight": false,
+      "holdBucket": "m15_60",
+      "grade": "C",
+      "flags": [
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 3.365,
+      "notional": 496.4799888,
+      "review": "m15 60 · 20m · 3.37 pts · Flags: after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "BENE",
+      "qty": 0.027205,
+      "entryPrice": 13.6,
+      "exitPrice": 12.155,
+      "pnl": -0.039311225000000005,
+      "openedAt": "2021-10-22T18:15:51.829Z",
+      "closedAt": "2021-10-22T18:18:58.654Z",
+      "holdMinutes": 3.11375,
+      "overnight": false,
+      "holdBucket": "sub_15m",
+      "grade": "C",
+      "flags": [
+        "losing_scratch",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 1.4450000000000003,
+      "notional": 0.369988,
+      "review": "sub 15m · 3m · 1.45 pts · Flags: losing_scratch, after_loss_streak, high_frequency_day · Chop after losses — consistency cost, not information.",
+      "whatWorked": "",
+      "whatFailed": "Chop after losses — consistency cost, not information.",
+      "nextTime": "Default to ≥15m hold or stand down — your sub-15m sample is negative EV."
+    },
+    {
+      "ticker": "BENE",
+      "qty": 36.737692,
+      "entryPrice": 13.6,
+      "exitPrice": 12.155,
+      "pnl": -53.08596494000001,
+      "openedAt": "2021-10-22T18:15:51.829Z",
+      "closedAt": "2021-10-22T18:18:58.654Z",
+      "holdMinutes": 3.11375,
+      "overnight": false,
+      "holdBucket": "sub_15m",
+      "grade": "C",
+      "flags": [
+        "losing_scratch",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 1.4450000000000003,
+      "notional": 499.63261120000004,
+      "review": "sub 15m · 3m · 1.45 pts · Flags: losing_scratch, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "BENE",
+      "qty": 0.239391,
+      "entryPrice": 12.49,
+      "exitPrice": 11.701,
+      "pnl": -0.18887949899999992,
+      "openedAt": "2021-10-22T18:20:44.848866Z",
+      "closedAt": "2021-10-22T18:47:54.417Z",
+      "holdMinutes": 27.159483333333334,
+      "overnight": false,
+      "holdBucket": "m15_60",
+      "grade": "B",
+      "flags": [
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 0.7889999999999997,
+      "notional": 2.98999359,
+      "review": "m15 60 · 27m · 0.79 pts · Flags: after_loss_streak, high_frequency_day · Valid hold window; loss is cost of doing business if stop was planned.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "Repeat only if entry/invalidation were written first."
+    },
+    {
+      "ticker": "BENE",
+      "qty": 148.881991,
+      "entryPrice": 12.4999,
+      "exitPrice": 11.701,
+      "pnl": -118.94182260989996,
+      "openedAt": "2021-10-22T18:20:44.909Z",
+      "closedAt": "2021-10-22T18:47:54.417Z",
+      "holdMinutes": 27.158466666666666,
+      "overnight": false,
+      "holdBucket": "m15_60",
+      "grade": "C",
+      "flags": [
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 0.7988999999999997,
+      "notional": 1861.0099993009,
+      "review": "m15 60 · 27m · 0.80 pts · Flags: after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    }
+  ],
+  "tilt": {
+    "state": "overnight_hungover",
+    "score": 80,
+    "reasons": [
+      "Loss streak ×43",
+      "Overnight PnL $-1145"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 43
+    },
+    "maxWin": 0,
+    "maxLoss": 43
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

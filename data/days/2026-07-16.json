@@ -1,0 +1,550 @@
+{
+  "id": "2026-07-16",
+  "date": "2026-07-16",
+  "label": "Thursday, Jul 16, 2026",
+  "weekday": "Thu",
+  "weekId": "2026-W29",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:04.788Z",
+  "realizedPnl": -320.6740378980001,
+  "tradeCount": 12,
+  "winCount": 0,
+  "lossCount": 12,
+  "processGrades": {
+    "A": 1,
+    "B": 2,
+    "C": 9
+  },
+  "metrics": {
+    "tradeCount": 12,
+    "winCount": 0,
+    "lossCount": 12,
+    "flatCount": 0,
+    "winRate": 0,
+    "winPct": 0,
+    "profitFactor": 0,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": -26.722836491500008,
+    "avgWin": null,
+    "avgLoss": -26.722836491500008,
+    "avgLossAbs": 26.722836491500008,
+    "grossWin": 0,
+    "grossLoss": -320.6740378980001,
+    "realizedPnl": -320.6740378980001,
+    "bestTrade": -0.26821559600000056,
+    "worstTrade": -203.99999999999991,
+    "avgHoldMinutes": 761.8697791666667,
+    "equityCurve": [
+      {
+        "t": "2026-07-16T17:10:18.413Z",
+        "pnl": -0.26821559600000056
+      },
+      {
+        "t": "2026-07-16T17:10:18.413Z",
+        "pnl": -5.755815596000012
+      },
+      {
+        "t": "2026-07-16T17:17:44.622Z",
+        "pnl": -8.602349531000037
+      },
+      {
+        "t": "2026-07-16T17:50:41.37Z",
+        "pnl": -9.61204953100004
+      },
+      {
+        "t": "2026-07-16T17:50:41.37Z",
+        "pnl": -9.94435189800004
+      },
+      {
+        "t": "2026-07-16T17:50:41.37Z",
+        "pnl": -14.992851898000051
+      },
+      {
+        "t": "2026-07-16T19:48:07.143Z",
+        "pnl": -15.29403789800006
+      },
+      {
+        "t": "2026-07-16T19:48:07.143Z",
+        "pnl": -26.774037898000362
+      },
+      {
+        "t": "2026-07-17T03:16:44.757Z",
+        "pnl": -77.77403789800034
+      },
+      {
+        "t": "2026-07-17T03:16:44.757Z",
+        "pnl": -281.77403789800024
+      },
+      {
+        "t": "2026-07-17T03:59:31.389Z",
+        "pnl": -303.3740378980002
+      },
+      {
+        "t": "2026-07-17T03:59:31.389Z",
+        "pnl": -320.6740378980001
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "CONL",
+      "pnl": -254.9999999999999,
+      "trades": 2,
+      "wins": 0
+    },
+    {
+      "ticker": "SOXL",
+      "pnl": -53.5277199350002,
+      "trades": 5,
+      "wins": 0
+    },
+    {
+      "ticker": "ETHU",
+      "pnl": -12.146317963000026,
+      "trades": 5,
+      "wins": 0
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "ETHU",
+      "qty": 0.29326,
+      "entryPrice": 16.7997,
+      "exitPrice": 15.8851,
+      "pnl": -0.26821559600000056,
+      "openedAt": "2026-07-15T23:14:59.952Z",
+      "closedAt": "2026-07-16T17:10:18.413Z",
+      "holdMinutes": 1075.3076833333334,
+      "overnight": true
+    },
+    {
+      "ticker": "ETHU",
+      "qty": 6,
+      "entryPrice": 16.7997,
+      "exitPrice": 15.8851,
+      "pnl": -5.487600000000011,
+      "openedAt": "2026-07-15T23:14:59.952Z",
+      "closedAt": "2026-07-16T17:10:18.413Z",
+      "holdMinutes": 1075.3076833333334,
+      "overnight": true
+    },
+    {
+      "ticker": "SOXL",
+      "qty": 3.536067,
+      "entryPrice": 141.4,
+      "exitPrice": 140.595,
+      "pnl": -2.846533935000024,
+      "openedAt": "2026-07-16T16:50:32.745Z",
+      "closedAt": "2026-07-16T17:17:44.622Z",
+      "holdMinutes": 27.19795,
+      "overnight": false
+    },
+    {
+      "ticker": "ETHU",
+      "qty": 1,
+      "entryPrice": 16.7997,
+      "exitPrice": 15.79,
+      "pnl": -1.0097000000000023,
+      "openedAt": "2026-07-15T23:14:59.952Z",
+      "closedAt": "2026-07-16T17:50:41.37Z",
+      "holdMinutes": 1115.6903,
+      "overnight": true
+    },
+    {
+      "ticker": "ETHU",
+      "qty": 0.32911,
+      "entryPrice": 16.7997,
+      "exitPrice": 15.79,
+      "pnl": -0.33230236700000076,
+      "openedAt": "2026-07-15T23:14:59.952Z",
+      "closedAt": "2026-07-16T17:50:41.37Z",
+      "holdMinutes": 1115.6903,
+      "overnight": true
+    },
+    {
+      "ticker": "ETHU",
+      "qty": 5,
+      "entryPrice": 16.7997,
+      "exitPrice": 15.79,
+      "pnl": -5.048500000000011,
+      "openedAt": "2026-07-15T23:14:59.952Z",
+      "closedAt": "2026-07-16T17:50:41.37Z",
+      "holdMinutes": 1115.6903,
+      "overnight": true
+    },
+    {
+      "ticker": "SOXL",
+      "qty": 0.3673,
+      "entryPrice": 139.205,
+      "exitPrice": 138.385,
+      "pnl": -0.30118600000000795,
+      "openedAt": "2026-07-16T17:50:17.508Z",
+      "closedAt": "2026-07-16T19:48:07.143Z",
+      "holdMinutes": 117.82725,
+      "overnight": false
+    },
+    {
+      "ticker": "SOXL",
+      "qty": 14,
+      "entryPrice": 139.205,
+      "exitPrice": 138.385,
+      "pnl": -11.480000000000302,
+      "openedAt": "2026-07-16T17:50:17.508Z",
+      "closedAt": "2026-07-16T19:48:07.143Z",
+      "holdMinutes": 117.82725,
+      "overnight": false
+    },
+    {
+      "ticker": "CONL",
+      "qty": 100,
+      "entryPrice": 5.43,
+      "exitPrice": 4.92,
+      "pnl": -50.99999999999998,
+      "openedAt": "2026-07-15T23:30:58.015Z",
+      "closedAt": "2026-07-17T03:16:44.757Z",
+      "holdMinutes": 1665.7790333333332,
+      "overnight": true
+    },
+    {
+      "ticker": "CONL",
+      "qty": 400,
+      "entryPrice": 5.43,
+      "exitPrice": 4.92,
+      "pnl": -203.99999999999991,
+      "openedAt": "2026-07-15T23:30:58.015Z",
+      "closedAt": "2026-07-17T03:16:44.757Z",
+      "holdMinutes": 1665.7790333333332,
+      "overnight": true
+    },
+    {
+      "ticker": "SOXL",
+      "qty": 10,
+      "entryPrice": 136.87,
+      "exitPrice": 134.71,
+      "pnl": -21.599999999999966,
+      "openedAt": "2026-07-17T03:33:54.413Z",
+      "closedAt": "2026-07-17T03:59:31.389Z",
+      "holdMinutes": 25.616266666666668,
+      "overnight": false
+    },
+    {
+      "ticker": "SOXL",
+      "qty": 10,
+      "entryPrice": 136.44,
+      "exitPrice": 134.71,
+      "pnl": -17.299999999999898,
+      "openedAt": "2026-07-17T03:34:47.931Z",
+      "closedAt": "2026-07-17T03:59:31.389Z",
+      "holdMinutes": 24.7243,
+      "overnight": false
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "ETHU",
+      "qty": 0.29326,
+      "entryPrice": 16.7997,
+      "exitPrice": 15.8851,
+      "pnl": -0.26821559600000056,
+      "openedAt": "2026-07-15T23:14:59.952Z",
+      "closedAt": "2026-07-16T17:10:18.413Z",
+      "holdMinutes": 1075.3076833333334,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.9146000000000019,
+      "notional": 4.926680022000001,
+      "review": "overnight · 1075m · 0.91 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "ETHU",
+      "qty": 6,
+      "entryPrice": 16.7997,
+      "exitPrice": 15.8851,
+      "pnl": -5.487600000000011,
+      "openedAt": "2026-07-15T23:14:59.952Z",
+      "closedAt": "2026-07-16T17:10:18.413Z",
+      "holdMinutes": 1075.3076833333334,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "size_up_after_loss"
+      ],
+      "movePts": 0.9146000000000019,
+      "notional": 100.79820000000001,
+      "review": "overnight · 1075m · 0.91 pts · Flags: overnight, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "SOXL",
+      "qty": 3.536067,
+      "entryPrice": 141.4,
+      "exitPrice": 140.595,
+      "pnl": -2.846533935000024,
+      "openedAt": "2026-07-16T16:50:32.745Z",
+      "closedAt": "2026-07-16T17:17:44.622Z",
+      "holdMinutes": 27.19795,
+      "overnight": false,
+      "holdBucket": "m15_60",
+      "grade": "C",
+      "flags": [
+        "after_loss_streak",
+        "size_up_after_loss"
+      ],
+      "movePts": 0.8050000000000068,
+      "notional": 499.99987380000005,
+      "review": "m15 60 · 27m · 0.81 pts · Flags: after_loss_streak, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "ETHU",
+      "qty": 1,
+      "entryPrice": 16.7997,
+      "exitPrice": 15.79,
+      "pnl": -1.0097000000000023,
+      "openedAt": "2026-07-15T23:14:59.952Z",
+      "closedAt": "2026-07-16T17:50:41.37Z",
+      "holdMinutes": 1115.6903,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak"
+      ],
+      "movePts": 1.0097000000000023,
+      "notional": 16.7997,
+      "review": "overnight · 1116m · 1.01 pts · Flags: overnight, after_loss_streak · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "ETHU",
+      "qty": 0.32911,
+      "entryPrice": 16.7997,
+      "exitPrice": 15.79,
+      "pnl": -0.33230236700000076,
+      "openedAt": "2026-07-15T23:14:59.952Z",
+      "closedAt": "2026-07-16T17:50:41.37Z",
+      "holdMinutes": 1115.6903,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 1.0097000000000023,
+      "notional": 5.528949267000001,
+      "review": "overnight · 1116m · 1.01 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "ETHU",
+      "qty": 5,
+      "entryPrice": 16.7997,
+      "exitPrice": 15.79,
+      "pnl": -5.048500000000011,
+      "openedAt": "2026-07-15T23:14:59.952Z",
+      "closedAt": "2026-07-16T17:50:41.37Z",
+      "holdMinutes": 1115.6903,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 1.0097000000000023,
+      "notional": 83.9985,
+      "review": "overnight · 1116m · 1.01 pts · Flags: overnight, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "SOXL",
+      "qty": 0.3673,
+      "entryPrice": 139.205,
+      "exitPrice": 138.385,
+      "pnl": -0.30118600000000795,
+      "openedAt": "2026-07-16T17:50:17.508Z",
+      "closedAt": "2026-07-16T19:48:07.143Z",
+      "holdMinutes": 117.82725,
+      "overnight": false,
+      "holdBucket": "over_60m",
+      "grade": "A",
+      "flags": [
+        "gave_room",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 0.8200000000000216,
+      "notional": 51.129996500000004,
+      "review": "over 60m · 118m · 0.82 pts · Flags: gave_room, after_loss_streak, high_frequency_day · Held past noise. Matches your positive-EV hold window.",
+      "whatWorked": "Held past noise. Matches your positive-EV hold window.",
+      "whatFailed": "",
+      "nextTime": "Repeat only if entry/invalidation were written first."
+    },
+    {
+      "ticker": "SOXL",
+      "qty": 14,
+      "entryPrice": 139.205,
+      "exitPrice": 138.385,
+      "pnl": -11.480000000000302,
+      "openedAt": "2026-07-16T17:50:17.508Z",
+      "closedAt": "2026-07-16T19:48:07.143Z",
+      "holdMinutes": 117.82725,
+      "overnight": false,
+      "holdBucket": "over_60m",
+      "grade": "C",
+      "flags": [
+        "gave_room",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 0.8200000000000216,
+      "notional": 1948.8700000000001,
+      "review": "over 60m · 118m · 0.82 pts · Flags: gave_room, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "Held through noise.",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "CONL",
+      "qty": 100,
+      "entryPrice": 5.43,
+      "exitPrice": 4.92,
+      "pnl": -50.99999999999998,
+      "openedAt": "2026-07-15T23:30:58.015Z",
+      "closedAt": "2026-07-17T03:16:44.757Z",
+      "holdMinutes": 1665.7790333333332,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 0.5099999999999998,
+      "notional": 543,
+      "review": "overnight · 1666m · 0.51 pts · Flags: overnight, after_loss_streak, high_frequency_day · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "CONL",
+      "qty": 400,
+      "entryPrice": 5.43,
+      "exitPrice": 4.92,
+      "pnl": -203.99999999999991,
+      "openedAt": "2026-07-15T23:30:58.015Z",
+      "closedAt": "2026-07-17T03:16:44.757Z",
+      "holdMinutes": 1665.7790333333332,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 0.5099999999999998,
+      "notional": 2172,
+      "review": "overnight · 1666m · 0.51 pts · Flags: overnight, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "SOXL",
+      "qty": 10,
+      "entryPrice": 136.87,
+      "exitPrice": 134.71,
+      "pnl": -21.599999999999966,
+      "openedAt": "2026-07-17T03:33:54.413Z",
+      "closedAt": "2026-07-17T03:59:31.389Z",
+      "holdMinutes": 25.616266666666668,
+      "overnight": false,
+      "holdBucket": "m15_60",
+      "grade": "B",
+      "flags": [
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 2.1599999999999966,
+      "notional": 1368.7,
+      "review": "m15 60 · 26m · 2.16 pts · Flags: after_loss_streak, high_frequency_day · Valid hold window; loss is cost of doing business if stop was planned.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "Repeat only if entry/invalidation were written first."
+    },
+    {
+      "ticker": "SOXL",
+      "qty": 10,
+      "entryPrice": 136.44,
+      "exitPrice": 134.71,
+      "pnl": -17.299999999999898,
+      "openedAt": "2026-07-17T03:34:47.931Z",
+      "closedAt": "2026-07-17T03:59:31.389Z",
+      "holdMinutes": 24.7243,
+      "overnight": false,
+      "holdBucket": "m15_60",
+      "grade": "B",
+      "flags": [
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 1.7299999999999898,
+      "notional": 1364.4,
+      "review": "m15 60 · 25m · 1.73 pts · Flags: after_loss_streak, high_frequency_day · Valid hold window; loss is cost of doing business if stop was planned.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "Repeat only if entry/invalidation were written first."
+    }
+  ],
+  "tilt": {
+    "state": "overnight_hungover",
+    "score": 80,
+    "reasons": [
+      "Loss streak ×12",
+      "Overnight PnL $-267"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 12
+    },
+    "maxWin": 0,
+    "maxLoss": 12
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

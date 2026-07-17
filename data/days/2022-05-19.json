@@ -1,0 +1,110 @@
+{
+  "id": "2022-05-19",
+  "date": "2022-05-19",
+  "label": "Thursday, May 19, 2022",
+  "weekday": "Thu",
+  "weekId": "2022-W20",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:03.958Z",
+  "realizedPnl": -50.8926,
+  "tradeCount": 1,
+  "winCount": 0,
+  "lossCount": 1,
+  "processGrades": {
+    "A": 0,
+    "B": 0,
+    "C": 1
+  },
+  "metrics": {
+    "tradeCount": 1,
+    "winCount": 0,
+    "lossCount": 1,
+    "flatCount": 0,
+    "winRate": 0,
+    "winPct": 0,
+    "profitFactor": 0,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": -50.8926,
+    "avgWin": null,
+    "avgLoss": -50.8926,
+    "avgLossAbs": 50.8926,
+    "grossWin": 0,
+    "grossLoss": -50.8926,
+    "realizedPnl": -50.8926,
+    "bestTrade": -50.8926,
+    "worstTrade": -50.8926,
+    "avgHoldMinutes": 73685.98296666666,
+    "equityCurve": [
+      {
+        "t": "2022-05-19T17:51:46.658Z",
+        "pnl": -50.8926
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "AMC",
+      "pnl": -50.8926,
+      "trades": 1,
+      "wins": 0
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "AMC",
+      "qty": 3,
+      "entryPrice": 29.6992,
+      "exitPrice": 12.735,
+      "pnl": -50.8926,
+      "openedAt": "2022-03-29T13:45:47.68Z",
+      "closedAt": "2022-05-19T17:51:46.658Z",
+      "holdMinutes": 73685.98296666666,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "AMC",
+      "qty": 3,
+      "entryPrice": 29.6992,
+      "exitPrice": 12.735,
+      "pnl": -50.8926,
+      "openedAt": "2022-03-29T13:45:47.68Z",
+      "closedAt": "2022-05-19T17:51:46.658Z",
+      "holdMinutes": 73685.98296666666,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 16.9642,
+      "notional": 89.0976,
+      "review": "overnight · 73686m · 16.96 pts · Flags: overnight · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "overnight_hungover",
+    "score": 80,
+    "reasons": [
+      "Overnight PnL $-51"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 1
+    },
+    "maxWin": 0,
+    "maxLoss": 1
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

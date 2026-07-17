@@ -1,0 +1,147 @@
+{
+  "id": "2022-W13",
+  "label": "Mar 28 – Apr 1, 2022",
+  "start": "2022-03-28",
+  "end": "2022-04-04",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:06.855Z",
+  "realizedPnl": -76.36410720510005,
+  "tradeCount": 7,
+  "winCount": 0,
+  "lossCount": 7,
+  "priorWeekPnl": 8.58082546,
+  "metrics": {
+    "tradeCount": 7,
+    "winCount": 0,
+    "lossCount": 7,
+    "flatCount": 0,
+    "winRate": 0,
+    "winPct": 0,
+    "profitFactor": 0,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": -10.90915817215715,
+    "avgWin": null,
+    "avgLoss": -10.90915817215715,
+    "avgLossAbs": 10.90915817215715,
+    "grossWin": 0,
+    "grossLoss": -76.36410720510005,
+    "realizedPnl": -76.36410720510005,
+    "bestTrade": -0.008651485100000003,
+    "worstTrade": -67.63258464480005,
+    "avgHoldMinutes": 18.521785714285716,
+    "equityCurve": [
+      {
+        "t": "2022-03-29T14:03:35.551Z",
+        "pnl": -0.5787315015000001
+      },
+      {
+        "t": "2022-03-29T14:03:35.551Z",
+        "pnl": -1.4824095452999992
+      },
+      {
+        "t": "2022-03-29T14:04:25.15Z",
+        "pnl": -7.017937052400001
+      },
+      {
+        "t": "2022-03-29T14:04:25.15Z",
+        "pnl": -7.0265885375
+      },
+      {
+        "t": "2022-03-29T14:04:25.15Z",
+        "pnl": -7.4274034445
+      },
+      {
+        "t": "2022-03-29T14:04:25.15Z",
+        "pnl": -8.731522560300002
+      },
+      {
+        "t": "2022-03-29T14:04:25.15Z",
+        "pnl": -76.36410720510005
+      }
+    ]
+  },
+  "soxlMetrics": {
+    "tradeCount": 0,
+    "winCount": 0,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": null,
+    "winPct": null,
+    "profitFactor": null,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": null,
+    "avgWin": null,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0,
+    "grossLoss": 0,
+    "realizedPnl": 0,
+    "bestTrade": null,
+    "worstTrade": null,
+    "avgHoldMinutes": null,
+    "equityCurve": []
+  },
+  "days": [
+    {
+      "date": "2022-03-28",
+      "label": "Mon",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2022-03-29",
+      "label": "Tue",
+      "pnl": -76.36410720510005,
+      "trades": 7
+    },
+    {
+      "date": "2022-03-30",
+      "label": "Wed",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2022-03-31",
+      "label": "Thu",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2022-04-01",
+      "label": "Fri",
+      "pnl": 0,
+      "trades": 0
+    }
+  ],
+  "byTicker": [
+    {
+      "ticker": "AMC",
+      "pnl": -76.36410720510005,
+      "trades": 7,
+      "wins": 0
+    }
+  ],
+  "tilt": {
+    "state": "cooling_off",
+    "score": 70,
+    "reasons": [
+      "Loss streak ×7"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 7
+    },
+    "maxWin": 0,
+    "maxLoss": 7
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "mistakes": [],
+  "openNotes": []
+}

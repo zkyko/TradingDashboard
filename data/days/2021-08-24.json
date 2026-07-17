@@ -1,0 +1,1858 @@
+{
+  "id": "2021-08-24",
+  "date": "2021-08-24",
+  "label": "Tuesday, Aug 24, 2021",
+  "weekday": "Tue",
+  "weekId": "2021-W34",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:03.373Z",
+  "realizedPnl": 7932.357992998301,
+  "tradeCount": 47,
+  "winCount": 44,
+  "lossCount": 3,
+  "processGrades": {
+    "A": 0,
+    "B": 43,
+    "C": 4
+  },
+  "metrics": {
+    "tradeCount": 47,
+    "winCount": 44,
+    "lossCount": 3,
+    "flatCount": 0,
+    "winRate": 0.9361702127659575,
+    "winPct": 93.61702127659575,
+    "profitFactor": 348.6070963954144,
+    "profitFactorInfinite": false,
+    "rewardRisk": 23.76866566332371,
+    "expectancy": 168.77357431911278,
+    "avgWin": 180.79949749059776,
+    "avgLoss": -7.606632195999997,
+    "avgLossAbs": 7.606632195999997,
+    "grossWin": 7955.177889586301,
+    "grossLoss": -22.81989658799999,
+    "realizedPnl": 7932.357992998301,
+    "bestTrade": 3469.9592364750006,
+    "worstTrade": -16.011269807999998,
+    "avgHoldMinutes": 183324.83060035467,
+    "equityCurve": [
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 7.407170140000001
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 10.869245320000001
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 38.72424532000001
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 66.58924532
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 225.09924343500003
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 243.81501361590003
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 329.37351361590004
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 330.67189237290006
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 336.4696550729001
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 676.3840550729001
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 856.2090550729001
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 1070.2062550729001
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 1140.9662550729001
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 1809.6801362769002
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 1814.0550655689
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 1850.8701655689001
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 1939.9260644089002
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 5409.8853008839005
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 5507.496231703901
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 5507.6083045039
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 5522.7480246439
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 5694.2880246439
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 5695.3731581689
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 5772.7540811169
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 5775.5508483669
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 6059.996952822
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 6064.2418025219995
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 6751.545724629999
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 7046.33412463
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 7506.3601246299995
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 7574.38632463
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 7582.2492134251
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 7582.2590420179995
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 7608.009242018
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 7667.083442018
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 7672.250066708
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 7704.000329208
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 7764.496267952
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 7846.121267952
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 7852.107439052001
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 7888.606605084001
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 7886.6529783040005
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 7870.641708496
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 7870.852432316
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 7871.7483468233
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 7866.893346823301
+      },
+      {
+        "t": "2021-08-24T19:04:57.412Z",
+        "pnl": 7932.357992998301
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "AMC",
+      "pnl": 7932.357992998301,
+      "trades": 47,
+      "wins": 44
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "AMC",
+      "qty": 0.274543,
+      "entryPrice": 16.915,
+      "exitPrice": 43.895,
+      "pnl": 7.407170140000001,
+      "openedAt": "2021-01-27T15:44:47.582527Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 301160.16383333335,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.125574,
+      "entryPrice": 16.325,
+      "exitPrice": 43.895,
+      "pnl": 3.4620751800000003,
+      "openedAt": "2021-01-27T15:47:19.629021Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 301157.62971666665,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 1,
+      "entryPrice": 16.04,
+      "exitPrice": 43.895,
+      "pnl": 27.855000000000004,
+      "openedAt": "2021-01-27T16:10:01.087Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 301134.93875,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 1,
+      "entryPrice": 16.03,
+      "exitPrice": 43.895,
+      "pnl": 27.865000000000002,
+      "openedAt": "2021-01-27T16:10:01.087Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 301134.93875,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 5.889281,
+      "entryPrice": 16.98,
+      "exitPrice": 43.895,
+      "pnl": 158.50999811500003,
+      "openedAt": "2021-01-27T16:13:03.236Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 301131.90293333336,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.676923,
+      "entryPrice": 16.2467,
+      "exitPrice": 43.895,
+      "pnl": 18.7157701809,
+      "openedAt": "2021-01-27T16:28:07.603Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 301116.83015,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 3,
+      "entryPrice": 15.3755,
+      "exitPrice": 43.895,
+      "pnl": 85.55850000000001,
+      "openedAt": "2021-01-27T16:55:10.031Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 301089.7896833333,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.045526,
+      "entryPrice": 15.3755,
+      "exitPrice": 43.895,
+      "pnl": 1.298378757,
+      "openedAt": "2021-01-27T16:55:10.031Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 301089.7896833333,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.203074,
+      "entryPrice": 15.345,
+      "exitPrice": 43.895,
+      "pnl": 5.797762700000001,
+      "openedAt": "2021-01-27T16:55:10.009532Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 301089.79005,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 12,
+      "entryPrice": 15.5688,
+      "exitPrice": 43.895,
+      "pnl": 339.91440000000006,
+      "openedAt": "2021-01-29T17:05:12.756Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 298199.74426666665,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 5,
+      "entryPrice": 7.93,
+      "exitPrice": 43.895,
+      "pnl": 179.82500000000002,
+      "openedAt": "2021-02-02T15:02:37.201Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 292562.33685,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 6,
+      "entryPrice": 8.2288,
+      "exitPrice": 43.895,
+      "pnl": 213.99720000000002,
+      "openedAt": "2021-02-02T16:45:51.183Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 292459.10381666664,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 2,
+      "entryPrice": 8.515,
+      "exitPrice": 43.895,
+      "pnl": 70.76,
+      "openedAt": "2021-02-03T16:00:39.625Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 291064.29645,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 17.497812,
+      "entryPrice": 5.678,
+      "exitPrice": 43.895,
+      "pnl": 668.7138812040001,
+      "openedAt": "2021-02-10T15:28:28.849Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 281016.47605,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.114476,
+      "entryPrice": 5.678,
+      "exitPrice": 43.895,
+      "pnl": 4.374929292,
+      "openedAt": "2021-02-10T15:28:28.849Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 281016.47605,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 1,
+      "entryPrice": 7.0799,
+      "exitPrice": 43.895,
+      "pnl": 36.8151,
+      "openedAt": "2021-02-24T14:37:31.943Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 260907.42448333334,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 2.484472,
+      "entryPrice": 8.05,
+      "exitPrice": 43.895,
+      "pnl": 89.05589883999998,
+      "openedAt": "2021-03-04T20:53:30.52Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 249011.4482,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 101.832993,
+      "entryPrice": 9.82,
+      "exitPrice": 43.895,
+      "pnl": 3469.9592364750006,
+      "openedAt": "2021-05-10T16:31:17.272Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 152793.669,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 3.271692,
+      "entryPrice": 14.06,
+      "exitPrice": 43.895,
+      "pnl": 97.61093082,
+      "openedAt": "2021-05-18T17:57:02.158Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 141187.9209,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.00392,
+      "entryPrice": 15.305,
+      "exitPrice": 43.895,
+      "pnl": 0.11207280000000001,
+      "openedAt": "2021-05-25T19:04:59.329Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 131039.96805,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.529546,
+      "entryPrice": 15.305,
+      "exitPrice": 43.895,
+      "pnl": 15.139720140000001,
+      "openedAt": "2021-05-25T19:04:59.254824Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 131039.9693,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 6,
+      "entryPrice": 15.305,
+      "exitPrice": 43.895,
+      "pnl": 171.54000000000002,
+      "openedAt": "2021-05-25T19:04:59.329Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 131039.96805,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.042035,
+      "entryPrice": 18.08,
+      "exitPrice": 43.895,
+      "pnl": 1.0851335250000003,
+      "openedAt": "2021-05-26T13:37:10.209157Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 129927.78671666667,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 2.99854,
+      "entryPrice": 18.0888,
+      "exitPrice": 43.895,
+      "pnl": 77.38092294800002,
+      "openedAt": "2021-05-26T13:37:10.277Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 129927.78558333333,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.108025,
+      "entryPrice": 18.005,
+      "exitPrice": 43.895,
+      "pnl": 2.7967672500000003,
+      "openedAt": "2021-05-26T13:55:56.112958Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 129909.02166666667,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 10.992279,
+      "entryPrice": 18.0181,
+      "exitPrice": 43.895,
+      "pnl": 284.44610445510006,
+      "openedAt": "2021-05-26T13:55:56.179Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 129909.02055,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.16653,
+      "entryPrice": 18.405,
+      "exitPrice": 43.895,
+      "pnl": 4.2448497000000005,
+      "openedAt": "2021-05-26T14:08:53.490663Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 129896.06536666666,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 26.979016,
+      "entryPrice": 18.4195,
+      "exitPrice": 43.895,
+      "pnl": 687.3039221080002,
+      "openedAt": "2021-05-26T14:08:53.598Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 129896.06356666666,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 12,
+      "entryPrice": 19.3293,
+      "exitPrice": 43.895,
+      "pnl": 294.7884,
+      "openedAt": "2021-05-26T16:18:10.203Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 129766.78681666666,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 21,
+      "entryPrice": 21.989,
+      "exitPrice": 43.895,
+      "pnl": 460.02600000000007,
+      "openedAt": "2021-05-27T15:59:06.281Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 128345.85218333334,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 6,
+      "entryPrice": 32.5573,
+      "exitPrice": 43.895,
+      "pnl": 68.02620000000003,
+      "openedAt": "2021-05-28T13:45:45.646Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 127039.1961,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.543201,
+      "entryPrice": 29.4199,
+      "exitPrice": 43.895,
+      "pnl": 7.8628887951000035,
+      "openedAt": "2021-05-28T14:30:55.479Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 126994.03221666667,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.000679,
+      "entryPrice": 29.4199,
+      "exitPrice": 43.895,
+      "pnl": 0.009828592900000004,
+      "openedAt": "2021-05-28T14:30:55.479Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 126994.03221666667,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 2,
+      "entryPrice": 31.0199,
+      "exitPrice": 43.895,
+      "pnl": 25.750200000000007,
+      "openedAt": "2021-05-28T14:43:32.898Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 126981.40856666667,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 3.7,
+      "entryPrice": 27.929,
+      "exitPrice": 43.895,
+      "pnl": 59.07420000000002,
+      "openedAt": "2021-05-28T15:54:16.348Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 126910.6844,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.324333,
+      "entryPrice": 27.965,
+      "exitPrice": 43.895,
+      "pnl": 5.166624690000001,
+      "openedAt": "2021-05-28T15:55:03.940261Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 126909.8912,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 1.9975,
+      "entryPrice": 28,
+      "exitPrice": 43.895,
+      "pnl": 31.75026250000001,
+      "openedAt": "2021-05-28T15:55:04.063Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 126909.88915,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 3.65636,
+      "entryPrice": 27.3496,
+      "exitPrice": 43.895,
+      "pnl": 60.495938744000014,
+      "openedAt": "2021-05-28T18:17:58.942Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 126766.9745,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 5,
+      "entryPrice": 27.57,
+      "exitPrice": 43.895,
+      "pnl": 81.62500000000001,
+      "openedAt": "2021-05-28T18:52:10.723Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 126732.77815,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.32774,
+      "entryPrice": 25.63,
+      "exitPrice": 43.895,
+      "pnl": 5.986171100000001,
+      "openedAt": "2021-05-28T19:23:52.939041Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 126701.07455,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 1.999297,
+      "entryPrice": 25.639,
+      "exitPrice": 43.895,
+      "pnl": 36.49916603200001,
+      "openedAt": "2021-05-28T19:23:53.002Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 126701.0735,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.490861,
+      "entryPrice": 47.875,
+      "exitPrice": 43.895,
+      "pnl": -1.9536267799999985,
+      "openedAt": "2021-06-04T19:18:34.995309Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 116626.37361666666,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 3.99792,
+      "entryPrice": 47.8999,
+      "exitPrice": 43.895,
+      "pnl": -16.011269807999998,
+      "openedAt": "2021-06-04T19:18:35.109Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 116626.37171666666,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.232844,
+      "entryPrice": 42.99,
+      "exitPrice": 43.895,
+      "pnl": 0.21072382000000026,
+      "openedAt": "2021-06-11T14:32:21.137905Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 106832.60458333333,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.999793,
+      "entryPrice": 42.9989,
+      "exitPrice": 43.895,
+      "pnl": 0.8959145073000041,
+      "openedAt": "2021-06-11T14:32:21.257Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 106832.60258333334,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 1,
+      "entryPrice": 48.75,
+      "exitPrice": 43.895,
+      "pnl": -4.854999999999997,
+      "openedAt": "2021-07-02T14:10:05.537Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 76614.86458333333,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 5.911029,
+      "entryPrice": 32.82,
+      "exitPrice": 43.895,
+      "pnl": 65.46464617500001,
+      "openedAt": "2021-08-13T15:14:43.665Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 16070.229116666667,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "AMC",
+      "qty": 0.274543,
+      "entryPrice": 16.915,
+      "exitPrice": 43.895,
+      "pnl": 7.407170140000001,
+      "openedAt": "2021-01-27T15:44:47.582527Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 301160.16383333335,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 26.980000000000004,
+      "notional": 4.643894844999999,
+      "review": "overnight · 301160m · 26.98 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.125574,
+      "entryPrice": 16.325,
+      "exitPrice": 43.895,
+      "pnl": 3.4620751800000003,
+      "openedAt": "2021-01-27T15:47:19.629021Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 301157.62971666665,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 27.570000000000004,
+      "notional": 2.0499955499999998,
+      "review": "overnight · 301158m · 27.57 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 1,
+      "entryPrice": 16.04,
+      "exitPrice": 43.895,
+      "pnl": 27.855000000000004,
+      "openedAt": "2021-01-27T16:10:01.087Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 301134.93875,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 27.855000000000004,
+      "notional": 16.04,
+      "review": "overnight · 301135m · 27.86 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 1,
+      "entryPrice": 16.03,
+      "exitPrice": 43.895,
+      "pnl": 27.865000000000002,
+      "openedAt": "2021-01-27T16:10:01.087Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 301134.93875,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 27.865000000000002,
+      "notional": 16.03,
+      "review": "overnight · 301135m · 27.87 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 5.889281,
+      "entryPrice": 16.98,
+      "exitPrice": 43.895,
+      "pnl": 158.50999811500003,
+      "openedAt": "2021-01-27T16:13:03.236Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 301131.90293333336,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 26.915000000000003,
+      "notional": 99.99999138000001,
+      "review": "overnight · 301132m · 26.92 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.676923,
+      "entryPrice": 16.2467,
+      "exitPrice": 43.895,
+      "pnl": 18.7157701809,
+      "openedAt": "2021-01-27T16:28:07.603Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 301116.83015,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 27.648300000000003,
+      "notional": 10.997764904100002,
+      "review": "overnight · 301117m · 27.65 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 3,
+      "entryPrice": 15.3755,
+      "exitPrice": 43.895,
+      "pnl": 85.55850000000001,
+      "openedAt": "2021-01-27T16:55:10.031Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 301089.7896833333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 28.5195,
+      "notional": 46.1265,
+      "review": "overnight · 301090m · 28.52 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.045526,
+      "entryPrice": 15.3755,
+      "exitPrice": 43.895,
+      "pnl": 1.298378757,
+      "openedAt": "2021-01-27T16:55:10.031Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 301089.7896833333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 28.5195,
+      "notional": 0.6999850129999999,
+      "review": "overnight · 301090m · 28.52 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.203074,
+      "entryPrice": 15.345,
+      "exitPrice": 43.895,
+      "pnl": 5.797762700000001,
+      "openedAt": "2021-01-27T16:55:10.009532Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 301089.79005,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 28.550000000000004,
+      "notional": 3.11617053,
+      "review": "overnight · 301090m · 28.55 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 12,
+      "entryPrice": 15.5688,
+      "exitPrice": 43.895,
+      "pnl": 339.91440000000006,
+      "openedAt": "2021-01-29T17:05:12.756Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 298199.74426666665,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 28.326200000000004,
+      "notional": 186.8256,
+      "review": "overnight · 298200m · 28.33 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 5,
+      "entryPrice": 7.93,
+      "exitPrice": 43.895,
+      "pnl": 179.82500000000002,
+      "openedAt": "2021-02-02T15:02:37.201Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 292562.33685,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 35.965,
+      "notional": 39.65,
+      "review": "overnight · 292562m · 35.97 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 6,
+      "entryPrice": 8.2288,
+      "exitPrice": 43.895,
+      "pnl": 213.99720000000002,
+      "openedAt": "2021-02-02T16:45:51.183Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 292459.10381666664,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 35.6662,
+      "notional": 49.3728,
+      "review": "overnight · 292459m · 35.67 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 2,
+      "entryPrice": 8.515,
+      "exitPrice": 43.895,
+      "pnl": 70.76,
+      "openedAt": "2021-02-03T16:00:39.625Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 291064.29645,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 35.38,
+      "notional": 17.03,
+      "review": "overnight · 291064m · 35.38 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 17.497812,
+      "entryPrice": 5.678,
+      "exitPrice": 43.895,
+      "pnl": 668.7138812040001,
+      "openedAt": "2021-02-10T15:28:28.849Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 281016.47605,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 38.217000000000006,
+      "notional": 99.352576536,
+      "review": "overnight · 281016m · 38.22 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.114476,
+      "entryPrice": 5.678,
+      "exitPrice": 43.895,
+      "pnl": 4.374929292,
+      "openedAt": "2021-02-10T15:28:28.849Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 281016.47605,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 38.217000000000006,
+      "notional": 0.6499947279999999,
+      "review": "overnight · 281016m · 38.22 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 1,
+      "entryPrice": 7.0799,
+      "exitPrice": 43.895,
+      "pnl": 36.8151,
+      "openedAt": "2021-02-24T14:37:31.943Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 260907.42448333334,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 36.8151,
+      "notional": 7.0799,
+      "review": "overnight · 260907m · 36.82 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 2.484472,
+      "entryPrice": 8.05,
+      "exitPrice": 43.895,
+      "pnl": 89.05589883999998,
+      "openedAt": "2021-03-04T20:53:30.52Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 249011.4482,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 35.845,
+      "notional": 19.9999996,
+      "review": "overnight · 249011m · 35.84 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 101.832993,
+      "entryPrice": 9.82,
+      "exitPrice": 43.895,
+      "pnl": 3469.9592364750006,
+      "openedAt": "2021-05-10T16:31:17.272Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 152793.669,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 34.075,
+      "notional": 999.99999126,
+      "review": "overnight · 152794m · 34.08 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 3.271692,
+      "entryPrice": 14.06,
+      "exitPrice": 43.895,
+      "pnl": 97.61093082,
+      "openedAt": "2021-05-18T17:57:02.158Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 141187.9209,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 29.835,
+      "notional": 45.99998952,
+      "review": "overnight · 141188m · 29.84 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.00392,
+      "entryPrice": 15.305,
+      "exitPrice": 43.895,
+      "pnl": 0.11207280000000001,
+      "openedAt": "2021-05-25T19:04:59.329Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 131039.96805,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 28.590000000000003,
+      "notional": 0.059995599999999996,
+      "review": "overnight · 131040m · 28.59 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.529546,
+      "entryPrice": 15.305,
+      "exitPrice": 43.895,
+      "pnl": 15.139720140000001,
+      "openedAt": "2021-05-25T19:04:59.254824Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 131039.9693,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 28.590000000000003,
+      "notional": 8.10470153,
+      "review": "overnight · 131040m · 28.59 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 6,
+      "entryPrice": 15.305,
+      "exitPrice": 43.895,
+      "pnl": 171.54000000000002,
+      "openedAt": "2021-05-25T19:04:59.329Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 131039.96805,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 28.590000000000003,
+      "notional": 91.83,
+      "review": "overnight · 131040m · 28.59 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.042035,
+      "entryPrice": 18.08,
+      "exitPrice": 43.895,
+      "pnl": 1.0851335250000003,
+      "openedAt": "2021-05-26T13:37:10.209157Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 129927.78671666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 25.815000000000005,
+      "notional": 0.7599928,
+      "review": "overnight · 129928m · 25.82 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 2.99854,
+      "entryPrice": 18.0888,
+      "exitPrice": 43.895,
+      "pnl": 77.38092294800002,
+      "openedAt": "2021-05-26T13:37:10.277Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 129927.78558333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 25.806200000000004,
+      "notional": 54.239990352,
+      "review": "overnight · 129928m · 25.81 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.108025,
+      "entryPrice": 18.005,
+      "exitPrice": 43.895,
+      "pnl": 2.7967672500000003,
+      "openedAt": "2021-05-26T13:55:56.112958Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 129909.02166666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 25.890000000000004,
+      "notional": 1.944990125,
+      "review": "overnight · 129909m · 25.89 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 10.992279,
+      "entryPrice": 18.0181,
+      "exitPrice": 43.895,
+      "pnl": 284.44610445510006,
+      "openedAt": "2021-05-26T13:55:56.179Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 129909.02055,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 25.876900000000003,
+      "notional": 198.0599822499,
+      "review": "overnight · 129909m · 25.88 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.16653,
+      "entryPrice": 18.405,
+      "exitPrice": 43.895,
+      "pnl": 4.2448497000000005,
+      "openedAt": "2021-05-26T14:08:53.490663Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 129896.06536666666,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 25.490000000000002,
+      "notional": 3.0649846500000004,
+      "review": "overnight · 129896m · 25.49 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 26.979016,
+      "entryPrice": 18.4195,
+      "exitPrice": 43.895,
+      "pnl": 687.3039221080002,
+      "openedAt": "2021-05-26T14:08:53.598Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 129896.06356666666,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 25.475500000000004,
+      "notional": 496.939985212,
+      "review": "overnight · 129896m · 25.48 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 12,
+      "entryPrice": 19.3293,
+      "exitPrice": 43.895,
+      "pnl": 294.7884,
+      "openedAt": "2021-05-26T16:18:10.203Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 129766.78681666666,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 24.565700000000003,
+      "notional": 231.95159999999998,
+      "review": "overnight · 129767m · 24.57 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 21,
+      "entryPrice": 21.989,
+      "exitPrice": 43.895,
+      "pnl": 460.02600000000007,
+      "openedAt": "2021-05-27T15:59:06.281Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 128345.85218333334,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 21.906000000000002,
+      "notional": 461.769,
+      "review": "overnight · 128346m · 21.91 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 6,
+      "entryPrice": 32.5573,
+      "exitPrice": 43.895,
+      "pnl": 68.02620000000003,
+      "openedAt": "2021-05-28T13:45:45.646Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 127039.1961,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 11.337700000000005,
+      "notional": 195.3438,
+      "review": "overnight · 127039m · 11.34 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.543201,
+      "entryPrice": 29.4199,
+      "exitPrice": 43.895,
+      "pnl": 7.8628887951000035,
+      "openedAt": "2021-05-28T14:30:55.479Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 126994.03221666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 14.475100000000005,
+      "notional": 15.980919099900001,
+      "review": "overnight · 126994m · 14.48 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.000679,
+      "entryPrice": 29.4199,
+      "exitPrice": 43.895,
+      "pnl": 0.009828592900000004,
+      "openedAt": "2021-05-28T14:30:55.479Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 126994.03221666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 14.475100000000005,
+      "notional": 0.0199761121,
+      "review": "overnight · 126994m · 14.48 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 2,
+      "entryPrice": 31.0199,
+      "exitPrice": 43.895,
+      "pnl": 25.750200000000007,
+      "openedAt": "2021-05-28T14:43:32.898Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 126981.40856666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 12.875100000000003,
+      "notional": 62.0398,
+      "review": "overnight · 126981m · 12.88 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 3.7,
+      "entryPrice": 27.929,
+      "exitPrice": 43.895,
+      "pnl": 59.07420000000002,
+      "openedAt": "2021-05-28T15:54:16.348Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 126910.6844,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 15.966000000000005,
+      "notional": 103.3373,
+      "review": "overnight · 126911m · 15.97 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.324333,
+      "entryPrice": 27.965,
+      "exitPrice": 43.895,
+      "pnl": 5.166624690000001,
+      "openedAt": "2021-05-28T15:55:03.940261Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 126909.8912,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 15.930000000000003,
+      "notional": 9.069972345,
+      "review": "overnight · 126910m · 15.93 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 1.9975,
+      "entryPrice": 28,
+      "exitPrice": 43.895,
+      "pnl": 31.75026250000001,
+      "openedAt": "2021-05-28T15:55:04.063Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 126909.88915,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 15.895000000000003,
+      "notional": 55.93,
+      "review": "overnight · 126910m · 15.90 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 3.65636,
+      "entryPrice": 27.3496,
+      "exitPrice": 43.895,
+      "pnl": 60.495938744000014,
+      "openedAt": "2021-05-28T18:17:58.942Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 126766.9745,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 16.545400000000004,
+      "notional": 99.999983456,
+      "review": "overnight · 126767m · 16.55 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 5,
+      "entryPrice": 27.57,
+      "exitPrice": 43.895,
+      "pnl": 81.62500000000001,
+      "openedAt": "2021-05-28T18:52:10.723Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 126732.77815,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 16.325000000000003,
+      "notional": 137.85,
+      "review": "overnight · 126733m · 16.33 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.32774,
+      "entryPrice": 25.63,
+      "exitPrice": 43.895,
+      "pnl": 5.986171100000001,
+      "openedAt": "2021-05-28T19:23:52.939041Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 126701.07455,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 18.265000000000004,
+      "notional": 8.3999762,
+      "review": "overnight · 126701m · 18.27 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 1.999297,
+      "entryPrice": 25.639,
+      "exitPrice": 43.895,
+      "pnl": 36.49916603200001,
+      "openedAt": "2021-05-28T19:23:53.002Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 126701.0735,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 18.256000000000004,
+      "notional": 51.259975783,
+      "review": "overnight · 126701m · 18.26 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.490861,
+      "entryPrice": 47.875,
+      "exitPrice": 43.895,
+      "pnl": -1.9536267799999985,
+      "openedAt": "2021-06-04T19:18:34.995309Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 116626.37361666666,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 3.979999999999997,
+      "notional": 23.499970375,
+      "review": "overnight · 116626m · 3.98 pts · Flags: overnight, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 3.99792,
+      "entryPrice": 47.8999,
+      "exitPrice": 43.895,
+      "pnl": -16.011269807999998,
+      "openedAt": "2021-06-04T19:18:35.109Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 116626.37171666666,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 4.004899999999999,
+      "notional": 191.499968208,
+      "review": "overnight · 116626m · 4.00 pts · Flags: overnight, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.232844,
+      "entryPrice": 42.99,
+      "exitPrice": 43.895,
+      "pnl": 0.21072382000000026,
+      "openedAt": "2021-06-11T14:32:21.137905Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 106832.60458333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 0.9050000000000011,
+      "notional": 10.009963560000001,
+      "review": "overnight · 106833m · 0.91 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.999793,
+      "entryPrice": 42.9989,
+      "exitPrice": 43.895,
+      "pnl": 0.8959145073000041,
+      "openedAt": "2021-06-11T14:32:21.257Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 106832.60258333334,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 0.8961000000000041,
+      "notional": 42.989999227700004,
+      "review": "overnight · 106833m · 0.90 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 1,
+      "entryPrice": 48.75,
+      "exitPrice": 43.895,
+      "pnl": -4.854999999999997,
+      "openedAt": "2021-07-02T14:10:05.537Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 76614.86458333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 4.854999999999997,
+      "notional": 48.75,
+      "review": "overnight · 76615m · 4.85 pts · Flags: overnight, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 5.911029,
+      "entryPrice": 32.82,
+      "exitPrice": 43.895,
+      "pnl": 65.46464617500001,
+      "openedAt": "2021-08-13T15:14:43.665Z",
+      "closedAt": "2021-08-24T19:04:57.412Z",
+      "holdMinutes": 16070.229116666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 11.075000000000003,
+      "notional": 193.99997178,
+      "review": "overnight · 16070m · 11.08 pts · Flags: overnight, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 1
+    },
+    "maxWin": 41,
+    "maxLoss": 2
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

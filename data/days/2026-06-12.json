@@ -1,0 +1,153 @@
+{
+  "id": "2026-06-12",
+  "date": "2026-06-12",
+  "label": "Friday, Jun 12, 2026",
+  "weekday": "Fri",
+  "weekId": "2026-W24",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:04.506Z",
+  "realizedPnl": 1.061360999999998,
+  "tradeCount": 2,
+  "winCount": 1,
+  "lossCount": 1,
+  "processGrades": {
+    "A": 0,
+    "B": 1,
+    "C": 1
+  },
+  "metrics": {
+    "tradeCount": 2,
+    "winCount": 1,
+    "lossCount": 1,
+    "flatCount": 0,
+    "winRate": 0.5,
+    "winPct": 50,
+    "profitFactor": 1.6408689424971974,
+    "profitFactorInfinite": false,
+    "rewardRisk": 1.6408689424971974,
+    "expectancy": 0.530680499999999,
+    "avgWin": 2.7174889999999974,
+    "avgLoss": -1.6561279999999994,
+    "avgLossAbs": 1.6561279999999994,
+    "grossWin": 2.7174889999999974,
+    "grossLoss": -1.6561279999999994,
+    "realizedPnl": 1.061360999999998,
+    "bestTrade": 2.7174889999999974,
+    "worstTrade": -1.6561279999999994,
+    "avgHoldMinutes": 56458.81591666667,
+    "equityCurve": [
+      {
+        "t": "2026-06-12T18:34:07.954Z",
+        "pnl": 2.7174889999999974
+      },
+      {
+        "t": "2026-06-12T18:34:19.266Z",
+        "pnl": 1.061360999999998
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "HALO",
+      "pnl": 2.7174889999999974,
+      "trades": 1,
+      "wins": 1
+    },
+    {
+      "ticker": "RDDT",
+      "pnl": -1.6561279999999994,
+      "trades": 1,
+      "wins": 0
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "HALO",
+      "qty": 0.44549,
+      "entryPrice": 63.75,
+      "exitPrice": 69.85,
+      "pnl": 2.7174889999999974,
+      "openedAt": "2026-05-04T13:35:33.252Z",
+      "closedAt": "2026-06-12T18:34:07.954Z",
+      "holdMinutes": 56458.57836666667,
+      "overnight": true
+    },
+    {
+      "ticker": "RDDT",
+      "qty": 0.1808,
+      "entryPrice": 172.4,
+      "exitPrice": 163.24,
+      "pnl": -1.6561279999999994,
+      "openedAt": "2026-05-04T13:35:16.058Z",
+      "closedAt": "2026-06-12T18:34:19.266Z",
+      "holdMinutes": 56459.053466666664,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "HALO",
+      "qty": 0.44549,
+      "entryPrice": 63.75,
+      "exitPrice": 69.85,
+      "pnl": 2.7174889999999974,
+      "openedAt": "2026-05-04T13:35:33.252Z",
+      "closedAt": "2026-06-12T18:34:07.954Z",
+      "holdMinutes": 56458.57836666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 6.099999999999994,
+      "notional": 28.399987499999998,
+      "review": "overnight · 56459m · 6.10 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "RDDT",
+      "qty": 0.1808,
+      "entryPrice": 172.4,
+      "exitPrice": 163.24,
+      "pnl": -1.6561279999999994,
+      "openedAt": "2026-05-04T13:35:16.058Z",
+      "closedAt": "2026-06-12T18:34:19.266Z",
+      "holdMinutes": 56459.053466666664,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 9.159999999999997,
+      "notional": 31.169919999999998,
+      "review": "overnight · 56459m · 9.16 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 1
+    },
+    "maxWin": 1,
+    "maxLoss": 1
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

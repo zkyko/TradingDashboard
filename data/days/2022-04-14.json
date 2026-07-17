@@ -1,0 +1,110 @@
+{
+  "id": "2022-04-14",
+  "date": "2022-04-14",
+  "label": "Thursday, Apr 14, 2022",
+  "weekday": "Thu",
+  "weekId": "2022-W15",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:03.941Z",
+  "realizedPnl": -34.676100000000005,
+  "tradeCount": 1,
+  "winCount": 0,
+  "lossCount": 1,
+  "processGrades": {
+    "A": 0,
+    "B": 0,
+    "C": 1
+  },
+  "metrics": {
+    "tradeCount": 1,
+    "winCount": 0,
+    "lossCount": 1,
+    "flatCount": 0,
+    "winRate": 0,
+    "winPct": 0,
+    "profitFactor": 0,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": -34.676100000000005,
+    "avgWin": null,
+    "avgLoss": -34.676100000000005,
+    "avgLossAbs": 34.676100000000005,
+    "grossWin": 0,
+    "grossLoss": -34.676100000000005,
+    "realizedPnl": -34.676100000000005,
+    "bestTrade": -34.676100000000005,
+    "worstTrade": -34.676100000000005,
+    "avgHoldMinutes": 23361.19855,
+    "equityCurve": [
+      {
+        "t": "2022-04-14T19:06:59.593Z",
+        "pnl": -34.676100000000005
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "AMC",
+      "pnl": -34.676100000000005,
+      "trades": 1,
+      "wins": 0
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "AMC",
+      "qty": 3,
+      "entryPrice": 29.6992,
+      "exitPrice": 18.1405,
+      "pnl": -34.676100000000005,
+      "openedAt": "2022-03-29T13:45:47.68Z",
+      "closedAt": "2022-04-14T19:06:59.593Z",
+      "holdMinutes": 23361.19855,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "AMC",
+      "qty": 3,
+      "entryPrice": 29.6992,
+      "exitPrice": 18.1405,
+      "pnl": -34.676100000000005,
+      "openedAt": "2022-03-29T13:45:47.68Z",
+      "closedAt": "2022-04-14T19:06:59.593Z",
+      "holdMinutes": 23361.19855,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 11.558700000000002,
+      "notional": 89.0976,
+      "review": "overnight · 23361m · 11.56 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 1
+    },
+    "maxWin": 0,
+    "maxLoss": 1
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

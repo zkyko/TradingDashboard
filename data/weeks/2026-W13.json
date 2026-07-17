@@ -1,0 +1,123 @@
+{
+  "id": "2026-W13",
+  "label": "Mar 23 – Mar 27, 2026",
+  "start": "2026-03-23",
+  "end": "2026-03-30",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:06.004Z",
+  "realizedPnl": 5.951100305000009,
+  "tradeCount": 1,
+  "winCount": 1,
+  "lossCount": 0,
+  "priorWeekPnl": null,
+  "metrics": {
+    "tradeCount": 1,
+    "winCount": 1,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": 1,
+    "winPct": 100,
+    "profitFactor": null,
+    "profitFactorInfinite": true,
+    "rewardRisk": null,
+    "expectancy": 5.951100305000009,
+    "avgWin": 5.951100305000009,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 5.951100305000009,
+    "grossLoss": 0,
+    "realizedPnl": 5.951100305000009,
+    "bestTrade": 5.951100305000009,
+    "worstTrade": 5.951100305000009,
+    "avgHoldMinutes": 70260.953,
+    "equityCurve": [
+      {
+        "t": "2026-03-26T13:45:10.308Z",
+        "pnl": 5.951100305000009
+      }
+    ]
+  },
+  "soxlMetrics": {
+    "tradeCount": 0,
+    "winCount": 0,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": null,
+    "winPct": null,
+    "profitFactor": null,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": null,
+    "avgWin": null,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0,
+    "grossLoss": 0,
+    "realizedPnl": 0,
+    "bestTrade": null,
+    "worstTrade": null,
+    "avgHoldMinutes": null,
+    "equityCurve": []
+  },
+  "days": [
+    {
+      "date": "2026-03-23",
+      "label": "Mon",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2026-03-24",
+      "label": "Tue",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2026-03-25",
+      "label": "Wed",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2026-03-26",
+      "label": "Thu",
+      "pnl": 5.951100305000009,
+      "trades": 1
+    },
+    {
+      "date": "2026-03-27",
+      "label": "Fri",
+      "pnl": 0,
+      "trades": 0
+    }
+  ],
+  "byTicker": [
+    {
+      "ticker": "IBIT",
+      "pnl": 5.951100305000009,
+      "trades": 1,
+      "wins": 1
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 1
+    },
+    "maxWin": 1,
+    "maxLoss": 0
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "mistakes": [],
+  "openNotes": []
+}

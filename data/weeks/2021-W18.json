@@ -1,0 +1,157 @@
+{
+  "id": "2021-W18",
+  "label": "May 3 – May 7, 2021",
+  "start": "2021-05-03",
+  "end": "2021-05-10",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:07.709Z",
+  "realizedPnl": 46.77438002000001,
+  "tradeCount": 5,
+  "winCount": 5,
+  "lossCount": 0,
+  "priorWeekPnl": null,
+  "metrics": {
+    "tradeCount": 5,
+    "winCount": 5,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": 1,
+    "winPct": 100,
+    "profitFactor": null,
+    "profitFactorInfinite": true,
+    "rewardRisk": null,
+    "expectancy": 9.354876004000001,
+    "avgWin": 9.354876004000001,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 46.77438002000001,
+    "grossLoss": 0,
+    "realizedPnl": 46.77438002000001,
+    "bestTrade": 42.42000000000001,
+    "worstTrade": 0.3725378999999992,
+    "avgHoldMinutes": 107764.464,
+    "equityCurve": [
+      {
+        "t": "2021-05-03T17:37:02.642681Z",
+        "pnl": 1.032706440000001
+      },
+      {
+        "t": "2021-05-03T17:37:02.642681Z",
+        "pnl": 1.4052443400000003
+      },
+      {
+        "t": "2021-05-03T17:37:24.132851Z",
+        "pnl": 1.8823009200000003
+      },
+      {
+        "t": "2021-05-03T17:38:57.175Z",
+        "pnl": 44.30230092000001
+      },
+      {
+        "t": "2021-05-05T17:12:12.876553Z",
+        "pnl": 46.77438002000001
+      }
+    ]
+  },
+  "soxlMetrics": {
+    "tradeCount": 0,
+    "winCount": 0,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": null,
+    "winPct": null,
+    "profitFactor": null,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": null,
+    "avgWin": null,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0,
+    "grossLoss": 0,
+    "realizedPnl": 0,
+    "bestTrade": null,
+    "worstTrade": null,
+    "avgHoldMinutes": null,
+    "equityCurve": []
+  },
+  "days": [
+    {
+      "date": "2021-05-03",
+      "label": "Mon",
+      "pnl": 44.30230092000001,
+      "trades": 4
+    },
+    {
+      "date": "2021-05-04",
+      "label": "Tue",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-05-05",
+      "label": "Wed",
+      "pnl": 2.4720791000000015,
+      "trades": 1
+    },
+    {
+      "date": "2021-05-06",
+      "label": "Thu",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-05-07",
+      "label": "Fri",
+      "pnl": 0,
+      "trades": 0
+    }
+  ],
+  "byTicker": [
+    {
+      "ticker": "OCGN",
+      "pnl": 42.42000000000001,
+      "trades": 1,
+      "wins": 1
+    },
+    {
+      "ticker": "AAPL",
+      "pnl": 2.4720791000000015,
+      "trades": 1,
+      "wins": 1
+    },
+    {
+      "ticker": "PFE",
+      "pnl": 1.4052443400000003,
+      "trades": 2,
+      "wins": 2
+    },
+    {
+      "ticker": "NOK",
+      "pnl": 0.47705658,
+      "trades": 1,
+      "wins": 1
+    }
+  ],
+  "tilt": {
+    "state": "on_streak",
+    "score": 40,
+    "reasons": [
+      "Win streak ×5"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 5
+    },
+    "maxWin": 5,
+    "maxLoss": 0
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "mistakes": [],
+  "openNotes": []
+}

@@ -1,0 +1,147 @@
+{
+  "id": "2021-02-03",
+  "date": "2021-02-03",
+  "label": "Wednesday, Feb 3, 2021",
+  "weekday": "Wed",
+  "weekId": "2021-W05",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:02.820Z",
+  "realizedPnl": 22.510808009999995,
+  "tradeCount": 2,
+  "winCount": 2,
+  "lossCount": 0,
+  "processGrades": {
+    "A": 0,
+    "B": 2,
+    "C": 0
+  },
+  "metrics": {
+    "tradeCount": 2,
+    "winCount": 2,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": 1,
+    "winPct": 100,
+    "profitFactor": null,
+    "profitFactorInfinite": true,
+    "rewardRisk": null,
+    "expectancy": 11.255404004999997,
+    "avgWin": 11.255404004999997,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 22.510808009999995,
+    "grossLoss": 0,
+    "realizedPnl": 22.510808009999995,
+    "bestTrade": 22.339874939999994,
+    "worstTrade": 0.17093306999999996,
+    "avgHoldMinutes": 203072.706325,
+    "equityCurve": [
+      {
+        "t": "2021-02-03T19:51:34.265089Z",
+        "pnl": 22.339874939999994
+      },
+      {
+        "t": "2021-02-03T19:51:34.265089Z",
+        "pnl": 22.510808009999995
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "PLUG",
+      "pnl": 22.510808009999995,
+      "trades": 2,
+      "wins": 2
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "PLUG",
+      "qty": 0.34748599999999996,
+      "entryPrice": 4.23,
+      "exitPrice": 68.52,
+      "pnl": 22.339874939999994,
+      "openedAt": "2020-05-19T18:04:27.243Z",
+      "closedAt": "2021-02-03T19:51:34.265089Z",
+      "holdMinutes": 374507.11703333334,
+      "overnight": true
+    },
+    {
+      "ticker": "PLUG",
+      "qty": 0.05251400000000006,
+      "entryPrice": 65.265,
+      "exitPrice": 68.52,
+      "pnl": 0.17093306999999996,
+      "openedAt": "2021-01-12T20:33:16.528136Z",
+      "closedAt": "2021-02-03T19:51:34.265089Z",
+      "holdMinutes": 31638.295616666666,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "PLUG",
+      "qty": 0.34748599999999996,
+      "entryPrice": 4.23,
+      "exitPrice": 68.52,
+      "pnl": 22.339874939999994,
+      "openedAt": "2020-05-19T18:04:27.243Z",
+      "closedAt": "2021-02-03T19:51:34.265089Z",
+      "holdMinutes": 374507.11703333334,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 64.28999999999999,
+      "notional": 1.46986578,
+      "review": "overnight · 374507m · 64.29 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "PLUG",
+      "qty": 0.05251400000000006,
+      "entryPrice": 65.265,
+      "exitPrice": 68.52,
+      "pnl": 0.17093306999999996,
+      "openedAt": "2021-01-12T20:33:16.528136Z",
+      "closedAt": "2021-02-03T19:51:34.265089Z",
+      "holdMinutes": 31638.295616666666,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 3.2549999999999955,
+      "notional": 3.427326210000004,
+      "review": "overnight · 31638m · 3.25 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 2
+    },
+    "maxWin": 2,
+    "maxLoss": 0
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

@@ -1,0 +1,349 @@
+{
+  "id": "2026-07-10",
+  "date": "2026-07-10",
+  "label": "Friday, Jul 10, 2026",
+  "weekday": "Fri",
+  "weekId": "2026-W28",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:04.695Z",
+  "realizedPnl": 16.06000000000001,
+  "tradeCount": 7,
+  "winCount": 5,
+  "lossCount": 2,
+  "processGrades": {
+    "A": 4,
+    "B": 2,
+    "C": 1
+  },
+  "metrics": {
+    "tradeCount": 7,
+    "winCount": 5,
+    "lossCount": 2,
+    "flatCount": 0,
+    "winRate": 0.7142857142857143,
+    "winPct": 71.42857142857143,
+    "profitFactor": 1.1844281120808453,
+    "profitFactorInfinite": false,
+    "rewardRisk": 0.4737712448323382,
+    "expectancy": 2.294285714285716,
+    "avgWin": 20.627999999999986,
+    "avgLoss": -43.539999999999964,
+    "avgLossAbs": 43.539999999999964,
+    "grossWin": 103.13999999999993,
+    "grossLoss": -87.07999999999993,
+    "realizedPnl": 16.06000000000001,
+    "bestTrade": 79.11999999999989,
+    "worstTrade": -51.919999999999845,
+    "avgHoldMinutes": 307.40005476190476,
+    "equityCurve": [
+      {
+        "t": "2026-07-10T05:08:27.776Z",
+        "pnl": 3.5100000000000193
+      },
+      {
+        "t": "2026-07-10T13:09:58.017Z",
+        "pnl": -48.409999999999826
+      },
+      {
+        "t": "2026-07-10T13:40:24.354Z",
+        "pnl": -83.56999999999991
+      },
+      {
+        "t": "2026-07-10T18:21:35.564Z",
+        "pnl": -4.450000000000017
+      },
+      {
+        "t": "2026-07-10T18:21:38.234Z",
+        "pnl": 13.549999999999997
+      },
+      {
+        "t": "2026-07-10T18:38:39.842Z",
+        "pnl": 15.304999999999993
+      },
+      {
+        "t": "2026-07-10T19:59:58.431Z",
+        "pnl": 16.06000000000001
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "TSLL",
+      "pnl": 18.000000000000014,
+      "trades": 1,
+      "wins": 1
+    },
+    {
+      "ticker": "SOXL",
+      "pnl": -4.450000000000017,
+      "trades": 4,
+      "wins": 2
+    },
+    {
+      "ticker": "MSFU",
+      "pnl": 2.510000000000012,
+      "trades": 2,
+      "wins": 2
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "SOXL",
+      "qty": 1,
+      "entryPrice": 187.29,
+      "exitPrice": 190.8,
+      "pnl": 3.5100000000000193,
+      "openedAt": "2026-07-10T01:04:51.239Z",
+      "closedAt": "2026-07-10T05:08:27.776Z",
+      "holdMinutes": 243.60895,
+      "overnight": false
+    },
+    {
+      "ticker": "SOXL",
+      "qty": 8,
+      "entryPrice": 187.29,
+      "exitPrice": 180.8,
+      "pnl": -51.919999999999845,
+      "openedAt": "2026-07-10T01:04:51.239Z",
+      "closedAt": "2026-07-10T13:09:58.017Z",
+      "holdMinutes": 725.1129666666667,
+      "overnight": false
+    },
+    {
+      "ticker": "SOXL",
+      "qty": 6,
+      "entryPrice": 184.87,
+      "exitPrice": 179.01,
+      "pnl": -35.16000000000008,
+      "openedAt": "2026-07-10T13:33:57.475Z",
+      "closedAt": "2026-07-10T13:40:24.354Z",
+      "holdMinutes": 6.447983333333333,
+      "overnight": false
+    },
+    {
+      "ticker": "SOXL",
+      "qty": 8,
+      "entryPrice": 182.185,
+      "exitPrice": 192.075,
+      "pnl": 79.11999999999989,
+      "openedAt": "2026-07-10T13:43:41.609Z",
+      "closedAt": "2026-07-10T18:21:35.564Z",
+      "holdMinutes": 277.89925,
+      "overnight": false
+    },
+    {
+      "ticker": "TSLL",
+      "qty": 75,
+      "entryPrice": 12.98,
+      "exitPrice": 13.22,
+      "pnl": 18.000000000000014,
+      "openedAt": "2026-07-10T05:06:46.421Z",
+      "closedAt": "2026-07-10T18:21:38.234Z",
+      "holdMinutes": 794.86355,
+      "overnight": false
+    },
+    {
+      "ticker": "MSFU",
+      "qty": 50,
+      "entryPrice": 23.4599,
+      "exitPrice": 23.495,
+      "pnl": 1.7549999999999955,
+      "openedAt": "2026-07-10T18:27:23.106Z",
+      "closedAt": "2026-07-10T18:38:39.842Z",
+      "holdMinutes": 11.278933333333333,
+      "overnight": false
+    },
+    {
+      "ticker": "MSFU",
+      "qty": 50,
+      "entryPrice": 23.4599,
+      "exitPrice": 23.475,
+      "pnl": 0.7550000000000168,
+      "openedAt": "2026-07-10T18:27:23.106Z",
+      "closedAt": "2026-07-10T19:59:58.431Z",
+      "holdMinutes": 92.58875,
+      "overnight": false
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "SOXL",
+      "qty": 1,
+      "entryPrice": 187.29,
+      "exitPrice": 190.8,
+      "pnl": 3.5100000000000193,
+      "openedAt": "2026-07-10T01:04:51.239Z",
+      "closedAt": "2026-07-10T05:08:27.776Z",
+      "holdMinutes": 243.60895,
+      "overnight": false,
+      "holdBucket": "over_60m",
+      "grade": "A",
+      "flags": [
+        "gave_room"
+      ],
+      "movePts": 3.5100000000000193,
+      "notional": 187.29,
+      "review": "over 60m · 244m · 3.51 pts · Flags: gave_room · Held past noise. Matches your positive-EV hold window.",
+      "whatWorked": "Held past noise. Matches your positive-EV hold window.",
+      "whatFailed": "",
+      "nextTime": "Repeat only if entry/invalidation were written first."
+    },
+    {
+      "ticker": "SOXL",
+      "qty": 8,
+      "entryPrice": 187.29,
+      "exitPrice": 180.8,
+      "pnl": -51.919999999999845,
+      "openedAt": "2026-07-10T01:04:51.239Z",
+      "closedAt": "2026-07-10T13:09:58.017Z",
+      "holdMinutes": 725.1129666666667,
+      "overnight": false,
+      "holdBucket": "over_60m",
+      "grade": "A",
+      "flags": [
+        "gave_room"
+      ],
+      "movePts": 6.489999999999981,
+      "notional": 1498.32,
+      "review": "over 60m · 725m · 6.49 pts · Flags: gave_room · Held past noise. Matches your positive-EV hold window.",
+      "whatWorked": "Held past noise. Matches your positive-EV hold window.",
+      "whatFailed": "",
+      "nextTime": "Repeat only if entry/invalidation were written first."
+    },
+    {
+      "ticker": "SOXL",
+      "qty": 6,
+      "entryPrice": 184.87,
+      "exitPrice": 179.01,
+      "pnl": -35.16000000000008,
+      "openedAt": "2026-07-10T13:33:57.475Z",
+      "closedAt": "2026-07-10T13:40:24.354Z",
+      "holdMinutes": 6.447983333333333,
+      "overnight": false,
+      "holdBucket": "sub_15m",
+      "grade": "B",
+      "flags": [
+        "losing_scratch"
+      ],
+      "movePts": 5.860000000000014,
+      "notional": 1109.22,
+      "review": "sub 15m · 6m · 5.86 pts · Flags: losing_scratch · Neutral process.",
+      "whatWorked": "",
+      "whatFailed": "Scratch/chop — no edge proven.",
+      "nextTime": "Default to ≥15m hold or stand down — your sub-15m sample is negative EV."
+    },
+    {
+      "ticker": "SOXL",
+      "qty": 8,
+      "entryPrice": 182.185,
+      "exitPrice": 192.075,
+      "pnl": 79.11999999999989,
+      "openedAt": "2026-07-10T13:43:41.609Z",
+      "closedAt": "2026-07-10T18:21:35.564Z",
+      "holdMinutes": 277.89925,
+      "overnight": false,
+      "holdBucket": "over_60m",
+      "grade": "C",
+      "flags": [
+        "gave_room",
+        "after_loss_streak",
+        "size_up_after_loss"
+      ],
+      "movePts": 9.889999999999986,
+      "notional": 1457.48,
+      "review": "over 60m · 278m · 9.89 pts · Flags: gave_room, after_loss_streak, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "Held through noise.",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "TSLL",
+      "qty": 75,
+      "entryPrice": 12.98,
+      "exitPrice": 13.22,
+      "pnl": 18.000000000000014,
+      "openedAt": "2026-07-10T05:06:46.421Z",
+      "closedAt": "2026-07-10T18:21:38.234Z",
+      "holdMinutes": 794.86355,
+      "overnight": false,
+      "holdBucket": "over_60m",
+      "grade": "A",
+      "flags": [
+        "gave_room",
+        "high_frequency_day"
+      ],
+      "movePts": 0.2400000000000002,
+      "notional": 973.5,
+      "review": "over 60m · 795m · 0.24 pts · Flags: gave_room, high_frequency_day · Held past noise. Matches your positive-EV hold window.",
+      "whatWorked": "Held past noise. Matches your positive-EV hold window.",
+      "whatFailed": "",
+      "nextTime": "Repeat only if entry/invalidation were written first."
+    },
+    {
+      "ticker": "MSFU",
+      "qty": 50,
+      "entryPrice": 23.4599,
+      "exitPrice": 23.495,
+      "pnl": 1.7549999999999955,
+      "openedAt": "2026-07-10T18:27:23.106Z",
+      "closedAt": "2026-07-10T18:38:39.842Z",
+      "holdMinutes": 11.278933333333333,
+      "overnight": false,
+      "holdBucket": "sub_15m",
+      "grade": "B",
+      "flags": [
+        "fast_win",
+        "high_frequency_day"
+      ],
+      "movePts": 0.03509999999999991,
+      "notional": 1172.9950000000001,
+      "review": "sub 15m · 11m · 0.04 pts · Flags: fast_win, high_frequency_day · Neutral process.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "Default to ≥15m hold or stand down — your sub-15m sample is negative EV."
+    },
+    {
+      "ticker": "MSFU",
+      "qty": 50,
+      "entryPrice": 23.4599,
+      "exitPrice": 23.475,
+      "pnl": 0.7550000000000168,
+      "openedAt": "2026-07-10T18:27:23.106Z",
+      "closedAt": "2026-07-10T19:59:58.431Z",
+      "holdMinutes": 92.58875,
+      "overnight": false,
+      "holdBucket": "over_60m",
+      "grade": "A",
+      "flags": [
+        "gave_room",
+        "high_frequency_day"
+      ],
+      "movePts": 0.015100000000000335,
+      "notional": 1172.9950000000001,
+      "review": "over 60m · 93m · 0.02 pts · Flags: gave_room, high_frequency_day · Held past noise. Matches your positive-EV hold window.",
+      "whatWorked": "Held past noise. Matches your positive-EV hold window.",
+      "whatFailed": "",
+      "nextTime": "Repeat only if entry/invalidation were written first."
+    }
+  ],
+  "tilt": {
+    "state": "on_streak",
+    "score": 32,
+    "reasons": [
+      "Win streak ×4"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 4
+    },
+    "maxWin": 4,
+    "maxLoss": 2
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

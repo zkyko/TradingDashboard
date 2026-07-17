@@ -1,0 +1,149 @@
+{
+  "id": "2022-W23",
+  "label": "Jun 6 – Jun 10, 2022",
+  "start": "2022-06-06",
+  "end": "2022-06-13",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:06.662Z",
+  "realizedPnl": -2.0710010229999507,
+  "tradeCount": 6,
+  "winCount": 1,
+  "lossCount": 5,
+  "priorWeekPnl": 2.5265000000000057,
+  "metrics": {
+    "tradeCount": 6,
+    "winCount": 1,
+    "lossCount": 5,
+    "flatCount": 0,
+    "winRate": 0.16666666666666666,
+    "winPct": 16.666666666666664,
+    "profitFactor": 0.18714007126686344,
+    "profitFactorInfinite": false,
+    "rewardRisk": 0.9357003563343171,
+    "expectancy": -0.34516683716665847,
+    "avgWin": 0.4767946669999979,
+    "avgLoss": -0.5095591379999898,
+    "avgLossAbs": 0.5095591379999898,
+    "grossWin": 0.4767946669999979,
+    "grossLoss": -2.5477956899999485,
+    "realizedPnl": -2.0710010229999507,
+    "bestTrade": 0.4767946669999979,
+    "worstTrade": -0.9782767139999411,
+    "avgHoldMinutes": 31329.501380555554,
+    "equityCurve": [
+      {
+        "t": "2022-06-08T14:20:24.965Z",
+        "pnl": -0.46770000000000067
+      },
+      {
+        "t": "2022-06-08T14:43:45.184Z",
+        "pnl": -1.4459767139999418
+      },
+      {
+        "t": "2022-06-08T14:43:45.184Z",
+        "pnl": -1.6558717139999426
+      },
+      {
+        "t": "2022-06-08T14:43:45.184Z",
+        "pnl": -2.5461445211999485
+      },
+      {
+        "t": "2022-06-08T14:43:45.184Z",
+        "pnl": -2.5477956899999485
+      },
+      {
+        "t": "2022-06-08T16:53:40.402Z",
+        "pnl": -2.0710010229999507
+      }
+    ]
+  },
+  "soxlMetrics": {
+    "tradeCount": 0,
+    "winCount": 0,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": null,
+    "winPct": null,
+    "profitFactor": null,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": null,
+    "avgWin": null,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0,
+    "grossLoss": 0,
+    "realizedPnl": 0,
+    "bestTrade": null,
+    "worstTrade": null,
+    "avgHoldMinutes": null,
+    "equityCurve": []
+  },
+  "days": [
+    {
+      "date": "2022-06-06",
+      "label": "Mon",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2022-06-07",
+      "label": "Tue",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2022-06-08",
+      "label": "Wed",
+      "pnl": -2.0710010229999507,
+      "trades": 6
+    },
+    {
+      "date": "2022-06-09",
+      "label": "Thu",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2022-06-10",
+      "label": "Fri",
+      "pnl": 0,
+      "trades": 0
+    }
+  ],
+  "byTicker": [
+    {
+      "ticker": "AMC",
+      "pnl": -1.60330102299995,
+      "trades": 5,
+      "wins": 1
+    },
+    {
+      "ticker": "TWTR",
+      "pnl": -0.46770000000000067,
+      "trades": 1,
+      "wins": 0
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 1
+    },
+    "maxWin": 1,
+    "maxLoss": 5
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "mistakes": [],
+  "openNotes": []
+}

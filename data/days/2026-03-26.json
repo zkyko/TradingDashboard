@@ -1,0 +1,110 @@
+{
+  "id": "2026-03-26",
+  "date": "2026-03-26",
+  "label": "Thursday, Mar 26, 2026",
+  "weekday": "Thu",
+  "weekId": "2026-W13",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:04.428Z",
+  "realizedPnl": 5.951100305000009,
+  "tradeCount": 1,
+  "winCount": 1,
+  "lossCount": 0,
+  "processGrades": {
+    "A": 0,
+    "B": 1,
+    "C": 0
+  },
+  "metrics": {
+    "tradeCount": 1,
+    "winCount": 1,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": 1,
+    "winPct": 100,
+    "profitFactor": null,
+    "profitFactorInfinite": true,
+    "rewardRisk": null,
+    "expectancy": 5.951100305000009,
+    "avgWin": 5.951100305000009,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 5.951100305000009,
+    "grossLoss": 0,
+    "realizedPnl": 5.951100305000009,
+    "bestTrade": 5.951100305000009,
+    "worstTrade": 5.951100305000009,
+    "avgHoldMinutes": 70260.953,
+    "equityCurve": [
+      {
+        "t": "2026-03-26T13:45:10.308Z",
+        "pnl": 5.951100305000009
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "IBIT",
+      "pnl": 5.951100305000009,
+      "trades": 1,
+      "wins": 1
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "IBIT",
+      "qty": 2.686727,
+      "entryPrice": 37.22,
+      "exitPrice": 39.435,
+      "pnl": 5.951100305000009,
+      "openedAt": "2026-02-05T18:44:13.128Z",
+      "closedAt": "2026-03-26T13:45:10.308Z",
+      "holdMinutes": 70260.953,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "IBIT",
+      "qty": 2.686727,
+      "entryPrice": 37.22,
+      "exitPrice": 39.435,
+      "pnl": 5.951100305000009,
+      "openedAt": "2026-02-05T18:44:13.128Z",
+      "closedAt": "2026-03-26T13:45:10.308Z",
+      "holdMinutes": 70260.953,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 2.2150000000000034,
+      "notional": 99.99997893999999,
+      "review": "overnight · 70261m · 2.22 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 1
+    },
+    "maxWin": 1,
+    "maxLoss": 0
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

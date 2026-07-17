@@ -1,0 +1,265 @@
+{
+  "id": "2021-02-01",
+  "date": "2021-02-01",
+  "label": "Monday, Feb 1, 2021",
+  "weekday": "Mon",
+  "weekId": "2021-W05",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:02.786Z",
+  "realizedPnl": 5.126978117199997,
+  "tradeCount": 5,
+  "winCount": 5,
+  "lossCount": 0,
+  "processGrades": {
+    "A": 0,
+    "B": 5,
+    "C": 0
+  },
+  "metrics": {
+    "tradeCount": 5,
+    "winCount": 5,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": 1,
+    "winPct": 100,
+    "profitFactor": null,
+    "profitFactorInfinite": true,
+    "rewardRisk": null,
+    "expectancy": 1.0253956234399992,
+    "avgWin": 1.0253956234399992,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 5.126978117199997,
+    "grossLoss": 0,
+    "realizedPnl": 5.126978117199997,
+    "bestTrade": 1.6100943167999968,
+    "worstTrade": 0.0035152374999999994,
+    "avgHoldMinutes": 260189.66069999998,
+    "equityCurve": [
+      {
+        "t": "2021-02-01T15:24:29.193033Z",
+        "pnl": 1.6100943167999968
+      },
+      {
+        "t": "2021-02-01T15:28:06.659368Z",
+        "pnl": 2.163262879699997
+      },
+      {
+        "t": "2021-02-01T15:28:06.994Z",
+        "pnl": 2.1667781171999967
+      },
+      {
+        "t": "2021-02-01T15:28:06.994Z",
+        "pnl": 3.6468781171999964
+      },
+      {
+        "t": "2021-02-01T15:28:06.994Z",
+        "pnl": 5.126978117199997
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "IDEX",
+      "pnl": 3.5168838003999996,
+      "trades": 4,
+      "wins": 4
+    },
+    {
+      "ticker": "ARKQ",
+      "pnl": 1.6100943167999968,
+      "trades": 1,
+      "wins": 1
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "ARKQ",
+      "qty": 0.455872,
+      "entryPrice": 85.5631,
+      "exitPrice": 89.095,
+      "pnl": 1.6100943167999968,
+      "openedAt": "2021-01-12T19:26:20.72Z",
+      "closedAt": "2021-02-01T15:24:29.193033Z",
+      "holdMinutes": 28558.141216666667,
+      "overnight": true
+    },
+    {
+      "ticker": "IDEX",
+      "qty": 0.002375,
+      "entryPrice": 2.7299,
+      "exitPrice": 4.21,
+      "pnl": 0.0035152374999999994,
+      "openedAt": "2020-06-25T17:50:34.476Z",
+      "closedAt": "2021-02-01T15:28:06.994Z",
+      "holdMinutes": 318097.54196666664,
+      "overnight": true
+    },
+    {
+      "ticker": "IDEX",
+      "qty": 1,
+      "entryPrice": 2.7299,
+      "exitPrice": 4.21,
+      "pnl": 1.4800999999999997,
+      "openedAt": "2020-06-25T17:50:34.476Z",
+      "closedAt": "2021-02-01T15:28:06.994Z",
+      "holdMinutes": 318097.54196666664,
+      "overnight": true
+    },
+    {
+      "ticker": "IDEX",
+      "qty": 1,
+      "entryPrice": 2.7299,
+      "exitPrice": 4.21,
+      "pnl": 1.4800999999999997,
+      "openedAt": "2020-06-25T17:50:34.476Z",
+      "closedAt": "2021-02-01T15:28:06.994Z",
+      "holdMinutes": 318097.54196666664,
+      "overnight": true
+    },
+    {
+      "ticker": "IDEX",
+      "qty": 0.372479,
+      "entryPrice": 2.7299,
+      "exitPrice": 4.215,
+      "pnl": 0.5531685628999998,
+      "openedAt": "2020-06-25T17:50:34.476Z",
+      "closedAt": "2021-02-01T15:28:06.659368Z",
+      "holdMinutes": 318097.5363833333,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "ARKQ",
+      "qty": 0.455872,
+      "entryPrice": 85.5631,
+      "exitPrice": 89.095,
+      "pnl": 1.6100943167999968,
+      "openedAt": "2021-01-12T19:26:20.72Z",
+      "closedAt": "2021-02-01T15:24:29.193033Z",
+      "holdMinutes": 28558.141216666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 3.531899999999993,
+      "notional": 39.005821523200005,
+      "review": "overnight · 28558m · 3.53 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "IDEX",
+      "qty": 0.002375,
+      "entryPrice": 2.7299,
+      "exitPrice": 4.21,
+      "pnl": 0.0035152374999999994,
+      "openedAt": "2020-06-25T17:50:34.476Z",
+      "closedAt": "2021-02-01T15:28:06.994Z",
+      "holdMinutes": 318097.54196666664,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 1.4800999999999997,
+      "notional": 0.0064835125,
+      "review": "overnight · 318098m · 1.48 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "IDEX",
+      "qty": 1,
+      "entryPrice": 2.7299,
+      "exitPrice": 4.21,
+      "pnl": 1.4800999999999997,
+      "openedAt": "2020-06-25T17:50:34.476Z",
+      "closedAt": "2021-02-01T15:28:06.994Z",
+      "holdMinutes": 318097.54196666664,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 1.4800999999999997,
+      "notional": 2.7299,
+      "review": "overnight · 318098m · 1.48 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "IDEX",
+      "qty": 1,
+      "entryPrice": 2.7299,
+      "exitPrice": 4.21,
+      "pnl": 1.4800999999999997,
+      "openedAt": "2020-06-25T17:50:34.476Z",
+      "closedAt": "2021-02-01T15:28:06.994Z",
+      "holdMinutes": 318097.54196666664,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 1.4800999999999997,
+      "notional": 2.7299,
+      "review": "overnight · 318098m · 1.48 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "IDEX",
+      "qty": 0.372479,
+      "entryPrice": 2.7299,
+      "exitPrice": 4.215,
+      "pnl": 0.5531685628999998,
+      "openedAt": "2020-06-25T17:50:34.476Z",
+      "closedAt": "2021-02-01T15:28:06.659368Z",
+      "holdMinutes": 318097.5363833333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 1.4850999999999996,
+      "notional": 1.0168304221000002,
+      "review": "overnight · 318098m · 1.49 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "on_streak",
+    "score": 40,
+    "reasons": [
+      "Win streak ×5"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 5
+    },
+    "maxWin": 5,
+    "maxLoss": 0
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

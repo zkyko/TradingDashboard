@@ -1,0 +1,313 @@
+{
+  "id": "2021-08-09",
+  "date": "2021-08-09",
+  "label": "Monday, Aug 9, 2021",
+  "weekday": "Mon",
+  "weekId": "2021-W32",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:03.331Z",
+  "realizedPnl": -16.887792247800004,
+  "tradeCount": 6,
+  "winCount": 1,
+  "lossCount": 5,
+  "processGrades": {
+    "A": 0,
+    "B": 1,
+    "C": 5
+  },
+  "metrics": {
+    "tradeCount": 6,
+    "winCount": 1,
+    "lossCount": 5,
+    "flatCount": 0,
+    "winRate": 0.16666666666666666,
+    "winPct": 16.666666666666664,
+    "profitFactor": 0.003066417228711001,
+    "profitFactorInfinite": false,
+    "rewardRisk": 0.015332086143555006,
+    "expectancy": -2.8146320413000008,
+    "avgWin": 0.05194429999999935,
+    "avgLoss": -3.3879473095600003,
+    "avgLossAbs": 3.3879473095600003,
+    "grossWin": 0.05194429999999935,
+    "grossLoss": -16.939736547800003,
+    "realizedPnl": -16.887792247800004,
+    "bestTrade": 0.05194429999999935,
+    "worstTrade": -12.174401017800017,
+    "avgHoldMinutes": 223980.21404166668,
+    "equityCurve": [
+      {
+        "t": "2021-08-09T19:04:06.02647Z",
+        "pnl": -0.31229145999998525
+      },
+      {
+        "t": "2021-08-09T19:04:06.02647Z",
+        "pnl": -0.37038552999998525
+      },
+      {
+        "t": "2021-08-09T19:04:06.156Z",
+        "pnl": -3.000385529999986
+      },
+      {
+        "t": "2021-08-09T19:04:17.971973Z",
+        "pnl": -15.174786547800004
+      },
+      {
+        "t": "2021-08-09T19:04:17.971973Z",
+        "pnl": -15.122842247800005
+      },
+      {
+        "t": "2021-08-09T19:04:34.734Z",
+        "pnl": -16.887792247800004
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "GME",
+      "pnl": -12.122456717800018,
+      "trades": 2,
+      "wins": 1
+    },
+    {
+      "ticker": "OCGN",
+      "pnl": -3.000385529999986,
+      "trades": 3,
+      "wins": 0
+    },
+    {
+      "ticker": "METX",
+      "pnl": -1.7649500000000002,
+      "trades": 1,
+      "wins": 0
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "OCGN",
+      "qty": 1,
+      "entryPrice": 10.865,
+      "exitPrice": 8.235,
+      "pnl": -2.630000000000001,
+      "openedAt": "2021-02-10T18:05:42.209Z",
+      "closedAt": "2021-08-09T19:04:06.156Z",
+      "holdMinutes": 259258.39911666667,
+      "overnight": true
+    },
+    {
+      "ticker": "OCGN",
+      "qty": 0.11874199999999435,
+      "entryPrice": 10.865,
+      "exitPrice": 8.235,
+      "pnl": -0.31229145999998525,
+      "openedAt": "2021-02-10T18:05:42.209Z",
+      "closedAt": "2021-08-09T19:04:06.02647Z",
+      "holdMinutes": 259258.39695,
+      "overnight": true
+    },
+    {
+      "ticker": "OCGN",
+      "qty": 0.022089,
+      "entryPrice": 10.865,
+      "exitPrice": 8.235,
+      "pnl": -0.05809407000000002,
+      "openedAt": "2021-02-10T18:05:42.209Z",
+      "closedAt": "2021-08-09T19:04:06.02647Z",
+      "holdMinutes": 259258.39695,
+      "overnight": true
+    },
+    {
+      "ticker": "GME",
+      "qty": 0.14992200000000025,
+      "entryPrice": 244.5399,
+      "exitPrice": 163.335,
+      "pnl": -12.174401017800017,
+      "openedAt": "2021-03-10T17:52:48.275Z",
+      "closedAt": "2021-08-09T19:04:17.971973Z",
+      "holdMinutes": 218951.49493333334,
+      "overnight": true
+    },
+    {
+      "ticker": "GME",
+      "qty": 0.018684999999999757,
+      "entryPrice": 160.555,
+      "exitPrice": 163.335,
+      "pnl": 0.05194429999999935,
+      "openedAt": "2021-03-23T21:38:54.282253Z",
+      "closedAt": "2021-08-09T19:04:17.971973Z",
+      "holdMinutes": 200005.39481666667,
+      "overnight": true
+    },
+    {
+      "ticker": "METX",
+      "qty": 1,
+      "entryPrice": 2.39,
+      "exitPrice": 0.62505,
+      "pnl": -1.7649500000000002,
+      "openedAt": "2021-04-29T14:35:22.645Z",
+      "closedAt": "2021-08-09T19:04:34.734Z",
+      "holdMinutes": 147149.20148333334,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "OCGN",
+      "qty": 1,
+      "entryPrice": 10.865,
+      "exitPrice": 8.235,
+      "pnl": -2.630000000000001,
+      "openedAt": "2021-02-10T18:05:42.209Z",
+      "closedAt": "2021-08-09T19:04:06.156Z",
+      "holdMinutes": 259258.39911666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 2.630000000000001,
+      "notional": 10.865,
+      "review": "overnight · 259258m · 2.63 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "OCGN",
+      "qty": 0.11874199999999435,
+      "entryPrice": 10.865,
+      "exitPrice": 8.235,
+      "pnl": -0.31229145999998525,
+      "openedAt": "2021-02-10T18:05:42.209Z",
+      "closedAt": "2021-08-09T19:04:06.02647Z",
+      "holdMinutes": 259258.39695,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 2.630000000000001,
+      "notional": 1.2901318299999387,
+      "review": "overnight · 259258m · 2.63 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "OCGN",
+      "qty": 0.022089,
+      "entryPrice": 10.865,
+      "exitPrice": 8.235,
+      "pnl": -0.05809407000000002,
+      "openedAt": "2021-02-10T18:05:42.209Z",
+      "closedAt": "2021-08-09T19:04:06.02647Z",
+      "holdMinutes": 259258.39695,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak"
+      ],
+      "movePts": 2.630000000000001,
+      "notional": 0.23999698500000002,
+      "review": "overnight · 259258m · 2.63 pts · Flags: overnight, after_loss_streak · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "GME",
+      "qty": 0.14992200000000025,
+      "entryPrice": 244.5399,
+      "exitPrice": 163.335,
+      "pnl": -12.174401017800017,
+      "openedAt": "2021-03-10T17:52:48.275Z",
+      "closedAt": "2021-08-09T19:04:17.971973Z",
+      "holdMinutes": 218951.49493333334,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "size_up_after_loss"
+      ],
+      "movePts": 81.20489999999998,
+      "notional": 36.66191088780006,
+      "review": "overnight · 218951m · 81.20 pts · Flags: overnight, after_loss_streak, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "GME",
+      "qty": 0.018684999999999757,
+      "entryPrice": 160.555,
+      "exitPrice": 163.335,
+      "pnl": 0.05194429999999935,
+      "openedAt": "2021-03-23T21:38:54.282253Z",
+      "closedAt": "2021-08-09T19:04:17.971973Z",
+      "holdMinutes": 200005.39481666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 2.780000000000001,
+      "notional": 2.999970174999961,
+      "review": "overnight · 200005m · 2.78 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "METX",
+      "qty": 1,
+      "entryPrice": 2.39,
+      "exitPrice": 0.62505,
+      "pnl": -1.7649500000000002,
+      "openedAt": "2021-04-29T14:35:22.645Z",
+      "closedAt": "2021-08-09T19:04:34.734Z",
+      "holdMinutes": 147149.20148333334,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 1.7649500000000002,
+      "notional": 2.39,
+      "review": "overnight · 147149m · 1.76 pts · Flags: overnight, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 1
+    },
+    "maxWin": 1,
+    "maxLoss": 4
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

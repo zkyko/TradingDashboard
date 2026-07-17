@@ -1,0 +1,656 @@
+{
+  "id": "2022-06-21",
+  "date": "2022-06-21",
+  "label": "Tuesday, Jun 21, 2022",
+  "weekday": "Tue",
+  "weekId": "2022-W25",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:04.026Z",
+  "realizedPnl": -698.5062439999999,
+  "tradeCount": 15,
+  "winCount": 1,
+  "lossCount": 14,
+  "processGrades": {
+    "A": 0,
+    "B": 1,
+    "C": 14
+  },
+  "metrics": {
+    "tradeCount": 15,
+    "winCount": 1,
+    "lossCount": 14,
+    "flatCount": 0,
+    "winRate": 0.06666666666666667,
+    "winPct": 6.666666666666667,
+    "profitFactor": 0.002463471909859536,
+    "profitFactorInfinite": false,
+    "rewardRisk": 0.0344886067380335,
+    "expectancy": -46.56708293333333,
+    "avgWin": 1.7249999999999988,
+    "avgLoss": -50.01651742857143,
+    "avgLossAbs": 50.01651742857143,
+    "grossWin": 1.7249999999999988,
+    "grossLoss": -700.2312440000001,
+    "realizedPnl": -698.5062439999999,
+    "bestTrade": 1.7249999999999988,
+    "worstTrade": -322.00725,
+    "avgHoldMinutes": 19391.171691111114,
+    "equityCurve": [
+      {
+        "t": "2022-06-21T13:37:10.276Z",
+        "pnl": 1.7249999999999988
+      },
+      {
+        "t": "2022-06-21T13:37:10.276Z",
+        "pnl": -7.058699999999999
+      },
+      {
+        "t": "2022-06-21T13:37:10.276Z",
+        "pnl": -17.507499999999997
+      },
+      {
+        "t": "2022-06-21T18:56:25.153Z",
+        "pnl": -27.109099999999998
+      },
+      {
+        "t": "2022-06-21T18:56:25.153Z",
+        "pnl": -27.953894
+      },
+      {
+        "t": "2022-06-21T18:56:25.153Z",
+        "pnl": -110.643494
+      },
+      {
+        "t": "2022-06-21T18:56:25.153Z",
+        "pnl": -166.82199400000002
+      },
+      {
+        "t": "2022-06-21T18:56:25.153Z",
+        "pnl": -173.996944
+      },
+      {
+        "t": "2022-06-21T18:56:25.153Z",
+        "pnl": -175.09974400000002
+      },
+      {
+        "t": "2022-06-21T18:56:25.153Z",
+        "pnl": -188.057644
+      },
+      {
+        "t": "2022-06-21T19:36:26.183Z",
+        "pnl": -333.338844
+      },
+      {
+        "t": "2022-06-21T19:36:26.183Z",
+        "pnl": -354.483044
+      },
+      {
+        "t": "2022-06-21T19:36:26.183Z",
+        "pnl": -676.490294
+      },
+      {
+        "t": "2022-06-21T19:36:26.183Z",
+        "pnl": -697.7770939999999
+      },
+      {
+        "t": "2022-06-21T19:36:26.183Z",
+        "pnl": -698.5062439999999
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "IMPP",
+      "pnl": -698.5062439999999,
+      "trades": 15,
+      "wins": 1
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "IMPP",
+      "qty": 50,
+      "entryPrice": 0.513,
+      "exitPrice": 0.5475,
+      "pnl": 1.7249999999999988,
+      "openedAt": "2022-06-02T18:54:52.625Z",
+      "closedAt": "2022-06-21T13:37:10.276Z",
+      "holdMinutes": 27042.29418333333,
+      "overnight": true
+    },
+    {
+      "ticker": "IMPP",
+      "qty": 69,
+      "entryPrice": 0.6748,
+      "exitPrice": 0.5475,
+      "pnl": -8.783699999999998,
+      "openedAt": "2022-06-08T14:20:45.653Z",
+      "closedAt": "2022-06-21T13:37:10.276Z",
+      "holdMinutes": 18676.410383333332,
+      "overnight": true
+    },
+    {
+      "ticker": "IMPP",
+      "qty": 74,
+      "entryPrice": 0.6887,
+      "exitPrice": 0.5475,
+      "pnl": -10.448799999999999,
+      "openedAt": "2022-06-08T14:43:58.017Z",
+      "closedAt": "2022-06-21T13:37:10.276Z",
+      "holdMinutes": 18653.204316666666,
+      "overnight": true
+    },
+    {
+      "ticker": "IMPP",
+      "qty": 68,
+      "entryPrice": 0.6887,
+      "exitPrice": 0.5475,
+      "pnl": -9.6016,
+      "openedAt": "2022-06-08T14:43:58.017Z",
+      "closedAt": "2022-06-21T18:56:25.153Z",
+      "holdMinutes": 18972.452266666667,
+      "overnight": true
+    },
+    {
+      "ticker": "IMPP",
+      "qty": 6,
+      "entryPrice": 0.688299,
+      "exitPrice": 0.5475,
+      "pnl": -0.844794,
+      "openedAt": "2022-06-08T14:44:30.644Z",
+      "closedAt": "2022-06-21T18:56:25.153Z",
+      "holdMinutes": 18971.908483333333,
+      "overnight": true
+    },
+    {
+      "ticker": "IMPP",
+      "qty": 368,
+      "entryPrice": 0.7722,
+      "exitPrice": 0.5475,
+      "pnl": -82.6896,
+      "openedAt": "2022-06-08T16:37:26.825Z",
+      "closedAt": "2022-06-21T18:56:25.153Z",
+      "holdMinutes": 18858.972133333333,
+      "overnight": true
+    },
+    {
+      "ticker": "IMPP",
+      "qty": 245,
+      "entryPrice": 0.7768,
+      "exitPrice": 0.5475,
+      "pnl": -56.178500000000014,
+      "openedAt": "2022-06-08T16:38:00.787Z",
+      "closedAt": "2022-06-21T18:56:25.153Z",
+      "holdMinutes": 18858.4061,
+      "overnight": true
+    },
+    {
+      "ticker": "IMPP",
+      "qty": 31,
+      "entryPrice": 0.77895,
+      "exitPrice": 0.5475,
+      "pnl": -7.174950000000002,
+      "openedAt": "2022-06-08T16:38:30.856Z",
+      "closedAt": "2022-06-21T18:56:25.153Z",
+      "holdMinutes": 18857.90495,
+      "overnight": true
+    },
+    {
+      "ticker": "IMPP",
+      "qty": 4,
+      "entryPrice": 0.8232,
+      "exitPrice": 0.5475,
+      "pnl": -1.1028000000000002,
+      "openedAt": "2022-06-08T16:52:41.986Z",
+      "closedAt": "2022-06-21T18:56:25.153Z",
+      "holdMinutes": 18843.71945,
+      "overnight": true
+    },
+    {
+      "ticker": "IMPP",
+      "qty": 47,
+      "entryPrice": 0.8232,
+      "exitPrice": 0.5475,
+      "pnl": -12.957900000000002,
+      "openedAt": "2022-06-08T16:52:41.986Z",
+      "closedAt": "2022-06-21T18:56:25.153Z",
+      "holdMinutes": 18843.71945,
+      "overnight": true
+    },
+    {
+      "ticker": "IMPP",
+      "qty": 526,
+      "entryPrice": 0.8232,
+      "exitPrice": 0.547,
+      "pnl": -145.2812,
+      "openedAt": "2022-06-08T16:52:41.986Z",
+      "closedAt": "2022-06-21T19:36:26.183Z",
+      "holdMinutes": 18883.736616666665,
+      "overnight": true
+    },
+    {
+      "ticker": "IMPP",
+      "qty": 77,
+      "entryPrice": 0.8216,
+      "exitPrice": 0.547,
+      "pnl": -21.144199999999998,
+      "openedAt": "2022-06-08T16:53:53.79Z",
+      "closedAt": "2022-06-21T19:36:26.183Z",
+      "holdMinutes": 18882.539883333335,
+      "overnight": true
+    },
+    {
+      "ticker": "IMPP",
+      "qty": 1121,
+      "entryPrice": 0.83425,
+      "exitPrice": 0.547,
+      "pnl": -322.00725,
+      "openedAt": "2022-06-08T16:56:49.936Z",
+      "closedAt": "2022-06-21T19:36:26.183Z",
+      "holdMinutes": 18879.604116666666,
+      "overnight": true
+    },
+    {
+      "ticker": "IMPP",
+      "qty": 81,
+      "entryPrice": 0.8098,
+      "exitPrice": 0.547,
+      "pnl": -21.286799999999992,
+      "openedAt": "2022-06-08T17:08:37.857Z",
+      "closedAt": "2022-06-21T19:36:26.183Z",
+      "holdMinutes": 18867.805433333335,
+      "overnight": true
+    },
+    {
+      "ticker": "IMPP",
+      "qty": 3,
+      "entryPrice": 0.79005,
+      "exitPrice": 0.547,
+      "pnl": -0.72915,
+      "openedAt": "2022-06-08T18:41:32.327Z",
+      "closedAt": "2022-06-21T19:36:26.183Z",
+      "holdMinutes": 18774.8976,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "IMPP",
+      "qty": 50,
+      "entryPrice": 0.513,
+      "exitPrice": 0.5475,
+      "pnl": 1.7249999999999988,
+      "openedAt": "2022-06-02T18:54:52.625Z",
+      "closedAt": "2022-06-21T13:37:10.276Z",
+      "holdMinutes": 27042.29418333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.034499999999999975,
+      "notional": 25.650000000000002,
+      "review": "overnight · 27042m · 0.03 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "IMPP",
+      "qty": 69,
+      "entryPrice": 0.6748,
+      "exitPrice": 0.5475,
+      "pnl": -8.783699999999998,
+      "openedAt": "2022-06-08T14:20:45.653Z",
+      "closedAt": "2022-06-21T13:37:10.276Z",
+      "holdMinutes": 18676.410383333332,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.12729999999999997,
+      "notional": 46.5612,
+      "review": "overnight · 18676m · 0.13 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "IMPP",
+      "qty": 74,
+      "entryPrice": 0.6887,
+      "exitPrice": 0.5475,
+      "pnl": -10.448799999999999,
+      "openedAt": "2022-06-08T14:43:58.017Z",
+      "closedAt": "2022-06-21T13:37:10.276Z",
+      "holdMinutes": 18653.204316666666,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.1412,
+      "notional": 50.9638,
+      "review": "overnight · 18653m · 0.14 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "IMPP",
+      "qty": 68,
+      "entryPrice": 0.6887,
+      "exitPrice": 0.5475,
+      "pnl": -9.6016,
+      "openedAt": "2022-06-08T14:43:58.017Z",
+      "closedAt": "2022-06-21T18:56:25.153Z",
+      "holdMinutes": 18972.452266666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak"
+      ],
+      "movePts": 0.1412,
+      "notional": 46.8316,
+      "review": "overnight · 18972m · 0.14 pts · Flags: overnight, after_loss_streak · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "IMPP",
+      "qty": 6,
+      "entryPrice": 0.688299,
+      "exitPrice": 0.5475,
+      "pnl": -0.844794,
+      "openedAt": "2022-06-08T14:44:30.644Z",
+      "closedAt": "2022-06-21T18:56:25.153Z",
+      "holdMinutes": 18971.908483333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 0.140799,
+      "notional": 4.129794,
+      "review": "overnight · 18972m · 0.14 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "IMPP",
+      "qty": 368,
+      "entryPrice": 0.7722,
+      "exitPrice": 0.5475,
+      "pnl": -82.6896,
+      "openedAt": "2022-06-08T16:37:26.825Z",
+      "closedAt": "2022-06-21T18:56:25.153Z",
+      "holdMinutes": 18858.972133333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 0.2247,
+      "notional": 284.1696,
+      "review": "overnight · 18859m · 0.22 pts · Flags: overnight, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "IMPP",
+      "qty": 245,
+      "entryPrice": 0.7768,
+      "exitPrice": 0.5475,
+      "pnl": -56.178500000000014,
+      "openedAt": "2022-06-08T16:38:00.787Z",
+      "closedAt": "2022-06-21T18:56:25.153Z",
+      "holdMinutes": 18858.4061,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 0.22930000000000006,
+      "notional": 190.316,
+      "review": "overnight · 18858m · 0.23 pts · Flags: overnight, after_loss_streak, high_frequency_day · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "IMPP",
+      "qty": 31,
+      "entryPrice": 0.77895,
+      "exitPrice": 0.5475,
+      "pnl": -7.174950000000002,
+      "openedAt": "2022-06-08T16:38:30.856Z",
+      "closedAt": "2022-06-21T18:56:25.153Z",
+      "holdMinutes": 18857.90495,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 0.23145000000000004,
+      "notional": 24.14745,
+      "review": "overnight · 18858m · 0.23 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "IMPP",
+      "qty": 4,
+      "entryPrice": 0.8232,
+      "exitPrice": 0.5475,
+      "pnl": -1.1028000000000002,
+      "openedAt": "2022-06-08T16:52:41.986Z",
+      "closedAt": "2022-06-21T18:56:25.153Z",
+      "holdMinutes": 18843.71945,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 0.27570000000000006,
+      "notional": 3.2928,
+      "review": "overnight · 18844m · 0.28 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "IMPP",
+      "qty": 47,
+      "entryPrice": 0.8232,
+      "exitPrice": 0.5475,
+      "pnl": -12.957900000000002,
+      "openedAt": "2022-06-08T16:52:41.986Z",
+      "closedAt": "2022-06-21T18:56:25.153Z",
+      "holdMinutes": 18843.71945,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 0.27570000000000006,
+      "notional": 38.690400000000004,
+      "review": "overnight · 18844m · 0.28 pts · Flags: overnight, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "IMPP",
+      "qty": 526,
+      "entryPrice": 0.8232,
+      "exitPrice": 0.547,
+      "pnl": -145.2812,
+      "openedAt": "2022-06-08T16:52:41.986Z",
+      "closedAt": "2022-06-21T19:36:26.183Z",
+      "holdMinutes": 18883.736616666665,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 0.2762,
+      "notional": 433.00320000000005,
+      "review": "overnight · 18884m · 0.28 pts · Flags: overnight, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "IMPP",
+      "qty": 77,
+      "entryPrice": 0.8216,
+      "exitPrice": 0.547,
+      "pnl": -21.144199999999998,
+      "openedAt": "2022-06-08T16:53:53.79Z",
+      "closedAt": "2022-06-21T19:36:26.183Z",
+      "holdMinutes": 18882.539883333335,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 0.27459999999999996,
+      "notional": 63.2632,
+      "review": "overnight · 18883m · 0.27 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "IMPP",
+      "qty": 1121,
+      "entryPrice": 0.83425,
+      "exitPrice": 0.547,
+      "pnl": -322.00725,
+      "openedAt": "2022-06-08T16:56:49.936Z",
+      "closedAt": "2022-06-21T19:36:26.183Z",
+      "holdMinutes": 18879.604116666666,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 0.28725,
+      "notional": 935.19425,
+      "review": "overnight · 18880m · 0.29 pts · Flags: overnight, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "IMPP",
+      "qty": 81,
+      "entryPrice": 0.8098,
+      "exitPrice": 0.547,
+      "pnl": -21.286799999999992,
+      "openedAt": "2022-06-08T17:08:37.857Z",
+      "closedAt": "2022-06-21T19:36:26.183Z",
+      "holdMinutes": 18867.805433333335,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 0.2627999999999999,
+      "notional": 65.5938,
+      "review": "overnight · 18868m · 0.26 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "IMPP",
+      "qty": 3,
+      "entryPrice": 0.79005,
+      "exitPrice": 0.547,
+      "pnl": -0.72915,
+      "openedAt": "2022-06-08T18:41:32.327Z",
+      "closedAt": "2022-06-21T19:36:26.183Z",
+      "holdMinutes": 18774.8976,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 0.24305,
+      "notional": 2.37015,
+      "review": "overnight · 18775m · 0.24 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "overnight_hungover",
+    "score": 80,
+    "reasons": [
+      "Loss streak ×14",
+      "Overnight PnL $-699"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 14
+    },
+    "maxWin": 1,
+    "maxLoss": 14
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

@@ -1,0 +1,133 @@
+{
+  "id": "2026-W24",
+  "label": "Jun 8 – Jun 12, 2026",
+  "start": "2026-06-08",
+  "end": "2026-06-15",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:05.549Z",
+  "realizedPnl": 1.061360999999998,
+  "tradeCount": 2,
+  "winCount": 1,
+  "lossCount": 1,
+  "priorWeekPnl": null,
+  "metrics": {
+    "tradeCount": 2,
+    "winCount": 1,
+    "lossCount": 1,
+    "flatCount": 0,
+    "winRate": 0.5,
+    "winPct": 50,
+    "profitFactor": 1.6408689424971974,
+    "profitFactorInfinite": false,
+    "rewardRisk": 1.6408689424971974,
+    "expectancy": 0.530680499999999,
+    "avgWin": 2.7174889999999974,
+    "avgLoss": -1.6561279999999994,
+    "avgLossAbs": 1.6561279999999994,
+    "grossWin": 2.7174889999999974,
+    "grossLoss": -1.6561279999999994,
+    "realizedPnl": 1.061360999999998,
+    "bestTrade": 2.7174889999999974,
+    "worstTrade": -1.6561279999999994,
+    "avgHoldMinutes": 56458.81591666667,
+    "equityCurve": [
+      {
+        "t": "2026-06-12T18:34:07.954Z",
+        "pnl": 2.7174889999999974
+      },
+      {
+        "t": "2026-06-12T18:34:19.266Z",
+        "pnl": 1.061360999999998
+      }
+    ]
+  },
+  "soxlMetrics": {
+    "tradeCount": 0,
+    "winCount": 0,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": null,
+    "winPct": null,
+    "profitFactor": null,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": null,
+    "avgWin": null,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0,
+    "grossLoss": 0,
+    "realizedPnl": 0,
+    "bestTrade": null,
+    "worstTrade": null,
+    "avgHoldMinutes": null,
+    "equityCurve": []
+  },
+  "days": [
+    {
+      "date": "2026-06-08",
+      "label": "Mon",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2026-06-09",
+      "label": "Tue",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2026-06-10",
+      "label": "Wed",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2026-06-11",
+      "label": "Thu",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2026-06-12",
+      "label": "Fri",
+      "pnl": 1.061360999999998,
+      "trades": 2
+    }
+  ],
+  "byTicker": [
+    {
+      "ticker": "HALO",
+      "pnl": 2.7174889999999974,
+      "trades": 1,
+      "wins": 1
+    },
+    {
+      "ticker": "RDDT",
+      "pnl": -1.6561279999999994,
+      "trades": 1,
+      "wins": 0
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 1
+    },
+    "maxWin": 1,
+    "maxLoss": 1
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "mistakes": [],
+  "openNotes": []
+}

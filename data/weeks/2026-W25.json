@@ -1,0 +1,137 @@
+{
+  "id": "2026-W25",
+  "label": "Jun 15 – Jun 19, 2026",
+  "start": "2026-06-15",
+  "end": "2026-06-22",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:05.343Z",
+  "realizedPnl": -11.641760082999951,
+  "tradeCount": 3,
+  "winCount": 0,
+  "lossCount": 3,
+  "priorWeekPnl": 1.061360999999998,
+  "metrics": {
+    "tradeCount": 3,
+    "winCount": 0,
+    "lossCount": 3,
+    "flatCount": 0,
+    "winRate": 0,
+    "winPct": 0,
+    "profitFactor": 0,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": -3.880586694333317,
+    "avgWin": null,
+    "avgLoss": -3.880586694333317,
+    "avgLossAbs": 3.880586694333317,
+    "grossWin": 0,
+    "grossLoss": -11.641760082999951,
+    "realizedPnl": -11.641760082999951,
+    "bestTrade": -0.003527240000000002,
+    "worstTrade": -9.67999999999995,
+    "avgHoldMinutes": 38436.65439444445,
+    "equityCurve": [
+      {
+        "t": "2026-06-15T13:20:37.87Z",
+        "pnl": -9.67999999999995
+      },
+      {
+        "t": "2026-06-15T13:30:01.808Z",
+        "pnl": -11.638232842999951
+      },
+      {
+        "t": "2026-06-15T13:30:01.808Z",
+        "pnl": -11.641760082999951
+      }
+    ]
+  },
+  "soxlMetrics": {
+    "tradeCount": 0,
+    "winCount": 0,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": null,
+    "winPct": null,
+    "profitFactor": null,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": null,
+    "avgWin": null,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0,
+    "grossLoss": 0,
+    "realizedPnl": 0,
+    "bestTrade": null,
+    "worstTrade": null,
+    "avgHoldMinutes": null,
+    "equityCurve": []
+  },
+  "days": [
+    {
+      "date": "2026-06-15",
+      "label": "Mon",
+      "pnl": -11.641760082999951,
+      "trades": 3
+    },
+    {
+      "date": "2026-06-16",
+      "label": "Tue",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2026-06-17",
+      "label": "Wed",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2026-06-18",
+      "label": "Thu",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2026-06-19",
+      "label": "Fri",
+      "pnl": 0,
+      "trades": 0
+    }
+  ],
+  "byTicker": [
+    {
+      "ticker": "ORCL",
+      "pnl": -9.67999999999995,
+      "trades": 1,
+      "wins": 0
+    },
+    {
+      "ticker": "MSFT",
+      "pnl": -1.9617600830000006,
+      "trades": 2,
+      "wins": 0
+    }
+  ],
+  "tilt": {
+    "state": "cooling_off",
+    "score": 60,
+    "reasons": [
+      "Loss streak ×3"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 3
+    },
+    "maxWin": 0,
+    "maxLoss": 3
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "mistakes": [],
+  "openNotes": []
+}

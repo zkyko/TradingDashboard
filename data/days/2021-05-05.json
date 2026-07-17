@@ -1,0 +1,110 @@
+{
+  "id": "2021-05-05",
+  "date": "2021-05-05",
+  "label": "Wednesday, May 5, 2021",
+  "weekday": "Wed",
+  "weekId": "2021-W18",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:03.204Z",
+  "realizedPnl": 2.4720791000000015,
+  "tradeCount": 1,
+  "winCount": 1,
+  "lossCount": 0,
+  "processGrades": {
+    "A": 0,
+    "B": 1,
+    "C": 0
+  },
+  "metrics": {
+    "tradeCount": 1,
+    "winCount": 1,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": 1,
+    "winPct": 100,
+    "profitFactor": null,
+    "profitFactorInfinite": true,
+    "rewardRisk": null,
+    "expectancy": 2.4720791000000015,
+    "avgWin": 2.4720791000000015,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 2.4720791000000015,
+    "grossLoss": 0,
+    "realizedPnl": 2.4720791000000015,
+    "bestTrade": 2.4720791000000015,
+    "worstTrade": 2.4720791000000015,
+    "avgHoldMinutes": 89088.59613333334,
+    "equityCurve": [
+      {
+        "t": "2021-05-05T17:12:12.876553Z",
+        "pnl": 2.4720791000000015
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "AAPL",
+      "pnl": 2.4720791000000015,
+      "trades": 1,
+      "wins": 1
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "AAPL",
+      "qty": 0.256174,
+      "entryPrice": 119.685,
+      "exitPrice": 129.335,
+      "pnl": 2.4720791000000015,
+      "openedAt": "2021-03-04T20:23:37.108Z",
+      "closedAt": "2021-05-05T17:12:12.876553Z",
+      "holdMinutes": 89088.59613333334,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "AAPL",
+      "qty": 0.256174,
+      "entryPrice": 119.685,
+      "exitPrice": 129.335,
+      "pnl": 2.4720791000000015,
+      "openedAt": "2021-03-04T20:23:37.108Z",
+      "closedAt": "2021-05-05T17:12:12.876553Z",
+      "holdMinutes": 89088.59613333334,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 9.650000000000006,
+      "notional": 30.660185190000004,
+      "review": "overnight · 89089m · 9.65 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 1
+    },
+    "maxWin": 1,
+    "maxLoss": 0
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

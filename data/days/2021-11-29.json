@@ -1,0 +1,147 @@
+{
+  "id": "2021-11-29",
+  "date": "2021-11-29",
+  "label": "Monday, Nov 29, 2021",
+  "weekday": "Mon",
+  "weekId": "2021-W48",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:03.714Z",
+  "realizedPnl": 1.222406780000003,
+  "tradeCount": 2,
+  "winCount": 2,
+  "lossCount": 0,
+  "processGrades": {
+    "A": 0,
+    "B": 2,
+    "C": 0
+  },
+  "metrics": {
+    "tradeCount": 2,
+    "winCount": 2,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": 1,
+    "winPct": 100,
+    "profitFactor": null,
+    "profitFactorInfinite": true,
+    "rewardRisk": null,
+    "expectancy": 0.6112033900000015,
+    "avgWin": 0.6112033900000015,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 1.222406780000003,
+    "grossLoss": 0,
+    "realizedPnl": 1.222406780000003,
+    "bestTrade": 1.2000000000000028,
+    "worstTrade": 0.022406780000000015,
+    "avgHoldMinutes": 4320.068891666667,
+    "equityCurve": [
+      {
+        "t": "2021-11-29T14:31:24.097973Z",
+        "pnl": 0.022406780000000015
+      },
+      {
+        "t": "2021-11-29T14:31:24.196Z",
+        "pnl": 1.222406780000003
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "PFE",
+      "pnl": 1.222406780000003,
+      "trades": 2,
+      "wins": 2
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "PFE",
+      "qty": 1,
+      "entryPrice": 54,
+      "exitPrice": 55.2,
+      "pnl": 1.2000000000000028,
+      "openedAt": "2021-11-26T14:31:20.013Z",
+      "closedAt": "2021-11-29T14:31:24.196Z",
+      "holdMinutes": 4320.069716666667,
+      "overnight": true
+    },
+    {
+      "ticker": "PFE",
+      "qty": 0.018518,
+      "entryPrice": 54,
+      "exitPrice": 55.21,
+      "pnl": 0.022406780000000015,
+      "openedAt": "2021-11-26T14:31:20.013Z",
+      "closedAt": "2021-11-29T14:31:24.097973Z",
+      "holdMinutes": 4320.068066666667,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "PFE",
+      "qty": 1,
+      "entryPrice": 54,
+      "exitPrice": 55.2,
+      "pnl": 1.2000000000000028,
+      "openedAt": "2021-11-26T14:31:20.013Z",
+      "closedAt": "2021-11-29T14:31:24.196Z",
+      "holdMinutes": 4320.069716666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 1.2000000000000028,
+      "notional": 54,
+      "review": "overnight · 4320m · 1.20 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "PFE",
+      "qty": 0.018518,
+      "entryPrice": 54,
+      "exitPrice": 55.21,
+      "pnl": 0.022406780000000015,
+      "openedAt": "2021-11-26T14:31:20.013Z",
+      "closedAt": "2021-11-29T14:31:24.097973Z",
+      "holdMinutes": 4320.068066666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 1.2100000000000009,
+      "notional": 0.999972,
+      "review": "overnight · 4320m · 1.21 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 2
+    },
+    "maxWin": 2,
+    "maxLoss": 0
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

@@ -1,0 +1,82 @@
+{
+  "updatedAt": "2026-07-17T16:33:02.438Z",
+  "equity": 3864.2445346813884,
+  "assumptions": {
+    "accountNote": "User: ~$2k risk book, trying ~$10 moves on SOXL",
+    "targetPts": 10,
+    "riskBudgetPct": 0.01,
+    "typicalShares": 7
+  },
+  "soxl28d": {
+    "trades": 31,
+    "winRate": 0.5483870967741935,
+    "expectancy": 13.671612260161282,
+    "avgWin": 51.09744705882354,
+    "avgLoss": 31.77404428107145,
+    "under15": {
+      "n": 7,
+      "pnl": -72.97730000000027
+    },
+    "over15": {
+      "n": 20,
+      "pnl": 351.9322800650001
+    },
+    "overnight": {
+      "n": 4,
+      "pnl": 144.86499999999992
+    }
+  },
+  "gates": [
+    {
+      "id": "hold_edge",
+      "label": "Hold-window edge",
+      "pass": true,
+      "detail": ">15m PnL $352 (n=20) vs ≤15m $-73 (n=7)"
+    },
+    {
+      "id": "expectancy",
+      "label": "Positive expectancy (28d SOXL)",
+      "pass": true,
+      "detail": "Expectancy $13.67/trade on 31 closes · WR 55%"
+    },
+    {
+      "id": "loss_asymmetry",
+      "label": "Avg win ≥ 1.2× avg loss",
+      "pass": true,
+      "detail": "Avg win $51 · avg loss $32"
+    },
+    {
+      "id": "no_overnight_leak",
+      "label": "Overnight not leaking",
+      "pass": true,
+      "detail": "Overnight PnL $145 (hard cap while building)"
+    },
+    {
+      "id": "size_discipline",
+      "label": "Size ≤ consistency cap",
+      "pass": false,
+      "detail": "Typical 7 sh vs cap 3 sh (1% equity ÷ $10 stop)"
+    },
+    {
+      "id": "process_weeks",
+      "label": "2 clean process weeks",
+      "pass": false,
+      "detail": "Manual: written rules followed, no revenge size, no junk overnight — not auto-passed from P&L"
+    }
+  ],
+  "gatesPassed": 4,
+  "stance": "size_down_or_hold",
+  "headline": "Do not size up — typical 7 sh is already above the 3 sh consistency cap.",
+  "guidance": [
+    "For ~$3864 equity and a ~$10/share SOXL stop, 1% risk ⇒ ~3 shares. You are averaging ~7.",
+    "Growth path: trade A-setups at ≤3–5 sh until process weeks clear, then +1–2 shares.",
+    ">15m SOXL is the engine ($352); ≤15m is a drag ($-73). Only size the first.",
+    "Unbiased rule: size follows measured edge + rule adherence, never a green day or a $10 target fantasy."
+  ],
+  "suggested": {
+    "holdShares": 3,
+    "consistencyCapShares": 3,
+    "nextSharesIfReady": 5,
+    "sizeUpReady": false
+  }
+}

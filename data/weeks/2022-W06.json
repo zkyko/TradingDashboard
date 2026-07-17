@@ -1,0 +1,123 @@
+{
+  "id": "2022-W06",
+  "label": "Feb 7 – Feb 11, 2022",
+  "start": "2022-02-07",
+  "end": "2022-02-14",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:06.987Z",
+  "realizedPnl": -34.08749999999999,
+  "tradeCount": 1,
+  "winCount": 0,
+  "lossCount": 1,
+  "priorWeekPnl": null,
+  "metrics": {
+    "tradeCount": 1,
+    "winCount": 0,
+    "lossCount": 1,
+    "flatCount": 0,
+    "winRate": 0,
+    "winPct": 0,
+    "profitFactor": 0,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": -34.08749999999999,
+    "avgWin": null,
+    "avgLoss": -34.08749999999999,
+    "avgLossAbs": 34.08749999999999,
+    "grossWin": 0,
+    "grossLoss": -34.08749999999999,
+    "realizedPnl": -34.08749999999999,
+    "bestTrade": -34.08749999999999,
+    "worstTrade": -34.08749999999999,
+    "avgHoldMinutes": 55052.42503333333,
+    "equityCurve": [
+      {
+        "t": "2022-02-11T20:49:32.107Z",
+        "pnl": -34.08749999999999
+      }
+    ]
+  },
+  "soxlMetrics": {
+    "tradeCount": 0,
+    "winCount": 0,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": null,
+    "winPct": null,
+    "profitFactor": null,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": null,
+    "avgWin": null,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0,
+    "grossLoss": 0,
+    "realizedPnl": 0,
+    "bestTrade": null,
+    "worstTrade": null,
+    "avgHoldMinutes": null,
+    "equityCurve": []
+  },
+  "days": [
+    {
+      "date": "2022-02-07",
+      "label": "Mon",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2022-02-08",
+      "label": "Tue",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2022-02-09",
+      "label": "Wed",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2022-02-10",
+      "label": "Thu",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2022-02-11",
+      "label": "Fri",
+      "pnl": -34.08749999999999,
+      "trades": 1
+    }
+  ],
+  "byTicker": [
+    {
+      "ticker": "AMC",
+      "pnl": -34.08749999999999,
+      "trades": 1,
+      "wins": 0
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 1
+    },
+    "maxWin": 0,
+    "maxLoss": 1
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "mistakes": [],
+  "openNotes": []
+}

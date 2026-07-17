@@ -1,0 +1,110 @@
+{
+  "id": "2022-07-19",
+  "date": "2022-07-19",
+  "label": "Tuesday, Jul 19, 2022",
+  "weekday": "Tue",
+  "weekId": "2022-W29",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:04.252Z",
+  "realizedPnl": -8.713205267000003,
+  "tradeCount": 1,
+  "winCount": 0,
+  "lossCount": 1,
+  "processGrades": {
+    "A": 0,
+    "B": 0,
+    "C": 1
+  },
+  "metrics": {
+    "tradeCount": 1,
+    "winCount": 0,
+    "lossCount": 1,
+    "flatCount": 0,
+    "winRate": 0,
+    "winPct": 0,
+    "profitFactor": 0,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": -8.713205267000003,
+    "avgWin": null,
+    "avgLoss": -8.713205267000003,
+    "avgLossAbs": 8.713205267000003,
+    "grossWin": 0,
+    "grossLoss": -8.713205267000003,
+    "realizedPnl": -8.713205267000003,
+    "bestTrade": -8.713205267000003,
+    "worstTrade": -8.713205267000003,
+    "avgHoldMinutes": 7070.867966666667,
+    "equityCurve": [
+      {
+        "t": "2022-07-19T15:52:36.069Z",
+        "pnl": -8.713205267000003
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "GOEV",
+      "pnl": -8.713205267000003,
+      "trades": 1,
+      "wins": 0
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "GOEV",
+      "qty": 18.758246,
+      "entryPrice": 4.447,
+      "exitPrice": 3.9825,
+      "pnl": -8.713205267000003,
+      "openedAt": "2022-07-14T18:01:43.991Z",
+      "closedAt": "2022-07-19T15:52:36.069Z",
+      "holdMinutes": 7070.867966666667,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "GOEV",
+      "qty": 18.758246,
+      "entryPrice": 4.447,
+      "exitPrice": 3.9825,
+      "pnl": -8.713205267000003,
+      "openedAt": "2022-07-14T18:01:43.991Z",
+      "closedAt": "2022-07-19T15:52:36.069Z",
+      "holdMinutes": 7070.867966666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.46450000000000014,
+      "notional": 83.417919962,
+      "review": "overnight · 7071m · 0.46 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 1
+    },
+    "maxWin": 0,
+    "maxLoss": 1
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

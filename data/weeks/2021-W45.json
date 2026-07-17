@@ -1,0 +1,153 @@
+{
+  "id": "2021-W45",
+  "label": "Nov 8 – Nov 12, 2021",
+  "start": "2021-11-08",
+  "end": "2021-11-15",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:07.238Z",
+  "realizedPnl": -22.649134539999995,
+  "tradeCount": 7,
+  "winCount": 0,
+  "lossCount": 7,
+  "priorWeekPnl": -168.84033609579976,
+  "metrics": {
+    "tradeCount": 7,
+    "winCount": 0,
+    "lossCount": 7,
+    "flatCount": 0,
+    "winRate": 0,
+    "winPct": 0,
+    "profitFactor": 0,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": -3.235590648571428,
+    "avgWin": null,
+    "avgLoss": -3.235590648571428,
+    "avgLossAbs": 3.235590648571428,
+    "grossWin": 0,
+    "grossLoss": -22.649134539999995,
+    "realizedPnl": -22.649134539999995,
+    "bestTrade": -0.06318229499999997,
+    "worstTrade": -8.719511249999998,
+    "avgHoldMinutes": 18413.679861904762,
+    "equityCurve": [
+      {
+        "t": "2021-11-12T20:58:26.668839Z",
+        "pnl": -0.06318229499999997
+      },
+      {
+        "t": "2021-11-12T20:58:26.806Z",
+        "pnl": -5.967487454999997
+      },
+      {
+        "t": "2021-11-12T20:58:26.806Z",
+        "pnl": -6.042169654999997
+      },
+      {
+        "t": "2021-11-12T20:58:37.085Z",
+        "pnl": -6.4669367899999965
+      },
+      {
+        "t": "2021-11-12T20:58:37.085Z",
+        "pnl": -15.186448039999995
+      },
+      {
+        "t": "2021-11-12T20:58:37.085Z",
+        "pnl": -15.649134539999995
+      },
+      {
+        "t": "2021-11-12T20:58:37.085Z",
+        "pnl": -22.649134539999995
+      }
+    ]
+  },
+  "soxlMetrics": {
+    "tradeCount": 0,
+    "winCount": 0,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": null,
+    "winPct": null,
+    "profitFactor": null,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": null,
+    "avgWin": null,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0,
+    "grossLoss": 0,
+    "realizedPnl": 0,
+    "bestTrade": null,
+    "worstTrade": null,
+    "avgHoldMinutes": null,
+    "equityCurve": []
+  },
+  "days": [
+    {
+      "date": "2021-11-08",
+      "label": "Mon",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-11-09",
+      "label": "Tue",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-11-10",
+      "label": "Wed",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-11-11",
+      "label": "Thu",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-11-12",
+      "label": "Fri",
+      "pnl": -22.649134539999995,
+      "trades": 7
+    }
+  ],
+  "byTicker": [
+    {
+      "ticker": "CPOP",
+      "pnl": -16.606964884999996,
+      "trades": 4,
+      "wins": 0
+    },
+    {
+      "ticker": "CIFR",
+      "pnl": -6.042169654999997,
+      "trades": 3,
+      "wins": 0
+    }
+  ],
+  "tilt": {
+    "state": "cooling_off",
+    "score": 70,
+    "reasons": [
+      "Loss streak ×7"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 7
+    },
+    "maxWin": 0,
+    "maxLoss": 7
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "mistakes": [],
+  "openNotes": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "2021-W36",
+  "label": "Sep 6 – Sep 10, 2021",
+  "start": "2021-09-06",
+  "end": "2021-09-13",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:07.427Z",
+  "realizedPnl": -33.340775833,
+  "tradeCount": 3,
+  "winCount": 0,
+  "lossCount": 3,
+  "priorWeekPnl": null,
+  "metrics": {
+    "tradeCount": 3,
+    "winCount": 0,
+    "lossCount": 3,
+    "flatCount": 0,
+    "winRate": 0,
+    "winPct": 0,
+    "profitFactor": 0,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": -11.113591944333335,
+    "avgWin": null,
+    "avgLoss": -11.113591944333335,
+    "avgLossAbs": 11.113591944333335,
+    "grossWin": 0,
+    "grossLoss": -33.340775833,
+    "realizedPnl": -33.340775833,
+    "bestTrade": -0.6709043200000001,
+    "worstTrade": -19.607944861799997,
+    "avgHoldMinutes": 303797.3087722222,
+    "equityCurve": [
+      {
+        "t": "2021-09-09T14:45:03.341Z",
+        "pnl": -19.607944861799997
+      },
+      {
+        "t": "2021-09-09T14:45:03.341Z",
+        "pnl": -20.2788491818
+      },
+      {
+        "t": "2021-09-09T14:45:03.341Z",
+        "pnl": -33.340775833
+      }
+    ]
+  },
+  "soxlMetrics": {
+    "tradeCount": 0,
+    "winCount": 0,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": null,
+    "winPct": null,
+    "profitFactor": null,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": null,
+    "avgWin": null,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0,
+    "grossLoss": 0,
+    "realizedPnl": 0,
+    "bestTrade": null,
+    "worstTrade": null,
+    "avgHoldMinutes": null,
+    "equityCurve": []
+  },
+  "days": [
+    {
+      "date": "2021-09-06",
+      "label": "Mon",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-09-07",
+      "label": "Tue",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-09-08",
+      "label": "Wed",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-09-09",
+      "label": "Thu",
+      "pnl": -33.340775833,
+      "trades": 3
+    },
+    {
+      "date": "2021-09-10",
+      "label": "Fri",
+      "pnl": 0,
+      "trades": 0
+    }
+  ],
+  "byTicker": [
+    {
+      "ticker": "GEVO",
+      "pnl": -33.340775833,
+      "trades": 3,
+      "wins": 0
+    }
+  ],
+  "tilt": {
+    "state": "cooling_off",
+    "score": 60,
+    "reasons": [
+      "Loss streak ×3"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 3
+    },
+    "maxWin": 0,
+    "maxLoss": 3
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "mistakes": [],
+  "openNotes": []
+}

@@ -1,0 +1,127 @@
+{
+  "id": "2021-W11",
+  "label": "Mar 15 – Mar 19, 2021",
+  "start": "2021-03-15",
+  "end": "2021-03-22",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:07.822Z",
+  "realizedPnl": 5.852499999999998,
+  "tradeCount": 2,
+  "winCount": 2,
+  "lossCount": 0,
+  "priorWeekPnl": 257.51718357,
+  "metrics": {
+    "tradeCount": 2,
+    "winCount": 2,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": 1,
+    "winPct": 100,
+    "profitFactor": null,
+    "profitFactorInfinite": true,
+    "rewardRisk": null,
+    "expectancy": 2.926249999999999,
+    "avgWin": 2.926249999999999,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 5.852499999999998,
+    "grossLoss": 0,
+    "realizedPnl": 5.852499999999998,
+    "bestTrade": 4.681999999999999,
+    "worstTrade": 1.1704999999999997,
+    "avgHoldMinutes": 20018.7131,
+    "equityCurve": [
+      {
+        "t": "2021-03-18T14:04:27.172Z",
+        "pnl": 1.1704999999999997
+      },
+      {
+        "t": "2021-03-18T14:04:27.172Z",
+        "pnl": 5.852499999999998
+      }
+    ]
+  },
+  "soxlMetrics": {
+    "tradeCount": 0,
+    "winCount": 0,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": null,
+    "winPct": null,
+    "profitFactor": null,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": null,
+    "avgWin": null,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0,
+    "grossLoss": 0,
+    "realizedPnl": 0,
+    "bestTrade": null,
+    "worstTrade": null,
+    "avgHoldMinutes": null,
+    "equityCurve": []
+  },
+  "days": [
+    {
+      "date": "2021-03-15",
+      "label": "Mon",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-03-16",
+      "label": "Tue",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-03-17",
+      "label": "Wed",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-03-18",
+      "label": "Thu",
+      "pnl": 5.852499999999998,
+      "trades": 2
+    },
+    {
+      "date": "2021-03-19",
+      "label": "Fri",
+      "pnl": 0,
+      "trades": 0
+    }
+  ],
+  "byTicker": [
+    {
+      "ticker": "SLGG",
+      "pnl": 5.852499999999998,
+      "trades": 2,
+      "wins": 2
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 2
+    },
+    "maxWin": 2,
+    "maxLoss": 0
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "mistakes": [],
+  "openNotes": []
+}

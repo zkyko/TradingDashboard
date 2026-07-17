@@ -1,0 +1,435 @@
+{
+  "id": "2021-02-02",
+  "date": "2021-02-02",
+  "label": "Tuesday, Feb 2, 2021",
+  "weekday": "Tue",
+  "weekId": "2021-W05",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:02.803Z",
+  "realizedPnl": 97.383495,
+  "tradeCount": 9,
+  "winCount": 9,
+  "lossCount": 0,
+  "processGrades": {
+    "A": 0,
+    "B": 9,
+    "C": 0
+  },
+  "metrics": {
+    "tradeCount": 9,
+    "winCount": 9,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": 1,
+    "winPct": 100,
+    "profitFactor": null,
+    "profitFactorInfinite": true,
+    "rewardRisk": null,
+    "expectancy": 10.820388333333334,
+    "avgWin": 10.820388333333334,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 97.383495,
+    "grossLoss": 0,
+    "realizedPnl": 97.383495,
+    "bestTrade": 47.391999999999996,
+    "worstTrade": 0.9585000000000001,
+    "avgHoldMinutes": 102537.28280555556,
+    "equityCurve": [
+      {
+        "t": "2021-02-02T16:45:04.788Z",
+        "pnl": 8.860199999999999
+      },
+      {
+        "t": "2021-02-02T16:48:11.115Z",
+        "pnl": 10.390199999999998
+      },
+      {
+        "t": "2021-02-02T16:48:11.115Z",
+        "pnl": 17.690199999999997
+      },
+      {
+        "t": "2021-02-02T16:48:11.115Z",
+        "pnl": 21.340199999999996
+      },
+      {
+        "t": "2021-02-02T16:48:24.339Z",
+        "pnl": 24.271229999999996
+      },
+      {
+        "t": "2021-02-02T16:53:44.705Z",
+        "pnl": 33.451429999999995
+      },
+      {
+        "t": "2021-02-02T16:54:38.971Z",
+        "pnl": 34.409929999999996
+      },
+      {
+        "t": "2021-02-02T16:54:38.971Z",
+        "pnl": 49.991495
+      },
+      {
+        "t": "2021-02-02T16:54:52.667Z",
+        "pnl": 97.383495
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "PLUG",
+      "pnl": 47.391999999999996,
+      "trades": 1,
+      "wins": 1
+    },
+    {
+      "ticker": "NGA",
+      "pnl": 18.040399999999998,
+      "trades": 2,
+      "wins": 2
+    },
+    {
+      "ticker": "CTRM",
+      "pnl": 16.540065000000002,
+      "trades": 2,
+      "wins": 2
+    },
+    {
+      "ticker": "TTOO",
+      "pnl": 12.48,
+      "trades": 3,
+      "wins": 3
+    },
+    {
+      "ticker": "ADXS",
+      "pnl": 2.931030000000001,
+      "trades": 1,
+      "wins": 1
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "NGA",
+      "qty": 2,
+      "entryPrice": 23.2199,
+      "exitPrice": 27.65,
+      "pnl": 8.860199999999999,
+      "openedAt": "2021-01-07T17:37:04.021Z",
+      "closedAt": "2021-02-02T16:45:04.788Z",
+      "holdMinutes": 37388.01278333333,
+      "overnight": true
+    },
+    {
+      "ticker": "TTOO",
+      "qty": 2,
+      "entryPrice": 1.49,
+      "exitPrice": 2.255,
+      "pnl": 1.5299999999999998,
+      "openedAt": "2021-01-11T14:30:02.747Z",
+      "closedAt": "2021-02-02T16:48:11.115Z",
+      "holdMinutes": 31818.139466666667,
+      "overnight": true
+    },
+    {
+      "ticker": "TTOO",
+      "qty": 10,
+      "entryPrice": 1.525,
+      "exitPrice": 2.255,
+      "pnl": 7.3,
+      "openedAt": "2021-01-11T15:37:52.079Z",
+      "closedAt": "2021-02-02T16:48:11.115Z",
+      "holdMinutes": 31750.317266666665,
+      "overnight": true
+    },
+    {
+      "ticker": "TTOO",
+      "qty": 10,
+      "entryPrice": 1.89,
+      "exitPrice": 2.255,
+      "pnl": 3.65,
+      "openedAt": "2021-01-12T19:17:44.632Z",
+      "closedAt": "2021-02-02T16:48:11.115Z",
+      "holdMinutes": 30090.441383333335,
+      "overnight": true
+    },
+    {
+      "ticker": "ADXS",
+      "qty": 30,
+      "entryPrice": 0.615699,
+      "exitPrice": 0.7134,
+      "pnl": 2.931030000000001,
+      "openedAt": "2021-01-11T15:37:03.241Z",
+      "closedAt": "2021-02-02T16:48:24.339Z",
+      "holdMinutes": 31751.351633333332,
+      "overnight": true
+    },
+    {
+      "ticker": "NGA",
+      "qty": 2,
+      "entryPrice": 23.2199,
+      "exitPrice": 27.81,
+      "pnl": 9.1802,
+      "openedAt": "2021-01-07T17:37:04.021Z",
+      "closedAt": "2021-02-02T16:53:44.705Z",
+      "holdMinutes": 37396.67806666667,
+      "overnight": true
+    },
+    {
+      "ticker": "CTRM",
+      "qty": 5,
+      "entryPrice": 0.4602,
+      "exitPrice": 0.6519,
+      "pnl": 0.9585000000000001,
+      "openedAt": "2020-06-25T17:49:15.895Z",
+      "closedAt": "2021-02-02T16:54:38.971Z",
+      "holdMinutes": 319625.3846,
+      "overnight": true
+    },
+    {
+      "ticker": "CTRM",
+      "qty": 45,
+      "entryPrice": 0.305643,
+      "exitPrice": 0.6519,
+      "pnl": 15.581565000000001,
+      "openedAt": "2021-01-12T18:49:51.192Z",
+      "closedAt": "2021-02-02T16:54:38.971Z",
+      "holdMinutes": 30124.796316666667,
+      "overnight": true
+    },
+    {
+      "ticker": "PLUG",
+      "qty": 0.8,
+      "entryPrice": 4.23,
+      "exitPrice": 63.47,
+      "pnl": 47.391999999999996,
+      "openedAt": "2020-05-19T18:04:27.243Z",
+      "closedAt": "2021-02-02T16:54:52.667Z",
+      "holdMinutes": 372890.42373333336,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "NGA",
+      "qty": 2,
+      "entryPrice": 23.2199,
+      "exitPrice": 27.65,
+      "pnl": 8.860199999999999,
+      "openedAt": "2021-01-07T17:37:04.021Z",
+      "closedAt": "2021-02-02T16:45:04.788Z",
+      "holdMinutes": 37388.01278333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 4.4300999999999995,
+      "notional": 46.4398,
+      "review": "overnight · 37388m · 4.43 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "TTOO",
+      "qty": 2,
+      "entryPrice": 1.49,
+      "exitPrice": 2.255,
+      "pnl": 1.5299999999999998,
+      "openedAt": "2021-01-11T14:30:02.747Z",
+      "closedAt": "2021-02-02T16:48:11.115Z",
+      "holdMinutes": 31818.139466666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.7649999999999999,
+      "notional": 2.98,
+      "review": "overnight · 31818m · 0.76 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "TTOO",
+      "qty": 10,
+      "entryPrice": 1.525,
+      "exitPrice": 2.255,
+      "pnl": 7.3,
+      "openedAt": "2021-01-11T15:37:52.079Z",
+      "closedAt": "2021-02-02T16:48:11.115Z",
+      "holdMinutes": 31750.317266666665,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.73,
+      "notional": 15.25,
+      "review": "overnight · 31750m · 0.73 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "TTOO",
+      "qty": 10,
+      "entryPrice": 1.89,
+      "exitPrice": 2.255,
+      "pnl": 3.65,
+      "openedAt": "2021-01-12T19:17:44.632Z",
+      "closedAt": "2021-02-02T16:48:11.115Z",
+      "holdMinutes": 30090.441383333335,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.365,
+      "notional": 18.9,
+      "review": "overnight · 30090m · 0.36 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "ADXS",
+      "qty": 30,
+      "entryPrice": 0.615699,
+      "exitPrice": 0.7134,
+      "pnl": 2.931030000000001,
+      "openedAt": "2021-01-11T15:37:03.241Z",
+      "closedAt": "2021-02-02T16:48:24.339Z",
+      "holdMinutes": 31751.351633333332,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 0.09770100000000004,
+      "notional": 18.47097,
+      "review": "overnight · 31751m · 0.10 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "NGA",
+      "qty": 2,
+      "entryPrice": 23.2199,
+      "exitPrice": 27.81,
+      "pnl": 9.1802,
+      "openedAt": "2021-01-07T17:37:04.021Z",
+      "closedAt": "2021-02-02T16:53:44.705Z",
+      "holdMinutes": 37396.67806666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 4.5901,
+      "notional": 46.4398,
+      "review": "overnight · 37397m · 4.59 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "CTRM",
+      "qty": 5,
+      "entryPrice": 0.4602,
+      "exitPrice": 0.6519,
+      "pnl": 0.9585000000000001,
+      "openedAt": "2020-06-25T17:49:15.895Z",
+      "closedAt": "2021-02-02T16:54:38.971Z",
+      "holdMinutes": 319625.3846,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 0.19170000000000004,
+      "notional": 2.301,
+      "review": "overnight · 319625m · 0.19 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "CTRM",
+      "qty": 45,
+      "entryPrice": 0.305643,
+      "exitPrice": 0.6519,
+      "pnl": 15.581565000000001,
+      "openedAt": "2021-01-12T18:49:51.192Z",
+      "closedAt": "2021-02-02T16:54:38.971Z",
+      "holdMinutes": 30124.796316666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 0.34625700000000004,
+      "notional": 13.753935,
+      "review": "overnight · 30125m · 0.35 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "PLUG",
+      "qty": 0.8,
+      "entryPrice": 4.23,
+      "exitPrice": 63.47,
+      "pnl": 47.391999999999996,
+      "openedAt": "2020-05-19T18:04:27.243Z",
+      "closedAt": "2021-02-02T16:54:52.667Z",
+      "holdMinutes": 372890.42373333336,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 59.239999999999995,
+      "notional": 3.3840000000000003,
+      "review": "overnight · 372890m · 59.24 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "on_streak",
+    "score": 40,
+    "reasons": [
+      "Win streak ×9"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 9
+    },
+    "maxWin": 9,
+    "maxLoss": 0
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

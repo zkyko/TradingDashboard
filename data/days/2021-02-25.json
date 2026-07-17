@@ -1,0 +1,221 @@
+{
+  "id": "2021-02-25",
+  "date": "2021-02-25",
+  "label": "Thursday, Feb 25, 2021",
+  "weekday": "Thu",
+  "weekId": "2021-W08",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:03.045Z",
+  "realizedPnl": 7.140184999999999,
+  "tradeCount": 4,
+  "winCount": 4,
+  "lossCount": 0,
+  "processGrades": {
+    "A": 0,
+    "B": 4,
+    "C": 0
+  },
+  "metrics": {
+    "tradeCount": 4,
+    "winCount": 4,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": 1,
+    "winPct": 100,
+    "profitFactor": null,
+    "profitFactorInfinite": true,
+    "rewardRisk": null,
+    "expectancy": 1.7850462499999997,
+    "avgWin": 1.7850462499999997,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 7.140184999999999,
+    "grossLoss": 0,
+    "realizedPnl": 7.140184999999999,
+    "bestTrade": 3.471785,
+    "worstTrade": 0.1522,
+    "avgHoldMinutes": 38636.6081375,
+    "equityCurve": [
+      {
+        "t": "2021-02-25T18:45:46.103Z",
+        "pnl": 3.471785
+      },
+      {
+        "t": "2021-02-25T18:45:46.103Z",
+        "pnl": 4.036785
+      },
+      {
+        "t": "2021-02-25T18:45:46.103Z",
+        "pnl": 4.188985
+      },
+      {
+        "t": "2021-02-25T18:45:46.103Z",
+        "pnl": 7.140184999999999
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "CTRM",
+      "pnl": 7.140184999999999,
+      "trades": 4,
+      "wins": 4
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "CTRM",
+      "qty": 5,
+      "entryPrice": 0.305643,
+      "exitPrice": 1,
+      "pnl": 3.471785,
+      "openedAt": "2021-01-12T18:49:51.192Z",
+      "closedAt": "2021-02-25T18:45:46.103Z",
+      "holdMinutes": 63355.91518333333,
+      "overnight": true
+    },
+    {
+      "ticker": "CTRM",
+      "qty": 1,
+      "entryPrice": 0.435,
+      "exitPrice": 1,
+      "pnl": 0.565,
+      "openedAt": "2021-01-27T16:10:02.031Z",
+      "closedAt": "2021-02-25T18:45:46.103Z",
+      "holdMinutes": 41915.734533333336,
+      "overnight": true
+    },
+    {
+      "ticker": "CTRM",
+      "qty": 1,
+      "entryPrice": 0.8478,
+      "exitPrice": 1,
+      "pnl": 0.1522,
+      "openedAt": "2021-02-08T14:30:23.993Z",
+      "closedAt": "2021-02-25T18:45:46.103Z",
+      "holdMinutes": 24735.3685,
+      "overnight": true
+    },
+    {
+      "ticker": "CTRM",
+      "qty": 34,
+      "entryPrice": 0.9132,
+      "exitPrice": 1,
+      "pnl": 2.9511999999999996,
+      "openedAt": "2021-02-08T17:46:21.243Z",
+      "closedAt": "2021-02-25T18:45:46.103Z",
+      "holdMinutes": 24539.414333333334,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "CTRM",
+      "qty": 5,
+      "entryPrice": 0.305643,
+      "exitPrice": 1,
+      "pnl": 3.471785,
+      "openedAt": "2021-01-12T18:49:51.192Z",
+      "closedAt": "2021-02-25T18:45:46.103Z",
+      "holdMinutes": 63355.91518333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.694357,
+      "notional": 1.5282149999999999,
+      "review": "overnight · 63356m · 0.69 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "CTRM",
+      "qty": 1,
+      "entryPrice": 0.435,
+      "exitPrice": 1,
+      "pnl": 0.565,
+      "openedAt": "2021-01-27T16:10:02.031Z",
+      "closedAt": "2021-02-25T18:45:46.103Z",
+      "holdMinutes": 41915.734533333336,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.565,
+      "notional": 0.435,
+      "review": "overnight · 41916m · 0.56 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "CTRM",
+      "qty": 1,
+      "entryPrice": 0.8478,
+      "exitPrice": 1,
+      "pnl": 0.1522,
+      "openedAt": "2021-02-08T14:30:23.993Z",
+      "closedAt": "2021-02-25T18:45:46.103Z",
+      "holdMinutes": 24735.3685,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.1522,
+      "notional": 0.8478,
+      "review": "overnight · 24735m · 0.15 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "CTRM",
+      "qty": 34,
+      "entryPrice": 0.9132,
+      "exitPrice": 1,
+      "pnl": 2.9511999999999996,
+      "openedAt": "2021-02-08T17:46:21.243Z",
+      "closedAt": "2021-02-25T18:45:46.103Z",
+      "holdMinutes": 24539.414333333334,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.08679999999999999,
+      "notional": 31.0488,
+      "review": "overnight · 24539m · 0.09 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "on_streak",
+    "score": 32,
+    "reasons": [
+      "Win streak ×4"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 4
+    },
+    "maxWin": 4,
+    "maxLoss": 0
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

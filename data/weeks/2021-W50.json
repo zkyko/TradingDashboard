@@ -1,0 +1,143 @@
+{
+  "id": "2021-W50",
+  "label": "Dec 13 – Dec 17, 2021",
+  "start": "2021-12-13",
+  "end": "2021-12-20",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:07.118Z",
+  "realizedPnl": -2321.554402861,
+  "tradeCount": 6,
+  "winCount": 1,
+  "lossCount": 5,
+  "priorWeekPnl": null,
+  "metrics": {
+    "tradeCount": 6,
+    "winCount": 1,
+    "lossCount": 5,
+    "flatCount": 0,
+    "winRate": 0.16666666666666666,
+    "winPct": 16.666666666666664,
+    "profitFactor": 0.07199050346304929,
+    "profitFactorInfinite": false,
+    "rewardRisk": 0.35995251731524647,
+    "expectancy": -386.9257338101667,
+    "avgWin": 180.09500000000003,
+    "avgLoss": -500.3298805722,
+    "avgLossAbs": 500.3298805722,
+    "grossWin": 180.09500000000003,
+    "grossLoss": -2501.649402861,
+    "realizedPnl": -2321.554402861,
+    "bestTrade": 180.09500000000003,
+    "worstTrade": -934.6740000000001,
+    "avgHoldMinutes": 91801.73381666666,
+    "equityCurve": [
+      {
+        "t": "2021-12-13T15:25:18.852Z",
+        "pnl": -934.6740000000001
+      },
+      {
+        "t": "2021-12-13T15:25:18.852Z",
+        "pnl": -1571.0429932470001
+      },
+      {
+        "t": "2021-12-13T15:25:18.852Z",
+        "pnl": -2395.2631327560002
+      },
+      {
+        "t": "2021-12-13T15:25:18.852Z",
+        "pnl": -2495.008677396
+      },
+      {
+        "t": "2021-12-13T15:25:18.852Z",
+        "pnl": -2501.649402861
+      },
+      {
+        "t": "2021-12-17T15:56:30.806Z",
+        "pnl": -2321.554402861
+      }
+    ]
+  },
+  "soxlMetrics": {
+    "tradeCount": 0,
+    "winCount": 0,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": null,
+    "winPct": null,
+    "profitFactor": null,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": null,
+    "avgWin": null,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0,
+    "grossLoss": 0,
+    "realizedPnl": 0,
+    "bestTrade": null,
+    "worstTrade": null,
+    "avgHoldMinutes": null,
+    "equityCurve": []
+  },
+  "days": [
+    {
+      "date": "2021-12-13",
+      "label": "Mon",
+      "pnl": -2501.649402861,
+      "trades": 5
+    },
+    {
+      "date": "2021-12-14",
+      "label": "Tue",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-12-15",
+      "label": "Wed",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-12-16",
+      "label": "Thu",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-12-17",
+      "label": "Fri",
+      "pnl": 180.09500000000003,
+      "trades": 1
+    }
+  ],
+  "byTicker": [
+    {
+      "ticker": "AMC",
+      "pnl": -2321.554402861,
+      "trades": 6,
+      "wins": 1
+    }
+  ],
+  "tilt": {
+    "state": "overnight_hungover",
+    "score": 80,
+    "reasons": [
+      "Overnight PnL $-2315"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 1
+    },
+    "maxWin": 1,
+    "maxLoss": 5
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "mistakes": [],
+  "openNotes": []
+}

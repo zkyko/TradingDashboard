@@ -1,0 +1,225 @@
+{
+  "id": "2022-07-15",
+  "date": "2022-07-15",
+  "label": "Friday, Jul 15, 2022",
+  "weekday": "Fri",
+  "weekId": "2022-W28",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:04.234Z",
+  "realizedPnl": -16.577077684000045,
+  "tradeCount": 4,
+  "winCount": 0,
+  "lossCount": 4,
+  "processGrades": {
+    "A": 0,
+    "B": 0,
+    "C": 4
+  },
+  "metrics": {
+    "tradeCount": 4,
+    "winCount": 0,
+    "lossCount": 4,
+    "flatCount": 0,
+    "winRate": 0,
+    "winPct": 0,
+    "profitFactor": 0,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": -4.144269421000011,
+    "avgWin": null,
+    "avgLoss": -4.144269421000011,
+    "avgLossAbs": 4.144269421000011,
+    "grossWin": 0,
+    "grossLoss": -16.577077684000045,
+    "realizedPnl": -16.577077684000045,
+    "bestTrade": -0.013985663999999965,
+    "worstTrade": -16.461000000000045,
+    "avgHoldMinutes": 1540.5489874999998,
+    "equityCurve": [
+      {
+        "t": "2022-07-15T19:42:16.873014Z",
+        "pnl": -0.08260962999999996
+      },
+      {
+        "t": "2022-07-15T19:42:16.873014Z",
+        "pnl": -0.09659529399999993
+      },
+      {
+        "t": "2022-07-15T19:42:16.934Z",
+        "pnl": -0.11607768399999999
+      },
+      {
+        "t": "2022-07-15T19:42:16.934Z",
+        "pnl": -16.577077684000045
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "GOEV",
+      "pnl": -16.577077684000045,
+      "trades": 4,
+      "wins": 0
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "GOEV",
+      "qty": 0.485939,
+      "entryPrice": 4.445,
+      "exitPrice": 4.275,
+      "pnl": -0.08260962999999996,
+      "openedAt": "2022-07-14T18:01:43.884329Z",
+      "closedAt": "2022-07-15T19:42:16.873014Z",
+      "holdMinutes": 1540.5498166666666,
+      "overnight": true
+    },
+    {
+      "ticker": "GOEV",
+      "qty": 0.08131199999999994,
+      "entryPrice": 4.447,
+      "exitPrice": 4.275,
+      "pnl": -0.013985663999999965,
+      "openedAt": "2022-07-14T18:01:43.991Z",
+      "closedAt": "2022-07-15T19:42:16.873014Z",
+      "holdMinutes": 1540.5480333333333,
+      "overnight": true
+    },
+    {
+      "ticker": "GOEV",
+      "qty": 0.11007,
+      "entryPrice": 4.447,
+      "exitPrice": 4.27,
+      "pnl": -0.019482390000000054,
+      "openedAt": "2022-07-14T18:01:43.991Z",
+      "closedAt": "2022-07-15T19:42:16.934Z",
+      "holdMinutes": 1540.54905,
+      "overnight": true
+    },
+    {
+      "ticker": "GOEV",
+      "qty": 93,
+      "entryPrice": 4.447,
+      "exitPrice": 4.27,
+      "pnl": -16.461000000000045,
+      "openedAt": "2022-07-14T18:01:43.991Z",
+      "closedAt": "2022-07-15T19:42:16.934Z",
+      "holdMinutes": 1540.54905,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "GOEV",
+      "qty": 0.485939,
+      "entryPrice": 4.445,
+      "exitPrice": 4.275,
+      "pnl": -0.08260962999999996,
+      "openedAt": "2022-07-14T18:01:43.884329Z",
+      "closedAt": "2022-07-15T19:42:16.873014Z",
+      "holdMinutes": 1540.5498166666666,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.16999999999999993,
+      "notional": 2.159998855,
+      "review": "overnight · 1541m · 0.17 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "GOEV",
+      "qty": 0.08131199999999994,
+      "entryPrice": 4.447,
+      "exitPrice": 4.275,
+      "pnl": -0.013985663999999965,
+      "openedAt": "2022-07-14T18:01:43.991Z",
+      "closedAt": "2022-07-15T19:42:16.873014Z",
+      "holdMinutes": 1540.5480333333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.1719999999999997,
+      "notional": 0.3615944639999997,
+      "review": "overnight · 1541m · 0.17 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "GOEV",
+      "qty": 0.11007,
+      "entryPrice": 4.447,
+      "exitPrice": 4.27,
+      "pnl": -0.019482390000000054,
+      "openedAt": "2022-07-14T18:01:43.991Z",
+      "closedAt": "2022-07-15T19:42:16.934Z",
+      "holdMinutes": 1540.54905,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "size_up_after_loss"
+      ],
+      "movePts": 0.1770000000000005,
+      "notional": 0.48948129,
+      "review": "overnight · 1541m · 0.18 pts · Flags: overnight, after_loss_streak, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "GOEV",
+      "qty": 93,
+      "entryPrice": 4.447,
+      "exitPrice": 4.27,
+      "pnl": -16.461000000000045,
+      "openedAt": "2022-07-14T18:01:43.991Z",
+      "closedAt": "2022-07-15T19:42:16.934Z",
+      "holdMinutes": 1540.54905,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "size_up_after_loss"
+      ],
+      "movePts": 0.1770000000000005,
+      "notional": 413.571,
+      "review": "overnight · 1541m · 0.18 pts · Flags: overnight, after_loss_streak, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    }
+  ],
+  "tilt": {
+    "state": "cooling_off",
+    "score": 70,
+    "reasons": [
+      "Loss streak ×4"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 4
+    },
+    "maxWin": 0,
+    "maxLoss": 4
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

@@ -1,0 +1,468 @@
+{
+  "id": "2021-09-27",
+  "date": "2021-09-27",
+  "label": "Monday, Sep 27, 2021",
+  "weekday": "Mon",
+  "weekId": "2021-W39",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:03.417Z",
+  "realizedPnl": -146.1400651371,
+  "tradeCount": 10,
+  "winCount": 0,
+  "lossCount": 10,
+  "processGrades": {
+    "A": 0,
+    "B": 0,
+    "C": 10
+  },
+  "metrics": {
+    "tradeCount": 10,
+    "winCount": 0,
+    "lossCount": 10,
+    "flatCount": 0,
+    "winRate": 0,
+    "winPct": 0,
+    "profitFactor": 0,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": -14.61400651371,
+    "avgWin": null,
+    "avgLoss": -14.61400651371,
+    "avgLossAbs": 14.61400651371,
+    "grossWin": 0,
+    "grossLoss": -146.1400651371,
+    "realizedPnl": -146.1400651371,
+    "bestTrade": -0.032129055000000004,
+    "worstTrade": -33.6665,
+    "avgHoldMinutes": 379464.8592016667,
+    "equityCurve": [
+      {
+        "t": "2021-09-27T18:17:48.689Z",
+        "pnl": -33.6665
+      },
+      {
+        "t": "2021-09-27T18:18:09.763Z",
+        "pnl": -43.5562379597
+      },
+      {
+        "t": "2021-09-27T18:18:09.763Z",
+        "pnl": -65.55849256489999
+      },
+      {
+        "t": "2021-09-27T18:18:09.763Z",
+        "pnl": -65.6496116921
+      },
+      {
+        "t": "2021-09-27T18:18:09.763Z",
+        "pnl": -69.4697549921
+      },
+      {
+        "t": "2021-09-27T18:18:09.763Z",
+        "pnl": -95.71307989209998
+      },
+      {
+        "t": "2021-09-27T18:18:09.763Z",
+        "pnl": -114.7989798921
+      },
+      {
+        "t": "2021-09-27T18:18:09.763Z",
+        "pnl": -129.7987857771
+      },
+      {
+        "t": "2021-09-27T18:18:09.763Z",
+        "pnl": -129.8309148321
+      },
+      {
+        "t": "2021-09-27T18:18:09.763Z",
+        "pnl": -146.1400651371
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "JMIA",
+      "pnl": -112.47356513709998,
+      "trades": 9,
+      "wins": 0
+    },
+    {
+      "ticker": "GEVO",
+      "pnl": -33.6665,
+      "trades": 1,
+      "wins": 0
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "GEVO",
+      "qty": 4.999999999999999,
+      "entryPrice": 14.1256,
+      "exitPrice": 7.3923,
+      "pnl": -33.6665,
+      "openedAt": "2021-02-10T15:30:36.876Z",
+      "closedAt": "2021-09-27T18:17:48.689Z",
+      "holdMinutes": 329927.1968833333,
+      "overnight": true
+    },
+    {
+      "ticker": "JMIA",
+      "qty": 0.40875299999999976,
+      "entryPrice": 45.2349,
+      "exitPrice": 21.04,
+      "pnl": -9.889737959699996,
+      "openedAt": "2020-12-22T17:17:45.967Z",
+      "closedAt": "2021-09-27T18:18:09.763Z",
+      "holdMinutes": 401820.3966,
+      "overnight": true
+    },
+    {
+      "ticker": "JMIA",
+      "qty": 0.905018,
+      "entryPrice": 45.3514,
+      "exitPrice": 21.04,
+      "pnl": -22.002254605199997,
+      "openedAt": "2020-12-22T17:27:02.337Z",
+      "closedAt": "2021-09-27T18:18:09.763Z",
+      "holdMinutes": 401811.1237666667,
+      "overnight": true
+    },
+    {
+      "ticker": "JMIA",
+      "qty": 0.003748,
+      "entryPrice": 45.3514,
+      "exitPrice": 21.04,
+      "pnl": -0.0911191272,
+      "openedAt": "2020-12-22T17:27:02.337Z",
+      "closedAt": "2021-09-27T18:18:09.763Z",
+      "holdMinutes": 401811.1237666667,
+      "overnight": true
+    },
+    {
+      "ticker": "JMIA",
+      "qty": 0.145668,
+      "entryPrice": 47.265,
+      "exitPrice": 21.04,
+      "pnl": -3.8201433,
+      "openedAt": "2020-12-22T19:54:20.654214Z",
+      "closedAt": "2021-09-27T18:18:09.763Z",
+      "holdMinutes": 401663.81848333334,
+      "overnight": true
+    },
+    {
+      "ticker": "JMIA",
+      "qty": 0.999365,
+      "entryPrice": 47.3,
+      "exitPrice": 21.04,
+      "pnl": -26.243324899999998,
+      "openedAt": "2020-12-22T19:54:20.794Z",
+      "closedAt": "2021-09-27T18:18:09.763Z",
+      "holdMinutes": 401663.81615,
+      "overnight": true
+    },
+    {
+      "ticker": "JMIA",
+      "qty": 1,
+      "entryPrice": 40.1259,
+      "exitPrice": 21.04,
+      "pnl": -19.085900000000002,
+      "openedAt": "2021-01-12T16:15:19.94Z",
+      "closedAt": "2021-09-27T18:18:09.763Z",
+      "holdMinutes": 371642.8303833333,
+      "overnight": true
+    },
+    {
+      "ticker": "JMIA",
+      "qty": 0.617403,
+      "entryPrice": 45.335,
+      "exitPrice": 21.04,
+      "pnl": -14.999805885000002,
+      "openedAt": "2021-01-19T18:22:03.994665Z",
+      "closedAt": "2021-09-27T18:18:09.763Z",
+      "holdMinutes": 361436.09615,
+      "overnight": true
+    },
+    {
+      "ticker": "JMIA",
+      "qty": 0.001323,
+      "entryPrice": 45.325,
+      "exitPrice": 21.04,
+      "pnl": -0.032129055000000004,
+      "openedAt": "2021-01-19T18:22:04.068Z",
+      "closedAt": "2021-09-27T18:18:09.763Z",
+      "holdMinutes": 361436.0949166667,
+      "overnight": true
+    },
+    {
+      "ticker": "JMIA",
+      "qty": 0.6715729999999996,
+      "entryPrice": 45.325,
+      "exitPrice": 21.04,
+      "pnl": -16.309150304999992,
+      "openedAt": "2021-01-19T18:22:04.068Z",
+      "closedAt": "2021-09-27T18:18:09.763Z",
+      "holdMinutes": 361436.0949166667,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "GEVO",
+      "qty": 4.999999999999999,
+      "entryPrice": 14.1256,
+      "exitPrice": 7.3923,
+      "pnl": -33.6665,
+      "openedAt": "2021-02-10T15:30:36.876Z",
+      "closedAt": "2021-09-27T18:17:48.689Z",
+      "holdMinutes": 329927.1968833333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 6.733300000000001,
+      "notional": 70.62799999999999,
+      "review": "overnight · 329927m · 6.73 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "JMIA",
+      "qty": 0.40875299999999976,
+      "entryPrice": 45.2349,
+      "exitPrice": 21.04,
+      "pnl": -9.889737959699996,
+      "openedAt": "2020-12-22T17:17:45.967Z",
+      "closedAt": "2021-09-27T18:18:09.763Z",
+      "holdMinutes": 401820.3966,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 24.194900000000004,
+      "notional": 18.48990107969999,
+      "review": "overnight · 401820m · 24.19 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "JMIA",
+      "qty": 0.905018,
+      "entryPrice": 45.3514,
+      "exitPrice": 21.04,
+      "pnl": -22.002254605199997,
+      "openedAt": "2020-12-22T17:27:02.337Z",
+      "closedAt": "2021-09-27T18:18:09.763Z",
+      "holdMinutes": 401811.1237666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "size_up_after_loss"
+      ],
+      "movePts": 24.3114,
+      "notional": 41.0438333252,
+      "review": "overnight · 401811m · 24.31 pts · Flags: overnight, after_loss_streak, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "JMIA",
+      "qty": 0.003748,
+      "entryPrice": 45.3514,
+      "exitPrice": 21.04,
+      "pnl": -0.0911191272,
+      "openedAt": "2020-12-22T17:27:02.337Z",
+      "closedAt": "2021-09-27T18:18:09.763Z",
+      "holdMinutes": 401811.1237666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak"
+      ],
+      "movePts": 24.3114,
+      "notional": 0.16997704719999998,
+      "review": "overnight · 401811m · 24.31 pts · Flags: overnight, after_loss_streak · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "JMIA",
+      "qty": 0.145668,
+      "entryPrice": 47.265,
+      "exitPrice": 21.04,
+      "pnl": -3.8201433,
+      "openedAt": "2020-12-22T19:54:20.654214Z",
+      "closedAt": "2021-09-27T18:18:09.763Z",
+      "holdMinutes": 401663.81848333334,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 26.225,
+      "notional": 6.884998019999999,
+      "review": "overnight · 401664m · 26.23 pts · Flags: overnight, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "JMIA",
+      "qty": 0.999365,
+      "entryPrice": 47.3,
+      "exitPrice": 21.04,
+      "pnl": -26.243324899999998,
+      "openedAt": "2020-12-22T19:54:20.794Z",
+      "closedAt": "2021-09-27T18:18:09.763Z",
+      "holdMinutes": 401663.81615,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 26.259999999999998,
+      "notional": 47.26996449999999,
+      "review": "overnight · 401664m · 26.26 pts · Flags: overnight, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "JMIA",
+      "qty": 1,
+      "entryPrice": 40.1259,
+      "exitPrice": 21.04,
+      "pnl": -19.085900000000002,
+      "openedAt": "2021-01-12T16:15:19.94Z",
+      "closedAt": "2021-09-27T18:18:09.763Z",
+      "holdMinutes": 371642.8303833333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 19.085900000000002,
+      "notional": 40.1259,
+      "review": "overnight · 371643m · 19.09 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "JMIA",
+      "qty": 0.617403,
+      "entryPrice": 45.335,
+      "exitPrice": 21.04,
+      "pnl": -14.999805885000002,
+      "openedAt": "2021-01-19T18:22:03.994665Z",
+      "closedAt": "2021-09-27T18:18:09.763Z",
+      "holdMinutes": 361436.09615,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 24.295,
+      "notional": 27.989965005000002,
+      "review": "overnight · 361436m · 24.30 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "JMIA",
+      "qty": 0.001323,
+      "entryPrice": 45.325,
+      "exitPrice": 21.04,
+      "pnl": -0.032129055000000004,
+      "openedAt": "2021-01-19T18:22:04.068Z",
+      "closedAt": "2021-09-27T18:18:09.763Z",
+      "holdMinutes": 361436.0949166667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 24.285000000000004,
+      "notional": 0.059964975000000004,
+      "review": "overnight · 361436m · 24.29 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "JMIA",
+      "qty": 0.6715729999999996,
+      "entryPrice": 45.325,
+      "exitPrice": 21.04,
+      "pnl": -16.309150304999992,
+      "openedAt": "2021-01-19T18:22:04.068Z",
+      "closedAt": "2021-09-27T18:18:09.763Z",
+      "holdMinutes": 361436.0949166667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 24.285000000000004,
+      "notional": 30.439046224999984,
+      "review": "overnight · 361436m · 24.29 pts · Flags: overnight, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    }
+  ],
+  "tilt": {
+    "state": "overnight_hungover",
+    "score": 80,
+    "reasons": [
+      "Loss streak ×10",
+      "Overnight PnL $-146"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 10
+    },
+    "maxWin": 0,
+    "maxLoss": 10
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

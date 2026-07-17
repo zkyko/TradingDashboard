@@ -1,0 +1,233 @@
+{
+  "id": "2021-01-07",
+  "date": "2021-01-07",
+  "label": "Thursday, Jan 7, 2021",
+  "weekday": "Thu",
+  "weekId": "2021-W01",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:02.599Z",
+  "realizedPnl": 107.82,
+  "tradeCount": 4,
+  "winCount": 4,
+  "lossCount": 0,
+  "processGrades": {
+    "A": 0,
+    "B": 4,
+    "C": 0
+  },
+  "metrics": {
+    "tradeCount": 4,
+    "winCount": 4,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": 1,
+    "winPct": 100,
+    "profitFactor": null,
+    "profitFactorInfinite": true,
+    "rewardRisk": null,
+    "expectancy": 26.955,
+    "avgWin": 26.955,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 107.82,
+    "grossLoss": 0,
+    "realizedPnl": 107.82,
+    "bestTrade": 60.24999999999999,
+    "worstTrade": 6.025,
+    "avgHoldMinutes": 111909.37789166666,
+    "equityCurve": [
+      {
+        "t": "2021-01-07T17:33:16.891Z",
+        "pnl": 60.24999999999999
+      },
+      {
+        "t": "2021-01-07T20:36:30.37Z",
+        "pnl": 89.865
+      },
+      {
+        "t": "2021-01-07T20:37:13.411Z",
+        "pnl": 95.89
+      },
+      {
+        "t": "2021-01-07T20:37:13.411Z",
+        "pnl": 107.82
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "JAGX",
+      "pnl": 60.24999999999999,
+      "trades": 1,
+      "wins": 1
+    },
+    {
+      "ticker": "SNAP",
+      "pnl": 29.615000000000002,
+      "trades": 1,
+      "wins": 1
+    },
+    {
+      "ticker": "M",
+      "pnl": 17.955,
+      "trades": 2,
+      "wins": 2
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "JAGX",
+      "qty": 50,
+      "entryPrice": 1.11,
+      "exitPrice": 2.315,
+      "pnl": 60.24999999999999,
+      "openedAt": "2021-01-04T17:16:35.758Z",
+      "closedAt": "2021-01-07T17:33:16.891Z",
+      "holdMinutes": 4336.68555,
+      "overnight": true
+    },
+    {
+      "ticker": "SNAP",
+      "qty": 1,
+      "entryPrice": 22.85,
+      "exitPrice": 52.465,
+      "pnl": 29.615000000000002,
+      "openedAt": "2020-07-29T13:30:01.426Z",
+      "closedAt": "2021-01-07T20:36:30.37Z",
+      "holdMinutes": 233706.4824,
+      "overnight": true
+    },
+    {
+      "ticker": "M",
+      "qty": 1,
+      "entryPrice": 6.18,
+      "exitPrice": 12.205,
+      "pnl": 6.025,
+      "openedAt": "2020-10-20T13:30:05.239Z",
+      "closedAt": "2021-01-07T20:37:13.411Z",
+      "holdMinutes": 114187.1362,
+      "overnight": true
+    },
+    {
+      "ticker": "M",
+      "qty": 2,
+      "entryPrice": 6.24,
+      "exitPrice": 12.205,
+      "pnl": 11.93,
+      "openedAt": "2020-11-02T14:30:00.966Z",
+      "closedAt": "2021-01-07T20:37:13.411Z",
+      "holdMinutes": 95407.20741666667,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "JAGX",
+      "qty": 50,
+      "entryPrice": 1.11,
+      "exitPrice": 2.315,
+      "pnl": 60.24999999999999,
+      "openedAt": "2021-01-04T17:16:35.758Z",
+      "closedAt": "2021-01-07T17:33:16.891Z",
+      "holdMinutes": 4336.68555,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 1.2049999999999998,
+      "notional": 55.50000000000001,
+      "review": "overnight · 4337m · 1.20 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "SNAP",
+      "qty": 1,
+      "entryPrice": 22.85,
+      "exitPrice": 52.465,
+      "pnl": 29.615000000000002,
+      "openedAt": "2020-07-29T13:30:01.426Z",
+      "closedAt": "2021-01-07T20:36:30.37Z",
+      "holdMinutes": 233706.4824,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 29.615000000000002,
+      "notional": 22.85,
+      "review": "overnight · 233706m · 29.62 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "M",
+      "qty": 1,
+      "entryPrice": 6.18,
+      "exitPrice": 12.205,
+      "pnl": 6.025,
+      "openedAt": "2020-10-20T13:30:05.239Z",
+      "closedAt": "2021-01-07T20:37:13.411Z",
+      "holdMinutes": 114187.1362,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 6.025,
+      "notional": 6.18,
+      "review": "overnight · 114187m · 6.03 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "M",
+      "qty": 2,
+      "entryPrice": 6.24,
+      "exitPrice": 12.205,
+      "pnl": 11.93,
+      "openedAt": "2020-11-02T14:30:00.966Z",
+      "closedAt": "2021-01-07T20:37:13.411Z",
+      "holdMinutes": 95407.20741666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 5.965,
+      "notional": 12.48,
+      "review": "overnight · 95407m · 5.96 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "on_streak",
+    "score": 32,
+    "reasons": [
+      "Win streak ×4"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 4
+    },
+    "maxWin": 4,
+    "maxLoss": 0
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

@@ -1,0 +1,123 @@
+{
+  "id": "2021-W03",
+  "label": "Jan 18 – Jan 22, 2021",
+  "start": "2021-01-18",
+  "end": "2021-01-25",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:08.104Z",
+  "realizedPnl": 4.44189999999999,
+  "tradeCount": 1,
+  "winCount": 1,
+  "lossCount": 0,
+  "priorWeekPnl": 864.5066550747001,
+  "metrics": {
+    "tradeCount": 1,
+    "winCount": 1,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": 1,
+    "winPct": 100,
+    "profitFactor": null,
+    "profitFactorInfinite": true,
+    "rewardRisk": null,
+    "expectancy": 4.44189999999999,
+    "avgWin": 4.44189999999999,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 4.44189999999999,
+    "grossLoss": 0,
+    "realizedPnl": 4.44189999999999,
+    "bestTrade": 4.44189999999999,
+    "worstTrade": 4.44189999999999,
+    "avgHoldMinutes": 11434.70695,
+    "equityCurve": [
+      {
+        "t": "2021-01-20T18:01:03.137Z",
+        "pnl": 4.44189999999999
+      }
+    ]
+  },
+  "soxlMetrics": {
+    "tradeCount": 0,
+    "winCount": 0,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": null,
+    "winPct": null,
+    "profitFactor": null,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": null,
+    "avgWin": null,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0,
+    "grossLoss": 0,
+    "realizedPnl": 0,
+    "bestTrade": null,
+    "worstTrade": null,
+    "avgHoldMinutes": null,
+    "equityCurve": []
+  },
+  "days": [
+    {
+      "date": "2021-01-18",
+      "label": "Mon",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-01-19",
+      "label": "Tue",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-01-20",
+      "label": "Wed",
+      "pnl": 4.44189999999999,
+      "trades": 1
+    },
+    {
+      "date": "2021-01-21",
+      "label": "Thu",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-01-22",
+      "label": "Fri",
+      "pnl": 0,
+      "trades": 0
+    }
+  ],
+  "byTicker": [
+    {
+      "ticker": "ARKQ",
+      "pnl": 4.44189999999999,
+      "trades": 1,
+      "wins": 1
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 1
+    },
+    "maxWin": 1,
+    "maxLoss": 0
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "mistakes": [],
+  "openNotes": []
+}

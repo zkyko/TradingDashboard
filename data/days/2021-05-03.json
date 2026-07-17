@@ -1,0 +1,233 @@
+{
+  "id": "2021-05-03",
+  "date": "2021-05-03",
+  "label": "Monday, May 3, 2021",
+  "weekday": "Mon",
+  "weekId": "2021-W18",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:03.178Z",
+  "realizedPnl": 44.30230092000001,
+  "tradeCount": 4,
+  "winCount": 4,
+  "lossCount": 0,
+  "processGrades": {
+    "A": 0,
+    "B": 4,
+    "C": 0
+  },
+  "metrics": {
+    "tradeCount": 4,
+    "winCount": 4,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": 1,
+    "winPct": 100,
+    "profitFactor": null,
+    "profitFactorInfinite": true,
+    "rewardRisk": null,
+    "expectancy": 11.075575230000002,
+    "avgWin": 11.075575230000002,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 44.30230092000001,
+    "grossLoss": 0,
+    "realizedPnl": 44.30230092000001,
+    "bestTrade": 42.42000000000001,
+    "worstTrade": 0.3725378999999992,
+    "avgHoldMinutes": 112433.43096666667,
+    "equityCurve": [
+      {
+        "t": "2021-05-03T17:37:02.642681Z",
+        "pnl": 1.032706440000001
+      },
+      {
+        "t": "2021-05-03T17:37:02.642681Z",
+        "pnl": 1.4052443400000003
+      },
+      {
+        "t": "2021-05-03T17:37:24.132851Z",
+        "pnl": 1.8823009200000003
+      },
+      {
+        "t": "2021-05-03T17:38:57.175Z",
+        "pnl": 44.30230092000001
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "OCGN",
+      "pnl": 42.42000000000001,
+      "trades": 1,
+      "wins": 1
+    },
+    {
+      "ticker": "PFE",
+      "pnl": 1.4052443400000003,
+      "trades": 2,
+      "wins": 2
+    },
+    {
+      "ticker": "NOK",
+      "pnl": 0.47705658,
+      "trades": 1,
+      "wins": 1
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "PFE",
+      "qty": 0.3604560000000001,
+      "entryPrice": 36.76,
+      "exitPrice": 39.625,
+      "pnl": 1.032706440000001,
+      "openedAt": "2021-01-19T18:23:44.307Z",
+      "closedAt": "2021-05-03T17:37:02.642681Z",
+      "holdMinutes": 149713.30558333333,
+      "overnight": true
+    },
+    {
+      "ticker": "PFE",
+      "qty": 0.07198799999999989,
+      "entryPrice": 34.45,
+      "exitPrice": 39.625,
+      "pnl": 0.3725378999999992,
+      "openedAt": "2021-03-08T14:32:28.779Z",
+      "closedAt": "2021-05-03T17:37:02.642681Z",
+      "holdMinutes": 80824.56438333333,
+      "overnight": true
+    },
+    {
+      "ticker": "NOK",
+      "qty": 0.507507,
+      "entryPrice": 3.945,
+      "exitPrice": 4.885,
+      "pnl": 0.47705658,
+      "openedAt": "2021-02-24T14:37:11.604Z",
+      "closedAt": "2021-05-03T17:37:24.132851Z",
+      "holdMinutes": 98100.2088,
+      "overnight": true
+    },
+    {
+      "ticker": "OCGN",
+      "qty": 10,
+      "entryPrice": 11.3889,
+      "exitPrice": 15.6309,
+      "pnl": 42.42000000000001,
+      "openedAt": "2021-02-08T15:23:18.469Z",
+      "closedAt": "2021-05-03T17:38:57.175Z",
+      "holdMinutes": 121095.6451,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "PFE",
+      "qty": 0.3604560000000001,
+      "entryPrice": 36.76,
+      "exitPrice": 39.625,
+      "pnl": 1.032706440000001,
+      "openedAt": "2021-01-19T18:23:44.307Z",
+      "closedAt": "2021-05-03T17:37:02.642681Z",
+      "holdMinutes": 149713.30558333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 2.865000000000002,
+      "notional": 13.250362560000003,
+      "review": "overnight · 149713m · 2.87 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "PFE",
+      "qty": 0.07198799999999989,
+      "entryPrice": 34.45,
+      "exitPrice": 39.625,
+      "pnl": 0.3725378999999992,
+      "openedAt": "2021-03-08T14:32:28.779Z",
+      "closedAt": "2021-05-03T17:37:02.642681Z",
+      "holdMinutes": 80824.56438333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 5.174999999999997,
+      "notional": 2.479986599999996,
+      "review": "overnight · 80825m · 5.17 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "NOK",
+      "qty": 0.507507,
+      "entryPrice": 3.945,
+      "exitPrice": 4.885,
+      "pnl": 0.47705658,
+      "openedAt": "2021-02-24T14:37:11.604Z",
+      "closedAt": "2021-05-03T17:37:24.132851Z",
+      "holdMinutes": 98100.2088,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.94,
+      "notional": 2.002115115,
+      "review": "overnight · 98100m · 0.94 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "OCGN",
+      "qty": 10,
+      "entryPrice": 11.3889,
+      "exitPrice": 15.6309,
+      "pnl": 42.42000000000001,
+      "openedAt": "2021-02-08T15:23:18.469Z",
+      "closedAt": "2021-05-03T17:38:57.175Z",
+      "holdMinutes": 121095.6451,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 4.242000000000001,
+      "notional": 113.889,
+      "review": "overnight · 121096m · 4.24 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "on_streak",
+    "score": 32,
+    "reasons": [
+      "Win streak ×4"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 4
+    },
+    "maxWin": 4,
+    "maxLoss": 0
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

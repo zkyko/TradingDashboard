@@ -1,0 +1,227 @@
+{
+  "id": "2020-W52",
+  "label": "Dec 21 – Dec 25, 2020",
+  "start": "2020-12-21",
+  "end": "2020-12-28",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:08.225Z",
+  "realizedPnl": 131.02859601,
+  "tradeCount": 12,
+  "winCount": 10,
+  "lossCount": 2,
+  "priorWeekPnl": null,
+  "metrics": {
+    "tradeCount": 12,
+    "winCount": 10,
+    "lossCount": 2,
+    "flatCount": 0,
+    "winRate": 0.8333333333333334,
+    "winPct": 83.33333333333334,
+    "profitFactor": 46.23374737114648,
+    "profitFactorInfinite": false,
+    "rewardRisk": 9.246749474229297,
+    "expectancy": 10.9190496675,
+    "avgWin": 13.392529601000001,
+    "avgLoss": -1.44835,
+    "avgLossAbs": 1.44835,
+    "grossWin": 133.92529601,
+    "grossLoss": -2.8967,
+    "realizedPnl": 131.02859601,
+    "bestTrade": 32.78860000000001,
+    "worstTrade": -2.8811,
+    "avgHoldMinutes": 240025.77033333332,
+    "equityCurve": [
+      {
+        "t": "2020-12-21T19:08:25.838Z",
+        "pnl": 1.4450000000000074
+      },
+      {
+        "t": "2020-12-22T16:44:23.323Z",
+        "pnl": 4.685000000000009
+      },
+      {
+        "t": "2020-12-22T16:45:11.951Z",
+        "pnl": 12.94720000000001
+      },
+      {
+        "t": "2020-12-22T17:15:18.594Z",
+        "pnl": 45.73580000000002
+      },
+      {
+        "t": "2020-12-22T17:15:35.547Z",
+        "pnl": 52.37800000000002
+      },
+      {
+        "t": "2020-12-22T17:26:42.915Z",
+        "pnl": 65.28000000000002
+      },
+      {
+        "t": "2020-12-22T17:28:58.724Z",
+        "pnl": 91.67809601000002
+      },
+      {
+        "t": "2020-12-22T18:47:32.99Z",
+        "pnl": 88.79699601000002
+      },
+      {
+        "t": "2020-12-22T18:47:32.99Z",
+        "pnl": 89.07389601000001
+      },
+      {
+        "t": "2020-12-22T19:53:47.604Z",
+        "pnl": 118.02389601000002
+      },
+      {
+        "t": "2020-12-23T15:17:37.982Z",
+        "pnl": 131.04419601
+      },
+      {
+        "t": "2020-12-23T16:51:27.043Z",
+        "pnl": 131.02859601
+      }
+    ]
+  },
+  "soxlMetrics": {
+    "tradeCount": 0,
+    "winCount": 0,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": null,
+    "winPct": null,
+    "profitFactor": null,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": null,
+    "avgWin": null,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0,
+    "grossLoss": 0,
+    "realizedPnl": 0,
+    "bestTrade": null,
+    "worstTrade": null,
+    "avgHoldMinutes": null,
+    "equityCurve": []
+  },
+  "days": [
+    {
+      "date": "2020-12-21",
+      "label": "Mon",
+      "pnl": 1.4450000000000074,
+      "trades": 1
+    },
+    {
+      "date": "2020-12-22",
+      "label": "Tue",
+      "pnl": 116.57889601,
+      "trades": 9
+    },
+    {
+      "date": "2020-12-23",
+      "label": "Wed",
+      "pnl": 13.0047,
+      "trades": 2
+    },
+    {
+      "date": "2020-12-24",
+      "label": "Thu",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2020-12-25",
+      "label": "Fri",
+      "pnl": 0,
+      "trades": 0
+    }
+  ],
+  "byTicker": [
+    {
+      "ticker": "NTGR",
+      "pnl": 32.78860000000001,
+      "trades": 1,
+      "wins": 1
+    },
+    {
+      "ticker": "SNAP",
+      "pnl": 28.949999999999996,
+      "trades": 1,
+      "wins": 1
+    },
+    {
+      "ticker": "PLUG",
+      "pnl": 26.39809601,
+      "trades": 1,
+      "wins": 1
+    },
+    {
+      "ticker": "M",
+      "pnl": 13.020299999999999,
+      "trades": 1,
+      "wins": 1
+    },
+    {
+      "ticker": "ICAGY",
+      "pnl": 12.901999999999996,
+      "trades": 1,
+      "wins": 1
+    },
+    {
+      "ticker": "CGC",
+      "pnl": 8.2622,
+      "trades": 1,
+      "wins": 1
+    },
+    {
+      "ticker": "JMIA",
+      "pnl": 6.6422000000000025,
+      "trades": 1,
+      "wins": 1
+    },
+    {
+      "ticker": "VICI",
+      "pnl": 3.240000000000002,
+      "trades": 1,
+      "wins": 1
+    },
+    {
+      "ticker": "TRXC",
+      "pnl": -2.6042,
+      "trades": 2,
+      "wins": 1
+    },
+    {
+      "ticker": "AAPL",
+      "pnl": 1.4450000000000074,
+      "trades": 1,
+      "wins": 1
+    },
+    {
+      "ticker": "SHIP",
+      "pnl": -0.015600000000000058,
+      "trades": 1,
+      "wins": 0
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 1
+    },
+    "maxWin": 7,
+    "maxLoss": 1
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "mistakes": [],
+  "openNotes": []
+}

@@ -1,0 +1,6461 @@
+{
+  "updatedAt": "2026-07-17T16:33:02.434Z",
+  "fills": [
+    {
+      "id": "700bddf9-b4d7-400c-94ff-73822069ddba",
+      "ticker": "FIT",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 5.4,
+      "executedAt": "2019-04-25T13:56:03.96Z"
+    },
+    {
+      "id": "5cec980e-a329-4f9c-945a-aaaf89d0bac3",
+      "ticker": "TRXC",
+      "side": "BUY",
+      "quantity": 2,
+      "price": 1.9884,
+      "executedAt": "2019-04-25T14:03:42.465Z"
+    },
+    {
+      "id": "d2092923-5411-4e7c-abaf-7b98dabbb612",
+      "ticker": "NTGR",
+      "side": "BUY",
+      "quantity": 2,
+      "price": 21.99,
+      "executedAt": "2020-04-24T13:30:00.792Z"
+    },
+    {
+      "id": "0f89216b-7582-4c47-96ac-a109a384c320",
+      "ticker": "TRXC",
+      "side": "BUY",
+      "quantity": 3,
+      "price": 0.4094,
+      "executedAt": "2020-05-14T17:09:05.804Z"
+    },
+    {
+      "id": "2aca0c95-2045-4e0a-b9e6-137d540c0b7f",
+      "ticker": "CGC",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 17.1828,
+      "executedAt": "2020-05-19T18:02:20.549Z"
+    },
+    {
+      "id": "585e8a56-60eb-4ad0-a6bf-85cc41745761",
+      "ticker": "PLUG",
+      "side": "BUY",
+      "quantity": 2,
+      "price": 4.23,
+      "executedAt": "2020-05-19T18:04:27.243Z"
+    },
+    {
+      "id": "b0828773-c95a-4403-8255-db9c8dc5919d",
+      "ticker": "KTOV",
+      "side": "BUY",
+      "quantity": 2,
+      "price": 1.2399,
+      "executedAt": "2020-06-25T17:48:29.185Z"
+    },
+    {
+      "id": "e26caec5-7b79-474d-a847-809b87690ee2",
+      "ticker": "CTRM",
+      "side": "BUY",
+      "quantity": 5,
+      "price": 0.4602,
+      "executedAt": "2020-06-25T17:49:15.895Z"
+    },
+    {
+      "id": "0bb34258-d7c0-42ef-82ec-fbc8d666cc0f",
+      "ticker": "IDEX",
+      "side": "BUY",
+      "quantity": 4,
+      "price": 2.7299,
+      "executedAt": "2020-06-25T17:50:34.476Z"
+    },
+    {
+      "id": "4a00fa21-0fe9-4b03-b84c-8b75c97c516d",
+      "ticker": "TOPS",
+      "side": "BUY",
+      "quantity": 2,
+      "price": 0.136,
+      "executedAt": "2020-06-29T13:30:13.405Z"
+    },
+    {
+      "id": "6875768d-8234-4844-808d-5eb51d8339e7",
+      "ticker": "SNAP",
+      "side": "BUY",
+      "quantity": 2,
+      "price": 22.85,
+      "executedAt": "2020-07-29T13:30:01.426Z"
+    },
+    {
+      "id": "8307f65b-cb62-4c45-9454-34c19c530dbc",
+      "ticker": "VICI",
+      "side": "BUY",
+      "quantity": 2,
+      "price": 24,
+      "executedAt": "2020-10-07T13:30:47.669Z"
+    },
+    {
+      "id": "623573e2-34cc-45df-b854-c60f9b96bbb7",
+      "ticker": "SHIP",
+      "side": "BUY",
+      "quantity": 8,
+      "price": 0.495,
+      "executedAt": "2020-10-09T13:30:01.714Z"
+    },
+    {
+      "id": "753330d6-c413-4830-a892-2639dc3d8070",
+      "ticker": "AAPL",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 125.33,
+      "executedAt": "2020-10-13T13:30:01.999Z"
+    },
+    {
+      "id": "8fa9ad0a-4bf2-454b-b69d-c69b44b6ca38",
+      "ticker": "M",
+      "side": "BUY",
+      "quantity": 5,
+      "price": 6.18,
+      "executedAt": "2020-10-20T13:30:05.239Z"
+    },
+    {
+      "id": "c377ba11-a0dc-47ff-b137-48b5a6fc573f",
+      "ticker": "ICAGY",
+      "side": "BUY",
+      "quantity": 10,
+      "price": 2.8098,
+      "executedAt": "2020-10-20T15:01:36.253Z"
+    },
+    {
+      "id": "cca2193b-1bbd-4ecb-9ad2-3dbb43e199f3",
+      "ticker": "WPX",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 4.64,
+      "executedAt": "2020-10-26T13:30:03.809Z"
+    },
+    {
+      "id": "a1d2f3cb-d2b8-4bc7-8e3d-b1a62f276c84",
+      "ticker": "FIT",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 6.95,
+      "executedAt": "2020-10-26T13:30:34.663Z"
+    },
+    {
+      "id": "43edb4cf-bf9e-4220-bd51-62669b7b27c6",
+      "ticker": "M",
+      "side": "BUY",
+      "quantity": 2,
+      "price": 6.24,
+      "executedAt": "2020-11-02T14:30:00.966Z"
+    },
+    {
+      "id": "684fe0a3-b3a2-479c-851c-6e6b6a9bbd4d",
+      "ticker": "PFE",
+      "side": "BUY",
+      "quantity": 5,
+      "price": 40.49,
+      "executedAt": "2020-12-02T14:31:56.767Z"
+    },
+    {
+      "id": "28865241-f63f-49ac-9d27-80d91919fbbb",
+      "ticker": "AAPL",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 126.775,
+      "executedAt": "2020-12-21T19:08:25.838Z"
+    },
+    {
+      "id": "51dc1450-3aff-4c65-96c9-b5934f12bf9d",
+      "ticker": "JMIA",
+      "side": "BUY",
+      "quantity": 2,
+      "price": 41.7301,
+      "executedAt": "2020-12-21T19:11:09.708Z"
+    },
+    {
+      "id": "90b41751-f832-43f1-88dd-4bba6b46a004",
+      "ticker": "VICI",
+      "side": "SELL",
+      "quantity": 2,
+      "price": 25.62,
+      "executedAt": "2020-12-22T16:44:23.323Z"
+    },
+    {
+      "id": "499fe4df-6578-4d8e-84a9-a7cfa39f8109",
+      "ticker": "CGC",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 25.445,
+      "executedAt": "2020-12-22T16:45:11.951Z"
+    },
+    {
+      "id": "411338d6-6d7a-4236-b323-8694a93c7db5",
+      "ticker": "OPK",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 4.58,
+      "executedAt": "2020-12-22T16:45:50.444Z"
+    },
+    {
+      "id": "52cccc01-d4ec-4656-a7bd-9d4f7b926e94",
+      "ticker": "JAGX",
+      "side": "BUY",
+      "quantity": 200,
+      "price": 0.40675,
+      "executedAt": "2020-12-22T17:11:14.658Z"
+    },
+    {
+      "id": "5500a762-0037-4477-b1f0-a86da9bccd26",
+      "ticker": "NTGR",
+      "side": "SELL",
+      "quantity": 2,
+      "price": 38.3843,
+      "executedAt": "2020-12-22T17:15:18.594Z"
+    },
+    {
+      "id": "9be1b424-5d8f-47e9-91cb-1d68b0ffe773",
+      "ticker": "JMIA",
+      "side": "SELL",
+      "quantity": 2,
+      "price": 45.0512,
+      "executedAt": "2020-12-22T17:15:35.547Z"
+    },
+    {
+      "id": "fc317a53-7f37-408a-92cb-78fcf064a997",
+      "ticker": "JMIA",
+      "side": "BUY",
+      "quantity": 4.708753,
+      "price": 45.2349,
+      "executedAt": "2020-12-22T17:17:45.967Z"
+    },
+    {
+      "id": "646d1c6a-6bd7-41de-9178-d1837e9467f4",
+      "ticker": "ICAGY",
+      "side": "SELL",
+      "quantity": 10,
+      "price": 4.1,
+      "executedAt": "2020-12-22T17:26:42.915Z"
+    },
+    {
+      "id": "0e8044cb-4d08-4f38-a06e-b5899566071e",
+      "ticker": "JMIA",
+      "side": "BUY",
+      "quantity": 0.905018,
+      "price": 45.3514,
+      "executedAt": "2020-12-22T17:27:02.337Z"
+    },
+    {
+      "id": "d7ac3624-358c-4be4-b062-c7dc8d0a1799",
+      "ticker": "JMIA",
+      "side": "BUY",
+      "quantity": 0.003748,
+      "price": 45.3514,
+      "executedAt": "2020-12-22T17:27:02.337Z"
+    },
+    {
+      "id": "a0dc8892-d4fe-4e23-bc09-9a366310bfb4",
+      "ticker": "PLUG",
+      "side": "SELL",
+      "quantity": 0.852514,
+      "price": 35.195,
+      "executedAt": "2020-12-22T17:28:58.724Z"
+    },
+    {
+      "id": "26ac5d52-13fb-4796-a551-7451dda761fb",
+      "ticker": "OCGN",
+      "side": "BUY",
+      "quantity": 39,
+      "price": 0.7226,
+      "executedAt": "2020-12-22T17:29:18.586Z"
+    },
+    {
+      "id": "a4ba902d-1fa7-468f-8fc5-7308c56b8254",
+      "ticker": "JAGX",
+      "side": "BUY",
+      "quantity": 4,
+      "price": 0.415999,
+      "executedAt": "2020-12-22T17:32:29.824Z"
+    },
+    {
+      "id": "cacab2ac-72b5-40f5-99c7-840ccdccf936",
+      "ticker": "TRXC",
+      "side": "SELL",
+      "quantity": 4,
+      "price": 0.54785,
+      "executedAt": "2020-12-22T18:47:32.99Z"
+    },
+    {
+      "id": "3b15a2b3-d6f6-4e76-9d0c-46eea6acf382",
+      "ticker": "SNAP",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 51.8,
+      "executedAt": "2020-12-22T19:53:47.604Z"
+    },
+    {
+      "id": "432ee28f-b903-439f-8eda-9ec31b68e7c7",
+      "ticker": "JMIA",
+      "side": "BUY",
+      "quantity": 0.145668,
+      "price": 47.265,
+      "executedAt": "2020-12-22T19:54:20.654214Z"
+    },
+    {
+      "id": "cdc92751-b1b1-479a-a367-48d21a617326",
+      "ticker": "JMIA",
+      "side": "BUY",
+      "quantity": 0.999365,
+      "price": 47.3,
+      "executedAt": "2020-12-22T19:54:20.794Z"
+    },
+    {
+      "id": "df4dcfa8-41f3-4959-8fd7-0daf6776b640",
+      "ticker": "M",
+      "side": "SELL",
+      "quantity": 3,
+      "price": 10.5201,
+      "executedAt": "2020-12-23T15:17:37.982Z"
+    },
+    {
+      "id": "48564281-0970-4035-a4e2-b15b4bbb4582",
+      "ticker": "JAGX",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 0.923799,
+      "executedAt": "2020-12-23T16:38:17.658Z"
+    },
+    {
+      "id": "dce2e247-fd26-4eaf-9fc9-e589aed2d53b",
+      "ticker": "SHIP",
+      "side": "SELL",
+      "quantity": 8,
+      "price": 0.49305,
+      "executedAt": "2020-12-23T16:51:27.043Z"
+    },
+    {
+      "id": "2d27a337-f007-4916-8f53-da6c87b8129c",
+      "ticker": "KOPN",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 3.1098,
+      "executedAt": "2020-12-23T16:52:16.014Z"
+    },
+    {
+      "id": "0776157d-cc50-4847-8b94-f802cc57cedf",
+      "ticker": "JAGX",
+      "side": "BUY",
+      "quantity": 0.47,
+      "price": 0.68295,
+      "executedAt": "2020-12-24T17:12:58.921759Z"
+    },
+    {
+      "id": "ab62db8e-b1af-48a5-995d-3ec5058bef72",
+      "ticker": "JAGX",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 0.67935,
+      "executedAt": "2020-12-24T17:12:58.918Z"
+    },
+    {
+      "id": "09741f67-c3a3-40e6-929a-2cd665a49d79",
+      "ticker": "NIO",
+      "side": "BUY",
+      "quantity": 0.022586,
+      "price": 44.275,
+      "executedAt": "2020-12-28T19:41:54.297032Z"
+    },
+    {
+      "id": "4531ee7b-55c9-4db9-91a5-f721a8c2c9bb",
+      "ticker": "NIO",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 44.32,
+      "executedAt": "2020-12-28T19:42:20.89Z"
+    },
+    {
+      "id": "b2c2d859-65cb-438f-828d-3659a6bed0a9",
+      "ticker": "NNDM",
+      "side": "BUY",
+      "quantity": 0.084515,
+      "price": 8.105,
+      "executedAt": "2020-12-28T19:43:29.796078Z"
+    },
+    {
+      "id": "d467c11e-7de0-45e6-84ea-402eb6442096",
+      "ticker": "NNDM",
+      "side": "BUY",
+      "quantity": 3,
+      "price": 8.095,
+      "executedAt": "2020-12-28T19:43:29.891Z"
+    },
+    {
+      "id": "e372afe2-83b9-495a-bf47-33dd2c45fcc1",
+      "ticker": "NNDM",
+      "side": "BUY",
+      "quantity": 0.003705,
+      "price": 8.095,
+      "executedAt": "2020-12-28T19:43:29.891Z"
+    },
+    {
+      "id": "4ba3f9cc-185e-4e0d-8a68-f23000d3fbf6",
+      "ticker": "OCGN",
+      "side": "SELL",
+      "quantity": 39,
+      "price": 2.9407,
+      "executedAt": "2021-01-04T16:15:44.661Z"
+    },
+    {
+      "id": "268ff97d-d9b0-4c54-b3cb-9caf87041101",
+      "ticker": "JAGX",
+      "side": "SELL",
+      "quantity": 206,
+      "price": 1.025,
+      "executedAt": "2021-01-04T16:16:00.351Z"
+    },
+    {
+      "id": "bb6acf43-9f8c-4bb2-8157-097c1d9dc334",
+      "ticker": "JAGX",
+      "side": "SELL",
+      "quantity": 0.47,
+      "price": 1.025,
+      "executedAt": "2021-01-04T16:16:00.271769Z"
+    },
+    {
+      "id": "fd12aef1-b580-43f8-9303-2aa78afec49e",
+      "ticker": "WKHS",
+      "side": "BUY",
+      "quantity": 4,
+      "price": 20.5795,
+      "executedAt": "2021-01-04T16:29:46.838Z"
+    },
+    {
+      "id": "90668dc8-e329-47b9-a494-6e272c060621",
+      "ticker": "JAGX",
+      "side": "BUY",
+      "quantity": 100,
+      "price": 1.11,
+      "executedAt": "2021-01-04T17:16:35.758Z"
+    },
+    {
+      "id": "9395f560-1cbd-468c-ac82-db17e61eb9cb",
+      "ticker": "OCGN",
+      "side": "BUY",
+      "quantity": 0.067524,
+      "price": 3.11,
+      "executedAt": "2021-01-04T17:18:09.944Z"
+    },
+    {
+      "id": "d855d048-8eb3-4dd7-bb76-97b7138fcdf4",
+      "ticker": "OCGN",
+      "side": "BUY",
+      "quantity": 42.690208,
+      "price": 3.11,
+      "executedAt": "2021-01-04T17:18:09.944Z"
+    },
+    {
+      "id": "68111ec2-5e79-4d63-ad42-5203ccf990c3",
+      "ticker": "ZOMDF",
+      "side": "BUY",
+      "quantity": 1000,
+      "price": 0.4843,
+      "executedAt": "2021-01-05T16:13:45.962Z"
+    },
+    {
+      "id": "df32cf79-46ed-4e88-a2e3-dd16ac8ca16b",
+      "ticker": "GHSI",
+      "side": "BUY",
+      "quantity": 30,
+      "price": 0.496575,
+      "executedAt": "2021-01-05T18:24:12.078Z"
+    },
+    {
+      "id": "9dac8dc8-b597-45bb-a34e-224e5ed37be8",
+      "ticker": "JAGX",
+      "side": "SELL",
+      "quantity": 50,
+      "price": 2.17,
+      "executedAt": "2021-01-06T15:38:07.041Z"
+    },
+    {
+      "id": "d1316142-7455-479c-9b67-e41000437c17",
+      "ticker": "GHSI",
+      "side": "SELL",
+      "quantity": 15,
+      "price": 0.87,
+      "executedAt": "2021-01-06T16:02:52.826Z"
+    },
+    {
+      "id": "62b23edd-023e-4ace-92bd-dcfcaadc091c",
+      "ticker": "NIO",
+      "side": "BUY",
+      "quantity": 2.406786,
+      "price": 50.6384,
+      "executedAt": "2021-01-06T19:52:46.415Z"
+    },
+    {
+      "id": "b9112fe6-4f7e-4dfe-a92f-b3ec8d04f3b4",
+      "ticker": "NIO",
+      "side": "BUY",
+      "quantity": 0.002369,
+      "price": 50.6384,
+      "executedAt": "2021-01-06T19:52:46.415Z"
+    },
+    {
+      "id": "a6d75b6e-cd44-432a-bd48-7b3d102d8906",
+      "ticker": "M",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 12.5,
+      "executedAt": "2021-01-06T22:44:49.741Z"
+    },
+    {
+      "id": "e767fb19-3b2d-4e52-9ea7-ad0a33733583",
+      "ticker": "SNDL",
+      "side": "BUY",
+      "quantity": 18,
+      "price": 0.6542,
+      "executedAt": "2021-01-07T14:30:02.343Z"
+    },
+    {
+      "id": "99da326f-c329-4457-b8d5-5d6d83f5c741",
+      "ticker": "ZOMDF",
+      "side": "BUY",
+      "quantity": 2,
+      "price": 0.4084,
+      "executedAt": "2021-01-07T14:39:39.222Z"
+    },
+    {
+      "id": "da5f4696-4211-4d82-828d-26f4f0ff72ea",
+      "ticker": "JAGX",
+      "side": "SELL",
+      "quantity": 50,
+      "price": 2.315,
+      "executedAt": "2021-01-07T17:33:16.891Z"
+    },
+    {
+      "id": "88958d9c-0712-4f7c-adfb-f50606ff792c",
+      "ticker": "NGA",
+      "side": "BUY",
+      "quantity": 4,
+      "price": 23.2199,
+      "executedAt": "2021-01-07T17:37:04.021Z"
+    },
+    {
+      "id": "5e7087b2-0606-4f5a-8e8c-e7da335d21d5",
+      "ticker": "SNAP",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 52.465,
+      "executedAt": "2021-01-07T20:36:30.37Z"
+    },
+    {
+      "id": "495a9863-3c33-4a7d-be87-c50343b3e6e0",
+      "ticker": "M",
+      "side": "SELL",
+      "quantity": 3,
+      "price": 12.205,
+      "executedAt": "2021-01-07T20:37:13.411Z"
+    },
+    {
+      "id": "aa18a592-30f0-4e4b-9b15-8da9be7a04a1",
+      "ticker": "SNDL",
+      "side": "BUY",
+      "quantity": 30,
+      "price": 0.692,
+      "executedAt": "2021-01-07T22:59:33.959Z"
+    },
+    {
+      "id": "a2f242b5-0a41-4e7f-bc2e-6b2fe8fa8edb",
+      "ticker": "VICI",
+      "side": "BUY",
+      "quantity": 0.038918,
+      "price": 25.695,
+      "executedAt": "2021-01-08T17:51:31.732615Z"
+    },
+    {
+      "id": "370f2b11-0053-4ed5-916f-600e5b743c00",
+      "ticker": "SOS",
+      "side": "BUY",
+      "quantity": 14.754098,
+      "price": 1.83,
+      "executedAt": "2021-01-11T13:58:13.386Z"
+    },
+    {
+      "id": "1091d87f-bbc5-4329-bb30-d3077168c5a2",
+      "ticker": "TTOO",
+      "side": "BUY",
+      "quantity": 2,
+      "price": 1.49,
+      "executedAt": "2021-01-11T14:30:02.747Z"
+    },
+    {
+      "id": "007036f8-488b-41f2-8609-6e210284adb8",
+      "ticker": "WKHS",
+      "side": "SELL",
+      "quantity": 2,
+      "price": 25.815,
+      "executedAt": "2021-01-11T15:36:36.422Z"
+    },
+    {
+      "id": "a2731ca3-b7a6-4bf9-ab99-eab52cb1d7a1",
+      "ticker": "ADXS",
+      "side": "BUY",
+      "quantity": 30,
+      "price": 0.615699,
+      "executedAt": "2021-01-11T15:37:03.241Z"
+    },
+    {
+      "id": "e9e9505b-209a-47e6-b163-cdcc6bac332c",
+      "ticker": "TTOO",
+      "side": "BUY",
+      "quantity": 10,
+      "price": 1.525,
+      "executedAt": "2021-01-11T15:37:52.079Z"
+    },
+    {
+      "id": "3c8838f7-26f8-49b8-a6e8-a516f3bdd0c7",
+      "ticker": "TRXC",
+      "side": "BUY",
+      "quantity": 10,
+      "price": 1.75,
+      "executedAt": "2021-01-11T18:59:09.898Z"
+    },
+    {
+      "id": "cdd1941a-337e-4320-9629-2c146cbdc9e7",
+      "ticker": "ZOMDF",
+      "side": "SELL",
+      "quantity": 2,
+      "price": 1.14,
+      "executedAt": "2021-01-12T14:30:00.162Z"
+    },
+    {
+      "id": "a0bb468f-55f3-4b01-a6f0-57a360e7c3b0",
+      "ticker": "ZOMDF",
+      "side": "SELL",
+      "quantity": 1000,
+      "price": 1.3203,
+      "executedAt": "2021-01-12T14:53:24.391Z"
+    },
+    {
+      "id": "fd6edd9f-8728-41a0-83b8-487b26e71516",
+      "ticker": "WKHS",
+      "side": "SELL",
+      "quantity": 2,
+      "price": 25.135,
+      "executedAt": "2021-01-12T15:25:10.831Z"
+    },
+    {
+      "id": "5092cffb-87e6-4e89-a3ad-fd8184789bd7",
+      "ticker": "JMIA",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 40.1259,
+      "executedAt": "2021-01-12T16:15:19.94Z"
+    },
+    {
+      "id": "2785e65d-d262-4f97-b256-8b5615413b10",
+      "ticker": "NNDM",
+      "side": "BUY",
+      "quantity": 3,
+      "price": 9.2878,
+      "executedAt": "2021-01-12T16:18:19.111Z"
+    },
+    {
+      "id": "7529e424-894f-440a-951f-4d7e3dc78adb",
+      "ticker": "ZOMDF",
+      "side": "BUY",
+      "quantity": 15,
+      "price": 1.27,
+      "executedAt": "2021-01-12T16:46:47.313Z"
+    },
+    {
+      "id": "fe7b7969-105a-4cb0-b825-a1ffd1fb6919",
+      "ticker": "ZOMDF",
+      "side": "BUY",
+      "quantity": 15,
+      "price": 1.38,
+      "executedAt": "2021-01-12T18:22:15.525Z"
+    },
+    {
+      "id": "bd9c34b1-b214-448c-aea8-bd508afbb69c",
+      "ticker": "ZOMDF",
+      "side": "BUY",
+      "quantity": 40,
+      "price": 1.31,
+      "executedAt": "2021-01-12T18:34:50.651Z"
+    },
+    {
+      "id": "bac53587-fbe7-4990-878c-4725a6ccae45",
+      "ticker": "TRXC",
+      "side": "BUY",
+      "quantity": 50,
+      "price": 1.5177,
+      "executedAt": "2021-01-12T18:38:01.85Z"
+    },
+    {
+      "id": "6d904ae9-9942-4eea-a3c9-34d024f820c9",
+      "ticker": "ZOMDF",
+      "side": "BUY",
+      "quantity": 30,
+      "price": 1.325,
+      "executedAt": "2021-01-12T18:46:04.448Z"
+    },
+    {
+      "id": "c8f3c486-67cc-4ed5-a9c4-a49f1b3378b4",
+      "ticker": "CTRM",
+      "side": "BUY",
+      "quantity": 50,
+      "price": 0.305643,
+      "executedAt": "2021-01-12T18:49:51.192Z"
+    },
+    {
+      "id": "b2f1960a-226a-4dac-8649-6ec902a92c0a",
+      "ticker": "TTOO",
+      "side": "BUY",
+      "quantity": 10,
+      "price": 1.89,
+      "executedAt": "2021-01-12T19:17:44.632Z"
+    },
+    {
+      "id": "8d49b741-8926-4515-8d16-a21e88ce6c11",
+      "ticker": "SOS",
+      "side": "BUY",
+      "quantity": 25.210084,
+      "price": 2.38,
+      "executedAt": "2021-01-12T19:19:53.524Z"
+    },
+    {
+      "id": "4ec6b29b-9ca8-466a-a342-3774c2b75de0",
+      "ticker": "ARKQ",
+      "side": "BUY",
+      "quantity": 3,
+      "price": 85.5631,
+      "executedAt": "2021-01-12T19:26:20.72Z"
+    },
+    {
+      "id": "5394062b-2570-40de-9591-a3879e24e9b5",
+      "ticker": "TSLA",
+      "side": "BUY",
+      "quantity": 0.819158,
+      "price": 854.0123,
+      "executedAt": "2021-01-12T20:09:43.329Z"
+    },
+    {
+      "id": "e4f98ac8-3846-4540-9da3-ecddd511961a",
+      "ticker": "TSLA",
+      "side": "BUY",
+      "quantity": 0.000503,
+      "price": 854.0123,
+      "executedAt": "2021-01-12T20:09:43.329Z"
+    },
+    {
+      "id": "b1a3160d-3ec2-4d64-8925-0957ff50dfeb",
+      "ticker": "PLUG",
+      "side": "BUY",
+      "quantity": 0.689496,
+      "price": 65.265,
+      "executedAt": "2021-01-12T20:33:16.528136Z"
+    },
+    {
+      "id": "67702880-73ed-4d83-b1a6-5116c099b36e",
+      "ticker": "ZOMDF",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 1.23,
+      "executedAt": "2021-01-12T21:17:27.839Z"
+    },
+    {
+      "id": "5db79b10-5d09-46e8-9e90-04fa2a39fb6d",
+      "ticker": "ACST",
+      "side": "BUY",
+      "quantity": 60,
+      "price": 0.625,
+      "executedAt": "2021-01-13T19:00:02.872Z"
+    },
+    {
+      "id": "0995fa93-b264-42df-b9e9-8eaf5c280468",
+      "ticker": "ZOMDF",
+      "side": "BUY",
+      "quantity": 0.087912,
+      "price": 0.91,
+      "executedAt": "2021-01-14T14:30:01.399Z"
+    },
+    {
+      "id": "bb8f1799-ce31-40fe-a0c8-8b88be775e09",
+      "ticker": "ZOMDF",
+      "side": "BUY",
+      "quantity": 25.184779,
+      "price": 0.91,
+      "executedAt": "2021-01-14T14:30:01.399Z"
+    },
+    {
+      "id": "66ff75c6-ee53-47a9-8b81-49841f87a75e",
+      "ticker": "ARKQ",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 88.435,
+      "executedAt": "2021-01-14T18:27:48.274Z"
+    },
+    {
+      "id": "b1f24f00-1ace-4d8e-a67b-df7c073f2bef",
+      "ticker": "FRSX",
+      "side": "BUY",
+      "quantity": 10.862186,
+      "price": 7.365,
+      "executedAt": "2021-01-14T18:30:06.052Z"
+    },
+    {
+      "id": "7b94b0d7-45da-40cb-9cb0-077d96294808",
+      "ticker": "KOPN",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 3.2,
+      "executedAt": "2021-01-14T19:00:06.363Z"
+    },
+    {
+      "id": "d1d165c7-a685-422e-b37d-c34ecf985615",
+      "ticker": "TSLA",
+      "side": "SELL",
+      "quantity": 0.819661,
+      "price": 857.315,
+      "executedAt": "2021-01-15T14:38:32.040833Z"
+    },
+    {
+      "id": "fb8a75ef-deed-4c73-aa38-c7df7fbee996",
+      "ticker": "FRSX",
+      "side": "SELL",
+      "quantity": 10.862186,
+      "price": 7.53,
+      "executedAt": "2021-01-15T14:41:19.297Z"
+    },
+    {
+      "id": "43c54430-252e-40da-a27d-36719aa14e64",
+      "ticker": "ZOMDF",
+      "side": "BUY",
+      "quantity": 50,
+      "price": 0.975096,
+      "executedAt": "2021-01-15T17:47:12.638Z"
+    },
+    {
+      "id": "3435e3d7-ce08-4a3d-95fb-856e2ad1df12",
+      "ticker": "OCGN",
+      "side": "BUY",
+      "quantity": 20.750551,
+      "price": 2.265,
+      "executedAt": "2021-01-15T17:52:37.803Z"
+    },
+    {
+      "id": "717f4a01-836c-4120-8650-6e073e1b199a",
+      "ticker": "NIO",
+      "side": "BUY",
+      "quantity": 3.48675,
+      "price": 57.36,
+      "executedAt": "2021-01-19T15:04:39.138Z"
+    },
+    {
+      "id": "46f11b72-1395-4a27-af98-99acd1f23786",
+      "ticker": "OCGN",
+      "side": "BUY",
+      "quantity": 20,
+      "price": 2.3195,
+      "executedAt": "2021-01-19T18:20:53.922Z"
+    },
+    {
+      "id": "5ef335c5-e523-4b1f-846a-d24e50fbe4ea",
+      "ticker": "JMIA",
+      "side": "BUY",
+      "quantity": 0.617403,
+      "price": 45.335,
+      "executedAt": "2021-01-19T18:22:03.994665Z"
+    },
+    {
+      "id": "74c29beb-86b9-4199-9608-1d2ffac1bf0c",
+      "ticker": "JMIA",
+      "side": "BUY",
+      "quantity": 0.001323,
+      "price": 45.325,
+      "executedAt": "2021-01-19T18:22:04.068Z"
+    },
+    {
+      "id": "feca3d5d-c152-41c4-b3f8-9540ebb7ab8f",
+      "ticker": "JMIA",
+      "side": "BUY",
+      "quantity": 6,
+      "price": 45.325,
+      "executedAt": "2021-01-19T18:22:04.068Z"
+    },
+    {
+      "id": "68717b36-45cd-43b7-b6ae-7ce8c0abc112",
+      "ticker": "PFE",
+      "side": "BUY",
+      "quantity": 0.360729,
+      "price": 36.745,
+      "executedAt": "2021-01-19T18:23:44.232389Z"
+    },
+    {
+      "id": "fd33a6a3-fd04-46c4-a826-2e57ec6a6b7c",
+      "ticker": "PFE",
+      "side": "BUY",
+      "quantity": 0.999727,
+      "price": 36.76,
+      "executedAt": "2021-01-19T18:23:44.307Z"
+    },
+    {
+      "id": "aaecb1eb-5322-4f47-9926-1d2195652e37",
+      "ticker": "NGA",
+      "side": "BUY",
+      "quantity": 3,
+      "price": 31.33,
+      "executedAt": "2021-01-19T19:57:39.583Z"
+    },
+    {
+      "id": "6763c4c9-7594-4bb1-af38-98fa221efb90",
+      "ticker": "ARKQ",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 90.005,
+      "executedAt": "2021-01-20T18:01:03.137Z"
+    },
+    {
+      "id": "962b237b-b338-4c83-9cf2-72deb642d812",
+      "ticker": "CCIV",
+      "side": "BUY",
+      "quantity": 4.968258,
+      "price": 18.115,
+      "executedAt": "2021-01-20T18:01:35.062Z"
+    },
+    {
+      "id": "0e310d20-ca15-4e8a-893f-28a7466e5116",
+      "ticker": "CLVSQ",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 6.38,
+      "executedAt": "2021-01-21T20:58:43.428Z"
+    },
+    {
+      "id": "ac1c7711-ae5a-4edf-b316-1b3a41d65dc0",
+      "ticker": "SIRI",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 5.92,
+      "executedAt": "2021-01-22T16:46:03.472Z"
+    },
+    {
+      "id": "98eef871-e561-4929-b292-5eee7dcf97e5",
+      "ticker": "OPK",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 4.395,
+      "executedAt": "2021-01-22T16:46:20.998Z"
+    },
+    {
+      "id": "2321d2f6-dbf8-4451-8cce-15166569838c",
+      "ticker": "CCIV",
+      "side": "SELL",
+      "quantity": 3,
+      "price": 24.13,
+      "executedAt": "2021-01-26T19:40:29.548Z"
+    },
+    {
+      "id": "2679b9eb-e26e-43d3-aa7a-c2d68b4aa810",
+      "ticker": "GILT",
+      "side": "BUY",
+      "quantity": 0.003828,
+      "price": 13.06,
+      "executedAt": "2021-01-26T19:40:48.96Z"
+    },
+    {
+      "id": "2cc489ef-d8ee-45a9-951d-5e20f96bf66b",
+      "ticker": "GILT",
+      "side": "BUY",
+      "quantity": 5.355776,
+      "price": 13.06,
+      "executedAt": "2021-01-26T19:40:48.96Z"
+    },
+    {
+      "id": "9ddc4a4c-e163-4b37-98a1-7f13eb4f66f1",
+      "ticker": "BB",
+      "side": "BUY",
+      "quantity": 0.201435,
+      "price": 20.66,
+      "executedAt": "2021-01-27T14:32:27.97005Z"
+    },
+    {
+      "id": "d127e676-f1e3-43f5-be36-619c8289cb6b",
+      "ticker": "BB",
+      "side": "BUY",
+      "quantity": 0.001936,
+      "price": 20.66,
+      "executedAt": "2021-01-27T14:32:27.97005Z"
+    },
+    {
+      "id": "d46858c5-b769-42ea-9206-8f81ab4141ed",
+      "ticker": "BB",
+      "side": "BUY",
+      "quantity": 0.64118,
+      "price": 20.62,
+      "executedAt": "2021-01-27T14:32:27.272791Z"
+    },
+    {
+      "id": "f13fbc89-a641-45b1-81c9-6f8e9ce065a7",
+      "ticker": "BB",
+      "side": "BUY",
+      "quantity": 4,
+      "price": 20.64,
+      "executedAt": "2021-01-27T14:32:27.394Z"
+    },
+    {
+      "id": "204974d8-8d3f-4398-9109-22abd5d0a1b0",
+      "ticker": "BBBYQ",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 48.62,
+      "executedAt": "2021-01-27T14:43:56.807Z"
+    },
+    {
+      "id": "71f11f01-bbde-42a8-963b-36952c93b6df",
+      "ticker": "SOS",
+      "side": "SELL",
+      "quantity": 20,
+      "price": 2.33,
+      "executedAt": "2021-01-27T15:17:31.669Z"
+    },
+    {
+      "id": "d834e804-eb2e-442f-9f71-f8190e917c98",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 0.274543,
+      "price": 16.915,
+      "executedAt": "2021-01-27T15:44:47.582527Z"
+    },
+    {
+      "id": "764bf73a-2e87-47d9-a293-d9707c95d884",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 0.125574,
+      "price": 16.325,
+      "executedAt": "2021-01-27T15:47:19.629021Z"
+    },
+    {
+      "id": "502e89ea-a2d5-481a-9afd-9a095e64dfb7",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 16.04,
+      "executedAt": "2021-01-27T16:10:01.087Z"
+    },
+    {
+      "id": "9bcebede-116f-4ac9-a12e-ce7950afdb1e",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 16.03,
+      "executedAt": "2021-01-27T16:10:01.087Z"
+    },
+    {
+      "id": "dd011015-2211-499d-8e20-02a726f452cb",
+      "ticker": "CTRM",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 0.435,
+      "executedAt": "2021-01-27T16:10:02.031Z"
+    },
+    {
+      "id": "2f3d28d2-c93c-4e08-b813-3fdb85d35eb0",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 5.889281,
+      "price": 16.98,
+      "executedAt": "2021-01-27T16:13:03.236Z"
+    },
+    {
+      "id": "6bc61762-84ef-40bc-bd98-7c1925617265",
+      "ticker": "ARKQ",
+      "side": "SELL",
+      "quantity": 0.544128,
+      "price": 91.89,
+      "executedAt": "2021-01-27T16:22:26.964698Z"
+    },
+    {
+      "id": "f79cfc76-ad3e-4a77-8fee-ec9d52c3694d",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 0.676923,
+      "price": 16.2467,
+      "executedAt": "2021-01-27T16:28:07.603Z"
+    },
+    {
+      "id": "0f04ad03-4927-4281-9324-8472d0d12848",
+      "ticker": "NAKD",
+      "side": "BUY",
+      "quantity": 48,
+      "price": 0.789099,
+      "executedAt": "2021-01-27T16:33:28Z"
+    },
+    {
+      "id": "3cc7f105-f332-43c8-86e0-1a7746bb86d4",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 3,
+      "price": 15.3755,
+      "executedAt": "2021-01-27T16:55:10.031Z"
+    },
+    {
+      "id": "4ce2f752-71e6-4c54-b169-b234cdd4eb7e",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 0.045526,
+      "price": 15.3755,
+      "executedAt": "2021-01-27T16:55:10.031Z"
+    },
+    {
+      "id": "cfb7787e-44b8-4c65-9d7d-1bfbfcf78afe",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 0.203074,
+      "price": 15.345,
+      "executedAt": "2021-01-27T16:55:10.009532Z"
+    },
+    {
+      "id": "a36b51b5-7fd7-4ec5-a264-5a3384bff713",
+      "ticker": "NAKD",
+      "side": "BUY",
+      "quantity": 2,
+      "price": 0.7299,
+      "executedAt": "2021-01-27T16:55:32.861Z"
+    },
+    {
+      "id": "00b48365-8c78-4793-a829-2be40ffbc36c",
+      "ticker": "JMIA",
+      "side": "SELL",
+      "quantity": 4,
+      "price": 59.61,
+      "executedAt": "2021-01-27T19:52:02.886Z"
+    },
+    {
+      "id": "a84246ed-6fdd-4859-9c89-991473ee9928",
+      "ticker": "JMIA",
+      "side": "SELL",
+      "quantity": 0.3,
+      "price": 59.84,
+      "executedAt": "2021-01-27T19:52:02.786926Z"
+    },
+    {
+      "id": "440126e0-2848-40b8-a36b-3b64b457c497",
+      "ticker": "NIO",
+      "side": "SELL",
+      "quantity": 0.9,
+      "price": 57.16,
+      "executedAt": "2021-01-27T19:53:13.26899Z"
+    },
+    {
+      "id": "f5c507f6-69c1-4b80-816c-ac6afa99fd46",
+      "ticker": "NIO",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 57.1416,
+      "executedAt": "2021-01-27T19:53:13.391Z"
+    },
+    {
+      "id": "90c70ee3-581b-46e0-9207-7fe31787b184",
+      "ticker": "GME",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 315.7997,
+      "executedAt": "2021-01-27T19:53:32.952Z"
+    },
+    {
+      "id": "32f558fb-0b8d-44c8-a8a4-2c52e1c641ca",
+      "ticker": "NOK",
+      "side": "BUY",
+      "quantity": 7.507507,
+      "price": 6.66,
+      "executedAt": "2021-01-27T20:58:45.912Z"
+    },
+    {
+      "id": "64d3cbc3-d17d-43c8-9387-fe3d8678cb8c",
+      "ticker": "BB",
+      "side": "BUY",
+      "quantity": 3,
+      "price": 15.97,
+      "executedAt": "2021-01-29T16:56:03.515Z"
+    },
+    {
+      "id": "68e3492a-e873-4bc9-b71e-ad2b559edf72",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 12,
+      "price": 15.5688,
+      "executedAt": "2021-01-29T17:05:12.756Z"
+    },
+    {
+      "id": "0a2e3d5a-5364-4e4b-81c6-cccfd60250b0",
+      "ticker": "BB",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 15.535,
+      "executedAt": "2021-01-29T17:29:03.123Z"
+    },
+    {
+      "id": "d5047bc8-e472-4843-a00c-43d3858b131c",
+      "ticker": "BB",
+      "side": "BUY",
+      "quantity": 2,
+      "price": 15.5378,
+      "executedAt": "2021-01-29T17:29:03.123Z"
+    },
+    {
+      "id": "abaf7204-5cd3-4c2d-8788-9084ad408207",
+      "ticker": "GME",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 322.6156,
+      "executedAt": "2021-01-29T20:14:24.107Z"
+    },
+    {
+      "id": "99e80a26-5938-45a6-acb0-03d53b5a4f52",
+      "ticker": "NAKD",
+      "side": "BUY",
+      "quantity": 27,
+      "price": 1.5299,
+      "executedAt": "2021-02-01T15:23:02.609Z"
+    },
+    {
+      "id": "493dde29-3b1a-43ac-834e-647e6bbaf0e1",
+      "ticker": "ARKQ",
+      "side": "SELL",
+      "quantity": 0.455872,
+      "price": 89.095,
+      "executedAt": "2021-02-01T15:24:29.193033Z"
+    },
+    {
+      "id": "6a4eea19-5e40-43bb-b16c-7afc0f12661d",
+      "ticker": "GTE",
+      "side": "BUY",
+      "quantity": 67,
+      "price": 0.615176,
+      "executedAt": "2021-02-01T15:25:43.649Z"
+    },
+    {
+      "id": "4ff6d28a-ce3b-4d46-bd95-384426b3e7b8",
+      "ticker": "IDEX",
+      "side": "SELL",
+      "quantity": 0.002375,
+      "price": 4.21,
+      "executedAt": "2021-02-01T15:28:06.994Z"
+    },
+    {
+      "id": "5993eaa4-3e5f-40ed-94b7-65df38aff2dc",
+      "ticker": "IDEX",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 4.21,
+      "executedAt": "2021-02-01T15:28:06.994Z"
+    },
+    {
+      "id": "7e3eafc7-d60f-46cb-a8e4-27d959df98c1",
+      "ticker": "IDEX",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 4.21,
+      "executedAt": "2021-02-01T15:28:06.994Z"
+    },
+    {
+      "id": "f9986d16-8335-4962-85b4-4f2dbb651bb3",
+      "ticker": "IDEX",
+      "side": "SELL",
+      "quantity": 0.372479,
+      "price": 4.215,
+      "executedAt": "2021-02-01T15:28:06.659368Z"
+    },
+    {
+      "id": "0a2d8d0e-f106-4038-bd53-9e90cb107110",
+      "ticker": "DNN",
+      "side": "BUY",
+      "quantity": 13,
+      "price": 0.71535,
+      "executedAt": "2021-02-01T15:33:11.016Z"
+    },
+    {
+      "id": "17b0dfd0-36b1-4b35-bee9-a999be1af632",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 5,
+      "price": 7.93,
+      "executedAt": "2021-02-02T15:02:37.201Z"
+    },
+    {
+      "id": "049b1121-280d-443c-928a-756bb8d27a2d",
+      "ticker": "VYNE",
+      "side": "BUY",
+      "quantity": 10,
+      "price": 2.5481,
+      "executedAt": "2021-02-02T15:08:08.759Z"
+    },
+    {
+      "id": "2b79eb1d-c01b-4261-af79-7b6f2a72e622",
+      "ticker": "NIO",
+      "side": "BUY",
+      "quantity": 5,
+      "price": 55.47,
+      "executedAt": "2021-02-02T15:17:09.753Z"
+    },
+    {
+      "id": "1dbe84b8-7263-4a6e-85b1-bd417209094f",
+      "ticker": "OCGN",
+      "side": "BUY",
+      "quantity": 0.155088,
+      "price": 3.095,
+      "executedAt": "2021-02-02T15:32:29.889063Z"
+    },
+    {
+      "id": "919080e5-6561-4aa1-bb24-8f625bdf8114",
+      "ticker": "OCGN",
+      "side": "BUY",
+      "quantity": 15.928463,
+      "price": 3.1089,
+      "executedAt": "2021-02-02T15:32:29.976Z"
+    },
+    {
+      "id": "6fe4bb6d-8d97-45f2-a00f-de5ef4f81aea",
+      "ticker": "NGA",
+      "side": "SELL",
+      "quantity": 2,
+      "price": 27.65,
+      "executedAt": "2021-02-02T16:45:04.788Z"
+    },
+    {
+      "id": "4eb8fe6c-dfad-4967-bb8f-30a437a1595e",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 6,
+      "price": 8.2288,
+      "executedAt": "2021-02-02T16:45:51.183Z"
+    },
+    {
+      "id": "0e5db043-c69e-4451-bc58-16090a478802",
+      "ticker": "TTOO",
+      "side": "SELL",
+      "quantity": 22,
+      "price": 2.255,
+      "executedAt": "2021-02-02T16:48:11.115Z"
+    },
+    {
+      "id": "7f023c21-7574-423e-bc4e-3af53fdaf17b",
+      "ticker": "ADXS",
+      "side": "SELL",
+      "quantity": 30,
+      "price": 0.7134,
+      "executedAt": "2021-02-02T16:48:24.339Z"
+    },
+    {
+      "id": "e2bd1d15-3fac-418f-9eec-73ff8f262a9a",
+      "ticker": "NGA",
+      "side": "SELL",
+      "quantity": 2,
+      "price": 27.81,
+      "executedAt": "2021-02-02T16:53:44.705Z"
+    },
+    {
+      "id": "d5577a5e-2a4d-465b-b57d-d7b638471272",
+      "ticker": "NGA",
+      "side": "BUY",
+      "quantity": 2,
+      "price": 27.89,
+      "executedAt": "2021-02-02T16:53:51.981Z"
+    },
+    {
+      "id": "f6f78e45-76aa-4791-bb8b-49abed6f2328",
+      "ticker": "CTRM",
+      "side": "SELL",
+      "quantity": 50,
+      "price": 0.6519,
+      "executedAt": "2021-02-02T16:54:38.971Z"
+    },
+    {
+      "id": "f5ada21d-22c9-4ddb-b3b8-594b4332ae5f",
+      "ticker": "PLUG",
+      "side": "SELL",
+      "quantity": 0.8,
+      "price": 63.47,
+      "executedAt": "2021-02-02T16:54:52.667Z"
+    },
+    {
+      "id": "bf675e2f-39b9-46fe-850b-39105afb9ecb",
+      "ticker": "GME",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 123,
+      "executedAt": "2021-02-02T16:55:28.21Z"
+    },
+    {
+      "id": "12103b08-32f0-4014-99ed-12eca72df255",
+      "ticker": "GME",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 118.49,
+      "executedAt": "2021-02-02T17:27:21.569Z"
+    },
+    {
+      "id": "8af54e95-69d5-414b-9169-3c8a725a8dc9",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 2,
+      "price": 8.515,
+      "executedAt": "2021-02-03T16:00:39.625Z"
+    },
+    {
+      "id": "514a12f7-eca2-4865-bad2-890f087bad6b",
+      "ticker": "ZOMDF",
+      "side": "BUY",
+      "quantity": 2,
+      "price": 1.135,
+      "executedAt": "2021-02-03T19:47:07.036Z"
+    },
+    {
+      "id": "0305c62a-a57c-47ca-b95d-6253e8bd4208",
+      "ticker": "PLUG",
+      "side": "SELL",
+      "quantity": 0.4,
+      "price": 68.52,
+      "executedAt": "2021-02-03T19:51:34.265089Z"
+    },
+    {
+      "id": "ad1b277d-a01a-47f8-bd77-007a4ac4dc0a",
+      "ticker": "ZOMDF",
+      "side": "BUY",
+      "quantity": 20,
+      "price": 1.14,
+      "executedAt": "2021-02-03T19:52:15.555Z"
+    },
+    {
+      "id": "25126f3b-6c2a-49c6-a0f1-d58dec6e4dde",
+      "ticker": "ZOMDF",
+      "side": "BUY",
+      "quantity": 3,
+      "price": 1.135,
+      "executedAt": "2021-02-03T20:09:15.091Z"
+    },
+    {
+      "id": "eebade6a-d368-4749-af7f-86149eebe1cb",
+      "ticker": "VYNE",
+      "side": "SELL",
+      "quantity": 2,
+      "price": 2.715,
+      "executedAt": "2021-02-05T16:52:47.385Z"
+    },
+    {
+      "id": "ab52e2ed-b106-4b95-ba4c-76a0eddc5dc4",
+      "ticker": "NGA",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 25.45,
+      "executedAt": "2021-02-05T22:30:16.074Z"
+    },
+    {
+      "id": "361d64c8-8f8c-436e-8b5b-7532fd2adc31",
+      "ticker": "CTRM",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 0.8478,
+      "executedAt": "2021-02-08T14:30:23.993Z"
+    },
+    {
+      "id": "1fef45ed-b27c-4a11-a080-b76da6898013",
+      "ticker": "OCGN",
+      "side": "SELL",
+      "quantity": 0.189129,
+      "price": 11.315,
+      "executedAt": "2021-02-08T15:22:36.01475Z"
+    },
+    {
+      "id": "28f1d75f-3c94-423c-9304-c095e243c844",
+      "ticker": "OCGN",
+      "side": "SELL",
+      "quantity": 43.970077,
+      "price": 11.3227,
+      "executedAt": "2021-02-08T15:22:36.105Z"
+    },
+    {
+      "id": "e5fe96e0-d2b8-4622-883a-9c72c5eb624c",
+      "ticker": "OCGN",
+      "side": "BUY",
+      "quantity": 43.902396,
+      "price": 11.3889,
+      "executedAt": "2021-02-08T15:23:18.469Z"
+    },
+    {
+      "id": "eed86978-e6a6-40de-956e-e2e8eeef12bb",
+      "ticker": "ACST",
+      "side": "SELL",
+      "quantity": 44,
+      "price": 0.8205,
+      "executedAt": "2021-02-08T15:29:08.888Z"
+    },
+    {
+      "id": "0d7df2a4-a6e5-4dbb-b2a4-d9fb88968e85",
+      "ticker": "TRXC",
+      "side": "BUY",
+      "quantity": 9.654321,
+      "price": 3.7289,
+      "executedAt": "2021-02-08T15:29:43.288Z"
+    },
+    {
+      "id": "19561754-0199-4587-9b10-01ffd5afb209",
+      "ticker": "GHSI",
+      "side": "SELL",
+      "quantity": 15,
+      "price": 0.835,
+      "executedAt": "2021-02-08T17:45:32.771Z"
+    },
+    {
+      "id": "c45ebed3-2221-490c-8786-ad04088a954e",
+      "ticker": "ACST",
+      "side": "SELL",
+      "quantity": 16,
+      "price": 0.8316,
+      "executedAt": "2021-02-08T17:45:46.555Z"
+    },
+    {
+      "id": "4378851e-4a91-4d50-b0f1-ccde7f6cede5",
+      "ticker": "DNN",
+      "side": "SELL",
+      "quantity": 8,
+      "price": 0.849401,
+      "executedAt": "2021-02-08T17:46:04.425Z"
+    },
+    {
+      "id": "e4bc0cf9-4e21-4066-b8c0-03add512d900",
+      "ticker": "CTRM",
+      "side": "BUY",
+      "quantity": 34,
+      "price": 0.9132,
+      "executedAt": "2021-02-08T17:46:21.243Z"
+    },
+    {
+      "id": "0dd000bd-d268-4369-a127-e8b82c60c07c",
+      "ticker": "ACST",
+      "side": "BUY",
+      "quantity": 2,
+      "price": 0.88785,
+      "executedAt": "2021-02-08T20:48:25.804Z"
+    },
+    {
+      "id": "495482d9-5998-4d0a-9a72-1b08e64d026e",
+      "ticker": "NAKD",
+      "side": "SELL",
+      "quantity": 77,
+      "price": 1.115,
+      "executedAt": "2021-02-09T15:55:36.55Z"
+    },
+    {
+      "id": "c82fd5c0-4d42-42d9-9548-3717fbc42ee9",
+      "ticker": "SNDL",
+      "side": "BUY",
+      "quantity": 31.468311,
+      "price": 1.5889,
+      "executedAt": "2021-02-09T15:55:59.058Z"
+    },
+    {
+      "id": "2f952c1a-7760-4758-8837-15b021de0770",
+      "ticker": "DNN",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 0.94,
+      "executedAt": "2021-02-09T19:28:11.987Z"
+    },
+    {
+      "id": "b5a3c333-dcce-4622-975e-c8e2f5a01c9c",
+      "ticker": "GME",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 49.4688,
+      "executedAt": "2021-02-09T19:34:50.203Z"
+    },
+    {
+      "id": "ad0dc96c-1920-46fa-8c54-ae4b8f509d87",
+      "ticker": "ACST",
+      "side": "BUY",
+      "quantity": 49,
+      "price": 1.01,
+      "executedAt": "2021-02-09T19:35:26.675Z"
+    },
+    {
+      "id": "2bbfb1ee-95ba-4aaf-b431-f2a44cc2b9e8",
+      "ticker": "OCGN",
+      "side": "SELL",
+      "quantity": 0.176908,
+      "price": 10.74,
+      "executedAt": "2021-02-10T15:20:36.958073Z"
+    },
+    {
+      "id": "6609f3f2-b6fd-4094-a0dd-16e8ae294776",
+      "ticker": "OCGN",
+      "side": "SELL",
+      "quantity": 0.182072,
+      "price": 10.71,
+      "executedAt": "2021-02-10T15:20:37.034Z"
+    },
+    {
+      "id": "ed5849f6-8bcf-4885-af18-32c3e82ae6b3",
+      "ticker": "OCGN",
+      "side": "SELL",
+      "quantity": 65,
+      "price": 10.71,
+      "executedAt": "2021-02-10T15:20:37.034Z"
+    },
+    {
+      "id": "5d54bd80-5305-40fd-9360-7228ebd400eb",
+      "ticker": "GEVO",
+      "side": "BUY",
+      "quantity": 0.015082,
+      "price": 14.255,
+      "executedAt": "2021-02-10T15:22:00.833825Z"
+    },
+    {
+      "id": "5d84cb43-6036-44fc-9301-15ad3e0310c9",
+      "ticker": "GEVO",
+      "side": "BUY",
+      "quantity": 0.010537,
+      "price": 14.2343,
+      "executedAt": "2021-02-10T15:22:00.911Z"
+    },
+    {
+      "id": "e9521f9e-3fa9-4b74-a5fd-187f6db3a158",
+      "ticker": "GEVO",
+      "side": "BUY",
+      "quantity": 7,
+      "price": 14.2343,
+      "executedAt": "2021-02-10T15:22:00.911Z"
+    },
+    {
+      "id": "5737e1c0-6644-460d-9942-e0937d26a85d",
+      "ticker": "NNDM",
+      "side": "BUY",
+      "quantity": 5.977429,
+      "price": 15.95,
+      "executedAt": "2021-02-10T15:25:57.653Z"
+    },
+    {
+      "id": "fff7c003-085d-4066-abc9-8426ecddfed7",
+      "ticker": "NNDM",
+      "side": "BUY",
+      "quantity": 0.293266,
+      "price": 15.89,
+      "executedAt": "2021-02-10T15:25:57.533643Z"
+    },
+    {
+      "id": "0cfd14d7-024b-407b-80f6-eb85d35d7335",
+      "ticker": "SNDL",
+      "side": "BUY",
+      "quantity": 43.900083,
+      "price": 2.2779,
+      "executedAt": "2021-02-10T15:26:50.684Z"
+    },
+    {
+      "id": "09db6bcc-a240-4da8-9337-6d5cce0168c8",
+      "ticker": "NIO",
+      "side": "BUY",
+      "quantity": 1.610824,
+      "price": 62.08,
+      "executedAt": "2021-02-10T15:27:12.182Z"
+    },
+    {
+      "id": "1e119f5b-0954-4be4-8413-14a3d8251b16",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 17.497812,
+      "price": 5.678,
+      "executedAt": "2021-02-10T15:28:28.849Z"
+    },
+    {
+      "id": "bc8e2104-bfc2-428c-955a-8e373af02cce",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 0.114476,
+      "price": 5.678,
+      "executedAt": "2021-02-10T15:28:28.849Z"
+    },
+    {
+      "id": "dec21b7b-f8f0-4c5d-91e9-b4d58c7cdc55",
+      "ticker": "GEVO",
+      "side": "BUY",
+      "quantity": 0.102272,
+      "price": 14.08,
+      "executedAt": "2021-02-10T15:30:36.657048Z"
+    },
+    {
+      "id": "ec650416-33bb-4bbc-b6a2-7a2b11acff6a",
+      "ticker": "GEVO",
+      "side": "BUY",
+      "quantity": 6.977402,
+      "price": 14.1256,
+      "executedAt": "2021-02-10T15:30:36.876Z"
+    },
+    {
+      "id": "9205bac5-0120-41f5-9a88-9e5a1e535202",
+      "ticker": "TRXC",
+      "side": "BUY",
+      "quantity": 19.704433,
+      "price": 5.0589,
+      "executedAt": "2021-02-10T15:41:51.448Z"
+    },
+    {
+      "id": "f61b5760-e694-436c-85ba-b155fae35032",
+      "ticker": "TRXC",
+      "side": "BUY",
+      "quantity": 0.063254,
+      "price": 5.0589,
+      "executedAt": "2021-02-10T15:41:51.448Z"
+    },
+    {
+      "id": "3420d241-f3cc-4ba1-a114-010ae230384d",
+      "ticker": "OCGN",
+      "side": "BUY",
+      "quantity": 0.453926,
+      "price": 11.015,
+      "executedAt": "2021-02-10T17:55:56.08751Z"
+    },
+    {
+      "id": "03df2b61-06f0-43ce-8250-9f8cab337b2e",
+      "ticker": "SOS",
+      "side": "SELL",
+      "quantity": 0.768009,
+      "price": 4.095,
+      "executedAt": "2021-02-10T18:05:27.674585Z"
+    },
+    {
+      "id": "1f43e922-50c1-4004-9bdd-419e9c955a25",
+      "ticker": "SOS",
+      "side": "SELL",
+      "quantity": 0.012224,
+      "price": 4.09,
+      "executedAt": "2021-02-10T18:05:27.756Z"
+    },
+    {
+      "id": "82aafa2d-dec2-4c8d-948c-93fbe07c42c6",
+      "ticker": "SOS",
+      "side": "SELL",
+      "quantity": 9,
+      "price": 4.09,
+      "executedAt": "2021-02-10T18:05:27.756Z"
+    },
+    {
+      "id": "3ffcdd4d-42e9-489b-b9df-6fdd267ef784",
+      "ticker": "OCGN",
+      "side": "BUY",
+      "quantity": 3.659652,
+      "price": 10.865,
+      "executedAt": "2021-02-10T18:05:42.209Z"
+    },
+    {
+      "id": "8cde92a3-a91f-446b-a21c-5a90844b1bb3",
+      "ticker": "OCGN",
+      "side": "BUY",
+      "quantity": 0.022089,
+      "price": 10.865,
+      "executedAt": "2021-02-10T18:05:42.209Z"
+    },
+    {
+      "id": "ea00c8a2-4066-423d-b707-56dcaaf9402c",
+      "ticker": "IDEX",
+      "side": "SELL",
+      "quantity": 1.625146,
+      "price": 4.925,
+      "executedAt": "2021-02-11T15:01:46.813Z"
+    },
+    {
+      "id": "5fbbfbb6-b6e8-4846-b5a0-1e11b7a45274",
+      "ticker": "ACST",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 1.1,
+      "executedAt": "2021-02-11T15:02:17.214Z"
+    },
+    {
+      "id": "858b28dd-8c9f-4e0d-a511-5c1f6cebd53b",
+      "ticker": "ACST",
+      "side": "SELL",
+      "quantity": 15,
+      "price": 1.1,
+      "executedAt": "2021-02-11T15:02:17.214Z"
+    },
+    {
+      "id": "998a28f0-3f90-44f1-a177-03a95d1d0496",
+      "ticker": "ACST",
+      "side": "SELL",
+      "quantity": 35,
+      "price": 1.1,
+      "executedAt": "2021-02-11T15:02:17.214Z"
+    },
+    {
+      "id": "97406f4f-a87e-43ec-9fda-218497b067ea",
+      "ticker": "DNN",
+      "side": "BUY",
+      "quantity": 60,
+      "price": 1.06,
+      "executedAt": "2021-02-11T15:04:00.273Z"
+    },
+    {
+      "id": "86557403-2a2f-46a3-9b08-123685b19db3",
+      "ticker": "GEVO",
+      "side": "SELL",
+      "quantity": 4,
+      "price": 14.8519,
+      "executedAt": "2021-02-11T15:05:55.501Z"
+    },
+    {
+      "id": "98cf8035-2157-477c-97b7-7c872aecea5e",
+      "ticker": "GEVO",
+      "side": "SELL",
+      "quantity": 0.105293,
+      "price": 14.83,
+      "executedAt": "2021-02-11T15:05:55.392543Z"
+    },
+    {
+      "id": "b40972ee-9553-4ba5-a128-89f00daec7d6",
+      "ticker": "CLEU",
+      "side": "BUY",
+      "quantity": 16.94178,
+      "price": 5.84,
+      "executedAt": "2021-02-12T17:49:15.845Z"
+    },
+    {
+      "id": "c0b8795c-d53d-4db6-84ec-a5ee40b7cc61",
+      "ticker": "CLEU",
+      "side": "BUY",
+      "quantity": 0.18213,
+      "price": 5.82,
+      "executedAt": "2021-02-12T17:49:15.705405Z"
+    },
+    {
+      "id": "2728ea53-d498-41e6-92fb-d5bddeb70568",
+      "ticker": "ZKIN",
+      "side": "BUY",
+      "quantity": 12,
+      "price": 4.975,
+      "executedAt": "2021-02-12T19:10:44.919Z"
+    },
+    {
+      "id": "2c3244c7-11fb-4364-b046-2ab171410d86",
+      "ticker": "ZKIN",
+      "side": "BUY",
+      "quantity": 0.060301,
+      "price": 4.975,
+      "executedAt": "2021-02-12T19:10:44.834851Z"
+    },
+    {
+      "id": "01d85ee5-fddb-4499-a42e-f75ea5a9687e",
+      "ticker": "SOS",
+      "side": "SELL",
+      "quantity": 0.525149,
+      "price": 11.73,
+      "executedAt": "2021-02-16T15:43:59.188927Z"
+    },
+    {
+      "id": "231b0bd6-3c15-4f3c-bb8e-0356f9cfd3b0",
+      "ticker": "SOS",
+      "side": "SELL",
+      "quantity": 8,
+      "price": 11.7222,
+      "executedAt": "2021-02-16T15:43:59.323Z"
+    },
+    {
+      "id": "af535765-b215-4886-a6d7-aa96bd94ddf0",
+      "ticker": "SOS",
+      "side": "SELL",
+      "quantity": 0.005118,
+      "price": 11.7222,
+      "executedAt": "2021-02-16T15:43:59.323Z"
+    },
+    {
+      "id": "a1653aa7-02ba-43b5-a0ac-970ce66adff3",
+      "ticker": "TIOG",
+      "side": "BUY",
+      "quantity": 2.398747,
+      "price": 2.395,
+      "executedAt": "2021-02-16T16:48:27.903069Z"
+    },
+    {
+      "id": "ad329fd4-3410-4135-8c46-6388c5da899e",
+      "ticker": "TIOG",
+      "side": "BUY",
+      "quantity": 67.178861,
+      "price": 2.46,
+      "executedAt": "2021-02-16T16:48:28.031Z"
+    },
+    {
+      "id": "d377f970-ebdf-4ed2-9f03-57e0291fb331",
+      "ticker": "VYNE",
+      "side": "SELL",
+      "quantity": 2,
+      "price": 10.2355,
+      "executedAt": "2021-02-16T16:50:50.823Z"
+    },
+    {
+      "id": "8ac172cb-d200-4f1d-9e41-e0fafa1cc5e2",
+      "ticker": "TIOG",
+      "side": "BUY",
+      "quantity": 8.4,
+      "price": 2.5,
+      "executedAt": "2021-02-16T16:51:25.036Z"
+    },
+    {
+      "id": "35ffc555-467e-461b-ae53-f7f053fd8b65",
+      "ticker": "GTE",
+      "side": "SELL",
+      "quantity": 67,
+      "price": 1.09,
+      "executedAt": "2021-02-16T19:47:45.493Z"
+    },
+    {
+      "id": "0bc583f7-6ab0-4b7f-a3bd-9e51a96c4ac9",
+      "ticker": "HEXO",
+      "side": "BUY",
+      "quantity": 0.357183,
+      "price": 8.735,
+      "executedAt": "2021-02-16T19:48:19.105997Z"
+    },
+    {
+      "id": "64c6f11a-09f0-40f2-8019-cfd1a782c592",
+      "ticker": "HEXO",
+      "side": "BUY",
+      "quantity": 7.990851,
+      "price": 8.745,
+      "executedAt": "2021-02-16T19:48:19.182Z"
+    },
+    {
+      "id": "bd6519e4-d06b-46d2-b99e-67990b993639",
+      "ticker": "NNDM",
+      "side": "SELL",
+      "quantity": 10.522623,
+      "price": 14.25,
+      "executedAt": "2021-02-16T20:21:33.953Z"
+    },
+    {
+      "id": "f2855423-9156-497f-8b42-c66f9ef282f5",
+      "ticker": "NNDM",
+      "side": "SELL",
+      "quantity": 0.003508,
+      "price": 14.25,
+      "executedAt": "2021-02-16T20:21:33.953Z"
+    },
+    {
+      "id": "c7487486-f82f-47ad-8f82-6d53e17f6224",
+      "ticker": "ZOMDF",
+      "side": "BUY",
+      "quantity": 0.283298,
+      "price": 2.365,
+      "executedAt": "2021-02-16T20:23:58.830711Z"
+    },
+    {
+      "id": "e0a6f4e6-3a2d-4b02-9945-d70f0214c9c9",
+      "ticker": "ZOMDF",
+      "side": "BUY",
+      "quantity": 41.911392,
+      "price": 2.37,
+      "executedAt": "2021-02-16T20:23:58.908Z"
+    },
+    {
+      "id": "4d1a4ef2-e80e-440f-b718-497a1fa3fe8b",
+      "ticker": "SOS",
+      "side": "SELL",
+      "quantity": 1.653682,
+      "price": 12.08,
+      "executedAt": "2021-02-16T20:26:03.921Z"
+    },
+    {
+      "id": "873f57d1-e380-4416-a714-3daa903b6005",
+      "ticker": "ZOMDF",
+      "side": "BUY",
+      "quantity": 29.535864,
+      "price": 2.37,
+      "executedAt": "2021-02-16T20:26:16.998Z"
+    },
+    {
+      "id": "08c5ebf8-6a37-40bf-b8fe-e6440277c6cc",
+      "ticker": "GILT",
+      "side": "SELL",
+      "quantity": 5.359604,
+      "price": 18.9011,
+      "executedAt": "2021-02-16T20:28:42.488Z"
+    },
+    {
+      "id": "1b515e03-f8f6-4905-a641-1e0a641c609f",
+      "ticker": "ZOMDF",
+      "side": "BUY",
+      "quantity": 42,
+      "price": 2.37,
+      "executedAt": "2021-02-16T20:29:01.564Z"
+    },
+    {
+      "id": "b63a05c8-c7cf-41da-b1d9-c3513ee88854",
+      "ticker": "ZOMDF",
+      "side": "BUY",
+      "quantity": 0.58349,
+      "price": 2.365,
+      "executedAt": "2021-02-16T20:29:01.49115Z"
+    },
+    {
+      "id": "5b42b9c8-ad49-4710-be46-2713809f5a99",
+      "ticker": "ZOMDF",
+      "side": "BUY",
+      "quantity": 0.033826,
+      "price": 2.365,
+      "executedAt": "2021-02-16T20:29:02.285957Z"
+    },
+    {
+      "id": "08755c87-bb3e-423d-a1e5-dd1599582308",
+      "ticker": "ZOMDF",
+      "side": "BUY",
+      "quantity": 0.189376,
+      "price": 2.165,
+      "executedAt": "2021-02-17T17:02:54.489239Z"
+    },
+    {
+      "id": "e1a4f893-06c4-4d0a-98a7-518933e753fe",
+      "ticker": "ZOMDF",
+      "side": "BUY",
+      "quantity": 45.917285,
+      "price": 2.1689,
+      "executedAt": "2021-02-17T17:02:54.59Z"
+    },
+    {
+      "id": "5169ea87-c6d9-4b15-9d4d-33485bedc8eb",
+      "ticker": "ZKIN",
+      "side": "SELL",
+      "quantity": 6,
+      "price": 6.52,
+      "executedAt": "2021-02-17T18:20:26.955Z"
+    },
+    {
+      "id": "71459582-4b87-472c-8b0c-fc1071a0030e",
+      "ticker": "ZKIN",
+      "side": "SELL",
+      "quantity": 0.102212,
+      "price": 6.555,
+      "executedAt": "2021-02-17T18:20:26.885434Z"
+    },
+    {
+      "id": "f86daac6-17c5-46c6-8394-fea35643e5dd",
+      "ticker": "ZKIN",
+      "side": "SELL",
+      "quantity": 0.032208,
+      "price": 6.52,
+      "executedAt": "2021-02-17T18:20:26.955Z"
+    },
+    {
+      "id": "1bbc14fd-7579-4c23-963f-c4f544b3ac25",
+      "ticker": "GHVI",
+      "side": "BUY",
+      "quantity": 1.026342,
+      "price": 19.74,
+      "executedAt": "2021-02-17T18:21:34.04087Z"
+    },
+    {
+      "id": "defed778-337d-4dde-acb8-ce35d1569eea",
+      "ticker": "GHVI",
+      "side": "BUY",
+      "quantity": 0.997473,
+      "price": 19.79,
+      "executedAt": "2021-02-17T18:21:34.152Z"
+    },
+    {
+      "id": "f218f2c3-f850-49ab-a216-e5acaf4b2780",
+      "ticker": "ZKIN",
+      "side": "SELL",
+      "quantity": 5.925881,
+      "price": 7.6,
+      "executedAt": "2021-02-18T16:02:34.601Z"
+    },
+    {
+      "id": "3032e39e-faad-4cf0-9f32-c951e40ca0b9",
+      "ticker": "HOL",
+      "side": "BUY",
+      "quantity": 0.021361,
+      "price": 20.13,
+      "executedAt": "2021-02-18T18:45:12.971Z"
+    },
+    {
+      "id": "92fbcc47-4471-4d4f-93a7-2053e07a4121",
+      "ticker": "HOL",
+      "side": "BUY",
+      "quantity": 3.704618,
+      "price": 20.13,
+      "executedAt": "2021-02-18T18:45:12.971Z"
+    },
+    {
+      "id": "c0a9b1b4-f180-426a-b903-2090a1f9646c",
+      "ticker": "NIO",
+      "side": "SELL",
+      "quantity": 11.629315,
+      "price": 54.3816,
+      "executedAt": "2021-02-18T18:57:51.327Z"
+    },
+    {
+      "id": "657d4c70-b373-49a8-945c-211a65996dbd",
+      "ticker": "HOL",
+      "side": "BUY",
+      "quantity": 0.714285,
+      "price": 21.875,
+      "executedAt": "2021-02-18T19:13:39.293662Z"
+    },
+    {
+      "id": "f1a4a30a-2582-4a11-a3f0-6c815abd725a",
+      "ticker": "HOL",
+      "side": "BUY",
+      "quantity": 12.994288,
+      "price": 21.885,
+      "executedAt": "2021-02-18T19:13:39.412Z"
+    },
+    {
+      "id": "fea8db8e-7de2-464d-aae9-f02e304590f6",
+      "ticker": "SNDL",
+      "side": "SELL",
+      "quantity": 123.368394,
+      "price": 1.55,
+      "executedAt": "2021-02-18T19:16:46.754Z"
+    },
+    {
+      "id": "f5d00284-6be8-4ea1-8402-de5f0b1a6e72",
+      "ticker": "PLUG",
+      "side": "SELL",
+      "quantity": 0.636982,
+      "price": 51.3,
+      "executedAt": "2021-02-18T19:30:42.291Z"
+    },
+    {
+      "id": "e142a1fd-38c7-4ba1-92cb-d6c23fba3afe",
+      "ticker": "BBBYQ",
+      "side": "BUY",
+      "quantity": 2,
+      "price": 26.2,
+      "executedAt": "2021-02-19T14:54:16.113Z"
+    },
+    {
+      "id": "1ee6e5c5-19a4-42d5-b83c-91b311775c4b",
+      "ticker": "GME",
+      "side": "BUY",
+      "quantity": 2,
+      "price": 41.19,
+      "executedAt": "2021-02-19T14:54:34.599Z"
+    },
+    {
+      "id": "1d881368-7724-4961-a75c-9045b95be87f",
+      "ticker": "UAMY",
+      "side": "BUY",
+      "quantity": 100,
+      "price": 1.93,
+      "executedAt": "2021-02-19T15:08:10.761Z"
+    },
+    {
+      "id": "7510751c-6cc7-438a-a5c1-c04065a463e4",
+      "ticker": "PLTR",
+      "side": "BUY",
+      "quantity": 3,
+      "price": 27.9899,
+      "executedAt": "2021-02-19T15:13:31.701Z"
+    },
+    {
+      "id": "1a3ea73e-cbf0-470f-af4f-3428ee87e4d7",
+      "ticker": "TIOG",
+      "side": "SELL",
+      "quantity": 50,
+      "price": 2.53,
+      "executedAt": "2021-02-19T15:16:46.084Z"
+    },
+    {
+      "id": "4ad477ff-ad52-42d4-8782-f5f5ff887b08",
+      "ticker": "PLTR",
+      "side": "BUY",
+      "quantity": 3,
+      "price": 28.4389,
+      "executedAt": "2021-02-19T15:25:31.709Z"
+    },
+    {
+      "id": "7d08de84-ecec-4057-841d-639cc4c704b2",
+      "ticker": "NNDM",
+      "side": "SELL",
+      "quantity": 1.832784,
+      "price": 14.2311,
+      "executedAt": "2021-02-19T16:34:39.74Z"
+    },
+    {
+      "id": "20771a9a-f998-4995-a054-e9e8dca92c90",
+      "ticker": "UAMY",
+      "side": "SELL",
+      "quantity": 100,
+      "price": 1.95,
+      "executedAt": "2021-02-19T17:11:36.747Z"
+    },
+    {
+      "id": "c9484a5d-da79-4473-a1b7-7ba9fb487f9b",
+      "ticker": "TIOG",
+      "side": "SELL",
+      "quantity": 27.977608,
+      "price": 2.51,
+      "executedAt": "2021-02-19T17:39:52.678Z"
+    },
+    {
+      "id": "248af11a-fe9c-4372-a152-a84a83d0c4e7",
+      "ticker": "GHVI",
+      "side": "SELL",
+      "quantity": 0.023815,
+      "price": 20.135,
+      "executedAt": "2021-02-19T17:40:16.94144Z"
+    },
+    {
+      "id": "de22700b-eede-4c8e-81d6-1283bdc14d7e",
+      "ticker": "GHVI",
+      "side": "SELL",
+      "quantity": 2,
+      "price": 20.16,
+      "executedAt": "2021-02-19T17:40:17.094Z"
+    },
+    {
+      "id": "0a84eae6-a1de-476f-96d1-a440bb829872",
+      "ticker": "DNN",
+      "side": "SELL",
+      "quantity": 66,
+      "price": 1.23,
+      "executedAt": "2021-02-19T17:42:03.993Z"
+    },
+    {
+      "id": "feb4e60f-09c5-4ebe-94fe-5738f93556d1",
+      "ticker": "RIOT",
+      "side": "BUY",
+      "quantity": 2,
+      "price": 72.52,
+      "executedAt": "2021-02-19T17:42:43.344Z"
+    },
+    {
+      "id": "52157073-fe4f-4a8b-a21b-f3dc93217d25",
+      "ticker": "PLTR",
+      "side": "BUY",
+      "quantity": 0.723834,
+      "price": 28.425,
+      "executedAt": "2021-02-22T19:16:29.888934Z"
+    },
+    {
+      "id": "b014cb50-2f6b-425c-9a50-e7107e51fb37",
+      "ticker": "PLTR",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 28.43,
+      "executedAt": "2021-02-22T19:16:29.988Z"
+    },
+    {
+      "id": "4871d247-2574-47b7-958c-c302436d66fc",
+      "ticker": "ZOMDF",
+      "side": "BUY",
+      "quantity": 49.778485,
+      "price": 2.0089,
+      "executedAt": "2021-02-23T16:07:36.5Z"
+    },
+    {
+      "id": "2d250dab-a234-4bb3-a159-c4490d596784",
+      "ticker": "WKHS",
+      "side": "BUY",
+      "quantity": 3,
+      "price": 14.79,
+      "executedAt": "2021-02-23T20:48:02.078Z"
+    },
+    {
+      "id": "a98a0b65-b124-4076-b33d-257ee2317ab3",
+      "ticker": "CCIV",
+      "side": "SELL",
+      "quantity": 1.968258,
+      "price": 35.0811,
+      "executedAt": "2021-02-24T14:35:38.939Z"
+    },
+    {
+      "id": "23637bd3-d5a7-4f33-83fc-3c4318422c80",
+      "ticker": "RIOT",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 54.3483,
+      "executedAt": "2021-02-24T14:36:12.636Z"
+    },
+    {
+      "id": "5b55734e-ea67-4640-b1d9-84da851a4ca5",
+      "ticker": "NOK",
+      "side": "BUY",
+      "quantity": 3,
+      "price": 3.945,
+      "executedAt": "2021-02-24T14:37:11.604Z"
+    },
+    {
+      "id": "cdd8d3a4-0ad6-4203-a70a-13911367f669",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 7.0799,
+      "executedAt": "2021-02-24T14:37:31.943Z"
+    },
+    {
+      "id": "cbd9ce2d-79a2-4d6c-abc5-5d782866cb87",
+      "ticker": "CTRM",
+      "side": "SELL",
+      "quantity": 41,
+      "price": 1,
+      "executedAt": "2021-02-25T18:45:46.103Z"
+    },
+    {
+      "id": "a4ab3bb6-3fd0-4526-868a-cd82bbbb6e56",
+      "ticker": "ZOMDF",
+      "side": "BUY",
+      "quantity": 22,
+      "price": 1.895,
+      "executedAt": "2021-02-25T18:46:02.603Z"
+    },
+    {
+      "id": "b8685ef6-a137-46c2-bd46-5468118c6b40",
+      "ticker": "ZOMDF",
+      "side": "BUY",
+      "quantity": 0.163588,
+      "price": 1.895,
+      "executedAt": "2021-02-25T18:46:02.48926Z"
+    },
+    {
+      "id": "64fae304-d437-493a-950b-7ad7c321e2d3",
+      "ticker": "RIOT",
+      "side": "BUY",
+      "quantity": 3,
+      "price": 44.17,
+      "executedAt": "2021-02-26T20:37:56.422Z"
+    },
+    {
+      "id": "42670a75-b035-4412-929b-134ff3247136",
+      "ticker": "OBSVF",
+      "side": "BUY",
+      "quantity": 10,
+      "price": 3.9482,
+      "executedAt": "2021-03-01T20:16:33.881Z"
+    },
+    {
+      "id": "603ff52a-459a-46b1-9f7d-b81fbf11a1ee",
+      "ticker": "NIO",
+      "side": "BUY",
+      "quantity": 2,
+      "price": 41.44,
+      "executedAt": "2021-03-03T20:44:26.037Z"
+    },
+    {
+      "id": "60410a08-caae-4c5c-a92f-97bf80b980a0",
+      "ticker": "SLGG",
+      "side": "BUY",
+      "quantity": 5,
+      "price": 7.0095,
+      "executedAt": "2021-03-04T16:25:44.386Z"
+    },
+    {
+      "id": "60410dca-ee4e-40a9-83ef-11d25f9b51ed",
+      "ticker": "NGA",
+      "side": "BUY",
+      "quantity": 2,
+      "price": 16.82,
+      "executedAt": "2021-03-04T16:41:46.346Z"
+    },
+    {
+      "id": "60410e9b-8e32-448f-9010-2753a232b929",
+      "ticker": "HOL",
+      "side": "BUY",
+      "quantity": 5,
+      "price": 13.5,
+      "executedAt": "2021-03-04T16:45:15.483Z"
+    },
+    {
+      "id": "60413e16-02e9-4a83-bc96-a109acfc2bfc",
+      "ticker": "TSLA",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 618.6559,
+      "executedAt": "2021-03-04T20:07:50.925Z"
+    },
+    {
+      "id": "604141c9-e0e7-45ec-b5bb-e447b5cb0130",
+      "ticker": "AAPL",
+      "side": "BUY",
+      "quantity": 2,
+      "price": 119.685,
+      "executedAt": "2021-03-04T20:23:37.108Z"
+    },
+    {
+      "id": "60414215-986d-4c75-8604-4f81a0518002",
+      "ticker": "NIO",
+      "side": "BUY",
+      "quantity": 2,
+      "price": 38.885,
+      "executedAt": "2021-03-04T20:24:53.221Z"
+    },
+    {
+      "id": "b47fb258-9092-4e54-bfdf-ab84ffa69405",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 2.484472,
+      "price": 8.05,
+      "executedAt": "2021-03-04T20:53:30.52Z"
+    },
+    {
+      "id": "f2acfea9-4b88-4adc-9099-8912b9b0107c",
+      "ticker": "TSLA",
+      "side": "BUY",
+      "quantity": 0.003356,
+      "price": 595.85,
+      "executedAt": "2021-03-05T22:38:09.959009Z"
+    },
+    {
+      "id": "5ba1ba62-790e-4881-a029-e3e0e03e388b",
+      "ticker": "PFE",
+      "side": "BUY",
+      "quantity": 0.071988,
+      "price": 34.45,
+      "executedAt": "2021-03-08T14:32:28.779Z"
+    },
+    {
+      "id": "81a00487-add8-4565-8a8b-2c54700ca280",
+      "ticker": "GME",
+      "side": "SELL",
+      "quantity": 0.302242,
+      "price": 330.86,
+      "executedAt": "2021-03-10T16:41:19.723823Z"
+    },
+    {
+      "id": "f119f213-9494-4385-a72b-9ee635f40026",
+      "ticker": "GME",
+      "side": "SELL",
+      "quantity": 0.505037,
+      "price": 198,
+      "executedAt": "2021-03-10T17:40:59.266Z"
+    },
+    {
+      "id": "fbb20477-0517-42e9-ae61-a2639f2cbf31",
+      "ticker": "GME",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 185,
+      "executedAt": "2021-03-10T17:46:10.594Z"
+    },
+    {
+      "id": "5abf23ae-2428-40f4-b85d-6bf8e173c82c",
+      "ticker": "GME",
+      "side": "SELL",
+      "quantity": 0.095238,
+      "price": 191.86,
+      "executedAt": "2021-03-10T17:46:16.214082Z"
+    },
+    {
+      "id": "3d6a2a94-40ea-4ccb-be08-e50b83e111f9",
+      "ticker": "GME",
+      "side": "SELL",
+      "quantity": 0.097483,
+      "price": 195.19,
+      "executedAt": "2021-03-10T17:46:18.084248Z"
+    },
+    {
+      "id": "60490770-2d26-4d38-a9dd-ec12736b69ee",
+      "ticker": "GME",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 244.5399,
+      "executedAt": "2021-03-10T17:52:48.275Z"
+    },
+    {
+      "id": "604a7521-c46e-4743-8d68-c92f9f900304",
+      "ticker": "CPNG",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 53.63,
+      "executedAt": "2021-03-11T19:53:05.683Z"
+    },
+    {
+      "id": "604bac62-8869-4b79-ad6a-bff44c85d3aa",
+      "ticker": "CPNG",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 48.53,
+      "executedAt": "2021-03-12T18:01:06.207Z"
+    },
+    {
+      "id": "60535deb-43fd-463e-a714-60ed1be561da",
+      "ticker": "SLGG",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 8.18,
+      "executedAt": "2021-03-18T14:04:27.172Z"
+    },
+    {
+      "id": "60535deb-7dd4-4ecb-9156-b9389f3acbda",
+      "ticker": "SLGG",
+      "side": "SELL",
+      "quantity": 4,
+      "price": 8.18,
+      "executedAt": "2021-03-18T14:04:27.172Z"
+    },
+    {
+      "id": "86d75861-0de6-40ff-972e-5c66574ea8e1",
+      "ticker": "GME",
+      "side": "BUY",
+      "quantity": 0.018685,
+      "price": 160.555,
+      "executedAt": "2021-03-23T21:38:54.282253Z"
+    },
+    {
+      "id": "17efb504-0f45-4568-af46-95a13d8ece88",
+      "ticker": "VICI",
+      "side": "BUY",
+      "quantity": 0.000344,
+      "price": 29.11,
+      "executedAt": "2021-04-09T13:30:01Z"
+    },
+    {
+      "id": "607727ae-ab97-4b1a-ac5a-385b16e2b3c4",
+      "ticker": "COIN",
+      "side": "BUY",
+      "quantity": 0.002361,
+      "price": 423.465,
+      "executedAt": "2021-04-14T17:34:38.87767Z"
+    },
+    {
+      "id": "60789ab1-8b54-4af1-bb03-607bc70a2cec",
+      "ticker": "AAPL",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 134.44,
+      "executedAt": "2021-04-15T19:57:37.889Z"
+    },
+    {
+      "id": "60789af2-bb14-4034-9169-a73463a97797",
+      "ticker": "OBSVF",
+      "side": "SELL",
+      "quantity": 10,
+      "price": 2.795,
+      "executedAt": "2021-04-15T19:58:42.468Z"
+    },
+    {
+      "id": "60789d0e-5fe9-46ce-b176-2b9368d25ef7",
+      "ticker": "NOK",
+      "side": "SELL",
+      "quantity": 10,
+      "price": 4.1,
+      "executedAt": "2021-04-15T20:07:42.32Z"
+    },
+    {
+      "id": "60789d2e-ae77-4439-b2b6-0cb1830a7fdd",
+      "ticker": "PFE",
+      "side": "SELL",
+      "quantity": 3,
+      "price": 37.56,
+      "executedAt": "2021-04-15T20:08:14.938Z"
+    },
+    {
+      "id": "60789dbe-89d4-4b6b-a8fc-80c651be4254",
+      "ticker": "AAPL",
+      "side": "SELL",
+      "quantity": 0.743826,
+      "price": 134.44,
+      "executedAt": "2021-04-15T20:10:38.423218Z"
+    },
+    {
+      "id": "60789dce-0ff5-493f-8fc1-659d2f2911fd",
+      "ticker": "GME",
+      "side": "SELL",
+      "quantity": 0.184991,
+      "price": 155.26,
+      "executedAt": "2021-04-15T20:10:54.967547Z"
+    },
+    {
+      "id": "60789dcf-c75f-450a-8481-c066387196a0",
+      "ticker": "GME",
+      "side": "SELL",
+      "quantity": 0.459089,
+      "price": 155.26,
+      "executedAt": "2021-04-15T20:10:55.136279Z"
+    },
+    {
+      "id": "60799485-bc46-4972-bf86-ee1925e88491",
+      "ticker": "BBBYQ",
+      "side": "SELL",
+      "quantity": 2,
+      "price": 25.05,
+      "executedAt": "2021-04-16T13:43:33.185Z"
+    },
+    {
+      "id": "607994ce-9c2b-46f9-8edc-7ba0b83d3a31",
+      "ticker": "PFE",
+      "side": "SELL",
+      "quantity": 3,
+      "price": 38.1,
+      "executedAt": "2021-04-16T13:44:46.921Z"
+    },
+    {
+      "id": "6079f25c-ad03-444a-a496-f45d48a1f974",
+      "ticker": "GME",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 153.7,
+      "executedAt": "2021-04-16T20:23:56.743Z"
+    },
+    {
+      "id": "60804ba1-d058-4c03-9b2b-251180c41527",
+      "ticker": "BB",
+      "side": "BUY",
+      "quantity": 0.474214,
+      "price": 8.4376,
+      "executedAt": "2021-04-21T15:58:24.649Z"
+    },
+    {
+      "id": "6082fc66-5cbe-4d82-85a9-b2fe0dea7695",
+      "ticker": "OCGN",
+      "side": "SELL",
+      "quantity": 18,
+      "price": 12.25,
+      "executedAt": "2021-04-23T16:57:10.378Z"
+    },
+    {
+      "id": "6082fc9b-fe03-4126-ba6e-941194cbf568",
+      "ticker": "ZOMDF",
+      "side": "BUY",
+      "quantity": 100,
+      "price": 0.9625,
+      "executedAt": "2021-04-23T16:58:03.598Z"
+    },
+    {
+      "id": "6082fcd9-8f61-4a28-b8e5-5bb964685569",
+      "ticker": "HOL",
+      "side": "BUY",
+      "quantity": 5,
+      "price": 10.125,
+      "executedAt": "2021-04-23T16:59:05.408Z"
+    },
+    {
+      "id": "608ac42a-ebb3-40fa-ae7d-95598abe6ca9",
+      "ticker": "METX",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 2.39,
+      "executedAt": "2021-04-29T14:35:22.645Z"
+    },
+    {
+      "id": "609034be-c11e-4e16-a368-3baaa549db38",
+      "ticker": "PFE",
+      "side": "SELL",
+      "quantity": 0.432444,
+      "price": 39.625,
+      "executedAt": "2021-05-03T17:37:02.642681Z"
+    },
+    {
+      "id": "609034d4-9615-4272-812c-99a96db39228",
+      "ticker": "NOK",
+      "side": "SELL",
+      "quantity": 0.507507,
+      "price": 4.885,
+      "executedAt": "2021-05-03T17:37:24.132851Z"
+    },
+    {
+      "id": "60903531-5c98-4f41-ad73-f1478a8fbb3e",
+      "ticker": "OCGN",
+      "side": "SELL",
+      "quantity": 10,
+      "price": 15.6309,
+      "executedAt": "2021-05-03T17:38:57.175Z"
+    },
+    {
+      "id": "6092d1ec-4885-46ee-b2ad-8cf6a6ce5d06",
+      "ticker": "AAPL",
+      "side": "SELL",
+      "quantity": 0.256174,
+      "price": 129.335,
+      "executedAt": "2021-05-05T17:12:12.876553Z"
+    },
+    {
+      "id": "6092d204-a844-4c15-a7ea-22429a26916e",
+      "ticker": "ZOMDF",
+      "side": "BUY",
+      "quantity": 36.896243,
+      "price": 0.8944,
+      "executedAt": "2021-05-05T17:12:36.183Z"
+    },
+    {
+      "id": "60995fd5-eb6d-4170-8f67-b84b149eb841",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 101.832993,
+      "price": 9.82,
+      "executedAt": "2021-05-10T16:31:17.272Z"
+    },
+    {
+      "id": "60a3ffd1-158c-48ac-8ba7-33cc2cc1d0dd",
+      "ticker": "OCGN",
+      "side": "SELL",
+      "quantity": 5,
+      "price": 9.15,
+      "executedAt": "2021-05-18T17:56:33.919Z"
+    },
+    {
+      "id": "60a3ffee-b1c9-4c39-9b94-92aef48d4798",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 3.271692,
+      "price": 14.06,
+      "executedAt": "2021-05-18T17:57:02.158Z"
+    },
+    {
+      "id": "60ad4a5b-0cdb-4fba-a57b-f112f312ecde",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 0.00392,
+      "price": 15.305,
+      "executedAt": "2021-05-25T19:04:59.329Z"
+    },
+    {
+      "id": "60ad4a5b-8b44-48d9-88d0-421f761259ae",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 0.529546,
+      "price": 15.305,
+      "executedAt": "2021-05-25T19:04:59.254824Z"
+    },
+    {
+      "id": "60ad4a5b-f91a-470b-8ae4-b7e3cb3790ad",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 6,
+      "price": 15.305,
+      "executedAt": "2021-05-25T19:04:59.329Z"
+    },
+    {
+      "id": "60ae4ed4-94ab-480c-9cf7-b1aed70cf490",
+      "ticker": "OCGN",
+      "side": "SELL",
+      "quantity": 3.97088,
+      "price": 7.555,
+      "executedAt": "2021-05-26T13:36:20.114Z"
+    },
+    {
+      "id": "60ae4eea-94f9-4879-b8ed-c6f59d6f44e7",
+      "ticker": "BBBYQ",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 24.6293,
+      "executedAt": "2021-05-26T13:36:42.866Z"
+    },
+    {
+      "id": "60ae4f06-0611-407f-b33d-f13e175b4409",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 0.042035,
+      "price": 18.08,
+      "executedAt": "2021-05-26T13:37:10.209157Z"
+    },
+    {
+      "id": "60ae4f06-4ca2-4ba3-8072-08b03ea6dac2",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 2.99854,
+      "price": 18.0888,
+      "executedAt": "2021-05-26T13:37:10.277Z"
+    },
+    {
+      "id": "60ae536c-b99f-4674-b001-469efef30c93",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 0.108025,
+      "price": 18.005,
+      "executedAt": "2021-05-26T13:55:56.112958Z"
+    },
+    {
+      "id": "60ae536c-f311-44a0-b226-780f56a09d19",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 10.992279,
+      "price": 18.0181,
+      "executedAt": "2021-05-26T13:55:56.179Z"
+    },
+    {
+      "id": "60ae561c-073e-4baf-aa74-29466709d107",
+      "ticker": "TSLA",
+      "side": "SELL",
+      "quantity": 0.828802,
+      "price": 603.23,
+      "executedAt": "2021-05-26T14:07:24.345Z"
+    },
+    {
+      "id": "60ae561c-7aab-40ca-bd5f-d019c9fb1f1b",
+      "ticker": "TSLA",
+      "side": "SELL",
+      "quantity": 0.000066,
+      "price": 603.23,
+      "executedAt": "2021-05-26T14:07:24.345Z"
+    },
+    {
+      "id": "60ae5675-a669-4506-8d0b-542b4ea9ea89",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 0.16653,
+      "price": 18.405,
+      "executedAt": "2021-05-26T14:08:53.490663Z"
+    },
+    {
+      "id": "60ae5676-fadf-4bac-bf15-5500f0ab73fe",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 26.979016,
+      "price": 18.4195,
+      "executedAt": "2021-05-26T14:08:53.598Z"
+    },
+    {
+      "id": "60ae73c8-0445-4578-82ab-c59454ce7555",
+      "ticker": "ASXC",
+      "side": "SELL",
+      "quantity": 0.079627,
+      "price": 2.5117,
+      "executedAt": "2021-05-26T16:14:00.006Z"
+    },
+    {
+      "id": "60ae73c8-30ca-41db-abd3-5aadcb097714",
+      "ticker": "ASXC",
+      "side": "SELL",
+      "quantity": 59.642147,
+      "price": 2.5117,
+      "executedAt": "2021-05-26T16:14:00.006Z"
+    },
+    {
+      "id": "60ae73d6-6a5a-4267-8e94-e144bad90a17",
+      "ticker": "TSLA",
+      "side": "SELL",
+      "quantity": 0.174488,
+      "price": 621.43,
+      "executedAt": "2021-05-26T16:14:14.947661Z"
+    },
+    {
+      "id": "60ae74c2-46a4-46f6-95aa-f627442ef69b",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 12,
+      "price": 19.3293,
+      "executedAt": "2021-05-26T16:18:10.203Z"
+    },
+    {
+      "id": "60afb774-1ecd-43f1-9a91-68093a9fe42c",
+      "ticker": "ZOMDF",
+      "side": "BUY",
+      "quantity": 30,
+      "price": 0.8346,
+      "executedAt": "2021-05-27T15:15:00.58Z"
+    },
+    {
+      "id": "60afc1ca-bb12-48e0-943b-82e629613f0c",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 21,
+      "price": 21.989,
+      "executedAt": "2021-05-27T15:59:06.281Z"
+    },
+    {
+      "id": "60b0f409-b052-4712-9db0-3370bdae5f6e",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 6,
+      "price": 32.5573,
+      "executedAt": "2021-05-28T13:45:45.646Z"
+    },
+    {
+      "id": "60b0fea0-466a-4854-bd2b-271cd691d35d",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 0.543201,
+      "price": 29.4199,
+      "executedAt": "2021-05-28T14:30:55.479Z"
+    },
+    {
+      "id": "60b0fea0-8c6b-4a58-a394-6f0603ac6488",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 0.000679,
+      "price": 29.4199,
+      "executedAt": "2021-05-28T14:30:55.479Z"
+    },
+    {
+      "id": "60b10175-7465-44df-b22e-f7115025e7f0",
+      "ticker": "BB",
+      "side": "SELL",
+      "quantity": 6,
+      "price": 11.4217,
+      "executedAt": "2021-05-28T14:43:01.661Z"
+    },
+    {
+      "id": "60b10194-4f92-4208-8cf7-121e2ec7f877",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 2,
+      "price": 31.0199,
+      "executedAt": "2021-05-28T14:43:32.898Z"
+    },
+    {
+      "id": "60b11228-3995-4566-92b0-fc71c5d80ef2",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 3.7,
+      "price": 27.929,
+      "executedAt": "2021-05-28T15:54:16.348Z"
+    },
+    {
+      "id": "60b11247-756b-47f1-8dd8-3d13941d71dc",
+      "ticker": "HEXO",
+      "side": "SELL",
+      "quantity": 0.348034,
+      "price": 7.015,
+      "executedAt": "2021-05-28T15:54:47.243307Z"
+    },
+    {
+      "id": "60b11247-a165-41d5-81fd-be5543112b1d",
+      "ticker": "HEXO",
+      "side": "SELL",
+      "quantity": 8,
+      "price": 7.015,
+      "executedAt": "2021-05-28T15:54:47.312Z"
+    },
+    {
+      "id": "60b11257-f212-4a27-95da-078f052eab14",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 0.324333,
+      "price": 27.965,
+      "executedAt": "2021-05-28T15:55:03.940261Z"
+    },
+    {
+      "id": "60b11258-eddf-4c85-b512-cf3040d9a8bd",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 1.9975,
+      "price": 28,
+      "executedAt": "2021-05-28T15:55:04.063Z"
+    },
+    {
+      "id": "60b11276-dd97-440e-8a22-9d16f5cc63f1",
+      "ticker": "ASXC",
+      "side": "SELL",
+      "quantity": 29.700234,
+      "price": 2.4301,
+      "executedAt": "2021-05-28T15:55:33.743Z"
+    },
+    {
+      "id": "60b133d7-4f35-4025-9cc5-c9d547fe69c3",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 3.65636,
+      "price": 27.3496,
+      "executedAt": "2021-05-28T18:17:58.942Z"
+    },
+    {
+      "id": "60b13bda-fa5c-45ac-a005-c9871de04777",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 5,
+      "price": 27.57,
+      "executedAt": "2021-05-28T18:52:10.723Z"
+    },
+    {
+      "id": "60b14348-90b4-47cb-809a-fd964989797e",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 0.32774,
+      "price": 25.63,
+      "executedAt": "2021-05-28T19:23:52.939041Z"
+    },
+    {
+      "id": "60b14349-00af-445c-9de3-84254707096f",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 1.999297,
+      "price": 25.639,
+      "executedAt": "2021-05-28T19:23:53.002Z"
+    },
+    {
+      "id": "60b670d8-eee9-4822-9563-4c822ad83d7c",
+      "ticker": "GME",
+      "side": "SELL",
+      "quantity": 0.205998,
+      "price": 242.72,
+      "executedAt": "2021-06-01T17:39:36.099151Z"
+    },
+    {
+      "id": "60b67d18-a7b9-4c62-bdd5-c83897e01f93",
+      "ticker": "SNDL",
+      "side": "BUY",
+      "quantity": 46,
+      "price": 1.015,
+      "executedAt": "2021-06-01T18:31:52.404Z"
+    },
+    {
+      "id": "60ba7c30-4ea6-41f1-8221-a27dd46743c7",
+      "ticker": "UBX",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 4.5671,
+      "executedAt": "2021-06-04T19:17:03.979Z"
+    },
+    {
+      "id": "60ba7c39-ca97-4f4a-a179-e538b5c291d9",
+      "ticker": "CPRX",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 5.5,
+      "executedAt": "2021-06-04T19:17:13.558Z"
+    },
+    {
+      "id": "60ba7c43-9c46-4e4c-8fa4-bb5c88738cae",
+      "ticker": "SPPI",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 3.8314,
+      "executedAt": "2021-06-04T19:17:23.668Z"
+    },
+    {
+      "id": "60ba7c8a-ef4e-4dae-ad81-af4d792f846b",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 0.490861,
+      "price": 47.875,
+      "executedAt": "2021-06-04T19:18:34.995309Z"
+    },
+    {
+      "id": "60ba7c8b-d105-4260-9f8c-5a8d4dc8b5b0",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 3.99792,
+      "price": 47.8999,
+      "executedAt": "2021-06-04T19:18:35.109Z"
+    },
+    {
+      "id": "60bfaf2d-77e5-43e0-b001-70b5b12a7785",
+      "ticker": "WKHS",
+      "side": "SELL",
+      "quantity": 3,
+      "price": 16.5014,
+      "executedAt": "2021-06-08T17:55:57.021Z"
+    },
+    {
+      "id": "60bfaf64-58bc-4b8f-92e6-813b1e91bdec",
+      "ticker": "WISH",
+      "side": "BUY",
+      "quantity": 0.184033,
+      "price": 9.645,
+      "executedAt": "2021-06-08T17:56:52.456996Z"
+    },
+    {
+      "id": "60bfaf65-a863-4bcc-9c7f-6b6c3051fef9",
+      "ticker": "WISH",
+      "side": "BUY",
+      "quantity": 4.993632,
+      "price": 9.6583,
+      "executedAt": "2021-06-08T17:56:52.535Z"
+    },
+    {
+      "id": "60c373e4-20a9-48f2-afe2-3652a4d20f99",
+      "ticker": "WISH",
+      "side": "SELL",
+      "quantity": 0.177665,
+      "price": 10.095,
+      "executedAt": "2021-06-11T14:32:04.679941Z"
+    },
+    {
+      "id": "60c373e5-4362-4061-a846-c13e7e109ed7",
+      "ticker": "WISH",
+      "side": "SELL",
+      "quantity": 5,
+      "price": 10.0917,
+      "executedAt": "2021-06-11T14:32:04.797Z"
+    },
+    {
+      "id": "60c373f5-58f0-4ef0-b45c-d80583c6f0ed",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 0.232844,
+      "price": 42.99,
+      "executedAt": "2021-06-11T14:32:21.137905Z"
+    },
+    {
+      "id": "60c373f5-ed5e-4f69-81df-bb042aa524ac",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 0.999793,
+      "price": 42.9989,
+      "executedAt": "2021-06-11T14:32:21.257Z"
+    },
+    {
+      "id": "60df1e3d-80cb-4c70-891d-99d35f9e73d7",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 48.75,
+      "executedAt": "2021-07-02T14:10:05.537Z"
+    },
+    {
+      "id": "1e2b7325-97ce-4607-b667-68447558a33e",
+      "ticker": "VICI",
+      "side": "BUY",
+      "quantity": 0.000321,
+      "price": 31.1568,
+      "executedAt": "2021-07-09T13:30:03.112825Z"
+    },
+    {
+      "id": "61117c26-386b-4940-8e67-d8a9d9527497",
+      "ticker": "OCGN",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 8.235,
+      "executedAt": "2021-08-09T19:04:06.156Z"
+    },
+    {
+      "id": "61117c26-d421-4e26-aed7-e257a0a489d9",
+      "ticker": "OCGN",
+      "side": "SELL",
+      "quantity": 0.140831,
+      "price": 8.235,
+      "executedAt": "2021-08-09T19:04:06.02647Z"
+    },
+    {
+      "id": "61117c31-b223-4981-881a-f05e41c2f5c4",
+      "ticker": "GME",
+      "side": "SELL",
+      "quantity": 0.168607,
+      "price": 163.335,
+      "executedAt": "2021-08-09T19:04:17.971973Z"
+    },
+    {
+      "id": "61117c42-1379-4906-b655-f95b235f8d46",
+      "ticker": "METX",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 0.62505,
+      "executedAt": "2021-08-09T19:04:34.734Z"
+    },
+    {
+      "id": "61117ca9-0cbf-4b67-bec1-0a05401f0040",
+      "ticker": "DKNG",
+      "side": "BUY",
+      "quantity": 0.645099,
+      "price": 52.55,
+      "executedAt": "2021-08-09T19:06:17.600378Z"
+    },
+    {
+      "id": "61117caa-cf42-4469-aec0-db681a13deb2",
+      "ticker": "DKNG",
+      "side": "BUY",
+      "quantity": 2,
+      "price": 52.55,
+      "executedAt": "2021-08-09T19:06:17.678Z"
+    },
+    {
+      "id": "611682a5-fd80-49f3-a372-d44331f17d26",
+      "ticker": "NIO",
+      "side": "SELL",
+      "quantity": 4,
+      "price": 41.28,
+      "executedAt": "2021-08-13T14:33:09.96Z"
+    },
+    {
+      "id": "611682b9-5f1c-454d-bde5-8a4464ebcd7c",
+      "ticker": "DKNG",
+      "side": "SELL",
+      "quantity": 2.645099,
+      "price": 53.8867,
+      "executedAt": "2021-08-13T14:33:28.416Z"
+    },
+    {
+      "id": "61168bec-b427-47da-89e2-657c11f35347",
+      "ticker": "PLTR",
+      "side": "SELL",
+      "quantity": 7.723834,
+      "price": 24.815,
+      "executedAt": "2021-08-13T15:12:44.093Z"
+    },
+    {
+      "id": "61168c64-c9cf-4cef-81dc-54e7ffda0db5",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 5.911029,
+      "price": 32.82,
+      "executedAt": "2021-08-13T15:14:43.665Z"
+    },
+    {
+      "id": "612542da-4674-402e-ac86-5201fe0dfc00",
+      "ticker": "AMC",
+      "side": "SELL",
+      "quantity": 282.417814,
+      "price": 43.895,
+      "executedAt": "2021-08-24T19:04:57.412Z"
+    },
+    {
+      "id": "612543b9-2cd4-4ad7-99e8-386acbc16ffd",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 100,
+      "price": 43.91,
+      "executedAt": "2021-08-24T19:08:41.827Z"
+    },
+    {
+      "id": "612543b9-84e1-4c28-8fcb-98b81903221e",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 43.91,
+      "executedAt": "2021-08-24T19:08:41.827Z"
+    },
+    {
+      "id": "612543b9-a473-43b3-aec1-ac91bfb9772f",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 43.929,
+      "executedAt": "2021-08-24T19:08:41.835Z"
+    },
+    {
+      "id": "612543b9-f3f2-4850-9743-4ea471ac4fbc",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 180,
+      "price": 43.929,
+      "executedAt": "2021-08-24T19:08:41.834Z"
+    },
+    {
+      "id": "613a1da0-1a9d-42e0-84b0-b4d952d1c523",
+      "ticker": "LEVGQ",
+      "side": "SELL",
+      "quantity": 8,
+      "price": 11.3456,
+      "executedAt": "2021-09-09T14:43:44.449Z"
+    },
+    {
+      "id": "613a1def-ac58-48be-91e6-13c72afa271a",
+      "ticker": "GEVO",
+      "side": "SELL",
+      "quantity": 5,
+      "price": 7.52,
+      "executedAt": "2021-09-09T14:45:03.341Z"
+    },
+    {
+      "id": "61520acc-a35a-4cc4-b688-c91f3a3519df",
+      "ticker": "GEVO",
+      "side": "SELL",
+      "quantity": 5,
+      "price": 7.3923,
+      "executedAt": "2021-09-27T18:17:48.689Z"
+    },
+    {
+      "id": "61520ae2-d6db-46a9-87c1-3bd0cf3530e2",
+      "ticker": "JMIA",
+      "side": "SELL",
+      "quantity": 4.752851,
+      "price": 21.04,
+      "executedAt": "2021-09-27T18:18:09.763Z"
+    },
+    {
+      "id": "76532f62-aa63-4553-9369-d849372b356f",
+      "ticker": "VICI",
+      "side": "BUY",
+      "quantity": 0.000336,
+      "price": 29.73,
+      "executedAt": "2021-10-08T13:30:01.544Z"
+    },
+    {
+      "id": "61701cf4-3711-4759-8414-b6d5291706de",
+      "ticker": "CLEU",
+      "side": "SELL",
+      "quantity": 0.12391,
+      "price": 2.475,
+      "executedAt": "2021-10-20T13:43:16.100815Z"
+    },
+    {
+      "id": "61701cf4-de95-43fc-835d-a086b3039374",
+      "ticker": "CLEU",
+      "side": "SELL",
+      "quantity": 17,
+      "price": 2.46,
+      "executedAt": "2021-10-20T13:43:16.21Z"
+    },
+    {
+      "id": "61701d03-f712-4095-8807-80a2537fa7c2",
+      "ticker": "SNDL",
+      "side": "SELL",
+      "quantity": 46,
+      "price": 0.670801,
+      "executedAt": "2021-10-20T13:43:31.377Z"
+    },
+    {
+      "id": "61701d0f-ea30-45ce-a4e5-1e138488cabd",
+      "ticker": "ASTR",
+      "side": "SELL",
+      "quantity": 0.434552,
+      "price": 9.235,
+      "executedAt": "2021-10-20T13:43:43.501786Z"
+    },
+    {
+      "id": "61701d10-9147-4dcc-8a33-b06a37c8d7c7",
+      "ticker": "ASTR",
+      "side": "SELL",
+      "quantity": 27,
+      "price": 9.235,
+      "executedAt": "2021-10-20T13:43:43.585Z"
+    },
+    {
+      "id": "61701d7b-1430-4275-8647-d561edd3669e",
+      "ticker": "RIOT",
+      "side": "SELL",
+      "quantity": 6,
+      "price": 31.8033,
+      "executedAt": "2021-10-20T13:45:31.561Z"
+    },
+    {
+      "id": "6172f63f-1d52-42e8-aee6-bc2051262851",
+      "ticker": "ZOMDF",
+      "side": "SELL",
+      "quantity": 0.565538,
+      "price": 0.50115,
+      "executedAt": "2021-10-22T17:34:55.418703Z"
+    },
+    {
+      "id": "6172f640-95d8-46ee-a2a5-33d4139973b9",
+      "ticker": "ZOMDF",
+      "side": "SELL",
+      "quantity": 600,
+      "price": 0.5011,
+      "executedAt": "2021-10-22T17:34:55.544Z"
+    },
+    {
+      "id": "6172f650-e89e-43ca-9ae1-97116e667f95",
+      "ticker": "BENE",
+      "side": "BUY",
+      "quantity": 0.244377,
+      "price": 13.34,
+      "executedAt": "2021-10-22T17:35:12.724073Z"
+    },
+    {
+      "id": "6172f651-a2ae-41f6-8c96-a76317ea9288",
+      "ticker": "BENE",
+      "side": "BUY",
+      "quantity": 10.950746,
+      "price": 13.4,
+      "executedAt": "2021-10-22T17:35:12.856Z"
+    },
+    {
+      "id": "6172f8d1-b467-45ee-850e-b3b37f31c35b",
+      "ticker": "BENE",
+      "side": "BUY",
+      "quantity": 10.846745,
+      "price": 14.29,
+      "executedAt": "2021-10-22T17:45:52.708Z"
+    },
+    {
+      "id": "6172f982-c6e8-4a22-a0fd-202fc5cf0c2c",
+      "ticker": "JMIA",
+      "side": "SELL",
+      "quantity": 0.328427,
+      "price": 18.645,
+      "executedAt": "2021-10-22T17:48:50.950184Z"
+    },
+    {
+      "id": "6172f983-22bb-4f08-a66e-45c910b74dcf",
+      "ticker": "JMIA",
+      "side": "SELL",
+      "quantity": 5,
+      "price": 18.645,
+      "executedAt": "2021-10-22T17:48:51.09Z"
+    },
+    {
+      "id": "6172f992-dba9-4d15-85fe-8489f20595a1",
+      "ticker": "BENE",
+      "side": "BUY",
+      "quantity": 6.258692,
+      "price": 15.818,
+      "executedAt": "2021-10-22T17:49:05.646Z"
+    },
+    {
+      "id": "6172fa6b-cd62-47df-8f32-2fc4eb7c41fd",
+      "ticker": "AMC",
+      "side": "SELL",
+      "quantity": 0.302087,
+      "price": 36.165,
+      "executedAt": "2021-10-22T17:52:43.62612Z"
+    },
+    {
+      "id": "6172fa6c-c5c6-469a-aac9-368d7aaeab3d",
+      "ticker": "AMC",
+      "side": "SELL",
+      "quantity": 55,
+      "price": 36.165,
+      "executedAt": "2021-10-22T17:52:43.745Z"
+    },
+    {
+      "id": "6172fb57-6920-49f7-b338-e2418885400a",
+      "ticker": "BENE",
+      "side": "BUY",
+      "quantity": 1.053811,
+      "price": 17.84,
+      "executedAt": "2021-10-22T17:56:39.812643Z"
+    },
+    {
+      "id": "6172fb58-9522-4221-afb8-08ecb6e1c15f",
+      "ticker": "BENE",
+      "side": "BUY",
+      "quantity": 55,
+      "price": 17.84,
+      "executedAt": "2021-10-22T17:56:39.891Z"
+    },
+    {
+      "id": "6172fbc4-d23e-48e4-a702-b0ba43722db1",
+      "ticker": "BENE",
+      "side": "BUY",
+      "quantity": 0.226877,
+      "price": 15.505,
+      "executedAt": "2021-10-22T17:58:28.919467Z"
+    },
+    {
+      "id": "6172fbc5-3bfb-4ef9-b4bb-e765e4b591c6",
+      "ticker": "BENE",
+      "side": "BUY",
+      "quantity": 31.98969,
+      "price": 15.52,
+      "executedAt": "2021-10-22T17:58:29.027Z"
+    },
+    {
+      "id": "6172ffd8-07dc-4da3-85c8-f9ad0318dd09",
+      "ticker": "BENE",
+      "side": "BUY",
+      "quantity": 0.027205,
+      "price": 13.6,
+      "executedAt": "2021-10-22T18:15:51.829Z"
+    },
+    {
+      "id": "6172ffd8-baf1-4707-b50b-487bdd8a219e",
+      "ticker": "BENE",
+      "side": "BUY",
+      "quantity": 36.737692,
+      "price": 13.6,
+      "executedAt": "2021-10-22T18:15:51.829Z"
+    },
+    {
+      "id": "61730093-0ff7-4409-827f-13b27d6c81f4",
+      "ticker": "BENE",
+      "side": "SELL",
+      "quantity": 54,
+      "price": 12.155,
+      "executedAt": "2021-10-22T18:18:58.654Z"
+    },
+    {
+      "id": "61730093-13ee-42fb-8a59-3b7d13ba6506",
+      "ticker": "BENE",
+      "side": "SELL",
+      "quantity": 99.335835,
+      "price": 12.155,
+      "executedAt": "2021-10-22T18:18:58.654Z"
+    },
+    {
+      "id": "617300fc-6e0e-4760-ba19-f4ac71dd78d7",
+      "ticker": "BENE",
+      "side": "BUY",
+      "quantity": 0.239391,
+      "price": 12.49,
+      "executedAt": "2021-10-22T18:20:44.848866Z"
+    },
+    {
+      "id": "617300fd-9e85-4cc8-9a7f-7c53a2cb3cff",
+      "ticker": "BENE",
+      "side": "BUY",
+      "quantity": 148.881991,
+      "price": 12.4999,
+      "executedAt": "2021-10-22T18:20:44.909Z"
+    },
+    {
+      "id": "6173075a-9d23-45bc-a559-390de2b98621",
+      "ticker": "BENE",
+      "side": "SELL",
+      "quantity": 149.121382,
+      "price": 11.701,
+      "executedAt": "2021-10-22T18:47:54.417Z"
+    },
+    {
+      "id": "6176b23e-dd56-4bcb-a582-ef27daa17434",
+      "ticker": "METX",
+      "side": "BUY",
+      "quantity": 100,
+      "price": 0.4133,
+      "executedAt": "2021-10-25T13:33:50.31Z"
+    },
+    {
+      "id": "6176b6b6-5b6f-424f-bc78-cc9deb156498",
+      "ticker": "METX",
+      "side": "BUY",
+      "quantity": 100,
+      "price": 0.3798,
+      "executedAt": "2021-10-25T13:52:54.575Z"
+    },
+    {
+      "id": "6176c991-2d67-45fb-9ff4-0b1b1653aa87",
+      "ticker": "MARK",
+      "side": "BUY",
+      "quantity": 15,
+      "price": 4.31,
+      "executedAt": "2021-10-25T15:13:21.69Z"
+    },
+    {
+      "id": "6176cbcd-ac1f-497b-a26d-df3a08f8fb08",
+      "ticker": "MARK",
+      "side": "SELL",
+      "quantity": 15,
+      "price": 4,
+      "executedAt": "2021-10-25T15:22:53.273Z"
+    },
+    {
+      "id": "6176d697-a49c-4dd5-9f38-48be1272ffcd",
+      "ticker": "XELA",
+      "side": "BUY",
+      "quantity": 0.30659,
+      "price": 1.745,
+      "executedAt": "2021-10-25T16:08:55.904973Z"
+    },
+    {
+      "id": "6176d698-39df-48d2-9290-4d902499810c",
+      "ticker": "XELA",
+      "side": "BUY",
+      "quantity": 56.84,
+      "price": 1.75,
+      "executedAt": "2021-10-25T16:08:55.986Z"
+    },
+    {
+      "id": "6176d7c2-c237-4e2a-b697-71f508525f61",
+      "ticker": "MARK",
+      "side": "BUY",
+      "quantity": 15,
+      "price": 4.275,
+      "executedAt": "2021-10-25T16:13:54.792Z"
+    },
+    {
+      "id": "617703aa-22c2-44f2-8163-c02b0975eb21",
+      "ticker": "GNUS",
+      "side": "BUY",
+      "quantity": 0.713091,
+      "price": 1.795,
+      "executedAt": "2021-10-25T19:21:14.384732Z"
+    },
+    {
+      "id": "617703ab-6b6d-4b5f-9953-0174484ff4e7",
+      "ticker": "GNUS",
+      "side": "BUY",
+      "quantity": 16,
+      "price": 1.795,
+      "executedAt": "2021-10-25T19:21:14.455Z"
+    },
+    {
+      "id": "617703ca-fd79-4550-b57f-a56a4d197c5f",
+      "ticker": "GNUS",
+      "side": "BUY",
+      "quantity": 50,
+      "price": 1.81,
+      "executedAt": "2021-10-25T19:21:46.167Z"
+    },
+    {
+      "id": "617806b4-1199-471c-882b-9744939ebc9e",
+      "ticker": "MARK",
+      "side": "SELL",
+      "quantity": 15,
+      "price": 2.5,
+      "executedAt": "2021-10-26T13:46:28.637Z"
+    },
+    {
+      "id": "617806c1-6bb8-4254-b27d-f4d048f99a77",
+      "ticker": "XELA",
+      "side": "SELL",
+      "quantity": 0.14659,
+      "price": 1.885,
+      "executedAt": "2021-10-26T13:46:41.96919Z"
+    },
+    {
+      "id": "617806c2-8132-44be-abfa-20849f39e2a2",
+      "ticker": "XELA",
+      "side": "SELL",
+      "quantity": 57,
+      "price": 1.8823,
+      "executedAt": "2021-10-26T13:46:42.059Z"
+    },
+    {
+      "id": "617816e2-1eeb-4bd1-8dcb-ddeccc63e868",
+      "ticker": "OCGN",
+      "side": "BUY",
+      "quantity": 8.340283,
+      "price": 11.99,
+      "executedAt": "2021-10-26T14:55:30.344Z"
+    },
+    {
+      "id": "6178172b-b82e-4284-9b80-c4c6c0586e99",
+      "ticker": "OCGN",
+      "side": "BUY",
+      "quantity": 5,
+      "price": 11.89,
+      "executedAt": "2021-10-26T14:56:43.845Z"
+    },
+    {
+      "id": "61781ae2-2537-463b-abd5-52ff943316cb",
+      "ticker": "OCGN",
+      "side": "BUY",
+      "quantity": 4.452359,
+      "price": 11.23,
+      "executedAt": "2021-10-26T15:12:34.886094Z"
+    },
+    {
+      "id": "61783f96-364f-4a8e-b102-d7519b76a169",
+      "ticker": "OCGN",
+      "side": "BUY",
+      "quantity": 10.752688,
+      "price": 9.3,
+      "executedAt": "2021-10-26T17:49:09.461Z"
+    },
+    {
+      "id": "61795f4c-ded7-4631-a877-c69f8fd35ca3",
+      "ticker": "METX",
+      "side": "BUY",
+      "quantity": 500,
+      "price": 0.4491,
+      "executedAt": "2021-10-27T14:16:44.728Z"
+    },
+    {
+      "id": "61796188-c87d-43ad-81e5-21075428e528",
+      "ticker": "METX",
+      "side": "BUY",
+      "quantity": 182,
+      "price": 0.4638,
+      "executedAt": "2021-10-27T14:26:16.656Z"
+    },
+    {
+      "id": "617961ad-a5f9-4ba1-b25d-aa543a68b4a2",
+      "ticker": "BB",
+      "side": "SELL",
+      "quantity": 0.318765,
+      "price": 10.775,
+      "executedAt": "2021-10-27T14:26:53.962767Z"
+    },
+    {
+      "id": "617961ae-833a-422f-b6fc-5ed6ae796332",
+      "ticker": "BB",
+      "side": "SELL",
+      "quantity": 5,
+      "price": 10.7725,
+      "executedAt": "2021-10-27T14:26:54.067Z"
+    },
+    {
+      "id": "61796264-5284-4910-b421-cd63bc484280",
+      "ticker": "TIGR",
+      "side": "BUY",
+      "quantity": 0.82837,
+      "price": 9.235,
+      "executedAt": "2021-10-27T14:29:56.752777Z"
+    },
+    {
+      "id": "61796265-925b-46a0-9df8-588e20a8eadc",
+      "ticker": "TIGR",
+      "side": "BUY",
+      "quantity": 9.994588,
+      "price": 9.24,
+      "executedAt": "2021-10-27T14:29:56.882Z"
+    },
+    {
+      "id": "61796272-cdf5-4ca9-ab2d-30faa0bd46db",
+      "ticker": "TIGR",
+      "side": "BUY",
+      "quantity": 107.642626,
+      "price": 9.29,
+      "executedAt": "2021-10-27T14:30:10.321Z"
+    },
+    {
+      "id": "61796313-8caf-45e1-9237-39431c076abb",
+      "ticker": "METX",
+      "side": "BUY",
+      "quantity": 399,
+      "price": 0.476899,
+      "executedAt": "2021-10-27T14:32:51.153Z"
+    },
+    {
+      "id": "6179660b-f6ed-4465-ad90-ee16e1af3317",
+      "ticker": "GNUS",
+      "side": "BUY",
+      "quantity": 0.232346,
+      "price": 2.195,
+      "executedAt": "2021-10-27T14:45:31.457405Z"
+    },
+    {
+      "id": "6179660c-a576-4a83-a0b9-ba78d9fd9ffc",
+      "ticker": "GNUS",
+      "side": "BUY",
+      "quantity": 181.586363,
+      "price": 2.2,
+      "executedAt": "2021-10-27T14:45:31.547Z"
+    },
+    {
+      "id": "61796834-e8c3-41ba-bf3a-06b73c222c29",
+      "ticker": "PHUN",
+      "side": "BUY",
+      "quantity": 30.902574,
+      "price": 5.4688,
+      "executedAt": "2021-10-27T14:54:43.716Z"
+    },
+    {
+      "id": "61796845-a05a-4239-a9ea-4ee0ff044745",
+      "ticker": "OCGN",
+      "side": "SELL",
+      "quantity": 0.54533,
+      "price": 9.345,
+      "executedAt": "2021-10-27T14:55:01.056868Z"
+    },
+    {
+      "id": "61796845-c2c6-4b60-981d-67bab870de65",
+      "ticker": "OCGN",
+      "side": "SELL",
+      "quantity": 28,
+      "price": 9.34,
+      "executedAt": "2021-10-27T14:55:01.169Z"
+    },
+    {
+      "id": "61796864-0321-4446-9b77-8d503594ca41",
+      "ticker": "PHUN",
+      "side": "BUY",
+      "quantity": 0.46722,
+      "price": 5.415,
+      "executedAt": "2021-10-27T14:55:32.389098Z"
+    },
+    {
+      "id": "61796865-d673-4675-a3b6-6b1e00f7d32d",
+      "ticker": "PHUN",
+      "side": "BUY",
+      "quantity": 17.983394,
+      "price": 5.42,
+      "executedAt": "2021-10-27T14:55:32.464Z"
+    },
+    {
+      "id": "61796b3a-97cd-4ffe-9c98-e25b9f203b3d",
+      "ticker": "PHUN",
+      "side": "BUY",
+      "quantity": 0.031943,
+      "price": 5.635,
+      "executedAt": "2021-10-27T15:07:38.137Z"
+    },
+    {
+      "id": "61796b3a-bca4-41f2-9d72-bad988b0eb4c",
+      "ticker": "PHUN",
+      "side": "BUY",
+      "quantity": 17.714791,
+      "price": 5.635,
+      "executedAt": "2021-10-27T15:07:38.137Z"
+    },
+    {
+      "id": "617ab049-50bd-416b-b086-cd6adbc6aa66",
+      "ticker": "TIGR",
+      "side": "SELL",
+      "quantity": 0.465584,
+      "price": 7.385,
+      "executedAt": "2021-10-28T14:14:33.065014Z"
+    },
+    {
+      "id": "617ab049-7059-4e46-a7f0-3f46b6e2e21e",
+      "ticker": "TIGR",
+      "side": "SELL",
+      "quantity": 118,
+      "price": 7.382,
+      "executedAt": "2021-10-28T14:14:33.139Z"
+    },
+    {
+      "id": "617ab059-f208-4837-8839-c039f10afdfb",
+      "ticker": "PHUN",
+      "side": "BUY",
+      "quantity": 0.162079,
+      "price": 4.905,
+      "executedAt": "2021-10-28T14:14:49.650832Z"
+    },
+    {
+      "id": "617ab05a-1337-4541-82fa-7f769554c63e",
+      "ticker": "PHUN",
+      "side": "BUY",
+      "quantity": 60.957522,
+      "price": 4.9085,
+      "executedAt": "2021-10-28T14:14:49.729Z"
+    },
+    {
+      "id": "617ab296-9dae-4ff1-a47d-355207e4b977",
+      "ticker": "PHUN",
+      "side": "SELL",
+      "quantity": 128.219523,
+      "price": 4.821,
+      "executedAt": "2021-10-28T14:24:22.143Z"
+    },
+    {
+      "id": "617ab4de-7a1f-4d08-9059-84b74eadf6f0",
+      "ticker": "GNUS",
+      "side": "SELL",
+      "quantity": 99.5318,
+      "price": 1.49,
+      "executedAt": "2021-10-28T14:34:06.326Z"
+    },
+    {
+      "id": "617ab4de-8661-464b-8c37-18307b52aef2",
+      "ticker": "GNUS",
+      "side": "SELL",
+      "quantity": 149,
+      "price": 1.49,
+      "executedAt": "2021-10-28T14:34:06.325Z"
+    },
+    {
+      "id": "617acd66-b662-4b1e-b2f0-961a25737d57",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 8.481764,
+      "price": 35.37,
+      "executedAt": "2021-10-28T16:18:46.167Z"
+    },
+    {
+      "id": "617c2f67-5b4b-4d01-b319-7d5c30147cab",
+      "ticker": "CPOP",
+      "side": "BUY",
+      "quantity": 0.343941,
+      "price": 4.085,
+      "executedAt": "2021-10-29T17:29:11.398742Z"
+    },
+    {
+      "id": "617c2f68-5046-47a5-aa53-75955fba67de",
+      "ticker": "CPOP",
+      "side": "BUY",
+      "quantity": 6.975609,
+      "price": 4.1,
+      "executedAt": "2021-10-29T17:29:11.489Z"
+    },
+    {
+      "id": "617c5215-6b9a-484b-8058-0b4e82d2ed48",
+      "ticker": "CPOP",
+      "side": "BUY",
+      "quantity": 0.925373,
+      "price": 3.35,
+      "executedAt": "2021-10-29T19:57:09.284969Z"
+    },
+    {
+      "id": "617c5215-8c16-43c2-9edf-6c9d024e5375",
+      "ticker": "CPOP",
+      "side": "BUY",
+      "quantity": 14,
+      "price": 3.35,
+      "executedAt": "2021-10-29T19:57:09.339Z"
+    },
+    {
+      "id": "618045cb-2948-4a0e-9901-1a5d5c822717",
+      "ticker": "CIFR",
+      "side": "BUY",
+      "quantity": 3.991915,
+      "price": 9.895,
+      "executedAt": "2021-11-01T19:53:47.214Z"
+    },
+    {
+      "id": "618045cb-cbb0-4f94-8d69-b75f64fb0829",
+      "ticker": "CIFR",
+      "side": "BUY",
+      "quantity": 0.050632,
+      "price": 9.875,
+      "executedAt": "2021-11-01T19:53:47.140416Z"
+    },
+    {
+      "id": "61817eab-6317-46a1-a65e-e78a09bcefe0",
+      "ticker": "METX",
+      "side": "SELL",
+      "quantity": 400,
+      "price": 0.5374,
+      "executedAt": "2021-11-02T18:08:43.177Z"
+    },
+    {
+      "id": "61817eab-a63a-4998-9126-91c877f59035",
+      "ticker": "METX",
+      "side": "SELL",
+      "quantity": 211,
+      "price": 0.5374,
+      "executedAt": "2021-11-02T18:08:43.177Z"
+    },
+    {
+      "id": "61817eab-d045-4715-b641-b096eaab80c1",
+      "ticker": "METX",
+      "side": "SELL",
+      "quantity": 100,
+      "price": 0.5374,
+      "executedAt": "2021-11-02T18:08:43.177Z"
+    },
+    {
+      "id": "61817eab-e302-4cd8-a6f5-273bad227d8d",
+      "ticker": "METX",
+      "side": "SELL",
+      "quantity": 100,
+      "price": 0.5374,
+      "executedAt": "2021-11-02T18:08:43.176Z"
+    },
+    {
+      "id": "61817eab-e3dc-4db5-9520-0a41fe44f5d2",
+      "ticker": "METX",
+      "side": "SELL",
+      "quantity": 239,
+      "price": 0.5375,
+      "executedAt": "2021-11-02T18:08:43.177Z"
+    },
+    {
+      "id": "61817eab-fbbc-4089-854e-5457ee992981",
+      "ticker": "METX",
+      "side": "SELL",
+      "quantity": 100,
+      "price": 0.5374,
+      "executedAt": "2021-11-02T18:08:43.176Z"
+    },
+    {
+      "id": "61829350-8469-45ae-a878-14f94f0b386a",
+      "ticker": "OCGN",
+      "side": "BUY",
+      "quantity": 31.918289,
+      "price": 15.665,
+      "executedAt": "2021-11-03T13:49:04.212Z"
+    },
+    {
+      "id": "61829646-79ce-4c4d-a6e0-6db0f0450add",
+      "ticker": "OCGN",
+      "side": "SELL",
+      "quantity": 31.918289,
+      "price": 14.435,
+      "executedAt": "2021-11-03T14:01:41.48Z"
+    },
+    {
+      "id": "6182b0cc-71cc-49bb-8d15-60faec83f282",
+      "ticker": "AMC",
+      "side": "SELL",
+      "quantity": 0.007848,
+      "price": 40.7706,
+      "executedAt": "2021-11-03T15:54:52.206Z"
+    },
+    {
+      "id": "6182b0cc-8ba1-4efb-b022-79399b19624d",
+      "ticker": "AMC",
+      "side": "SELL",
+      "quantity": 73.574494,
+      "price": 40.7706,
+      "executedAt": "2021-11-03T15:54:52.206Z"
+    },
+    {
+      "id": "618a8d81-8741-4a4a-b781-f50866f0bd7d",
+      "ticker": "WISH",
+      "side": "BUY",
+      "quantity": 0.0018,
+      "price": 5.555,
+      "executedAt": "2021-11-09T15:02:25.551789Z"
+    },
+    {
+      "id": "618a8d82-ba85-4bb2-b1df-4d8b4be6b0f1",
+      "ticker": "WISH",
+      "side": "BUY",
+      "quantity": 18,
+      "price": 5.555,
+      "executedAt": "2021-11-09T15:02:25.611Z"
+    },
+    {
+      "id": "618a9a0f-db2b-4329-a6c0-1f9fb0634833",
+      "ticker": "OCGN",
+      "side": "BUY",
+      "quantity": 0.136847,
+      "price": 9.865,
+      "executedAt": "2021-11-09T15:55:59.235607Z"
+    },
+    {
+      "id": "618a9a10-fe3d-4008-92ba-e859837a256e",
+      "ticker": "OCGN",
+      "side": "BUY",
+      "quantity": 9.995845,
+      "price": 9.8691,
+      "executedAt": "2021-11-09T15:55:59.332Z"
+    },
+    {
+      "id": "618d3295-7ce7-4536-b2e4-b2998a9f5928",
+      "ticker": "WISH",
+      "side": "BUY",
+      "quantity": 18,
+      "price": 5.6181,
+      "executedAt": "2021-11-11T15:11:17.611Z"
+    },
+    {
+      "id": "618ed55a-0c14-440c-8bec-c8f30dd7218f",
+      "ticker": "WYNN",
+      "side": "BUY",
+      "quantity": 2,
+      "price": 93.9062,
+      "executedAt": "2021-11-12T20:58:02.279Z"
+    },
+    {
+      "id": "618ed572-698e-4223-8bd3-595b645f8324",
+      "ticker": "CIFR",
+      "side": "SELL",
+      "quantity": 0.042547,
+      "price": 8.41,
+      "executedAt": "2021-11-12T20:58:26.668839Z"
+    },
+    {
+      "id": "618ed573-5dfa-4083-96e4-14230d955c0f",
+      "ticker": "CIFR",
+      "side": "SELL",
+      "quantity": 4,
+      "price": 8.4,
+      "executedAt": "2021-11-12T20:58:26.806Z"
+    },
+    {
+      "id": "618ed57d-c4e4-40cd-bb39-7aae642f6b32",
+      "ticker": "CPOP",
+      "side": "SELL",
+      "quantity": 22.244923,
+      "price": 2.85,
+      "executedAt": "2021-11-12T20:58:37.085Z"
+    },
+    {
+      "id": "618ed589-91ac-4edf-98a5-0465e504bd51",
+      "ticker": "WYNN",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 93.9151,
+      "executedAt": "2021-11-12T20:58:49.2Z"
+    },
+    {
+      "id": "61928a6d-50f2-4b77-b60d-df9b807bc697",
+      "ticker": "WISH",
+      "side": "SELL",
+      "quantity": 0.0018,
+      "price": 5.255,
+      "executedAt": "2021-11-15T16:27:25.581871Z"
+    },
+    {
+      "id": "61928a6e-80a0-4d04-9085-5bc51e75c447",
+      "ticker": "WISH",
+      "side": "SELL",
+      "quantity": 36,
+      "price": 5.255,
+      "executedAt": "2021-11-15T16:27:25.639Z"
+    },
+    {
+      "id": "619539a3-cc1a-40c5-ab7d-6f26221ce236",
+      "ticker": "WYNN",
+      "side": "SELL",
+      "quantity": 3,
+      "price": 95.4937,
+      "executedAt": "2021-11-17T17:19:31.657Z"
+    },
+    {
+      "id": "61953ab0-263d-4d64-8b34-19bd88318a71",
+      "ticker": "OCGN",
+      "side": "SELL",
+      "quantity": 0.132692,
+      "price": 7.775,
+      "executedAt": "2021-11-17T17:24:00.458742Z"
+    },
+    {
+      "id": "61953ab1-e3ee-4488-8057-9543c75138b5",
+      "ticker": "OCGN",
+      "side": "SELL",
+      "quantity": 10,
+      "price": 7.775,
+      "executedAt": "2021-11-17T17:24:00.517Z"
+    },
+    {
+      "id": "619549d3-9a9c-4ea6-99e3-52de299b2554",
+      "ticker": "AMC",
+      "side": "SELL",
+      "quantity": 0.231943,
+      "price": 42.575,
+      "executedAt": "2021-11-17T18:28:35.701046Z"
+    },
+    {
+      "id": "619549d4-5b43-4e4f-8d3c-0421dfcbe31e",
+      "ticker": "AMC",
+      "side": "SELL",
+      "quantity": 35,
+      "price": 42.5742,
+      "executedAt": "2021-11-17T18:28:35.794Z"
+    },
+    {
+      "id": "619549d4-a513-478e-989a-a18f5b2367a2",
+      "ticker": "AMC",
+      "side": "SELL",
+      "quantity": 0.000704,
+      "price": 42.5742,
+      "executedAt": "2021-11-17T18:28:35.794Z"
+    },
+    {
+      "id": "61966369-13aa-474c-b60d-fd36bf58ff8b",
+      "ticker": "BIOR",
+      "side": "BUY",
+      "quantity": 22,
+      "price": 4.58,
+      "executedAt": "2021-11-18T14:30:01.989Z"
+    },
+    {
+      "id": "61967236-0b73-4e4b-813a-6f47d9d87a97",
+      "ticker": "METX",
+      "side": "SELL",
+      "quantity": 131,
+      "price": 0.43,
+      "executedAt": "2021-11-18T15:33:10.534Z"
+    },
+    {
+      "id": "6197db90-f2f2-40a0-a75b-d787d0de61e5",
+      "ticker": "BIOR",
+      "side": "SELL",
+      "quantity": 22,
+      "price": 4.6007,
+      "executedAt": "2021-11-19T17:14:56.781Z"
+    },
+    {
+      "id": "61a0f016-2276-47d5-a616-194fe4b4999c",
+      "ticker": "PFE",
+      "side": "BUY",
+      "quantity": 1.018518,
+      "price": 54,
+      "executedAt": "2021-11-26T14:31:20.013Z"
+    },
+    {
+      "id": "61a4e43c-13b4-4f4e-8ce8-8c6e1c6be745",
+      "ticker": "PFE",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 55.2,
+      "executedAt": "2021-11-29T14:31:24.196Z"
+    },
+    {
+      "id": "61a4e43c-c5cc-4579-99a2-988fb4f9332e",
+      "ticker": "PFE",
+      "side": "SELL",
+      "quantity": 0.018518,
+      "price": 55.21,
+      "executedAt": "2021-11-29T14:31:24.097973Z"
+    },
+    {
+      "id": "61b7639c-8ea7-4c46-9348-d4c0dbe4cd9c",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 3.954225,
+      "price": 25.2894,
+      "executedAt": "2021-12-13T15:15:39.845Z"
+    },
+    {
+      "id": "61b765df-0595-4d33-8ef7-1e7965236808",
+      "ticker": "AMC",
+      "side": "SELL",
+      "quantity": 46,
+      "price": 23.61,
+      "executedAt": "2021-12-13T15:25:18.852Z"
+    },
+    {
+      "id": "61b765df-1f34-42c9-8261-9e4675375180",
+      "ticker": "AMC",
+      "side": "SELL",
+      "quantity": 31.318913,
+      "price": 23.61,
+      "executedAt": "2021-12-13T15:25:18.852Z"
+    },
+    {
+      "id": "61b765df-ca92-43ce-b848-b7bfbfdb5859",
+      "ticker": "AMC",
+      "side": "SELL",
+      "quantity": 53,
+      "price": 23.61,
+      "executedAt": "2021-12-13T15:25:18.852Z"
+    },
+    {
+      "id": "61b76c29-456b-4d8d-981c-641bafa1e40c",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 150,
+      "price": 24.1192,
+      "executedAt": "2021-12-13T15:52:09.378Z"
+    },
+    {
+      "id": "61bcb32e-28b7-4f9c-8852-1be89aaa4afd",
+      "ticker": "AMC",
+      "side": "SELL",
+      "quantity": 50,
+      "price": 27.7211,
+      "executedAt": "2021-12-17T15:56:30.806Z"
+    },
+    {
+      "id": "61c0b1ff-5007-46a7-b014-04a8f9ed8dd9",
+      "ticker": "AMC",
+      "side": "SELL",
+      "quantity": 50,
+      "price": 28.1574,
+      "executedAt": "2021-12-20T16:40:31.632Z"
+    },
+    {
+      "id": "61c3382a-9054-4f36-98e8-2a96ead1e1c1",
+      "ticker": "AMC",
+      "side": "SELL",
+      "quantity": 10,
+      "price": 29.81,
+      "executedAt": "2021-12-22T14:37:30.066Z"
+    },
+    {
+      "id": "61c34058-b919-4f44-811f-e0d789663df1",
+      "ticker": "AMC",
+      "side": "SELL",
+      "quantity": 40,
+      "price": 29.29,
+      "executedAt": "2021-12-22T15:12:24.059Z"
+    },
+    {
+      "id": "61d464f2-5720-4aff-9b17-0b405c41a440",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 5,
+      "price": 25.5795,
+      "executedAt": "2022-01-04T15:17:06.605Z"
+    },
+    {
+      "id": "ae679e47-d636-4aab-95ee-69ed189d0b2d",
+      "ticker": "VICI",
+      "side": "BUY",
+      "quantity": 0.000345,
+      "price": 28.9796,
+      "executedAt": "2022-01-07T14:30:01.159Z"
+    },
+    {
+      "id": "61f2cbe0-dd86-464f-897e-299130173724",
+      "ticker": "HOOD",
+      "side": "BUY",
+      "quantity": 6,
+      "price": 12.205,
+      "executedAt": "2022-01-27T16:44:16.869Z"
+    },
+    {
+      "id": "61f42fca-17d5-44d2-be0e-e2a35f1ed6a6",
+      "ticker": "HOOD",
+      "side": "SELL",
+      "quantity": 6,
+      "price": 12.2615,
+      "executedAt": "2022-01-28T18:02:50.158Z"
+    },
+    {
+      "id": "6206cbdc-b38b-4c22-b0de-83076dcb72ab",
+      "ticker": "AMC",
+      "side": "SELL",
+      "quantity": 5,
+      "price": 18.762,
+      "executedAt": "2022-02-11T20:49:32.107Z"
+    },
+    {
+      "id": "623cdd73-616c-4af2-bd1d-aaa3e65a51e2",
+      "ticker": "TLRY",
+      "side": "BUY",
+      "quantity": 7.994811,
+      "price": 7.71,
+      "executedAt": "2022-03-24T21:06:59.23Z"
+    },
+    {
+      "id": "623cdd73-cfaa-4aeb-bfc5-34c333d53de7",
+      "ticker": "TLRY",
+      "side": "BUY",
+      "quantity": 0.43608,
+      "price": 7.705,
+      "executedAt": "2022-03-24T21:06:59.159455Z"
+    },
+    {
+      "id": "623cdd8e-5402-4dfe-ab43-be8535bed61e",
+      "ticker": "TLRY",
+      "side": "BUY",
+      "quantity": 0.856496,
+      "price": 7.735,
+      "executedAt": "2022-03-24T21:07:26.252969Z"
+    },
+    {
+      "id": "623cdd8e-d6df-4780-84a8-0e26b8eb0857",
+      "ticker": "TLRY",
+      "side": "BUY",
+      "quantity": 24.984496,
+      "price": 7.74,
+      "executedAt": "2022-03-24T21:07:26.314Z"
+    },
+    {
+      "id": "623cdecc-661f-4088-adb4-284322aa8ad8",
+      "ticker": "TLRY",
+      "side": "BUY",
+      "quantity": 38.11944,
+      "price": 7.87,
+      "executedAt": "2022-03-24T21:12:44.138Z"
+    },
+    {
+      "id": "623ce4d4-de44-4662-ab82-3960ca7ea77a",
+      "ticker": "TLRY",
+      "side": "BUY",
+      "quantity": 61.804697,
+      "price": 8.09,
+      "executedAt": "2022-03-24T21:38:27.743Z"
+    },
+    {
+      "id": "623dc3f8-54cc-4033-9ec5-336db353bb21",
+      "ticker": "TLRY",
+      "side": "SELL",
+      "quantity": 134,
+      "price": 8,
+      "executedAt": "2022-03-25T13:30:32.308Z"
+    },
+    {
+      "id": "624309c9-b87e-477f-ba24-432421b5d781",
+      "ticker": "AXAC",
+      "side": "BUY",
+      "quantity": 3,
+      "price": 9.96,
+      "executedAt": "2022-03-29T13:29:45.265Z"
+    },
+    {
+      "id": "62430d7d-0f1f-4342-818d-5226c9589adf",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 0.384667,
+      "price": 29.545,
+      "executedAt": "2022-03-29T13:45:33.643192Z"
+    },
+    {
+      "id": "62430d7e-45ba-4f90-bd05-5213aa359811",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 3,
+      "price": 29.5091,
+      "executedAt": "2022-03-29T13:45:33.706Z"
+    },
+    {
+      "id": "62430d7e-77f2-46cf-bf5d-ef974b68a56c",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 0.003727,
+      "price": 29.5091,
+      "executedAt": "2022-03-29T13:45:33.706Z"
+    },
+    {
+      "id": "62430d8b-6457-4e0e-8acc-26ef4dd4cd38",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 0.160185,
+      "price": 29.69,
+      "executedAt": "2022-03-29T13:45:47.617777Z"
+    },
+    {
+      "id": "62430d8b-78ae-4957-bc54-aa4475997c96",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 0.521189,
+      "price": 29.69,
+      "executedAt": "2022-03-29T13:45:47.64429Z"
+    },
+    {
+      "id": "62430d8c-f14c-4300-bf93-38f4ca20f817",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 32.989777,
+      "price": 29.6992,
+      "executedAt": "2022-03-29T13:45:47.68Z"
+    },
+    {
+      "id": "624311b7-a402-4141-822a-62a66731da78",
+      "ticker": "AMC",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 28.0405,
+      "executedAt": "2022-03-29T14:03:35.551Z"
+    },
+    {
+      "id": "624311e9-adae-4558-b3e5-674cae9569d4",
+      "ticker": "AMC",
+      "side": "SELL",
+      "quantity": 30,
+      "price": 27.1878,
+      "executedAt": "2022-03-29T14:04:25.15Z"
+    },
+    {
+      "id": "8752f6b1-8a0d-444a-8cce-c370902060f3",
+      "ticker": "VICI",
+      "side": "BUY",
+      "quantity": 0.000358,
+      "price": 27.9664,
+      "executedAt": "2022-04-08T13:30:00.902Z"
+    },
+    {
+      "id": "62557ecd-1da2-4421-9213-c3dfb6f24e51",
+      "ticker": "AXAC",
+      "side": "SELL",
+      "quantity": 3,
+      "price": 9.97,
+      "executedAt": "2022-04-12T13:29:49.657Z"
+    },
+    {
+      "id": "6256d599-86d3-499e-ae60-6b6f5bd1622f",
+      "ticker": "TLRY",
+      "side": "SELL",
+      "quantity": 0.19602,
+      "price": 6.275,
+      "executedAt": "2022-04-13T13:52:25.804419Z"
+    },
+    {
+      "id": "625870d3-c3cd-4e8e-aa56-905cced17af8",
+      "ticker": "AMC",
+      "side": "SELL",
+      "quantity": 3,
+      "price": 18.1405,
+      "executedAt": "2022-04-14T19:06:59.593Z"
+    },
+    {
+      "id": "628683b2-b91a-4cf4-b7d5-b4eb83ab6c6c",
+      "ticker": "AMC",
+      "side": "SELL",
+      "quantity": 3,
+      "price": 12.735,
+      "executedAt": "2022-05-19T17:51:46.658Z"
+    },
+    {
+      "id": "628683fe-dafb-4096-83dd-7ba8a59a5da1",
+      "ticker": "TWTR",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 37.3272,
+      "executedAt": "2022-05-19T17:53:02.198Z"
+    },
+    {
+      "id": "629107d2-741f-4220-9ca8-f1d98f530ffc",
+      "ticker": "TWTR",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 40.4685,
+      "executedAt": "2022-05-27T17:18:10.954Z"
+    },
+    {
+      "id": "629107ed-a80b-4311-b004-5ca9bd617b88",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 2.9985,
+      "price": 13.34,
+      "executedAt": "2022-05-27T17:18:36.597Z"
+    },
+    {
+      "id": "62910c1e-6af1-4cbf-8f9f-bd6c4c35fe9f",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 7.424345,
+      "price": 13.4692,
+      "executedAt": "2022-05-27T17:36:30.125Z"
+    },
+    {
+      "id": "62990729-4ba9-4ee1-ad30-98ea8cc34091",
+      "ticker": "TWTR",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 39.8537,
+      "executedAt": "2022-06-02T18:53:29.149Z"
+    },
+    {
+      "id": "6299077c-e4ab-4229-bee6-f53e996a64ba",
+      "ticker": "IMPP",
+      "side": "BUY",
+      "quantity": 50,
+      "price": 0.513,
+      "executedAt": "2022-06-02T18:54:52.625Z"
+    },
+    {
+      "id": "62a0b028-098a-44bd-9518-5b1884676408",
+      "ticker": "TWTR",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 40.0008,
+      "executedAt": "2022-06-08T14:20:24.965Z"
+    },
+    {
+      "id": "62a0b03d-7c17-4a2a-b881-c0f1f615db15",
+      "ticker": "IMPP",
+      "side": "BUY",
+      "quantity": 69,
+      "price": 0.6748,
+      "executedAt": "2022-06-08T14:20:45.653Z"
+    },
+    {
+      "id": "62a0b5a1-11b6-4ed1-af3e-20a6e0532134",
+      "ticker": "AMC",
+      "side": "SELL",
+      "quantity": 7.527286,
+      "price": 13.27,
+      "executedAt": "2022-06-08T14:43:45.184Z"
+    },
+    {
+      "id": "62a0b5a1-fef7-4756-815e-abbe6fbaaf61",
+      "ticker": "AMC",
+      "side": "SELL",
+      "quantity": 0.008289,
+      "price": 13.27,
+      "executedAt": "2022-06-08T14:43:45.184Z"
+    },
+    {
+      "id": "62a0b5ae-0ea5-45c3-a830-bd8940be4890",
+      "ticker": "IMPP",
+      "side": "BUY",
+      "quantity": 142,
+      "price": 0.6887,
+      "executedAt": "2022-06-08T14:43:58.017Z"
+    },
+    {
+      "id": "62a0b5ce-93a6-43a4-a097-7be8d325855f",
+      "ticker": "IMPP",
+      "side": "BUY",
+      "quantity": 6,
+      "price": 0.688299,
+      "executedAt": "2022-06-08T14:44:30.644Z"
+    },
+    {
+      "id": "62a0d046-391b-4825-8877-4939e2d10335",
+      "ticker": "IMPP",
+      "side": "BUY",
+      "quantity": 368,
+      "price": 0.7722,
+      "executedAt": "2022-06-08T16:37:26.825Z"
+    },
+    {
+      "id": "62a0d068-ab64-41e6-bf3b-4305a8f1b38f",
+      "ticker": "IMPP",
+      "side": "BUY",
+      "quantity": 245,
+      "price": 0.7768,
+      "executedAt": "2022-06-08T16:38:00.787Z"
+    },
+    {
+      "id": "62a0d086-2767-4f98-80ed-8e87437b48db",
+      "ticker": "IMPP",
+      "side": "BUY",
+      "quantity": 31,
+      "price": 0.77895,
+      "executedAt": "2022-06-08T16:38:30.856Z"
+    },
+    {
+      "id": "62a0d3da-a127-4d9c-9e75-6f26e43cfbd7",
+      "ticker": "IMPP",
+      "side": "BUY",
+      "quantity": 4,
+      "price": 0.8232,
+      "executedAt": "2022-06-08T16:52:41.986Z"
+    },
+    {
+      "id": "62a0d3da-f5d0-4e87-a201-d1a1941bb0ca",
+      "ticker": "IMPP",
+      "side": "BUY",
+      "quantity": 573,
+      "price": 0.8232,
+      "executedAt": "2022-06-08T16:52:41.986Z"
+    },
+    {
+      "id": "62a0d414-8aff-4aad-981c-3d8a99d8dbe0",
+      "ticker": "AMC",
+      "side": "SELL",
+      "quantity": 2.946815,
+      "price": 13.631,
+      "executedAt": "2022-06-08T16:53:40.402Z"
+    },
+    {
+      "id": "62a0d421-48b1-4ccf-8daf-c299b4b8c691",
+      "ticker": "IMPP",
+      "side": "BUY",
+      "quantity": 77,
+      "price": 0.8216,
+      "executedAt": "2022-06-08T16:53:53.79Z"
+    },
+    {
+      "id": "62a0d4d1-b0b9-44ee-a713-89c7358b5b53",
+      "ticker": "IMPP",
+      "side": "BUY",
+      "quantity": 1121,
+      "price": 0.83425,
+      "executedAt": "2022-06-08T16:56:49.936Z"
+    },
+    {
+      "id": "62a0d795-d593-4ebe-ab73-e9aa9c6d181e",
+      "ticker": "IMPP",
+      "side": "BUY",
+      "quantity": 81,
+      "price": 0.8098,
+      "executedAt": "2022-06-08T17:08:37.857Z"
+    },
+    {
+      "id": "62a0ed5c-bef5-42fb-bee5-0350852b5380",
+      "ticker": "IMPP",
+      "side": "BUY",
+      "quantity": 3,
+      "price": 0.79005,
+      "executedAt": "2022-06-08T18:41:32.327Z"
+    },
+    {
+      "id": "62b1c986-7bbb-4c76-b817-08e1fbbf5dfd",
+      "ticker": "IMPP",
+      "side": "SELL",
+      "quantity": 193,
+      "price": 0.5475,
+      "executedAt": "2022-06-21T13:37:10.276Z"
+    },
+    {
+      "id": "62b21459-3d1f-4e69-b958-a7bb9984f3c8",
+      "ticker": "IMPP",
+      "side": "SELL",
+      "quantity": 769,
+      "price": 0.5475,
+      "executedAt": "2022-06-21T18:56:25.153Z"
+    },
+    {
+      "id": "62b21dba-7f67-48bd-9316-b95fa9383db0",
+      "ticker": "IMPP",
+      "side": "SELL",
+      "quantity": 1808,
+      "price": 0.547,
+      "executedAt": "2022-06-21T19:36:26.183Z"
+    },
+    {
+      "id": "62b31a0b-3d43-4717-9b7e-1f8d7bef0285",
+      "ticker": "NIO",
+      "side": "BUY",
+      "quantity": 0.225713,
+      "price": 22.595,
+      "executedAt": "2022-06-22T13:32:59.524515Z"
+    },
+    {
+      "id": "62b31a0c-0e89-44bc-89b9-fab62af92732",
+      "ticker": "NIO",
+      "side": "BUY",
+      "quantity": 19.995575,
+      "price": 22.6,
+      "executedAt": "2022-06-22T13:32:59.65Z"
+    },
+    {
+      "id": "62b35ae9-7d9c-414e-a9ab-4c454a1f9f14",
+      "ticker": "NIO",
+      "side": "BUY",
+      "quantity": 22.235839,
+      "price": 22.846,
+      "executedAt": "2022-06-22T18:09:45.088Z"
+    },
+    {
+      "id": "62b4b60c-6251-4cbe-9a71-fb8cb8a016e5",
+      "ticker": "NIO",
+      "side": "BUY",
+      "quantity": 8.816398,
+      "price": 22.685,
+      "executedAt": "2022-06-23T18:50:52.351Z"
+    },
+    {
+      "id": "62b4b67e-a117-455a-9584-b99e544a6e7d",
+      "ticker": "AMD",
+      "side": "BUY",
+      "quantity": 0.227445,
+      "price": 81.47,
+      "executedAt": "2022-06-23T18:52:46.46786Z"
+    },
+    {
+      "id": "62b4b67f-169f-46b6-97da-dcb5b0f5e331",
+      "ticker": "AMD",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 81.47,
+      "executedAt": "2022-06-23T18:52:46.558Z"
+    },
+    {
+      "id": "62b63cc0-31f5-40df-a0fd-e286fff68f1b",
+      "ticker": "AMD",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 87.03,
+      "executedAt": "2022-06-24T22:37:52.453Z"
+    },
+    {
+      "id": "62b63cc0-8d99-492c-b78d-3243e2f4f16d",
+      "ticker": "AMD",
+      "side": "SELL",
+      "quantity": 0.227445,
+      "price": 87.03,
+      "executedAt": "2022-06-24T22:37:52.294745Z"
+    },
+    {
+      "id": "62b9fef3-d077-4c9b-837b-31fd64e3f7bb",
+      "ticker": "NIO",
+      "side": "SELL",
+      "quantity": 4.318721,
+      "price": 23.155,
+      "executedAt": "2022-06-27T19:03:15.147Z"
+    },
+    {
+      "id": "62ba0064-22d9-4d6e-b3c1-24e51202a91c",
+      "ticker": "HOOD",
+      "side": "BUY",
+      "quantity": 3.003201,
+      "price": 9.37,
+      "executedAt": "2022-06-27T19:09:24.204427Z"
+    },
+    {
+      "id": "62ba0064-fea8-4079-aa88-ce68629d7a0d",
+      "ticker": "HOOD",
+      "side": "BUY",
+      "quantity": 0.332778,
+      "price": 9.37,
+      "executedAt": "2022-06-27T19:09:24.204426Z"
+    },
+    {
+      "id": "62ba0065-282e-4c66-a1e7-29cb548828f6",
+      "ticker": "HOOD",
+      "side": "BUY",
+      "quantity": 2,
+      "price": 9.37,
+      "executedAt": "2022-06-27T19:09:24.204427Z"
+    },
+    {
+      "id": "62bb0326-2b91-468e-a50b-06b806f42825",
+      "ticker": "NIO",
+      "side": "SELL",
+      "quantity": 45,
+      "price": 22.72,
+      "executedAt": "2022-06-28T13:33:26.26Z"
+    },
+    {
+      "id": "62bc593d-9d67-471c-84ad-a8db81db3e8f",
+      "ticker": "NIO",
+      "side": "BUY",
+      "quantity": 4.630144,
+      "price": 21.5976,
+      "executedAt": "2022-06-29T13:53:00.814Z"
+    },
+    {
+      "id": "62bc5950-e314-4bea-8aa2-0fca7147c720",
+      "ticker": "NIO",
+      "side": "BUY",
+      "quantity": 13.342599,
+      "price": 21.585,
+      "executedAt": "2022-06-29T13:53:19.411Z"
+    },
+    {
+      "id": "62bc5c1d-7ab6-462a-a558-b70f36ec9bba",
+      "ticker": "NIO",
+      "side": "BUY",
+      "quantity": 25,
+      "price": 21.915,
+      "executedAt": "2022-06-29T14:05:17.126Z"
+    },
+    {
+      "id": "62bef9a3-a2bc-464e-aca7-df1819aa881c",
+      "ticker": "HOOD",
+      "side": "SELL",
+      "quantity": 5.335979,
+      "price": 8.1008,
+      "executedAt": "2022-07-01T13:41:54.976Z"
+    },
+    {
+      "id": "62bf05a9-67b1-4db9-a480-4d6212a20e94",
+      "ticker": "NIO",
+      "side": "SELL",
+      "quantity": 0.20724,
+      "price": 21.545,
+      "executedAt": "2022-07-01T14:33:13.761507Z"
+    },
+    {
+      "id": "62bf05aa-2be9-4391-b593-972e2a96caa4",
+      "ticker": "NIO",
+      "side": "SELL",
+      "quantity": 0.003249,
+      "price": 21.5423,
+      "executedAt": "2022-07-01T14:33:13.826Z"
+    },
+    {
+      "id": "62bf05aa-e4ef-40ab-ae53-79611ba5384b",
+      "ticker": "NIO",
+      "side": "SELL",
+      "quantity": 23,
+      "price": 21.5423,
+      "executedAt": "2022-07-01T14:33:13.826Z"
+    },
+    {
+      "id": "62bf11c1-5790-49cb-a889-abd8811223e0",
+      "ticker": "NIO",
+      "side": "SELL",
+      "quantity": 0.669624,
+      "price": 21.415,
+      "executedAt": "2022-07-01T15:24:49.72047Z"
+    },
+    {
+      "id": "62bf11c2-687f-4424-b3f5-7dd5357724ec",
+      "ticker": "NIO",
+      "side": "SELL",
+      "quantity": 3.9972,
+      "price": 21.43,
+      "executedAt": "2022-07-01T15:24:49.772Z"
+    },
+    {
+      "id": "62bf11d8-2f2c-411d-92b8-3a401bb624a8",
+      "ticker": "NIO",
+      "side": "SELL",
+      "quantity": 0.933053,
+      "price": 21.435,
+      "executedAt": "2022-07-01T15:25:11.605Z"
+    },
+    {
+      "id": "62bf1333-462b-4a1e-b103-f951bf919c98",
+      "ticker": "NIO",
+      "side": "SELL",
+      "quantity": 0.117181,
+      "price": 21.435,
+      "executedAt": "2022-07-01T15:30:59.763019Z"
+    },
+    {
+      "id": "62bf1334-f927-4b24-89ef-f5d5560e5902",
+      "ticker": "NIO",
+      "side": "SELL",
+      "quantity": 16,
+      "price": 21.435,
+      "executedAt": "2022-07-01T15:30:59.838Z"
+    },
+    {
+      "id": "62c58f72-e99a-477f-8514-382afafbecd3",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 7.764819,
+      "price": 12.8786,
+      "executedAt": "2022-07-06T13:34:42.149Z"
+    },
+    {
+      "id": "62c7306a-e3ce-4aa0-99cd-1cd29a5b8cce",
+      "ticker": "SH",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 15.975,
+      "executedAt": "2022-07-07T19:13:46.263Z"
+    },
+    {
+      "id": "cc917bef-4b8b-48de-9119-873624d37da8",
+      "ticker": "VICI",
+      "side": "BUY",
+      "quantity": 0.000322,
+      "price": 31.0594,
+      "executedAt": "2022-07-08T13:30:00.858Z"
+    },
+    {
+      "id": "62c8345f-4f38-4318-8b24-b239c60fa057",
+      "ticker": "SH",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 16.0117,
+      "executedAt": "2022-07-08T13:42:55.849Z"
+    },
+    {
+      "id": "62c836dd-d275-46d8-9add-fa3c769f40c2",
+      "ticker": "AMC",
+      "side": "SELL",
+      "quantity": 0.764819,
+      "price": 14.065,
+      "executedAt": "2022-07-08T13:53:33.543954Z"
+    },
+    {
+      "id": "62c836de-3a98-4968-8c89-57804d4d833b",
+      "ticker": "AMC",
+      "side": "SELL",
+      "quantity": 7,
+      "price": 14.0633,
+      "executedAt": "2022-07-08T13:53:33.644Z"
+    },
+    {
+      "id": "62cc750d-5130-459f-b3b3-77f0de281ef4",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 20.259866,
+      "price": 14.8076,
+      "executedAt": "2022-07-11T19:07:57.111Z"
+    },
+    {
+      "id": "62cc7539-2e6a-4ccb-8bd4-77ae35f88b1e",
+      "ticker": "GME",
+      "side": "BUY",
+      "quantity": 2,
+      "price": 130.05,
+      "executedAt": "2022-07-11T19:08:41.396Z"
+    },
+    {
+      "id": "62cc7558-4efd-4b37-bcf1-d328960a7832",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 24,
+      "price": 14.82,
+      "executedAt": "2022-07-11T19:09:12.843Z"
+    },
+    {
+      "id": "62cc7aae-eacd-46ab-920c-65d8d5e41083",
+      "ticker": "AMC",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 14.9485,
+      "executedAt": "2022-07-11T19:31:58.914Z"
+    },
+    {
+      "id": "62cda204-fe68-4611-9f22-eddf1c19b158",
+      "ticker": "GME",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 137.1716,
+      "executedAt": "2022-07-12T16:32:04.668Z"
+    },
+    {
+      "id": "62cdc5b3-13fe-4eaa-84f5-5720a45f1621",
+      "ticker": "AMC",
+      "side": "SELL",
+      "quantity": 45.259866,
+      "price": 15.6037,
+      "executedAt": "2022-07-12T19:04:19.487Z"
+    },
+    {
+      "id": "62cdc5c4-9ebc-4e99-ac2a-f07e13727d1e",
+      "ticker": "GME",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 140.13,
+      "executedAt": "2022-07-12T19:04:36.147Z"
+    },
+    {
+      "id": "62d05a07-5864-4463-afae-ebf276167acb",
+      "ticker": "GOEV",
+      "side": "BUY",
+      "quantity": 0.485939,
+      "price": 4.445,
+      "executedAt": "2022-07-14T18:01:43.884329Z"
+    },
+    {
+      "id": "62d05a08-bf48-4f9a-897c-a6e3a268e1ab",
+      "ticker": "GOEV",
+      "side": "BUY",
+      "quantity": 111.949628,
+      "price": 4.447,
+      "executedAt": "2022-07-14T18:01:43.991Z"
+    },
+    {
+      "id": "62d1c318-9937-4a6d-ad0c-fad74ab8ff2c",
+      "ticker": "GOEV",
+      "side": "SELL",
+      "quantity": 0.567251,
+      "price": 4.275,
+      "executedAt": "2022-07-15T19:42:16.873014Z"
+    },
+    {
+      "id": "62d1c319-2132-41ab-9679-cffc212efc5c",
+      "ticker": "GOEV",
+      "side": "SELL",
+      "quantity": 0.11007,
+      "price": 4.27,
+      "executedAt": "2022-07-15T19:42:16.934Z"
+    },
+    {
+      "id": "62d1c319-b6ad-4b68-8e2e-892bab812300",
+      "ticker": "GOEV",
+      "side": "SELL",
+      "quantity": 93,
+      "price": 4.27,
+      "executedAt": "2022-07-15T19:42:16.934Z"
+    },
+    {
+      "id": "62d6d344-ea14-452f-ae48-0f5701e7ab88",
+      "ticker": "GOEV",
+      "side": "SELL",
+      "quantity": 18.758246,
+      "price": 3.9825,
+      "executedAt": "2022-07-19T15:52:36.069Z"
+    },
+    {
+      "id": "633b2318-7725-42e4-a655-24342e3c8e6f",
+      "ticker": "TQQQ",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 20.5074,
+      "executedAt": "2022-10-03T17:59:52.085Z"
+    },
+    {
+      "id": "c6e79c4d-0789-416c-bfe7-5f3a8fb0b3ba",
+      "ticker": "VICI",
+      "side": "BUY",
+      "quantity": 0.000649,
+      "price": 30.7999,
+      "executedAt": "2022-10-07T13:30:02.133Z"
+    },
+    {
+      "id": "6352da9e-78a1-4568-b156-53b9f1d83a2c",
+      "ticker": "COIN",
+      "side": "SELL",
+      "quantity": 0.002361,
+      "price": 65.29,
+      "executedAt": "2022-10-21T17:45:02.73543Z"
+    },
+    {
+      "id": "6352daac-ffca-4530-8038-fdda387e6f44",
+      "ticker": "VICI",
+      "side": "SELL",
+      "quantity": 0.041593,
+      "price": 29.875,
+      "executedAt": "2022-10-21T17:45:16.352602Z"
+    },
+    {
+      "id": "6352dab5-0ebd-4e2c-b175-d3f2b5bbbfdd",
+      "ticker": "TQQQ",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 20.1001,
+      "executedAt": "2022-10-21T17:45:25.049Z"
+    },
+    {
+      "id": "69580cd2-1f9c-4ebe-9d4a-0d59fbead91b",
+      "ticker": "SQQQ",
+      "side": "BUY",
+      "quantity": 0.274566,
+      "price": 69.1999,
+      "executedAt": "2026-01-02T18:22:10.105Z"
+    },
+    {
+      "id": "6970e748-9ea3-4904-abb6-931fdb7cb9d6",
+      "ticker": "SQQQ",
+      "side": "SELL",
+      "quantity": 0.274566,
+      "price": 70.0611,
+      "executedAt": "2026-01-21T14:48:40.698Z"
+    },
+    {
+      "id": "6980b591-4f27-4a99-91c0-854707f3d08d",
+      "ticker": "QS",
+      "side": "BUY",
+      "quantity": 0.515165,
+      "price": 8.6842,
+      "executedAt": "2026-02-02T14:32:49.87Z"
+    },
+    {
+      "id": "6980b591-824a-46c0-9330-8a069960d9fa",
+      "ticker": "QS",
+      "side": "BUY",
+      "quantity": 11,
+      "price": 8.6842,
+      "executedAt": "2026-02-02T14:32:49.87Z"
+    },
+    {
+      "id": "6984e4fd-ada5-41b8-98aa-a265105996b2",
+      "ticker": "IBIT",
+      "side": "BUY",
+      "quantity": 2.686727,
+      "price": 37.22,
+      "executedAt": "2026-02-05T18:44:13.128Z"
+    },
+    {
+      "id": "69864354-ccdb-4032-8324-d976794de5db",
+      "ticker": "UA",
+      "side": "BUY",
+      "quantity": 27,
+      "price": 7.2086,
+      "executedAt": "2026-02-06T19:39:00.25Z"
+    },
+    {
+      "id": "69864354-ec33-4402-b440-3f234a6fcda6",
+      "ticker": "UA",
+      "side": "BUY",
+      "quantity": 0.744638,
+      "price": 7.2086,
+      "executedAt": "2026-02-06T19:39:00.25Z"
+    },
+    {
+      "id": "698b416f-23ac-418b-82be-15b06e66ff54",
+      "ticker": "UA",
+      "side": "SELL",
+      "quantity": 0.88888,
+      "price": 7.1885,
+      "executedAt": "2026-02-10T14:32:15.955Z"
+    },
+    {
+      "id": "698b416f-d53c-4e19-af39-44bbbd3bb968",
+      "ticker": "UA",
+      "side": "SELL",
+      "quantity": 13,
+      "price": 7.1885,
+      "executedAt": "2026-02-10T14:32:15.955Z"
+    },
+    {
+      "id": "698def98-cfba-4aab-b5de-0f65c5973b6a",
+      "ticker": "QS",
+      "side": "BUY",
+      "quantity": 12,
+      "price": 8.0399,
+      "executedAt": "2026-02-12T15:19:52.926Z"
+    },
+    {
+      "id": "6993fa04-605e-4135-870c-d28c3a0b7eaa",
+      "ticker": "NFLX",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 76.36,
+      "executedAt": "2026-02-17T05:17:56.686Z"
+    },
+    {
+      "id": "6993fb86-2c88-4122-be10-c524497c2ec7",
+      "ticker": "IGV",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 82.19,
+      "executedAt": "2026-02-17T05:24:22.808Z"
+    },
+    {
+      "id": "1e138b00-c2ab-4757-bc59-12c379597931",
+      "ticker": "IGV",
+      "side": "BUY",
+      "quantity": 2,
+      "price": 82.15,
+      "executedAt": "2026-02-17T06:15:50.973Z"
+    },
+    {
+      "id": "69940851-30af-4c0c-bcb1-db46a697f3ce",
+      "ticker": "FIG",
+      "side": "BUY",
+      "quantity": 3,
+      "price": 22.44,
+      "executedAt": "2026-02-17T06:18:57.384Z"
+    },
+    {
+      "id": "699467f5-3fd2-413c-9441-a3883184a930",
+      "ticker": "IGV",
+      "side": "BUY",
+      "quantity": 3,
+      "price": 81.7,
+      "executedAt": "2026-02-17T13:07:01.876Z"
+    },
+    {
+      "id": "699471d2-cb86-4b80-bb01-e8f64e257e8a",
+      "ticker": "SNAP",
+      "side": "BUY",
+      "quantity": 20.703933,
+      "price": 4.83,
+      "executedAt": "2026-02-17T13:49:06.161408Z"
+    },
+    {
+      "id": "69a1e412-5118-47e2-878c-9c1ed5d34611",
+      "ticker": "AVGO",
+      "side": "BUY",
+      "quantity": 0.630974,
+      "price": 316.97,
+      "executedAt": "2026-02-27T18:36:02.832Z"
+    },
+    {
+      "id": "69a85077-7d1a-4cc3-8970-761af3bfe13f",
+      "ticker": "UA",
+      "side": "SELL",
+      "quantity": 0.855758,
+      "price": 6.7614,
+      "executedAt": "2026-03-04T15:32:07.337Z"
+    },
+    {
+      "id": "69a85077-e53d-4149-881a-ece64859c6c7",
+      "ticker": "UA",
+      "side": "SELL",
+      "quantity": 13,
+      "price": 6.7614,
+      "executedAt": "2026-03-04T15:32:07.337Z"
+    },
+    {
+      "id": "69a9caf9-aa98-4225-90e8-17bdbd84ffe8",
+      "ticker": "AVGO",
+      "side": "SELL",
+      "quantity": 0.630974,
+      "price": 327.09,
+      "executedAt": "2026-03-05T18:27:05.329Z"
+    },
+    {
+      "id": "69b23d8e-f7cb-41cb-865c-a78c0ff24900",
+      "ticker": "SNAP",
+      "side": "SELL",
+      "quantity": 20,
+      "price": 4.81,
+      "executedAt": "2026-03-12T04:14:06.572Z"
+    },
+    {
+      "id": "69b23dc3-32ce-4988-924c-a2b8f11ccdb5",
+      "ticker": "FIG",
+      "side": "SELL",
+      "quantity": 3,
+      "price": 27.52,
+      "executedAt": "2026-03-12T04:14:59.071Z"
+    },
+    {
+      "id": "69c53866-f962-4f94-85f6-544d9f7d86a3",
+      "ticker": "IBIT",
+      "side": "SELL",
+      "quantity": 2.686727,
+      "price": 39.435,
+      "executedAt": "2026-03-26T13:45:10.308Z"
+    },
+    {
+      "id": "69dfe22f-29ea-4e3a-8075-e06921c3fc1d",
+      "ticker": "NFLX",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 107.065,
+      "executedAt": "2026-04-15T19:08:31.143Z"
+    },
+    {
+      "id": "69dfe23b-2253-40c7-a482-e47af16df324",
+      "ticker": "QS",
+      "side": "SELL",
+      "quantity": 23,
+      "price": 7.0848,
+      "executedAt": "2026-04-15T19:08:43.174Z"
+    },
+    {
+      "id": "69dfe23b-fab6-4eaa-a55d-51a4c472afb8",
+      "ticker": "QS",
+      "side": "SELL",
+      "quantity": 0.515165,
+      "price": 7.0848,
+      "executedAt": "2026-04-15T19:08:43.174Z"
+    },
+    {
+      "id": "69f2342e-d2fa-4e82-ac7e-49205e9d963f",
+      "ticker": "IGV",
+      "side": "SELL",
+      "quantity": 6,
+      "price": 83.565,
+      "executedAt": "2026-04-29T16:39:09.996Z"
+    },
+    {
+      "id": "69f8a057-2531-4c9e-9e76-c36438cb58c5",
+      "ticker": "NOW",
+      "side": "BUY",
+      "quantity": 0.650683,
+      "price": 93.225,
+      "executedAt": "2026-05-04T13:34:15.271Z"
+    },
+    {
+      "id": "69f8a05f-f9d8-48a7-a5e9-2b00dd27bb0c",
+      "ticker": "VST",
+      "side": "BUY",
+      "quantity": 0.318668,
+      "price": 158.88,
+      "executedAt": "2026-05-04T13:34:23.616Z"
+    },
+    {
+      "id": "69f8a068-e4c7-454b-93d4-62b081ec923e",
+      "ticker": "MSFT",
+      "side": "BUY",
+      "quantity": 0.100017,
+      "price": 416.229,
+      "executedAt": "2026-05-04T13:34:32.26Z"
+    },
+    {
+      "id": "69f8a070-df57-4732-8f8b-69bd119faa5b",
+      "ticker": "LLY",
+      "side": "BUY",
+      "quantity": 0.040945,
+      "price": 967.1472,
+      "executedAt": "2026-05-04T13:34:40.635Z"
+    },
+    {
+      "id": "69f8a079-4bca-4796-8683-f1242ce4a961",
+      "ticker": "CI",
+      "side": "BUY",
+      "quantity": 0.125262,
+      "price": 283.165,
+      "executedAt": "2026-05-04T13:34:49.084Z"
+    },
+    {
+      "id": "69f8a082-0866-4115-9efe-594b5f2ce5d0",
+      "ticker": "ARDX",
+      "side": "BUY",
+      "quantity": 4,
+      "price": 7.2457,
+      "executedAt": "2026-05-04T13:34:58.482Z"
+    },
+    {
+      "id": "69f8a082-b08b-41cb-b516-a646a973cdc4",
+      "ticker": "ARDX",
+      "side": "BUY",
+      "quantity": 0.782146,
+      "price": 7.2457,
+      "executedAt": "2026-05-04T13:34:58.482Z"
+    },
+    {
+      "id": "69f8a08a-665e-45dd-aa6e-06e7587cf95b",
+      "ticker": "ICE",
+      "side": "BUY",
+      "quantity": 0.206435,
+      "price": 154.915,
+      "executedAt": "2026-05-04T13:35:06.965Z"
+    },
+    {
+      "id": "69f8a094-47bd-45b1-bf7f-1d2a203cd48e",
+      "ticker": "RDDT",
+      "side": "BUY",
+      "quantity": 0.1808,
+      "price": 172.4,
+      "executedAt": "2026-05-04T13:35:16.058Z"
+    },
+    {
+      "id": "69f8a09c-3c53-4c6e-8a82-cfbe560263cd",
+      "ticker": "DVN",
+      "side": "BUY",
+      "quantity": 0.569507,
+      "price": 50.57,
+      "executedAt": "2026-05-04T13:35:24.687Z"
+    },
+    {
+      "id": "69f8a0a5-c166-4183-aa06-d5cb2c0f2f11",
+      "ticker": "HALO",
+      "side": "BUY",
+      "quantity": 0.44549,
+      "price": 63.75,
+      "executedAt": "2026-05-04T13:35:33.252Z"
+    },
+    {
+      "id": "69f8a0ae-ba11-47d9-9204-32b6ee7c1b0d",
+      "ticker": "KTOS",
+      "side": "BUY",
+      "quantity": 0.442173,
+      "price": 63.12,
+      "executedAt": "2026-05-04T13:35:42.481Z"
+    },
+    {
+      "id": "69f8a0b6-6259-48cc-91ff-1670fedeb302",
+      "ticker": "NVDA",
+      "side": "BUY",
+      "quantity": 0.123896,
+      "price": 200.57,
+      "executedAt": "2026-05-04T13:35:50.77Z"
+    },
+    {
+      "id": "69f8a0bf-9914-48e9-b231-ee2b4f818689",
+      "ticker": "MA",
+      "side": "BUY",
+      "quantity": 0.048071,
+      "price": 495.715,
+      "executedAt": "2026-05-04T13:35:59.303Z"
+    },
+    {
+      "id": "69f8a0c8-44b1-420d-b776-829609841404",
+      "ticker": "QXO",
+      "side": "BUY",
+      "quantity": 0.046752,
+      "price": 19.785,
+      "executedAt": "2026-05-04T13:36:08.333Z"
+    },
+    {
+      "id": "69f8a0c8-99d6-4725-8dd2-5d8d3b6e91a5",
+      "ticker": "QXO",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 19.785,
+      "executedAt": "2026-05-04T13:36:08.333Z"
+    },
+    {
+      "id": "69f8a0d1-25bc-4682-8d75-039dd4879a5a",
+      "ticker": "AVGO",
+      "side": "BUY",
+      "quantity": 0.046949,
+      "price": 419.81,
+      "executedAt": "2026-05-04T13:36:17.05Z"
+    },
+    {
+      "id": "69fe30bf-3180-4cb6-a4d7-460d36a80dbd",
+      "ticker": "UA",
+      "side": "BUY",
+      "quantity": 0.923273,
+      "price": 6.256,
+      "executedAt": "2026-05-08T18:51:43.929Z"
+    },
+    {
+      "id": "69fe30bf-4176-4cb2-a87a-e3b19c79f645",
+      "ticker": "UA",
+      "side": "BUY",
+      "quantity": 79,
+      "price": 6.256,
+      "executedAt": "2026-05-08T18:51:43.929Z"
+    },
+    {
+      "id": "69fe3287-04e1-4fa7-be5b-1f70bd880bb2",
+      "ticker": "SOFI",
+      "side": "BUY",
+      "quantity": 63.795853,
+      "price": 15.675,
+      "executedAt": "2026-05-08T18:59:19.454Z"
+    },
+    {
+      "id": "69fe3516-4830-4291-8fbc-ffe9c858ee74",
+      "ticker": "BULL",
+      "side": "BUY",
+      "quantity": 141.944641,
+      "price": 7.045,
+      "executedAt": "2026-05-08T19:10:14.688Z"
+    },
+    {
+      "id": "b4ff3e8e-1eea-4271-96c4-5d1995e47c11",
+      "ticker": "LLY",
+      "side": "BUY",
+      "quantity": 0.000067,
+      "price": 1030.857487,
+      "executedAt": "2026-05-20T13:46:18.883905Z"
+    },
+    {
+      "id": "6a16d11a-d7f3-412b-8c59-0926d19efffd",
+      "ticker": "ORCL",
+      "side": "BUY",
+      "quantity": 2,
+      "price": 192.64,
+      "executedAt": "2026-05-27T11:10:18.489Z"
+    },
+    {
+      "id": "da959513-c9d4-4c92-8457-aec793d729fb",
+      "ticker": "MSFT",
+      "side": "BUY",
+      "quantity": 0.000218,
+      "price": 412.83,
+      "executedAt": "2026-05-27T13:45:52.946404Z"
+    },
+    {
+      "id": "6a1996eb-7f23-47c4-b985-0fbb059767db",
+      "ticker": "NFLX",
+      "side": "BUY",
+      "quantity": 10,
+      "price": 85.869,
+      "executedAt": "2026-05-29T13:38:51.214Z"
+    },
+    {
+      "id": "6a19970c-f69f-4a30-9983-5b68642e5698",
+      "ticker": "NFLX",
+      "side": "BUY",
+      "quantity": 2,
+      "price": 86.025,
+      "executedAt": "2026-05-29T13:39:24.244Z"
+    },
+    {
+      "id": "37551758-721f-4ee0-9c87-0b52c9b3724d",
+      "ticker": "NVDA",
+      "side": "BUY",
+      "quantity": 0.000142,
+      "price": 209.799669,
+      "executedAt": "2026-06-09T13:48:28.085682Z"
+    },
+    {
+      "id": "6a2c511f-419c-4dde-a4ea-0b468778fc5c",
+      "ticker": "HALO",
+      "side": "SELL",
+      "quantity": 0.44549,
+      "price": 69.85,
+      "executedAt": "2026-06-12T18:34:07.954Z"
+    },
+    {
+      "id": "6a2c512b-ff73-43bd-9cdd-54125adfb0c9",
+      "ticker": "RDDT",
+      "side": "SELL",
+      "quantity": 0.1808,
+      "price": 163.24,
+      "executedAt": "2026-06-12T18:34:19.266Z"
+    },
+    {
+      "id": "6a2ffc25-654c-4ac9-afce-d8a7ca2c91cb",
+      "ticker": "ORCL",
+      "side": "SELL",
+      "quantity": 2,
+      "price": 187.8,
+      "executedAt": "2026-06-15T13:20:37.87Z"
+    },
+    {
+      "id": "6a2ffe5c-2e72-4d6e-9917-a12b4b558d63",
+      "ticker": "MSFT",
+      "side": "SELL",
+      "quantity": 0.100235,
+      "price": 396.65,
+      "executedAt": "2026-06-15T13:30:01.808Z"
+    },
+    {
+      "id": "c89cc553-5936-473f-beb6-809962d25e5f",
+      "ticker": "DVN",
+      "side": "BUY",
+      "quantity": 0.004317,
+      "price": 41.69,
+      "executedAt": "2026-06-18T13:50:59.661749Z"
+    },
+    {
+      "id": "66436915-4df2-4514-9edf-4bb7ce4ddabe",
+      "ticker": "ICE",
+      "side": "BUY",
+      "quantity": 0.000812,
+      "price": 135.3697,
+      "executedAt": "2026-06-18T14:01:42.86338Z"
+    },
+    {
+      "id": "716253c9-63dd-4319-a73b-fc62818b9502",
+      "ticker": "CI",
+      "side": "BUY",
+      "quantity": 0.000709,
+      "price": 281.7431,
+      "executedAt": "2026-06-22T13:50:29.644205Z"
+    },
+    {
+      "id": "6a3d25d4-497f-41e6-a5aa-d468df313bc5",
+      "ticker": "PSNL",
+      "side": "BUY",
+      "quantity": 20,
+      "price": 11.67,
+      "executedAt": "2026-06-25T12:57:56.217Z"
+    },
+    {
+      "id": "4ff73c04-d94e-4fd2-99ff-a36acdd49059",
+      "ticker": "VST",
+      "side": "BUY",
+      "quantity": 0.000413,
+      "price": 169.097782,
+      "executedAt": "2026-06-25T13:45:49.698707Z"
+    },
+    {
+      "id": "6a3d6673-23bb-467d-85c5-99cd1ea1f6e6",
+      "ticker": "BMBL",
+      "side": "BUY",
+      "quantity": 100,
+      "price": 2.815,
+      "executedAt": "2026-06-25T17:33:39.4Z"
+    },
+    {
+      "id": "6a43c428-43ee-4ffe-a663-7198dee8a69c",
+      "ticker": "PSNL",
+      "side": "SELL",
+      "quantity": 20,
+      "price": 13.39,
+      "executedAt": "2026-06-30T13:27:04.787Z"
+    },
+    {
+      "id": "6a43c43d-836c-45db-8fc3-2c910839a281",
+      "ticker": "BULL",
+      "side": "SELL",
+      "quantity": 50,
+      "price": 6.74,
+      "executedAt": "2026-06-30T13:27:25.709Z"
+    },
+    {
+      "id": "6a45165a-0051-4400-a945-cae4da877ae5",
+      "ticker": "UA",
+      "side": "SELL",
+      "quantity": 44,
+      "price": 6.22,
+      "executedAt": "2026-07-01T13:30:00.946Z"
+    },
+    {
+      "id": "6a45165a-6b16-4919-a972-e3aadc84c0c2",
+      "ticker": "UA",
+      "side": "SELL",
+      "quantity": 35.923273,
+      "price": 6.22,
+      "executedAt": "2026-07-01T13:30:00.951Z"
+    },
+    {
+      "id": "6a4517aa-02b1-4c73-acd2-580a7bd408ff",
+      "ticker": "VPG",
+      "side": "BUY",
+      "quantity": 3,
+      "price": 141.28,
+      "executedAt": "2026-07-01T13:35:38.377Z"
+    },
+    {
+      "id": "6a4517aa-4973-46c4-afb1-e08796dbfa07",
+      "ticker": "VPG",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 142,
+      "executedAt": "2026-07-01T13:35:38.377Z"
+    },
+    {
+      "id": "6a4530c3-62a7-40f5-bdd0-5fbd615daca5",
+      "ticker": "AVGO",
+      "side": "SELL",
+      "quantity": 0.046949,
+      "price": 372.065,
+      "executedAt": "2026-07-01T15:22:43.578Z"
+    },
+    {
+      "id": "6a4530cc-7385-44bb-9213-f21b24fb966e",
+      "ticker": "VST",
+      "side": "SELL",
+      "quantity": 0.319081,
+      "price": 152.37,
+      "executedAt": "2026-07-01T15:22:52.863Z"
+    },
+    {
+      "id": "6a4530d4-bc16-4af3-94d9-e94abecc410c",
+      "ticker": "LLY",
+      "side": "SELL",
+      "quantity": 0.041012,
+      "price": 1184.555,
+      "executedAt": "2026-07-01T15:23:00.795Z"
+    },
+    {
+      "id": "6a4530de-a211-4091-be76-a26f20e73f3c",
+      "ticker": "CI",
+      "side": "SELL",
+      "quantity": 0.125971,
+      "price": 275.8943,
+      "executedAt": "2026-07-01T15:23:10.603Z"
+    },
+    {
+      "id": "6a4530e7-1038-413d-9bfe-f36b95d8c3d3",
+      "ticker": "ARDX",
+      "side": "SELL",
+      "quantity": 0.782146,
+      "price": 5.2424,
+      "executedAt": "2026-07-01T15:23:19.82Z"
+    },
+    {
+      "id": "6a4530e7-9337-42ad-ba3a-8cf54bb4ed11",
+      "ticker": "ARDX",
+      "side": "SELL",
+      "quantity": 4,
+      "price": 5.2424,
+      "executedAt": "2026-07-01T15:23:19.82Z"
+    },
+    {
+      "id": "6a4530f2-0626-4ec3-93e4-6cb0f8d87d85",
+      "ticker": "ICE",
+      "side": "SELL",
+      "quantity": 0.207247,
+      "price": 126.189,
+      "executedAt": "2026-07-01T15:23:30.469Z"
+    },
+    {
+      "id": "6a4530fc-aec7-42b5-8cde-a4d57eebc142",
+      "ticker": "KTOS",
+      "side": "SELL",
+      "quantity": 0.442173,
+      "price": 53.5,
+      "executedAt": "2026-07-01T15:23:40.12Z"
+    },
+    {
+      "id": "6a453105-b38e-4784-99d2-9cfc698c3bee",
+      "ticker": "MA",
+      "side": "SELL",
+      "quantity": 0.048071,
+      "price": 526.217,
+      "executedAt": "2026-07-01T15:23:49.675Z"
+    },
+    {
+      "id": "6a453132-b0ad-4687-bb1c-ab4b7ad5d504",
+      "ticker": "TE",
+      "side": "BUY",
+      "quantity": 35,
+      "price": 9.135,
+      "executedAt": "2026-07-01T15:24:34.659Z"
+    },
+    {
+      "id": "6a4bade4-045f-4886-bd5c-2c892c069c98",
+      "ticker": "NVDA",
+      "side": "SELL",
+      "quantity": 0.124038,
+      "price": 194.48,
+      "executedAt": "2026-07-06T13:30:00.806Z"
+    },
+    {
+      "id": "6a4baddb-407e-4ee0-b1f1-6ed66f09c7ff",
+      "ticker": "DVN",
+      "side": "SELL",
+      "quantity": 0.573824,
+      "price": 40.15,
+      "executedAt": "2026-07-06T13:30:01.239Z"
+    },
+    {
+      "id": "6a4bade9-7622-43e1-9e45-ae40e51b565f",
+      "ticker": "NOW",
+      "side": "SELL",
+      "quantity": 0.650683,
+      "price": 103.7,
+      "executedAt": "2026-07-06T13:30:01.457Z"
+    },
+    {
+      "id": "6a4badef-195e-4ceb-b998-e9231771c08d",
+      "ticker": "QS",
+      "side": "BUY",
+      "quantity": 11,
+      "price": 7.1,
+      "executedAt": "2026-07-06T13:30:01.071Z"
+    },
+    {
+      "id": "6a4badef-f263-4b14-8669-b18ab3e68923",
+      "ticker": "QS",
+      "side": "BUY",
+      "quantity": 0.40845,
+      "price": 7.1,
+      "executedAt": "2026-07-06T13:30:01.086Z"
+    },
+    {
+      "id": "6a4badf5-5302-4d20-9730-cb62a5c3671a",
+      "ticker": "QXO",
+      "side": "SELL",
+      "quantity": 0.046752,
+      "price": 16.19,
+      "executedAt": "2026-07-06T13:30:01.43Z"
+    },
+    {
+      "id": "6a4badf5-de29-4669-b8d8-b662a7a0b8fe",
+      "ticker": "QXO",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 16.19,
+      "executedAt": "2026-07-06T13:30:01.431Z"
+    },
+    {
+      "id": "6a4bae37-b61f-4b57-9645-e3d305ddf371",
+      "ticker": "SNAP",
+      "side": "SELL",
+      "quantity": 0.703933,
+      "price": 4.83,
+      "executedAt": "2026-07-06T13:31:35.096Z"
+    },
+    {
+      "id": "6a4bb728-c3f2-409a-b967-b0a94437c9e6",
+      "ticker": "COIN",
+      "side": "BUY",
+      "quantity": 5,
+      "price": 163.605,
+      "executedAt": "2026-07-06T14:09:44.088Z"
+    },
+    {
+      "id": "6a4e5c7f-d937-470b-8d65-76e17861dc49",
+      "ticker": "TE",
+      "side": "SELL",
+      "quantity": 35,
+      "price": 6.715,
+      "executedAt": "2026-07-08T14:19:43.626Z"
+    },
+    {
+      "id": "6a4e5ca5-8bac-4f2b-ab41-bc442f8ef6b8",
+      "ticker": "BMBL",
+      "side": "SELL",
+      "quantity": 100,
+      "price": 3.015,
+      "executedAt": "2026-07-08T14:20:21.468Z"
+    },
+    {
+      "id": "6a4e5cd2-03fe-4b95-97cf-936f32380da0",
+      "ticker": "BULL",
+      "side": "SELL",
+      "quantity": 0.944641,
+      "price": 7.111,
+      "executedAt": "2026-07-08T14:21:06.854Z"
+    },
+    {
+      "id": "6a4e5cd2-b1a6-4aba-aa71-c6ea84c6ebd7",
+      "ticker": "BULL",
+      "side": "SELL",
+      "quantity": 91,
+      "price": 7.111,
+      "executedAt": "2026-07-08T14:21:06.854Z"
+    },
+    {
+      "id": "6a4e5ced-9abf-4ef3-807a-3e3e1b38fd1d",
+      "ticker": "VPG",
+      "side": "SELL",
+      "quantity": 4,
+      "price": 109.68,
+      "executedAt": "2026-07-08T14:21:33.923Z"
+    },
+    {
+      "id": "6a4e900a-e2bd-40d5-8978-004ab136c05a",
+      "ticker": "SOXL",
+      "side": "BUY",
+      "quantity": 6,
+      "price": 172.58,
+      "executedAt": "2026-07-08T17:59:38.629Z"
+    },
+    {
+      "id": "6a4e9027-52a7-46a5-a30a-04222cde3036",
+      "ticker": "QS",
+      "side": "SELL",
+      "quantity": 11.40845,
+      "price": 6.565,
+      "executedAt": "2026-07-08T18:00:07.186Z"
+    },
+    {
+      "id": "6a4f9a79-d738-43fa-9e68-83afaaf7fc76",
+      "ticker": "SOXL",
+      "side": "SELL",
+      "quantity": 3,
+      "price": 198.34,
+      "executedAt": "2026-07-09T12:56:25.748Z"
+    },
+    {
+      "id": "6a4f9c13-169d-491b-8d5b-701c58b91b1b",
+      "ticker": "SOFI",
+      "side": "SELL",
+      "quantity": 30,
+      "price": 17.72,
+      "executedAt": "2026-07-09T13:03:15.91Z"
+    },
+    {
+      "id": "6a4f9c2a-b1a3-4c26-a5c7-0cc3428d4c8a",
+      "ticker": "SOFI",
+      "side": "SELL",
+      "quantity": 0.795853,
+      "price": 17.725,
+      "executedAt": "2026-07-09T13:03:38.958195Z"
+    },
+    {
+      "id": "6a4f9c2b-d3bb-4a47-86ee-bb7140f361ad",
+      "ticker": "SOFI",
+      "side": "SELL",
+      "quantity": 33,
+      "price": 17.72,
+      "executedAt": "2026-07-09T13:03:39.174449Z"
+    },
+    {
+      "id": "6a4f9c5c-a041-486f-9e64-ee1eba5dd97b",
+      "ticker": "COIN",
+      "side": "SELL",
+      "quantity": 2,
+      "price": 158.45,
+      "executedAt": "2026-07-09T13:04:28.242Z"
+    },
+    {
+      "id": "6a4f9c64-ac1d-40b5-b939-c654635af636",
+      "ticker": "NFLX",
+      "side": "SELL",
+      "quantity": 3,
+      "price": 74.4,
+      "executedAt": "2026-07-09T13:04:36.671Z"
+    },
+    {
+      "id": "6a4fa00b-9dbf-47c0-b994-bcd2cce5da9f",
+      "ticker": "SOXL",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 198.35,
+      "executedAt": "2026-07-09T13:20:11.027Z"
+    },
+    {
+      "id": "6a4fb870-7996-4261-94ae-9343e0af84f4",
+      "ticker": "SOXL",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 198.885,
+      "executedAt": "2026-07-09T15:04:16.458Z"
+    },
+    {
+      "id": "6a4fb8a4-6810-45f2-b632-9bae5d80c01b",
+      "ticker": "TSLL",
+      "side": "BUY",
+      "quantity": 20,
+      "price": 12.395,
+      "executedAt": "2026-07-09T15:05:08.288Z"
+    },
+    {
+      "id": "6a5025db-69d5-4b03-b144-ba04fd105a82",
+      "ticker": "LITX",
+      "side": "BUY",
+      "quantity": 5,
+      "price": 28.24,
+      "executedAt": "2026-07-09T22:51:07.449Z"
+    },
+    {
+      "id": "78ed250e-c59a-4b58-a021-c79e3a6fb3b0",
+      "ticker": "SOXS",
+      "side": "BUY",
+      "quantity": 24,
+      "price": 4.13,
+      "executedAt": "2026-07-10T00:14:12Z"
+    },
+    {
+      "id": "6a503afd-1536-4541-9b24-b8f2674d0b27",
+      "ticker": "SOXL",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 188.09,
+      "executedAt": "2026-07-10T00:21:17.665Z"
+    },
+    {
+      "id": "c1fc57b8-cdc4-4967-9869-6f3a01938214",
+      "ticker": "TSLL",
+      "side": "SELL",
+      "quantity": 20,
+      "price": 12.86,
+      "executedAt": "2026-07-10T00:25:50.45Z"
+    },
+    {
+      "id": "6a503c1f-9ffa-4c12-9838-82d3a5a592bb",
+      "ticker": "LITX",
+      "side": "SELL",
+      "quantity": 5,
+      "price": 27.71,
+      "executedAt": "2026-07-10T00:26:07.2Z"
+    },
+    {
+      "id": "6a503cc1-375e-4c8f-8ac7-3b1a639ffa03",
+      "ticker": "TQQQ",
+      "side": "BUY",
+      "quantity": 7,
+      "price": 75.52,
+      "executedAt": "2026-07-10T00:28:49.077Z"
+    },
+    {
+      "id": "7fdbb4e0-db45-4c0f-b0c0-4f41df1e2b85",
+      "ticker": "TQQQ",
+      "side": "SELL",
+      "quantity": 7,
+      "price": 75.33,
+      "executedAt": "2026-07-10T00:39:25.479Z"
+    },
+    {
+      "id": "6a504015-655a-451e-ae15-6abc651d8078",
+      "ticker": "COIN",
+      "side": "SELL",
+      "quantity": 3,
+      "price": 158.34,
+      "executedAt": "2026-07-10T00:43:01.812Z"
+    },
+    {
+      "id": "ff6d4fa8-0511-41c5-ae28-fa26b20b9021",
+      "ticker": "NFLX",
+      "side": "SELL",
+      "quantity": 9,
+      "price": 74.7012,
+      "executedAt": "2026-07-10T00:43:24.958Z"
+    },
+    {
+      "id": "a228925c-6a01-46fe-a559-221d5ad1eb41",
+      "ticker": "SOXS",
+      "side": "SELL",
+      "quantity": 24,
+      "price": 4.15,
+      "executedAt": "2026-07-10T00:51:48.538Z"
+    },
+    {
+      "id": "6a504533-50e8-4995-b6d5-b87eff52f637",
+      "ticker": "SOXL",
+      "side": "BUY",
+      "quantity": 9,
+      "price": 187.29,
+      "executedAt": "2026-07-10T01:04:51.239Z"
+    },
+    {
+      "id": "6a507de6-31e3-44fc-abc7-60f67ac30db6",
+      "ticker": "TSLL",
+      "side": "BUY",
+      "quantity": 75,
+      "price": 12.98,
+      "executedAt": "2026-07-10T05:06:46.421Z"
+    },
+    {
+      "id": "92824a16-fa95-49d0-ba04-00c12a1d8b0b",
+      "ticker": "SOXL",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 190.8,
+      "executedAt": "2026-07-10T05:08:27.776Z"
+    },
+    {
+      "id": "6a50ef26-a8a4-46f8-a8ce-5d4733bb1fd8",
+      "ticker": "SOXL",
+      "side": "SELL",
+      "quantity": 8,
+      "price": 180.8,
+      "executedAt": "2026-07-10T13:09:58.017Z"
+    },
+    {
+      "id": "6a50f4c5-0038-476b-88de-dedaf64fbd87",
+      "ticker": "SOXL",
+      "side": "BUY",
+      "quantity": 6,
+      "price": 184.87,
+      "executedAt": "2026-07-10T13:33:57.475Z"
+    },
+    {
+      "id": "6a50f648-f008-4e85-aa16-c95b6247daf2",
+      "ticker": "SOXL",
+      "side": "SELL",
+      "quantity": 6,
+      "price": 179.01,
+      "executedAt": "2026-07-10T13:40:24.354Z"
+    },
+    {
+      "id": "6a50f70d-d19c-4d1e-87c7-5e85f9c25fb7",
+      "ticker": "SOXL",
+      "side": "BUY",
+      "quantity": 8,
+      "price": 182.185,
+      "executedAt": "2026-07-10T13:43:41.609Z"
+    },
+    {
+      "id": "6a51382f-a3d8-4fd8-9ff6-221cc2ee7f45",
+      "ticker": "SOXL",
+      "side": "SELL",
+      "quantity": 8,
+      "price": 192.075,
+      "executedAt": "2026-07-10T18:21:35.564Z"
+    },
+    {
+      "id": "6a513832-e079-4011-a925-54ea1ddf0271",
+      "ticker": "TSLL",
+      "side": "SELL",
+      "quantity": 75,
+      "price": 13.22,
+      "executedAt": "2026-07-10T18:21:38.234Z"
+    },
+    {
+      "id": "6a51398b-29b5-44d4-b2e8-a277ecc3db3f",
+      "ticker": "MSFU",
+      "side": "BUY",
+      "quantity": 100,
+      "price": 23.4599,
+      "executedAt": "2026-07-10T18:27:23.106Z"
+    },
+    {
+      "id": "6a513c2f-0e06-4f41-b14b-2e326f994643",
+      "ticker": "MSFU",
+      "side": "SELL",
+      "quantity": 50,
+      "price": 23.495,
+      "executedAt": "2026-07-10T18:38:39.842Z"
+    },
+    {
+      "id": "6a514f3e-84a0-467b-a6b7-a5af9064c920",
+      "ticker": "MSFU",
+      "side": "SELL",
+      "quantity": 50,
+      "price": 23.475,
+      "executedAt": "2026-07-10T19:59:58.431Z"
+    },
+    {
+      "id": "6a544f37-1f41-4ee8-8a24-fde71d7677a6",
+      "ticker": "SOXL",
+      "side": "BUY",
+      "quantity": 5,
+      "price": 180.49,
+      "executedAt": "2026-07-13T02:36:39.637Z"
+    },
+    {
+      "id": "6a5538d7-4168-4686-9de6-ebcebef9f1fa",
+      "ticker": "SOXL",
+      "side": "SELL",
+      "quantity": 5,
+      "price": 162.905,
+      "executedAt": "2026-07-13T19:13:27.001Z"
+    },
+    {
+      "id": "6a564882-06c5-4d2b-9dea-adb0970ece42",
+      "ticker": "SOXL",
+      "side": "BUY",
+      "quantity": 12,
+      "price": 175.335,
+      "executedAt": "2026-07-14T14:32:34.626Z"
+    },
+    {
+      "id": "6a568878-4501-4de9-bbbf-79f45e9968cd",
+      "ticker": "SOXL",
+      "side": "SELL",
+      "quantity": 12,
+      "price": 177.38,
+      "executedAt": "2026-07-14T19:05:28.871Z"
+    },
+    {
+      "id": "6a56893b-452b-4b80-a82a-03ac85d62fd0",
+      "ticker": "NFXL",
+      "side": "BUY",
+      "quantity": 50,
+      "price": 16.495,
+      "executedAt": "2026-07-14T19:08:43.21Z"
+    },
+    {
+      "id": "6a579463-e7a4-4801-8f1d-f48c4ff3d66e",
+      "ticker": "SOXL",
+      "side": "BUY",
+      "quantity": 5,
+      "price": 174.93,
+      "executedAt": "2026-07-15T14:08:35.122Z"
+    },
+    {
+      "id": "6a57949e-eaf5-4598-bbd5-481faa3d1261",
+      "ticker": "SOXL",
+      "side": "BUY",
+      "quantity": 6,
+      "price": 173.715,
+      "executedAt": "2026-07-15T14:09:34.618Z"
+    },
+    {
+      "id": "6a5795c9-7d1b-46ed-b07a-83a0dfa306ed",
+      "ticker": "SOXL",
+      "side": "SELL",
+      "quantity": 11,
+      "price": 170.3001,
+      "executedAt": "2026-07-15T14:14:33.823Z"
+    },
+    {
+      "id": "6d8d8a25-aa8c-43d7-bdae-84051e4d3170",
+      "ticker": "SOXL",
+      "side": "BUY",
+      "quantity": 10,
+      "price": 163.775,
+      "executedAt": "2026-07-15T14:34:36.158Z"
+    },
+    {
+      "id": "6a579b06-5bd9-4434-8ba1-e39c64ba9db0",
+      "ticker": "SOXL",
+      "side": "SELL",
+      "quantity": 10,
+      "price": 160.85,
+      "executedAt": "2026-07-15T14:36:54.807Z"
+    },
+    {
+      "id": "6a579bc1-209b-4023-9a8e-45c06497a929",
+      "ticker": "SOXL",
+      "side": "BUY",
+      "quantity": 5,
+      "price": 158.92,
+      "executedAt": "2026-07-15T14:40:01.068Z"
+    },
+    {
+      "id": "6a579bd5-f4aa-465a-9bbb-f76ff11219fc",
+      "ticker": "SOXL",
+      "side": "BUY",
+      "quantity": 7,
+      "price": 158.44,
+      "executedAt": "2026-07-15T14:40:21.592Z"
+    },
+    {
+      "id": "6a579e8d-5c25-4107-9f66-84da0df46327",
+      "ticker": "SOXL",
+      "side": "SELL",
+      "quantity": 12,
+      "price": 161.5543,
+      "executedAt": "2026-07-15T14:51:57.346Z"
+    },
+    {
+      "id": "6a579fc6-b6b6-402d-b54f-47c994654f25",
+      "ticker": "SOXL",
+      "side": "BUY",
+      "quantity": 6,
+      "price": 162.1,
+      "executedAt": "2026-07-15T14:57:10.395Z"
+    },
+    {
+      "id": "6a57a07a-d071-4e01-91e3-bdbdf355055b",
+      "ticker": "SOXL",
+      "side": "BUY",
+      "quantity": 6,
+      "price": 163.07,
+      "executedAt": "2026-07-15T15:00:10.838Z"
+    },
+    {
+      "id": "6a57a272-7b12-4594-b700-17598c3c44c9",
+      "ticker": "NFXL",
+      "side": "SELL",
+      "quantity": 50,
+      "price": 16.685,
+      "executedAt": "2026-07-15T15:08:34.666Z"
+    },
+    {
+      "id": "6a57a403-c734-4b02-a95a-c43df12c41ed",
+      "ticker": "SOXL",
+      "side": "SELL",
+      "quantity": 12,
+      "price": 158.58,
+      "executedAt": "2026-07-15T15:15:15.466Z"
+    },
+    {
+      "id": "6a57a7e4-6c90-4f6c-b842-7a1c3e302cf2",
+      "ticker": "SOXL",
+      "side": "BUY",
+      "quantity": 13,
+      "price": 160.83,
+      "executedAt": "2026-07-15T15:31:48.961Z"
+    },
+    {
+      "id": "6a57b067-ca25-424e-8a01-6ba7e49019a1",
+      "ticker": "SOXL",
+      "side": "SELL",
+      "quantity": 13,
+      "price": 153.495,
+      "executedAt": "2026-07-15T16:08:07.029Z"
+    },
+    {
+      "id": "6a57b176-8495-45f7-937d-8432758089d6",
+      "ticker": "SOXL",
+      "side": "BUY",
+      "quantity": 15,
+      "price": 152.7,
+      "executedAt": "2026-07-15T16:12:38.31Z"
+    },
+    {
+      "id": "6a581473-f7c5-47ff-8cea-65940d2858ac",
+      "ticker": "ETHU",
+      "side": "BUY",
+      "quantity": 25,
+      "price": 16.7997,
+      "executedAt": "2026-07-15T23:14:59.952Z"
+    },
+    {
+      "id": "6a5815cb-9723-4b5f-87df-977f41b75035",
+      "ticker": "SOXL",
+      "side": "SELL",
+      "quantity": 15,
+      "price": 163.85,
+      "executedAt": "2026-07-15T23:20:43.035Z"
+    },
+    {
+      "id": "6a581832-e7ee-470d-b050-91e27dd3baf9",
+      "ticker": "CONL",
+      "side": "BUY",
+      "quantity": 100,
+      "price": 5.43,
+      "executedAt": "2026-07-15T23:30:58.015Z"
+    },
+    {
+      "id": "6a581832-ff7d-4318-8558-33faf272d5f0",
+      "ticker": "CONL",
+      "side": "BUY",
+      "quantity": 400,
+      "price": 5.43,
+      "executedAt": "2026-07-15T23:30:58.015Z"
+    },
+    {
+      "id": "6a590bd8-28d9-4195-9639-81a423d139a0",
+      "ticker": "SOXL",
+      "side": "BUY",
+      "quantity": 3.536067,
+      "price": 141.4,
+      "executedAt": "2026-07-16T16:50:32.745Z"
+    },
+    {
+      "id": "6a59107a-50f2-4c19-bc28-3bfd0d5ddbc1",
+      "ticker": "ETHU",
+      "side": "SELL",
+      "quantity": 0.29326,
+      "price": 15.8851,
+      "executedAt": "2026-07-16T17:10:18.413Z"
+    },
+    {
+      "id": "6a59107a-d216-452b-a67c-f17ccfc88742",
+      "ticker": "ETHU",
+      "side": "SELL",
+      "quantity": 6,
+      "price": 15.8851,
+      "executedAt": "2026-07-16T17:10:18.413Z"
+    },
+    {
+      "id": "6a591238-7e25-45dc-a5e9-cdeda74010eb",
+      "ticker": "SOXL",
+      "side": "SELL",
+      "quantity": 3.536067,
+      "price": 140.595,
+      "executedAt": "2026-07-16T17:17:44.622Z"
+    },
+    {
+      "id": "6a5919d9-37bf-4853-a91c-9a3c24e33467",
+      "ticker": "SOXL",
+      "side": "BUY",
+      "quantity": 0.3673,
+      "price": 139.205,
+      "executedAt": "2026-07-16T17:50:17.508Z"
+    },
+    {
+      "id": "6a5919d9-ef65-4c34-b5e1-d112ab12e979",
+      "ticker": "SOXL",
+      "side": "BUY",
+      "quantity": 14,
+      "price": 139.205,
+      "executedAt": "2026-07-16T17:50:17.508Z"
+    },
+    {
+      "id": "1f857494-9631-4e4d-b27e-5a9139893773",
+      "ticker": "ETHU",
+      "side": "SELL",
+      "quantity": 1,
+      "price": 15.79,
+      "executedAt": "2026-07-16T17:50:41.37Z"
+    },
+    {
+      "id": "61dfc2ac-77ad-4c43-97de-e7798e94e6ec",
+      "ticker": "ETHU",
+      "side": "SELL",
+      "quantity": 0.32911,
+      "price": 15.79,
+      "executedAt": "2026-07-16T17:50:41.37Z"
+    },
+    {
+      "id": "7dbb31a9-fc26-40d2-b976-8367ccadc342",
+      "ticker": "ETHU",
+      "side": "SELL",
+      "quantity": 5,
+      "price": 15.79,
+      "executedAt": "2026-07-16T17:50:41.37Z"
+    },
+    {
+      "id": "6a593577-3c89-4974-b008-4c763ff96bd7",
+      "ticker": "SOXL",
+      "side": "SELL",
+      "quantity": 14.3673,
+      "price": 138.385,
+      "executedAt": "2026-07-16T19:48:07.143Z"
+    },
+    {
+      "id": "6a599e9c-8de7-4474-9ca6-993626656c0b",
+      "ticker": "CONL",
+      "side": "SELL",
+      "quantity": 500,
+      "price": 4.92,
+      "executedAt": "2026-07-17T03:16:44.757Z"
+    },
+    {
+      "id": "5ea0230a-e68e-4a41-8b0f-529ff5d6eab9",
+      "ticker": "SOXL",
+      "side": "BUY",
+      "quantity": 10,
+      "price": 136.87,
+      "executedAt": "2026-07-17T03:33:54.413Z"
+    },
+    {
+      "id": "6a59a2d7-531a-4037-af6a-e8ea61bea7e9",
+      "ticker": "SOXL",
+      "side": "BUY",
+      "quantity": 10,
+      "price": 136.44,
+      "executedAt": "2026-07-17T03:34:47.931Z"
+    },
+    {
+      "id": "6a59a8a3-0c50-4aa4-99d1-bd15cf6950ee",
+      "ticker": "SOXL",
+      "side": "SELL",
+      "quantity": 20,
+      "price": 134.71,
+      "executedAt": "2026-07-17T03:59:31.389Z"
+    },
+    {
+      "id": "6a59b36e-93d3-4756-89d3-40dc64d12e1b",
+      "ticker": "NUGT",
+      "side": "BUY",
+      "quantity": 20,
+      "price": 102.72,
+      "executedAt": "2026-07-17T04:45:34.007Z"
+    },
+    {
+      "id": "6a5a2213-eab2-4fe5-8d75-e4c6b2683bde",
+      "ticker": "AAPU",
+      "side": "BUY",
+      "quantity": 10,
+      "price": 45.97,
+      "executedAt": "2026-07-17T12:37:39.987Z"
+    },
+    {
+      "id": "6a5a23db-ec4a-4111-89bd-331e988c75be",
+      "ticker": "NUGT",
+      "side": "SELL",
+      "quantity": 20,
+      "price": 101.6,
+      "executedAt": "2026-07-17T12:45:15.993Z"
+    },
+    {
+      "id": "6a5a2df4-18b6-4151-b8b4-bb83e5b18f82",
+      "ticker": "AAPU",
+      "side": "SELL",
+      "quantity": 10,
+      "price": 45.37,
+      "executedAt": "2026-07-17T13:28:20.8Z"
+    },
+    {
+      "id": "6a5a3053-9f89-4e4a-b26e-4f9c590a283b",
+      "ticker": "SOXL",
+      "side": "BUY",
+      "quantity": 10,
+      "price": 120.35,
+      "executedAt": "2026-07-17T13:38:27.79Z"
+    },
+    {
+      "id": "6a5a312c-b0b2-4bc9-b01e-4636a4532853",
+      "ticker": "SOXL",
+      "side": "BUY",
+      "quantity": 10,
+      "price": 118,
+      "executedAt": "2026-07-17T13:42:04.359Z"
+    },
+    {
+      "id": "6a5a33fa-8bf7-4bc0-8c7f-c7b03f042fd1",
+      "ticker": "SOXL",
+      "side": "SELL",
+      "quantity": 5,
+      "price": 124.53,
+      "executedAt": "2026-07-17T13:54:02.343Z"
+    },
+    {
+      "id": "99c25099-19df-472e-a703-090d0ea6ca37",
+      "ticker": "SOXL",
+      "side": "SELL",
+      "quantity": 10,
+      "price": 130,
+      "executedAt": "2026-07-17T14:01:03.134Z"
+    },
+    {
+      "id": "adacf1cb-af98-4fdd-98c0-9a556ce22a26",
+      "ticker": "SOXL",
+      "side": "SELL",
+      "quantity": 5,
+      "price": 136,
+      "executedAt": "2026-07-17T14:10:29.956Z"
+    },
+    {
+      "id": "6a5a4609-2311-43d2-ab3a-d3cf836eb24b",
+      "ticker": "SOXL",
+      "side": "BUY",
+      "quantity": 10,
+      "price": 129.05,
+      "executedAt": "2026-07-17T15:11:05.158Z"
+    },
+    {
+      "id": "6a5a495d-fa29-4549-871f-b026ce664b81",
+      "ticker": "SOXL",
+      "side": "SELL",
+      "quantity": 10,
+      "price": 129.06,
+      "executedAt": "2026-07-17T15:25:17.203Z"
+    },
+    {
+      "id": "6a5a49a0-b48d-402c-af37-60ae32ee201b",
+      "ticker": "SOXS",
+      "side": "BUY",
+      "quantity": 20,
+      "price": 56.71,
+      "executedAt": "2026-07-17T15:26:24.555Z"
+    },
+    {
+      "id": "6a5a4a48-686c-4864-aaa4-e8550f0cd6f6",
+      "ticker": "SOXS",
+      "side": "SELL",
+      "quantity": 20,
+      "price": 56.5534,
+      "executedAt": "2026-07-17T15:29:12.523Z"
+    },
+    {
+      "id": "6a5a4a8a-7d15-45f2-9f65-e02bd8e7ddb7",
+      "ticker": "SOXL",
+      "side": "BUY",
+      "quantity": 20,
+      "price": 130.45,
+      "executedAt": "2026-07-17T15:30:18.983Z"
+    },
+    {
+      "id": "6a5a50a9-898c-43ce-a0ef-4576264d73fc",
+      "ticker": "SOXL",
+      "side": "SELL",
+      "quantity": 10,
+      "price": 139.045,
+      "executedAt": "2026-07-17T15:56:25.613Z"
+    },
+    {
+      "id": "6a5a5544-65fc-4674-a3e6-cb393576b2ed",
+      "ticker": "SOXL",
+      "side": "SELL",
+      "quantity": 10,
+      "price": 141.37,
+      "executedAt": "2026-07-17T16:16:04.407Z"
+    }
+  ]
+}

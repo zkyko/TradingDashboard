@@ -1,0 +1,400 @@
+{
+  "id": "2026-07-08",
+  "date": "2026-07-08",
+  "label": "Wednesday, Jul 8, 2026",
+  "weekday": "Wed",
+  "weekId": "2026-W28",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:04.659Z",
+  "realizedPnl": -191.85517444399997,
+  "tradeCount": 8,
+  "winCount": 3,
+  "lossCount": 5,
+  "processGrades": {
+    "A": 0,
+    "B": 3,
+    "C": 5
+  },
+  "metrics": {
+    "tradeCount": 8,
+    "winCount": 3,
+    "lossCount": 5,
+    "flatCount": 0,
+    "winRate": 0.375,
+    "winPct": 37.5,
+    "profitFactor": 0.1196215361071804,
+    "profitFactorInfinite": false,
+    "rewardRisk": 0.19936922684530065,
+    "expectancy": -23.981896805499996,
+    "avgWin": 8.689448768666667,
+    "avgLoss": -43.58470415,
+    "avgLossAbs": 43.58470415,
+    "grossWin": 26.068346306000002,
+    "grossLoss": -217.92352075,
+    "realizedPnl": -191.85517444399997,
+    "bestTrade": 20.000000000000018,
+    "worstTrade": -94.79999999999998,
+    "avgHoldMinutes": 28774.455570833332,
+    "equityCurve": [
+      {
+        "t": "2026-07-08T14:19:43.626Z",
+        "pnl": -84.7
+      },
+      {
+        "t": "2026-07-08T14:20:21.468Z",
+        "pnl": -64.69999999999999
+      },
+      {
+        "t": "2026-07-08T14:21:06.854Z",
+        "pnl": -64.637653694
+      },
+      {
+        "t": "2026-07-08T14:21:06.854Z",
+        "pnl": -58.63165369400001
+      },
+      {
+        "t": "2026-07-08T14:21:33.923Z",
+        "pnl": -153.43165369399998
+      },
+      {
+        "t": "2026-07-08T14:21:33.923Z",
+        "pnl": -185.75165369399997
+      },
+      {
+        "t": "2026-07-08T18:00:07.186Z",
+        "pnl": -191.63665369399996
+      },
+      {
+        "t": "2026-07-08T18:00:07.186Z",
+        "pnl": -191.85517444399997
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "VPG",
+      "pnl": -127.11999999999998,
+      "trades": 2,
+      "wins": 0
+    },
+    {
+      "ticker": "TE",
+      "pnl": -84.7,
+      "trades": 1,
+      "wins": 0
+    },
+    {
+      "ticker": "BMBL",
+      "pnl": 20.000000000000018,
+      "trades": 1,
+      "wins": 1
+    },
+    {
+      "ticker": "QS",
+      "pnl": -6.1035207499999915,
+      "trades": 2,
+      "wins": 0
+    },
+    {
+      "ticker": "BULL",
+      "pnl": 6.0683463059999845,
+      "trades": 2,
+      "wins": 2
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "TE",
+      "qty": 35,
+      "entryPrice": 9.135,
+      "exitPrice": 6.715,
+      "pnl": -84.7,
+      "openedAt": "2026-07-01T15:24:34.659Z",
+      "closedAt": "2026-07-08T14:19:43.626Z",
+      "holdMinutes": 10015.14945,
+      "overnight": true
+    },
+    {
+      "ticker": "BMBL",
+      "qty": 100,
+      "entryPrice": 2.815,
+      "exitPrice": 3.015,
+      "pnl": 20.000000000000018,
+      "openedAt": "2026-06-25T17:33:39.4Z",
+      "closedAt": "2026-07-08T14:20:21.468Z",
+      "holdMinutes": 18526.701133333332,
+      "overnight": true
+    },
+    {
+      "ticker": "BULL",
+      "qty": 0.944641,
+      "entryPrice": 7.045,
+      "exitPrice": 7.111,
+      "pnl": 0.062346305999999845,
+      "openedAt": "2026-05-08T19:10:14.688Z",
+      "closedAt": "2026-07-08T14:21:06.854Z",
+      "holdMinutes": 87550.86943333334,
+      "overnight": true
+    },
+    {
+      "ticker": "BULL",
+      "qty": 90.99999999999999,
+      "entryPrice": 7.045,
+      "exitPrice": 7.111,
+      "pnl": 6.005999999999984,
+      "openedAt": "2026-05-08T19:10:14.688Z",
+      "closedAt": "2026-07-08T14:21:06.854Z",
+      "holdMinutes": 87550.86943333334,
+      "overnight": true
+    },
+    {
+      "ticker": "VPG",
+      "qty": 3,
+      "entryPrice": 141.28,
+      "exitPrice": 109.68,
+      "pnl": -94.79999999999998,
+      "openedAt": "2026-07-01T13:35:38.377Z",
+      "closedAt": "2026-07-08T14:21:33.923Z",
+      "holdMinutes": 10125.925766666667,
+      "overnight": true
+    },
+    {
+      "ticker": "VPG",
+      "qty": 1,
+      "entryPrice": 142,
+      "exitPrice": 109.68,
+      "pnl": -32.31999999999999,
+      "openedAt": "2026-07-01T13:35:38.377Z",
+      "closedAt": "2026-07-08T14:21:33.923Z",
+      "holdMinutes": 10125.925766666667,
+      "overnight": true
+    },
+    {
+      "ticker": "QS",
+      "qty": 11,
+      "entryPrice": 7.1,
+      "exitPrice": 6.565,
+      "pnl": -5.884999999999992,
+      "openedAt": "2026-07-06T13:30:01.071Z",
+      "closedAt": "2026-07-08T18:00:07.186Z",
+      "holdMinutes": 3150.1019166666665,
+      "overnight": true
+    },
+    {
+      "ticker": "QS",
+      "qty": 0.40845,
+      "entryPrice": 7.1,
+      "exitPrice": 6.565,
+      "pnl": -0.21852074999999968,
+      "openedAt": "2026-07-06T13:30:01.086Z",
+      "closedAt": "2026-07-08T18:00:07.186Z",
+      "holdMinutes": 3150.1016666666665,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "TE",
+      "qty": 35,
+      "entryPrice": 9.135,
+      "exitPrice": 6.715,
+      "pnl": -84.7,
+      "openedAt": "2026-07-01T15:24:34.659Z",
+      "closedAt": "2026-07-08T14:19:43.626Z",
+      "holdMinutes": 10015.14945,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 2.42,
+      "notional": 319.72499999999997,
+      "review": "overnight · 10015m · 2.42 pts · Flags: overnight · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "BMBL",
+      "qty": 100,
+      "entryPrice": 2.815,
+      "exitPrice": 3.015,
+      "pnl": 20.000000000000018,
+      "openedAt": "2026-06-25T17:33:39.4Z",
+      "closedAt": "2026-07-08T14:20:21.468Z",
+      "holdMinutes": 18526.701133333332,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.20000000000000018,
+      "notional": 281.5,
+      "review": "overnight · 18527m · 0.20 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "BULL",
+      "qty": 0.944641,
+      "entryPrice": 7.045,
+      "exitPrice": 7.111,
+      "pnl": 0.062346305999999845,
+      "openedAt": "2026-05-08T19:10:14.688Z",
+      "closedAt": "2026-07-08T14:21:06.854Z",
+      "holdMinutes": 87550.86943333334,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.06599999999999984,
+      "notional": 6.654995844999999,
+      "review": "overnight · 87551m · 0.07 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "BULL",
+      "qty": 90.99999999999999,
+      "entryPrice": 7.045,
+      "exitPrice": 7.111,
+      "pnl": 6.005999999999984,
+      "openedAt": "2026-05-08T19:10:14.688Z",
+      "closedAt": "2026-07-08T14:21:06.854Z",
+      "holdMinutes": 87550.86943333334,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.06599999999999984,
+      "notional": 641.0949999999999,
+      "review": "overnight · 87551m · 0.07 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "VPG",
+      "qty": 3,
+      "entryPrice": 141.28,
+      "exitPrice": 109.68,
+      "pnl": -94.79999999999998,
+      "openedAt": "2026-07-01T13:35:38.377Z",
+      "closedAt": "2026-07-08T14:21:33.923Z",
+      "holdMinutes": 10125.925766666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 31.599999999999994,
+      "notional": 423.84000000000003,
+      "review": "overnight · 10126m · 31.60 pts · Flags: overnight, high_frequency_day · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "VPG",
+      "qty": 1,
+      "entryPrice": 142,
+      "exitPrice": 109.68,
+      "pnl": -32.31999999999999,
+      "openedAt": "2026-07-01T13:35:38.377Z",
+      "closedAt": "2026-07-08T14:21:33.923Z",
+      "holdMinutes": 10125.925766666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 32.31999999999999,
+      "notional": 142,
+      "review": "overnight · 10126m · 32.32 pts · Flags: overnight, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "QS",
+      "qty": 11,
+      "entryPrice": 7.1,
+      "exitPrice": 6.565,
+      "pnl": -5.884999999999992,
+      "openedAt": "2026-07-06T13:30:01.071Z",
+      "closedAt": "2026-07-08T18:00:07.186Z",
+      "holdMinutes": 3150.1019166666665,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 0.5349999999999993,
+      "notional": 78.1,
+      "review": "overnight · 3150m · 0.53 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "QS",
+      "qty": 0.40845,
+      "entryPrice": 7.1,
+      "exitPrice": 6.565,
+      "pnl": -0.21852074999999968,
+      "openedAt": "2026-07-06T13:30:01.086Z",
+      "closedAt": "2026-07-08T18:00:07.186Z",
+      "holdMinutes": 3150.1016666666665,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 0.5349999999999993,
+      "notional": 2.8999949999999997,
+      "review": "overnight · 3150m · 0.53 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "overnight_hungover",
+    "score": 80,
+    "reasons": [
+      "Loss streak ×4",
+      "Overnight PnL $-192"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 4
+    },
+    "maxWin": 3,
+    "maxLoss": 4
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

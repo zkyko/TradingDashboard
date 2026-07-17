@@ -1,0 +1,153 @@
+{
+  "id": "2021-01-14",
+  "date": "2021-01-14",
+  "label": "Thursday, Jan 14, 2021",
+  "weekday": "Thu",
+  "weekId": "2021-W02",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:02.664Z",
+  "realizedPnl": 2.962099999999997,
+  "tradeCount": 2,
+  "winCount": 2,
+  "lossCount": 0,
+  "processGrades": {
+    "A": 0,
+    "B": 2,
+    "C": 0
+  },
+  "metrics": {
+    "tradeCount": 2,
+    "winCount": 2,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": 1,
+    "winPct": 100,
+    "profitFactor": null,
+    "profitFactorInfinite": true,
+    "rewardRisk": null,
+    "expectancy": 1.4810499999999984,
+    "avgWin": 1.4810499999999984,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 2.962099999999997,
+    "grossLoss": 0,
+    "realizedPnl": 2.962099999999997,
+    "bestTrade": 2.8718999999999966,
+    "worstTrade": 0.09020000000000028,
+    "avgHoldMinutes": 17314.649191666667,
+    "equityCurve": [
+      {
+        "t": "2021-01-14T18:27:48.274Z",
+        "pnl": 2.8718999999999966
+      },
+      {
+        "t": "2021-01-14T19:00:06.363Z",
+        "pnl": 2.962099999999997
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "ARKQ",
+      "pnl": 2.8718999999999966,
+      "trades": 1,
+      "wins": 1
+    },
+    {
+      "ticker": "KOPN",
+      "pnl": 0.09020000000000028,
+      "trades": 1,
+      "wins": 1
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "ARKQ",
+      "qty": 1,
+      "entryPrice": 85.5631,
+      "exitPrice": 88.435,
+      "pnl": 2.8718999999999966,
+      "openedAt": "2021-01-12T19:26:20.72Z",
+      "closedAt": "2021-01-14T18:27:48.274Z",
+      "holdMinutes": 2821.4592333333335,
+      "overnight": true
+    },
+    {
+      "ticker": "KOPN",
+      "qty": 1,
+      "entryPrice": 3.1098,
+      "exitPrice": 3.2,
+      "pnl": 0.09020000000000028,
+      "openedAt": "2020-12-23T16:52:16.014Z",
+      "closedAt": "2021-01-14T19:00:06.363Z",
+      "holdMinutes": 31807.83915,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "ARKQ",
+      "qty": 1,
+      "entryPrice": 85.5631,
+      "exitPrice": 88.435,
+      "pnl": 2.8718999999999966,
+      "openedAt": "2021-01-12T19:26:20.72Z",
+      "closedAt": "2021-01-14T18:27:48.274Z",
+      "holdMinutes": 2821.4592333333335,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 2.8718999999999966,
+      "notional": 85.5631,
+      "review": "overnight · 2821m · 2.87 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "KOPN",
+      "qty": 1,
+      "entryPrice": 3.1098,
+      "exitPrice": 3.2,
+      "pnl": 0.09020000000000028,
+      "openedAt": "2020-12-23T16:52:16.014Z",
+      "closedAt": "2021-01-14T19:00:06.363Z",
+      "holdMinutes": 31807.83915,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.09020000000000028,
+      "notional": 3.1098,
+      "review": "overnight · 31808m · 0.09 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 2
+    },
+    "maxWin": 2,
+    "maxLoss": 0
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

@@ -1,0 +1,167 @@
+{
+  "id": "2022-W28",
+  "label": "Jul 11 – Jul 15, 2022",
+  "start": "2022-07-11",
+  "end": "2022-07-18",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:06.505Z",
+  "realizedPnl": 36.21740163859991,
+  "tradeCount": 9,
+  "winCount": 5,
+  "lossCount": 4,
+  "priorWeekPnl": 9.236981261599997,
+  "metrics": {
+    "tradeCount": 9,
+    "winCount": 5,
+    "lossCount": 4,
+    "flatCount": 0,
+    "winRate": 0.5555555555555556,
+    "winPct": 55.55555555555556,
+    "profitFactor": 3.1847880747736634,
+    "profitFactorInfinite": false,
+    "rewardRisk": 2.5478304598189307,
+    "expectancy": 4.024155737622213,
+    "avgWin": 10.558895864519993,
+    "avgLoss": -4.144269421000011,
+    "avgLossAbs": 4.144269421000011,
+    "grossWin": 52.79447932259996,
+    "grossLoss": -16.577077684000045,
+    "realizedPnl": 36.21740163859991,
+    "bestTrade": 18.80879999999999,
+    "worstTrade": -16.461000000000045,
+    "avgHoldMinutes": 1462.8136537037035,
+    "equityCurve": [
+      {
+        "t": "2022-07-12T16:32:04.668Z",
+        "pnl": 7.121600000000001
+      },
+      {
+        "t": "2022-07-12T19:04:19.487Z",
+        "pnl": 23.250479322599983
+      },
+      {
+        "t": "2022-07-12T19:04:19.487Z",
+        "pnl": 42.05927932259998
+      },
+      {
+        "t": "2022-07-12T19:04:19.487Z",
+        "pnl": 42.71447932259998
+      },
+      {
+        "t": "2022-07-12T19:04:36.147Z",
+        "pnl": 52.79447932259996
+      },
+      {
+        "t": "2022-07-15T19:42:16.873014Z",
+        "pnl": 52.71186969259996
+      },
+      {
+        "t": "2022-07-15T19:42:16.873014Z",
+        "pnl": 52.69788402859996
+      },
+      {
+        "t": "2022-07-15T19:42:16.934Z",
+        "pnl": 52.67840163859996
+      },
+      {
+        "t": "2022-07-15T19:42:16.934Z",
+        "pnl": 36.21740163859991
+      }
+    ]
+  },
+  "soxlMetrics": {
+    "tradeCount": 0,
+    "winCount": 0,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": null,
+    "winPct": null,
+    "profitFactor": null,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": null,
+    "avgWin": null,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0,
+    "grossLoss": 0,
+    "realizedPnl": 0,
+    "bestTrade": null,
+    "worstTrade": null,
+    "avgHoldMinutes": null,
+    "equityCurve": []
+  },
+  "days": [
+    {
+      "date": "2022-07-11",
+      "label": "Mon",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2022-07-12",
+      "label": "Tue",
+      "pnl": 52.79447932259996,
+      "trades": 5
+    },
+    {
+      "date": "2022-07-13",
+      "label": "Wed",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2022-07-14",
+      "label": "Thu",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2022-07-15",
+      "label": "Fri",
+      "pnl": -16.577077684000045,
+      "trades": 4
+    }
+  ],
+  "byTicker": [
+    {
+      "ticker": "AMC",
+      "pnl": 35.59287932259998,
+      "trades": 3,
+      "wins": 3
+    },
+    {
+      "ticker": "GME",
+      "pnl": 17.201599999999985,
+      "trades": 2,
+      "wins": 2
+    },
+    {
+      "ticker": "GOEV",
+      "pnl": -16.577077684000045,
+      "trades": 4,
+      "wins": 0
+    }
+  ],
+  "tilt": {
+    "state": "cooling_off",
+    "score": 70,
+    "reasons": [
+      "Loss streak ×4"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 4
+    },
+    "maxWin": 5,
+    "maxLoss": 4
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "mistakes": [],
+  "openNotes": []
+}

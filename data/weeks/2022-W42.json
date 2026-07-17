@@ -1,0 +1,171 @@
+{
+  "id": "2022-W42",
+  "label": "Oct 17 – Oct 21, 2022",
+  "start": "2022-10-17",
+  "end": "2022-10-24",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:06.416Z",
+  "realizedPnl": -1.0903629578999992,
+  "tradeCount": 10,
+  "winCount": 5,
+  "lossCount": 5,
+  "priorWeekPnl": null,
+  "metrics": {
+    "tradeCount": 10,
+    "winCount": 5,
+    "lossCount": 5,
+    "flatCount": 0,
+    "winRate": 0.5,
+    "winPct": 50,
+    "profitFactor": 0.13073070588445332,
+    "profitFactorInfinite": false,
+    "rewardRisk": 0.13073070588445332,
+    "expectancy": -0.10903629578999992,
+    "avgWin": 0.03279626236,
+    "avgLoss": -0.25086885393999986,
+    "avgLossAbs": 0.25086885393999986,
+    "grossWin": 0.1639813118,
+    "grossLoss": -1.2543442696999993,
+    "realizedPnl": -1.0903629578999992,
+    "bestTrade": 0.16267724,
+    "worstTrade": -0.8456511749999999,
+    "avgHoldMinutes": 465723.6419966666,
+    "equityCurve": [
+      {
+        "t": "2022-10-21T17:45:02.73543Z",
+        "pnl": -0.8456511749999999
+      },
+      {
+        "t": "2022-10-21T17:45:16.352602Z",
+        "pnl": -0.6829739349999999
+      },
+      {
+        "t": "2022-10-21T17:45:16.352602Z",
+        "pnl": -0.6827107749999999
+      },
+      {
+        "t": "2022-10-21T17:45:16.352602Z",
+        "pnl": -0.6831222327999998
+      },
+      {
+        "t": "2022-10-21T17:45:16.352602Z",
+        "pnl": -0.6830735127999998
+      },
+      {
+        "t": "2022-10-21T17:45:16.352602Z",
+        "pnl": -0.6827645997999998
+      },
+      {
+        "t": "2022-10-21T17:45:16.352602Z",
+        "pnl": -0.6820813209999999
+      },
+      {
+        "t": "2022-10-21T17:45:16.352602Z",
+        "pnl": -0.6824626977999999
+      },
+      {
+        "t": "2022-10-21T17:45:16.352602Z",
+        "pnl": -0.6830629578999999
+      },
+      {
+        "t": "2022-10-21T17:45:25.049Z",
+        "pnl": -1.0903629578999992
+      }
+    ]
+  },
+  "soxlMetrics": {
+    "tradeCount": 0,
+    "winCount": 0,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": null,
+    "winPct": null,
+    "profitFactor": null,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": null,
+    "avgWin": null,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0,
+    "grossLoss": 0,
+    "realizedPnl": 0,
+    "bestTrade": null,
+    "worstTrade": null,
+    "avgHoldMinutes": null,
+    "equityCurve": []
+  },
+  "days": [
+    {
+      "date": "2022-10-17",
+      "label": "Mon",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2022-10-18",
+      "label": "Tue",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2022-10-19",
+      "label": "Wed",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2022-10-20",
+      "label": "Thu",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2022-10-21",
+      "label": "Fri",
+      "pnl": -1.0903629578999992,
+      "trades": 10
+    }
+  ],
+  "byTicker": [
+    {
+      "ticker": "COIN",
+      "pnl": -0.8456511749999999,
+      "trades": 1,
+      "wins": 0
+    },
+    {
+      "ticker": "TQQQ",
+      "pnl": -0.40729999999999933,
+      "trades": 1,
+      "wins": 0
+    },
+    {
+      "ticker": "VICI",
+      "pnl": 0.16258821710000002,
+      "trades": 8,
+      "wins": 5
+    }
+  ],
+  "tilt": {
+    "state": "cooling_off",
+    "score": 60,
+    "reasons": [
+      "Loss streak ×3"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 3
+    },
+    "maxWin": 3,
+    "maxLoss": 3
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "mistakes": [],
+  "openNotes": []
+}

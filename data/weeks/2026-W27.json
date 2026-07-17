@@ -1,0 +1,255 @@
+{
+  "id": "2026-W27",
+  "label": "Jun 29 – Jul 3, 2026",
+  "start": "2026-06-29",
+  "end": "2026-07-06",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:05.258Z",
+  "realizedPnl": 1.6418935566049941,
+  "tradeCount": 19,
+  "winCount": 4,
+  "lossCount": 15,
+  "priorWeekPnl": null,
+  "metrics": {
+    "tradeCount": 19,
+    "winCount": 4,
+    "lossCount": 15,
+    "flatCount": 0,
+    "winRate": 0.21052631578947367,
+    "winPct": 21.052631578947366,
+    "profitFactor": 1.0380628073650873,
+    "profitFactorInfinite": false,
+    "rewardRisk": 3.8927355276190774,
+    "expectancy": 0.08641545034763128,
+    "avgWin": 11.194580436592753,
+    "avgLoss": -2.8757618793177353,
+    "avgLossAbs": 2.8757618793177353,
+    "grossWin": 44.77832174637101,
+    "grossLoss": -43.13642818976603,
+    "realizedPnl": 1.6418935566049941,
+    "bestTrade": 34.40000000000001,
+    "worstTrade": -15.249999999999986,
+    "avgHoldMinutes": 65945.8046245614,
+    "equityCurve": [
+      {
+        "t": "2026-06-30T13:27:04.787Z",
+        "pnl": 34.40000000000001
+      },
+      {
+        "t": "2026-06-30T13:27:25.709Z",
+        "pnl": 19.150000000000027
+      },
+      {
+        "t": "2026-07-01T13:30:00.946Z",
+        "pnl": 19.116762172000026
+      },
+      {
+        "t": "2026-07-01T13:30:00.946Z",
+        "pnl": 17.566000000000006
+      },
+      {
+        "t": "2026-07-01T13:30:00.951Z",
+        "pnl": 16.27276217199999
+      },
+      {
+        "t": "2026-07-01T15:22:43.578Z",
+        "pnl": 14.03118216699999
+      },
+      {
+        "t": "2026-07-01T15:22:52.863Z",
+        "pnl": 11.956653486999993
+      },
+      {
+        "t": "2026-07-01T15:22:52.863Z",
+        "pnl": 11.949744913033994
+      },
+      {
+        "t": "2026-07-01T15:23:00.795Z",
+        "pnl": 20.851507284034
+      },
+      {
+        "t": "2026-07-01T15:23:00.795Z",
+        "pnl": 20.861805017405
+      },
+      {
+        "t": "2026-07-01T15:23:10.603Z",
+        "pnl": 19.951062594004995
+      },
+      {
+        "t": "2026-07-01T15:23:10.603Z",
+        "pnl": 19.946915794804994
+      },
+      {
+        "t": "2026-07-01T15:23:19.82Z",
+        "pnl": 18.380042713004993
+      },
+      {
+        "t": "2026-07-01T15:23:19.82Z",
+        "pnl": 11.933715794804993
+      },
+      {
+        "t": "2026-07-01T15:23:19.82Z",
+        "pnl": 10.366842713004992
+      },
+      {
+        "t": "2026-07-01T15:23:30.469Z",
+        "pnl": 4.436790903004992
+      },
+      {
+        "t": "2026-07-01T15:23:30.469Z",
+        "pnl": 4.429336174604992
+      },
+      {
+        "t": "2026-07-01T15:23:40.12Z",
+        "pnl": 0.1756319146049936
+      },
+      {
+        "t": "2026-07-01T15:23:49.675Z",
+        "pnl": 1.6418935566049941
+      }
+    ]
+  },
+  "soxlMetrics": {
+    "tradeCount": 0,
+    "winCount": 0,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": null,
+    "winPct": null,
+    "profitFactor": null,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": null,
+    "avgWin": null,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0,
+    "grossLoss": 0,
+    "realizedPnl": 0,
+    "bestTrade": null,
+    "worstTrade": null,
+    "avgHoldMinutes": null,
+    "equityCurve": []
+  },
+  "days": [
+    {
+      "date": "2026-06-29",
+      "label": "Mon",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2026-06-30",
+      "label": "Tue",
+      "pnl": 19.150000000000027,
+      "trades": 2
+    },
+    {
+      "date": "2026-07-01",
+      "label": "Wed",
+      "pnl": -17.508106443395036,
+      "trades": 17
+    },
+    {
+      "date": "2026-07-02",
+      "label": "Thu",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2026-07-03",
+      "label": "Fri",
+      "pnl": 0,
+      "trades": 0
+    }
+  ],
+  "byTicker": [
+    {
+      "ticker": "PSNL",
+      "pnl": 34.40000000000001,
+      "trades": 1,
+      "wins": 1
+    },
+    {
+      "ticker": "BULL",
+      "pnl": -15.249999999999986,
+      "trades": 1,
+      "wins": 0
+    },
+    {
+      "ticker": "ARDX",
+      "pnl": -9.580073081800002,
+      "trades": 3,
+      "wins": 0
+    },
+    {
+      "ticker": "LLY",
+      "pnl": 8.912060104371003,
+      "trades": 2,
+      "wins": 2
+    },
+    {
+      "ticker": "ICE",
+      "pnl": -5.9375065384,
+      "trades": 2,
+      "wins": 0
+    },
+    {
+      "ticker": "KTOS",
+      "pnl": -4.253704259999998,
+      "trades": 1,
+      "wins": 0
+    },
+    {
+      "ticker": "UA",
+      "pnl": -2.8772378280000384,
+      "trades": 3,
+      "wins": 0
+    },
+    {
+      "ticker": "AVGO",
+      "pnl": -2.2415800050000003,
+      "trades": 1,
+      "wins": 0
+    },
+    {
+      "ticker": "VST",
+      "pnl": -2.081437253965997,
+      "trades": 2,
+      "wins": 0
+    },
+    {
+      "ticker": "MA",
+      "pnl": 1.4662616420000005,
+      "trades": 1,
+      "wins": 1
+    },
+    {
+      "ticker": "CI",
+      "pnl": -0.9148892226000043,
+      "trades": 2,
+      "wins": 0
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 1
+    },
+    "maxWin": 2,
+    "maxLoss": 8
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "mistakes": [],
+  "openNotes": []
+}

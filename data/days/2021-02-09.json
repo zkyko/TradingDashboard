@@ -1,0 +1,228 @@
+{
+  "id": "2021-02-09",
+  "date": "2021-02-09",
+  "label": "Tuesday, Feb 9, 2021",
+  "weekday": "Tue",
+  "weekId": "2021-W06",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:02.879Z",
+  "realizedPnl": -68.320052,
+  "tradeCount": 4,
+  "winCount": 2,
+  "lossCount": 2,
+  "processGrades": {
+    "A": 0,
+    "B": 2,
+    "C": 2
+  },
+  "metrics": {
+    "tradeCount": 4,
+    "winCount": 2,
+    "lossCount": 2,
+    "flatCount": 0,
+    "winRate": 0.5,
+    "winPct": 50,
+    "profitFactor": 0.19370671576177073,
+    "profitFactorInfinite": false,
+    "rewardRisk": 0.19370671576177073,
+    "expectancy": -17.080013,
+    "avgWin": 8.206724,
+    "avgLoss": -42.366749999999996,
+    "avgLossAbs": 42.366749999999996,
+    "grossWin": 16.413448,
+    "grossLoss": -84.73349999999999,
+    "realizedPnl": -68.320052,
+    "bestTrade": 15.643248,
+    "worstTrade": -73.5312,
+    "avgHoldMinutes": 14783.534054166668,
+    "equityCurve": [
+      {
+        "t": "2021-02-09T15:55:36.55Z",
+        "pnl": 15.643248
+      },
+      {
+        "t": "2021-02-09T15:55:36.55Z",
+        "pnl": 16.413448
+      },
+      {
+        "t": "2021-02-09T15:55:36.55Z",
+        "pnl": 5.211147999999998
+      },
+      {
+        "t": "2021-02-09T19:34:50.203Z",
+        "pnl": -68.320052
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "GME",
+      "pnl": -73.5312,
+      "trades": 1,
+      "wins": 0
+    },
+    {
+      "ticker": "NAKD",
+      "pnl": 5.211147999999998,
+      "trades": 3,
+      "wins": 2
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "NAKD",
+      "qty": 48,
+      "entryPrice": 0.789099,
+      "exitPrice": 1.115,
+      "pnl": 15.643248,
+      "openedAt": "2021-01-27T16:33:28Z",
+      "closedAt": "2021-02-09T15:55:36.55Z",
+      "holdMinutes": 18682.1425,
+      "overnight": true
+    },
+    {
+      "ticker": "NAKD",
+      "qty": 2,
+      "entryPrice": 0.7299,
+      "exitPrice": 1.115,
+      "pnl": 0.7702,
+      "openedAt": "2021-01-27T16:55:32.861Z",
+      "closedAt": "2021-02-09T15:55:36.55Z",
+      "holdMinutes": 18660.061483333335,
+      "overnight": true
+    },
+    {
+      "ticker": "NAKD",
+      "qty": 27,
+      "entryPrice": 1.5299,
+      "exitPrice": 1.115,
+      "pnl": -11.202300000000001,
+      "openedAt": "2021-02-01T15:23:02.609Z",
+      "closedAt": "2021-02-09T15:55:36.55Z",
+      "holdMinutes": 11552.565683333334,
+      "overnight": true
+    },
+    {
+      "ticker": "GME",
+      "qty": 1,
+      "entryPrice": 123,
+      "exitPrice": 49.4688,
+      "pnl": -73.5312,
+      "openedAt": "2021-02-02T16:55:28.21Z",
+      "closedAt": "2021-02-09T19:34:50.203Z",
+      "holdMinutes": 10239.36655,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "NAKD",
+      "qty": 48,
+      "entryPrice": 0.789099,
+      "exitPrice": 1.115,
+      "pnl": 15.643248,
+      "openedAt": "2021-01-27T16:33:28Z",
+      "closedAt": "2021-02-09T15:55:36.55Z",
+      "holdMinutes": 18682.1425,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.325901,
+      "notional": 37.876751999999996,
+      "review": "overnight · 18682m · 0.33 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "NAKD",
+      "qty": 2,
+      "entryPrice": 0.7299,
+      "exitPrice": 1.115,
+      "pnl": 0.7702,
+      "openedAt": "2021-01-27T16:55:32.861Z",
+      "closedAt": "2021-02-09T15:55:36.55Z",
+      "holdMinutes": 18660.061483333335,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.3851,
+      "notional": 1.4598,
+      "review": "overnight · 18660m · 0.39 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "NAKD",
+      "qty": 27,
+      "entryPrice": 1.5299,
+      "exitPrice": 1.115,
+      "pnl": -11.202300000000001,
+      "openedAt": "2021-02-01T15:23:02.609Z",
+      "closedAt": "2021-02-09T15:55:36.55Z",
+      "holdMinutes": 11552.565683333334,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.41490000000000005,
+      "notional": 41.3073,
+      "review": "overnight · 11553m · 0.41 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "GME",
+      "qty": 1,
+      "entryPrice": 123,
+      "exitPrice": 49.4688,
+      "pnl": -73.5312,
+      "openedAt": "2021-02-02T16:55:28.21Z",
+      "closedAt": "2021-02-09T19:34:50.203Z",
+      "holdMinutes": 10239.36655,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "size_up_after_loss"
+      ],
+      "movePts": 73.5312,
+      "notional": 123,
+      "review": "overnight · 10239m · 73.53 pts · Flags: overnight, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    }
+  ],
+  "tilt": {
+    "state": "overnight_hungover",
+    "score": 80,
+    "reasons": [
+      "Overnight PnL $-68"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 2
+    },
+    "maxWin": 2,
+    "maxLoss": 2
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

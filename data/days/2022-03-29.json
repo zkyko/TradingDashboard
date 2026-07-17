@@ -1,0 +1,337 @@
+{
+  "id": "2022-03-29",
+  "date": "2022-03-29",
+  "label": "Tuesday, Mar 29, 2022",
+  "weekday": "Tue",
+  "weekId": "2022-W13",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:03.873Z",
+  "realizedPnl": -76.36410720510005,
+  "tradeCount": 7,
+  "winCount": 0,
+  "lossCount": 7,
+  "processGrades": {
+    "A": 0,
+    "B": 2,
+    "C": 5
+  },
+  "metrics": {
+    "tradeCount": 7,
+    "winCount": 0,
+    "lossCount": 7,
+    "flatCount": 0,
+    "winRate": 0,
+    "winPct": 0,
+    "profitFactor": 0,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": -10.90915817215715,
+    "avgWin": null,
+    "avgLoss": -10.90915817215715,
+    "avgLossAbs": 10.90915817215715,
+    "grossWin": 0,
+    "grossLoss": -76.36410720510005,
+    "realizedPnl": -76.36410720510005,
+    "bestTrade": -0.008651485100000003,
+    "worstTrade": -67.63258464480005,
+    "avgHoldMinutes": 18.521785714285716,
+    "equityCurve": [
+      {
+        "t": "2022-03-29T14:03:35.551Z",
+        "pnl": -0.5787315015000001
+      },
+      {
+        "t": "2022-03-29T14:03:35.551Z",
+        "pnl": -1.4824095452999992
+      },
+      {
+        "t": "2022-03-29T14:04:25.15Z",
+        "pnl": -7.017937052400001
+      },
+      {
+        "t": "2022-03-29T14:04:25.15Z",
+        "pnl": -7.0265885375
+      },
+      {
+        "t": "2022-03-29T14:04:25.15Z",
+        "pnl": -7.4274034445
+      },
+      {
+        "t": "2022-03-29T14:04:25.15Z",
+        "pnl": -8.731522560300002
+      },
+      {
+        "t": "2022-03-29T14:04:25.15Z",
+        "pnl": -76.36410720510005
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "AMC",
+      "pnl": -76.36410720510005,
+      "trades": 7,
+      "wins": 0
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "AMC",
+      "qty": 0.384667,
+      "entryPrice": 29.545,
+      "exitPrice": 28.0405,
+      "pnl": -0.5787315015000001,
+      "openedAt": "2022-03-29T13:45:33.643192Z",
+      "closedAt": "2022-03-29T14:03:35.551Z",
+      "holdMinutes": 18.0318,
+      "overnight": false
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.615333,
+      "entryPrice": 29.5091,
+      "exitPrice": 28.0405,
+      "pnl": -0.9036780437999992,
+      "openedAt": "2022-03-29T13:45:33.706Z",
+      "closedAt": "2022-03-29T14:03:35.551Z",
+      "holdMinutes": 18.03075,
+      "overnight": false
+    },
+    {
+      "ticker": "AMC",
+      "qty": 2.384667,
+      "entryPrice": 29.5091,
+      "exitPrice": 27.1878,
+      "pnl": -5.535527507100001,
+      "openedAt": "2022-03-29T13:45:33.706Z",
+      "closedAt": "2022-03-29T14:04:25.15Z",
+      "holdMinutes": 18.8574,
+      "overnight": false
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.003727,
+      "entryPrice": 29.5091,
+      "exitPrice": 27.1878,
+      "pnl": -0.008651485100000003,
+      "openedAt": "2022-03-29T13:45:33.706Z",
+      "closedAt": "2022-03-29T14:04:25.15Z",
+      "holdMinutes": 18.8574,
+      "overnight": false
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.160185,
+      "entryPrice": 29.69,
+      "exitPrice": 27.1878,
+      "pnl": -0.4008149070000003,
+      "openedAt": "2022-03-29T13:45:47.617777Z",
+      "closedAt": "2022-03-29T14:04:25.15Z",
+      "holdMinutes": 18.62555,
+      "overnight": false
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.521189,
+      "entryPrice": 29.69,
+      "exitPrice": 27.1878,
+      "pnl": -1.3041191158000012,
+      "openedAt": "2022-03-29T13:45:47.64429Z",
+      "closedAt": "2022-03-29T14:04:25.15Z",
+      "holdMinutes": 18.6251,
+      "overnight": false
+    },
+    {
+      "ticker": "AMC",
+      "qty": 26.930232,
+      "entryPrice": 29.6992,
+      "exitPrice": 27.1878,
+      "pnl": -67.63258464480005,
+      "openedAt": "2022-03-29T13:45:47.68Z",
+      "closedAt": "2022-03-29T14:04:25.15Z",
+      "holdMinutes": 18.6245,
+      "overnight": false
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "AMC",
+      "qty": 0.384667,
+      "entryPrice": 29.545,
+      "exitPrice": 28.0405,
+      "pnl": -0.5787315015000001,
+      "openedAt": "2022-03-29T13:45:33.643192Z",
+      "closedAt": "2022-03-29T14:03:35.551Z",
+      "holdMinutes": 18.0318,
+      "overnight": false,
+      "holdBucket": "m15_60",
+      "grade": "B",
+      "flags": [],
+      "movePts": 1.5045000000000002,
+      "notional": 11.364986515,
+      "review": "m15 60 · 18m · 1.50 pts · Valid hold window; loss is cost of doing business if stop was planned.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "Repeat only if entry/invalidation were written first."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.615333,
+      "entryPrice": 29.5091,
+      "exitPrice": 28.0405,
+      "pnl": -0.9036780437999992,
+      "openedAt": "2022-03-29T13:45:33.706Z",
+      "closedAt": "2022-03-29T14:03:35.551Z",
+      "holdMinutes": 18.03075,
+      "overnight": false,
+      "holdBucket": "m15_60",
+      "grade": "C",
+      "flags": [
+        "size_up_after_loss"
+      ],
+      "movePts": 1.4685999999999986,
+      "notional": 18.1579230303,
+      "review": "m15 60 · 18m · 1.47 pts · Flags: size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 2.384667,
+      "entryPrice": 29.5091,
+      "exitPrice": 27.1878,
+      "pnl": -5.535527507100001,
+      "openedAt": "2022-03-29T13:45:33.706Z",
+      "closedAt": "2022-03-29T14:04:25.15Z",
+      "holdMinutes": 18.8574,
+      "overnight": false,
+      "holdBucket": "m15_60",
+      "grade": "C",
+      "flags": [
+        "after_loss_streak",
+        "size_up_after_loss"
+      ],
+      "movePts": 2.321300000000001,
+      "notional": 70.3693769697,
+      "review": "m15 60 · 19m · 2.32 pts · Flags: after_loss_streak, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.003727,
+      "entryPrice": 29.5091,
+      "exitPrice": 27.1878,
+      "pnl": -0.008651485100000003,
+      "openedAt": "2022-03-29T13:45:33.706Z",
+      "closedAt": "2022-03-29T14:04:25.15Z",
+      "holdMinutes": 18.8574,
+      "overnight": false,
+      "holdBucket": "m15_60",
+      "grade": "B",
+      "flags": [
+        "after_loss_streak"
+      ],
+      "movePts": 2.321300000000001,
+      "notional": 0.1099804157,
+      "review": "m15 60 · 19m · 2.32 pts · Flags: after_loss_streak · Valid hold window; loss is cost of doing business if stop was planned.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "Repeat only if entry/invalidation were written first."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.160185,
+      "entryPrice": 29.69,
+      "exitPrice": 27.1878,
+      "pnl": -0.4008149070000003,
+      "openedAt": "2022-03-29T13:45:47.617777Z",
+      "closedAt": "2022-03-29T14:04:25.15Z",
+      "holdMinutes": 18.62555,
+      "overnight": false,
+      "holdBucket": "m15_60",
+      "grade": "C",
+      "flags": [
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 2.502200000000002,
+      "notional": 4.75589265,
+      "review": "m15 60 · 19m · 2.50 pts · Flags: after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.521189,
+      "entryPrice": 29.69,
+      "exitPrice": 27.1878,
+      "pnl": -1.3041191158000012,
+      "openedAt": "2022-03-29T13:45:47.64429Z",
+      "closedAt": "2022-03-29T14:04:25.15Z",
+      "holdMinutes": 18.6251,
+      "overnight": false,
+      "holdBucket": "m15_60",
+      "grade": "C",
+      "flags": [
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 2.502200000000002,
+      "notional": 15.474101410000001,
+      "review": "m15 60 · 19m · 2.50 pts · Flags: after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 26.930232,
+      "entryPrice": 29.6992,
+      "exitPrice": 27.1878,
+      "pnl": -67.63258464480005,
+      "openedAt": "2022-03-29T13:45:47.68Z",
+      "closedAt": "2022-03-29T14:04:25.15Z",
+      "holdMinutes": 18.6245,
+      "overnight": false,
+      "holdBucket": "m15_60",
+      "grade": "C",
+      "flags": [
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 2.511400000000002,
+      "notional": 799.8063462144,
+      "review": "m15 60 · 19m · 2.51 pts · Flags: after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    }
+  ],
+  "tilt": {
+    "state": "cooling_off",
+    "score": 70,
+    "reasons": [
+      "Loss streak ×7"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 7
+    },
+    "maxWin": 0,
+    "maxLoss": 7
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

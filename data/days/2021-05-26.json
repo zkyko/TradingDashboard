@@ -1,0 +1,393 @@
+{
+  "id": "2021-05-26",
+  "date": "2021-05-26",
+  "label": "Wednesday, May 26, 2021",
+  "weekday": "Wed",
+  "weekId": "2021-W21",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:03.238Z",
+  "realizedPnl": -27.51920227159997,
+  "tradeCount": 8,
+  "winCount": 2,
+  "lossCount": 6,
+  "processGrades": {
+    "A": 0,
+    "B": 1,
+    "C": 7
+  },
+  "metrics": {
+    "tradeCount": 8,
+    "winCount": 2,
+    "lossCount": 6,
+    "flatCount": 0,
+    "winRate": 0.25,
+    "winPct": 25,
+    "profitFactor": 0.019963961283222677,
+    "profitFactorInfinite": false,
+    "rewardRisk": 0.05989188384966803,
+    "expectancy": -3.439900283949996,
+    "avgWin": 0.2802918805999977,
+    "avgLoss": -4.679964338799994,
+    "avgLossAbs": 4.679964338799994,
+    "grossWin": 0.5605837611999954,
+    "grossLoss": -28.079786032799966,
+    "realizedPnl": -27.51920227159997,
+    "bestTrade": 0.4747372811999957,
+    "worstTrade": -12.785016771799965,
+    "avgHoldMinutes": 133663.51287500001,
+    "equityCurve": [
+      {
+        "t": "2021-05-26T13:36:20.114Z",
+        "pnl": -3.7420550915999793
+      },
+      {
+        "t": "2021-05-26T13:36:20.114Z",
+        "pnl": -5.31263905159998
+      },
+      {
+        "t": "2021-05-26T13:36:20.114Z",
+        "pnl": -13.7230511516
+      },
+      {
+        "t": "2021-05-26T13:36:42.866Z",
+        "pnl": -15.293751151599999
+      },
+      {
+        "t": "2021-05-26T14:07:24.345Z",
+        "pnl": -28.078767923399965
+      },
+      {
+        "t": "2021-05-26T14:07:24.345Z",
+        "pnl": -28.079786032799966
+      },
+      {
+        "t": "2021-05-26T16:14:14.947661Z",
+        "pnl": -27.60504875159997
+      },
+      {
+        "t": "2021-05-26T16:14:14.947661Z",
+        "pnl": -27.51920227159997
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "OCGN",
+      "pnl": -13.7230511516,
+      "trades": 3,
+      "wins": 0
+    },
+    {
+      "ticker": "TSLA",
+      "pnl": -12.22545111999997,
+      "trades": 4,
+      "wins": 2
+    },
+    {
+      "ticker": "BBBYQ",
+      "pnl": -1.5706999999999987,
+      "trades": 1,
+      "wins": 0
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "OCGN",
+      "qty": 0.9760439999999946,
+      "entryPrice": 11.3889,
+      "exitPrice": 7.555,
+      "pnl": -3.7420550915999793,
+      "openedAt": "2021-02-08T15:23:18.469Z",
+      "closedAt": "2021-05-26T13:36:20.114Z",
+      "holdMinutes": 153973.02741666668,
+      "overnight": true
+    },
+    {
+      "ticker": "OCGN",
+      "qty": 0.453926,
+      "entryPrice": 11.015,
+      "exitPrice": 7.555,
+      "pnl": -1.5705839600000004,
+      "openedAt": "2021-02-10T17:55:56.08751Z",
+      "closedAt": "2021-05-26T13:36:20.114Z",
+      "holdMinutes": 150940.40045,
+      "overnight": true
+    },
+    {
+      "ticker": "OCGN",
+      "qty": 2.5409100000000056,
+      "entryPrice": 10.865,
+      "exitPrice": 7.555,
+      "pnl": -8.41041210000002,
+      "openedAt": "2021-02-10T18:05:42.209Z",
+      "closedAt": "2021-05-26T13:36:20.114Z",
+      "holdMinutes": 150930.63175,
+      "overnight": true
+    },
+    {
+      "ticker": "BBBYQ",
+      "qty": 1,
+      "entryPrice": 26.2,
+      "exitPrice": 24.6293,
+      "pnl": -1.5706999999999987,
+      "openedAt": "2021-02-19T14:54:16.113Z",
+      "closedAt": "2021-05-26T13:36:42.866Z",
+      "holdMinutes": 138162.44588333333,
+      "overnight": true
+    },
+    {
+      "ticker": "TSLA",
+      "qty": 0.828802,
+      "entryPrice": 618.6559,
+      "exitPrice": 603.23,
+      "pnl": -12.785016771799965,
+      "openedAt": "2021-03-04T20:07:50.925Z",
+      "closedAt": "2021-05-26T14:07:24.345Z",
+      "holdMinutes": 119159.557,
+      "overnight": true
+    },
+    {
+      "ticker": "TSLA",
+      "qty": 0.000066,
+      "entryPrice": 618.6559,
+      "exitPrice": 603.23,
+      "pnl": -0.0010181093999999972,
+      "openedAt": "2021-03-04T20:07:50.925Z",
+      "closedAt": "2021-05-26T14:07:24.345Z",
+      "holdMinutes": 119159.557,
+      "overnight": true
+    },
+    {
+      "ticker": "TSLA",
+      "qty": 0.17113199999999995,
+      "entryPrice": 618.6559,
+      "exitPrice": 621.43,
+      "pnl": 0.4747372811999957,
+      "openedAt": "2021-03-04T20:07:50.925Z",
+      "closedAt": "2021-05-26T16:14:14.947661Z",
+      "holdMinutes": 119286.40036666667,
+      "overnight": true
+    },
+    {
+      "ticker": "TSLA",
+      "qty": 0.003356,
+      "entryPrice": 595.85,
+      "exitPrice": 621.43,
+      "pnl": 0.08584647999999975,
+      "openedAt": "2021-03-05T22:38:09.959009Z",
+      "closedAt": "2021-05-26T16:14:14.947661Z",
+      "holdMinutes": 117696.08313333333,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "OCGN",
+      "qty": 0.9760439999999946,
+      "entryPrice": 11.3889,
+      "exitPrice": 7.555,
+      "pnl": -3.7420550915999793,
+      "openedAt": "2021-02-08T15:23:18.469Z",
+      "closedAt": "2021-05-26T13:36:20.114Z",
+      "holdMinutes": 153973.02741666668,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 3.8339,
+      "notional": 11.116067511599939,
+      "review": "overnight · 153973m · 3.83 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "OCGN",
+      "qty": 0.453926,
+      "entryPrice": 11.015,
+      "exitPrice": 7.555,
+      "pnl": -1.5705839600000004,
+      "openedAt": "2021-02-10T17:55:56.08751Z",
+      "closedAt": "2021-05-26T13:36:20.114Z",
+      "holdMinutes": 150940.40045,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 3.460000000000001,
+      "notional": 4.99999489,
+      "review": "overnight · 150940m · 3.46 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "OCGN",
+      "qty": 2.5409100000000056,
+      "entryPrice": 10.865,
+      "exitPrice": 7.555,
+      "pnl": -8.41041210000002,
+      "openedAt": "2021-02-10T18:05:42.209Z",
+      "closedAt": "2021-05-26T13:36:20.114Z",
+      "holdMinutes": 150930.63175,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "size_up_after_loss"
+      ],
+      "movePts": 3.3100000000000005,
+      "notional": 27.606987150000062,
+      "review": "overnight · 150931m · 3.31 pts · Flags: overnight, after_loss_streak, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "BBBYQ",
+      "qty": 1,
+      "entryPrice": 26.2,
+      "exitPrice": 24.6293,
+      "pnl": -1.5706999999999987,
+      "openedAt": "2021-02-19T14:54:16.113Z",
+      "closedAt": "2021-05-26T13:36:42.866Z",
+      "holdMinutes": 138162.44588333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak"
+      ],
+      "movePts": 1.5706999999999987,
+      "notional": 26.2,
+      "review": "overnight · 138162m · 1.57 pts · Flags: overnight, after_loss_streak · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "TSLA",
+      "qty": 0.828802,
+      "entryPrice": 618.6559,
+      "exitPrice": 603.23,
+      "pnl": -12.785016771799965,
+      "openedAt": "2021-03-04T20:07:50.925Z",
+      "closedAt": "2021-05-26T14:07:24.345Z",
+      "holdMinutes": 119159.557,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 15.425899999999956,
+      "notional": 512.7432472318,
+      "review": "overnight · 119160m · 15.43 pts · Flags: overnight, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "TSLA",
+      "qty": 0.000066,
+      "entryPrice": 618.6559,
+      "exitPrice": 603.23,
+      "pnl": -0.0010181093999999972,
+      "openedAt": "2021-03-04T20:07:50.925Z",
+      "closedAt": "2021-05-26T14:07:24.345Z",
+      "holdMinutes": 119159.557,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 15.425899999999956,
+      "notional": 0.0408312894,
+      "review": "overnight · 119160m · 15.43 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "TSLA",
+      "qty": 0.17113199999999995,
+      "entryPrice": 618.6559,
+      "exitPrice": 621.43,
+      "pnl": 0.4747372811999957,
+      "openedAt": "2021-03-04T20:07:50.925Z",
+      "closedAt": "2021-05-26T16:14:14.947661Z",
+      "holdMinutes": 119286.40036666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 2.774099999999976,
+      "notional": 105.87182147879996,
+      "review": "overnight · 119286m · 2.77 pts · Flags: overnight, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "TSLA",
+      "qty": 0.003356,
+      "entryPrice": 595.85,
+      "exitPrice": 621.43,
+      "pnl": 0.08584647999999975,
+      "openedAt": "2021-03-05T22:38:09.959009Z",
+      "closedAt": "2021-05-26T16:14:14.947661Z",
+      "holdMinutes": 117696.08313333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 25.579999999999927,
+      "notional": 1.9996726,
+      "review": "overnight · 117696m · 25.58 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 2
+    },
+    "maxWin": 2,
+    "maxLoss": 6
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

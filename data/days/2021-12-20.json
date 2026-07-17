@@ -1,0 +1,110 @@
+{
+  "id": "2021-12-20",
+  "date": "2021-12-20",
+  "label": "Monday, Dec 20, 2021",
+  "weekday": "Mon",
+  "weekId": "2021-W51",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:03.774Z",
+  "realizedPnl": 201.91,
+  "tradeCount": 1,
+  "winCount": 1,
+  "lossCount": 0,
+  "processGrades": {
+    "A": 0,
+    "B": 1,
+    "C": 0
+  },
+  "metrics": {
+    "tradeCount": 1,
+    "winCount": 1,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": 1,
+    "winPct": 100,
+    "profitFactor": null,
+    "profitFactorInfinite": true,
+    "rewardRisk": null,
+    "expectancy": 201.91,
+    "avgWin": 201.91,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 201.91,
+    "grossLoss": 0,
+    "realizedPnl": 201.91,
+    "bestTrade": 201.91,
+    "worstTrade": 201.91,
+    "avgHoldMinutes": 10128.3709,
+    "equityCurve": [
+      {
+        "t": "2021-12-20T16:40:31.632Z",
+        "pnl": 201.91
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "AMC",
+      "pnl": 201.91,
+      "trades": 1,
+      "wins": 1
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "AMC",
+      "qty": 50,
+      "entryPrice": 24.1192,
+      "exitPrice": 28.1574,
+      "pnl": 201.91,
+      "openedAt": "2021-12-13T15:52:09.378Z",
+      "closedAt": "2021-12-20T16:40:31.632Z",
+      "holdMinutes": 10128.3709,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "AMC",
+      "qty": 50,
+      "entryPrice": 24.1192,
+      "exitPrice": 28.1574,
+      "pnl": 201.91,
+      "openedAt": "2021-12-13T15:52:09.378Z",
+      "closedAt": "2021-12-20T16:40:31.632Z",
+      "holdMinutes": 10128.3709,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 4.0382,
+      "notional": 1205.96,
+      "review": "overnight · 10128m · 4.04 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 1
+    },
+    "maxWin": 1,
+    "maxLoss": 0
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

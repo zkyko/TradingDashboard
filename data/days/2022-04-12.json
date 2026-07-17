@@ -1,0 +1,110 @@
+{
+  "id": "2022-04-12",
+  "date": "2022-04-12",
+  "label": "Tuesday, Apr 12, 2022",
+  "weekday": "Tue",
+  "weekId": "2022-W15",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:03.903Z",
+  "realizedPnl": 0.02999999999999936,
+  "tradeCount": 1,
+  "winCount": 1,
+  "lossCount": 0,
+  "processGrades": {
+    "A": 0,
+    "B": 1,
+    "C": 0
+  },
+  "metrics": {
+    "tradeCount": 1,
+    "winCount": 1,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": 1,
+    "winPct": 100,
+    "profitFactor": null,
+    "profitFactorInfinite": true,
+    "rewardRisk": null,
+    "expectancy": 0.02999999999999936,
+    "avgWin": 0.02999999999999936,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0.02999999999999936,
+    "grossLoss": 0,
+    "realizedPnl": 0.02999999999999936,
+    "bestTrade": 0.02999999999999936,
+    "worstTrade": 0.02999999999999936,
+    "avgHoldMinutes": 20160.0732,
+    "equityCurve": [
+      {
+        "t": "2022-04-12T13:29:49.657Z",
+        "pnl": 0.02999999999999936
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "AXAC",
+      "pnl": 0.02999999999999936,
+      "trades": 1,
+      "wins": 1
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "AXAC",
+      "qty": 3,
+      "entryPrice": 9.96,
+      "exitPrice": 9.97,
+      "pnl": 0.02999999999999936,
+      "openedAt": "2022-03-29T13:29:45.265Z",
+      "closedAt": "2022-04-12T13:29:49.657Z",
+      "holdMinutes": 20160.0732,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "AXAC",
+      "qty": 3,
+      "entryPrice": 9.96,
+      "exitPrice": 9.97,
+      "pnl": 0.02999999999999936,
+      "openedAt": "2022-03-29T13:29:45.265Z",
+      "closedAt": "2022-04-12T13:29:49.657Z",
+      "holdMinutes": 20160.0732,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.009999999999999787,
+      "notional": 29.880000000000003,
+      "review": "overnight · 20160m · 0.01 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 1
+    },
+    "maxWin": 1,
+    "maxLoss": 0
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

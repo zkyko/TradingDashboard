@@ -1,0 +1,123 @@
+{
+  "id": "2022-W04",
+  "label": "Jan 24 – Jan 28, 2022",
+  "start": "2022-01-24",
+  "end": "2022-01-31",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:07.034Z",
+  "realizedPnl": 0.33899999999999864,
+  "tradeCount": 1,
+  "winCount": 1,
+  "lossCount": 0,
+  "priorWeekPnl": null,
+  "metrics": {
+    "tradeCount": 1,
+    "winCount": 1,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": 1,
+    "winPct": 100,
+    "profitFactor": null,
+    "profitFactorInfinite": true,
+    "rewardRisk": null,
+    "expectancy": 0.33899999999999864,
+    "avgWin": 0.33899999999999864,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0.33899999999999864,
+    "grossLoss": 0,
+    "realizedPnl": 0.33899999999999864,
+    "bestTrade": 0.33899999999999864,
+    "worstTrade": 0.33899999999999864,
+    "avgHoldMinutes": 1518.5548166666667,
+    "equityCurve": [
+      {
+        "t": "2022-01-28T18:02:50.158Z",
+        "pnl": 0.33899999999999864
+      }
+    ]
+  },
+  "soxlMetrics": {
+    "tradeCount": 0,
+    "winCount": 0,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": null,
+    "winPct": null,
+    "profitFactor": null,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": null,
+    "avgWin": null,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0,
+    "grossLoss": 0,
+    "realizedPnl": 0,
+    "bestTrade": null,
+    "worstTrade": null,
+    "avgHoldMinutes": null,
+    "equityCurve": []
+  },
+  "days": [
+    {
+      "date": "2022-01-24",
+      "label": "Mon",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2022-01-25",
+      "label": "Tue",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2022-01-26",
+      "label": "Wed",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2022-01-27",
+      "label": "Thu",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2022-01-28",
+      "label": "Fri",
+      "pnl": 0.33899999999999864,
+      "trades": 1
+    }
+  ],
+  "byTicker": [
+    {
+      "ticker": "HOOD",
+      "pnl": 0.33899999999999864,
+      "trades": 1,
+      "wins": 1
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 1
+    },
+    "maxWin": 1,
+    "maxLoss": 0
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "mistakes": [],
+  "openNotes": []
+}

@@ -1,0 +1,153 @@
+{
+  "id": "2026-03-11",
+  "date": "2026-03-11",
+  "label": "Wednesday, Mar 11, 2026",
+  "weekday": "Wed",
+  "weekId": "2026-W11",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:04.400Z",
+  "realizedPnl": 14.839999999999986,
+  "tradeCount": 2,
+  "winCount": 1,
+  "lossCount": 1,
+  "processGrades": {
+    "A": 0,
+    "B": 1,
+    "C": 1
+  },
+  "metrics": {
+    "tradeCount": 2,
+    "winCount": 1,
+    "lossCount": 1,
+    "flatCount": 0,
+    "winRate": 0.5,
+    "winPct": 50,
+    "profitFactor": 38.099999999999106,
+    "profitFactorInfinite": false,
+    "rewardRisk": 38.099999999999106,
+    "expectancy": 7.419999999999993,
+    "avgWin": 15.239999999999995,
+    "avgLoss": -0.40000000000000924,
+    "avgLossAbs": 0.40000000000000924,
+    "grossWin": 15.239999999999995,
+    "grossLoss": -0.40000000000000924,
+    "realizedPnl": 14.839999999999986,
+    "bestTrade": 15.239999999999995,
+    "worstTrade": -0.40000000000000924,
+    "avgHoldMinutes": 32770.51748333334,
+    "equityCurve": [
+      {
+        "t": "2026-03-12T04:14:06.572Z",
+        "pnl": -0.40000000000000924
+      },
+      {
+        "t": "2026-03-12T04:14:59.071Z",
+        "pnl": 14.839999999999986
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "FIG",
+      "pnl": 15.239999999999995,
+      "trades": 1,
+      "wins": 1
+    },
+    {
+      "ticker": "SNAP",
+      "pnl": -0.40000000000000924,
+      "trades": 1,
+      "wins": 0
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "SNAP",
+      "qty": 20,
+      "entryPrice": 4.83,
+      "exitPrice": 4.81,
+      "pnl": -0.40000000000000924,
+      "openedAt": "2026-02-17T13:49:06.161408Z",
+      "closedAt": "2026-03-12T04:14:06.572Z",
+      "holdMinutes": 32545.00685,
+      "overnight": true
+    },
+    {
+      "ticker": "FIG",
+      "qty": 3,
+      "entryPrice": 22.44,
+      "exitPrice": 27.52,
+      "pnl": 15.239999999999995,
+      "openedAt": "2026-02-17T06:18:57.384Z",
+      "closedAt": "2026-03-12T04:14:59.071Z",
+      "holdMinutes": 32996.02811666667,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "SNAP",
+      "qty": 20,
+      "entryPrice": 4.83,
+      "exitPrice": 4.81,
+      "pnl": -0.40000000000000924,
+      "openedAt": "2026-02-17T13:49:06.161408Z",
+      "closedAt": "2026-03-12T04:14:06.572Z",
+      "holdMinutes": 32545.00685,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.020000000000000462,
+      "notional": 96.6,
+      "review": "overnight · 32545m · 0.02 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "FIG",
+      "qty": 3,
+      "entryPrice": 22.44,
+      "exitPrice": 27.52,
+      "pnl": 15.239999999999995,
+      "openedAt": "2026-02-17T06:18:57.384Z",
+      "closedAt": "2026-03-12T04:14:59.071Z",
+      "holdMinutes": 32996.02811666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 5.079999999999998,
+      "notional": 67.32000000000001,
+      "review": "overnight · 32996m · 5.08 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 1
+    },
+    "maxWin": 1,
+    "maxLoss": 1
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

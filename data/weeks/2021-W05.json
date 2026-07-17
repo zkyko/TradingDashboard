@@ -1,0 +1,229 @@
+{
+  "id": "2021-W05",
+  "label": "Feb 1 – Feb 5, 2021",
+  "start": "2021-02-01",
+  "end": "2021-02-08",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:08.022Z",
+  "realizedPnl": 125.3550811272,
+  "tradeCount": 17,
+  "winCount": 17,
+  "lossCount": 0,
+  "priorWeekPnl": 116.13499109559997,
+  "metrics": {
+    "tradeCount": 17,
+    "winCount": 17,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": 1,
+    "winPct": 100,
+    "profitFactor": null,
+    "profitFactorInfinite": true,
+    "rewardRisk": null,
+    "expectancy": 7.3738283016,
+    "avgWin": 7.3738283016,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 125.3550811272,
+    "grossLoss": 0,
+    "realizedPnl": 125.3550811272,
+    "bestTrade": 47.391999999999996,
+    "worstTrade": 0.0035152374999999994,
+    "avgHoldMinutes": 154961.99442156864,
+    "equityCurve": [
+      {
+        "t": "2021-02-01T15:24:29.193033Z",
+        "pnl": 1.6100943167999968
+      },
+      {
+        "t": "2021-02-01T15:28:06.659368Z",
+        "pnl": 2.163262879699997
+      },
+      {
+        "t": "2021-02-01T15:28:06.994Z",
+        "pnl": 2.1667781171999967
+      },
+      {
+        "t": "2021-02-01T15:28:06.994Z",
+        "pnl": 3.6468781171999964
+      },
+      {
+        "t": "2021-02-01T15:28:06.994Z",
+        "pnl": 5.126978117199997
+      },
+      {
+        "t": "2021-02-02T16:45:04.788Z",
+        "pnl": 13.987178117199996
+      },
+      {
+        "t": "2021-02-02T16:48:11.115Z",
+        "pnl": 15.517178117199995
+      },
+      {
+        "t": "2021-02-02T16:48:11.115Z",
+        "pnl": 22.817178117199994
+      },
+      {
+        "t": "2021-02-02T16:48:11.115Z",
+        "pnl": 26.467178117199992
+      },
+      {
+        "t": "2021-02-02T16:48:24.339Z",
+        "pnl": 29.398208117199992
+      },
+      {
+        "t": "2021-02-02T16:53:44.705Z",
+        "pnl": 38.57840811719999
+      },
+      {
+        "t": "2021-02-02T16:54:38.971Z",
+        "pnl": 39.53690811719999
+      },
+      {
+        "t": "2021-02-02T16:54:38.971Z",
+        "pnl": 55.1184731172
+      },
+      {
+        "t": "2021-02-02T16:54:52.667Z",
+        "pnl": 102.5104731172
+      },
+      {
+        "t": "2021-02-03T19:51:34.265089Z",
+        "pnl": 124.8503480572
+      },
+      {
+        "t": "2021-02-03T19:51:34.265089Z",
+        "pnl": 125.0212811272
+      },
+      {
+        "t": "2021-02-05T16:52:47.385Z",
+        "pnl": 125.3550811272
+      }
+    ]
+  },
+  "soxlMetrics": {
+    "tradeCount": 0,
+    "winCount": 0,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": null,
+    "winPct": null,
+    "profitFactor": null,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": null,
+    "avgWin": null,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0,
+    "grossLoss": 0,
+    "realizedPnl": 0,
+    "bestTrade": null,
+    "worstTrade": null,
+    "avgHoldMinutes": null,
+    "equityCurve": []
+  },
+  "days": [
+    {
+      "date": "2021-02-01",
+      "label": "Mon",
+      "pnl": 5.126978117199997,
+      "trades": 5
+    },
+    {
+      "date": "2021-02-02",
+      "label": "Tue",
+      "pnl": 97.383495,
+      "trades": 9
+    },
+    {
+      "date": "2021-02-03",
+      "label": "Wed",
+      "pnl": 22.510808009999995,
+      "trades": 2
+    },
+    {
+      "date": "2021-02-04",
+      "label": "Thu",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-02-05",
+      "label": "Fri",
+      "pnl": 0.3338000000000001,
+      "trades": 1
+    }
+  ],
+  "byTicker": [
+    {
+      "ticker": "PLUG",
+      "pnl": 69.90280800999999,
+      "trades": 3,
+      "wins": 3
+    },
+    {
+      "ticker": "NGA",
+      "pnl": 18.040399999999998,
+      "trades": 2,
+      "wins": 2
+    },
+    {
+      "ticker": "CTRM",
+      "pnl": 16.540065000000002,
+      "trades": 2,
+      "wins": 2
+    },
+    {
+      "ticker": "TTOO",
+      "pnl": 12.48,
+      "trades": 3,
+      "wins": 3
+    },
+    {
+      "ticker": "IDEX",
+      "pnl": 3.5168838003999996,
+      "trades": 4,
+      "wins": 4
+    },
+    {
+      "ticker": "ADXS",
+      "pnl": 2.931030000000001,
+      "trades": 1,
+      "wins": 1
+    },
+    {
+      "ticker": "ARKQ",
+      "pnl": 1.6100943167999968,
+      "trades": 1,
+      "wins": 1
+    },
+    {
+      "ticker": "VYNE",
+      "pnl": 0.3338000000000001,
+      "trades": 1,
+      "wins": 1
+    }
+  ],
+  "tilt": {
+    "state": "on_streak",
+    "score": 40,
+    "reasons": [
+      "Win streak ×17"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 17
+    },
+    "maxWin": 17,
+    "maxLoss": 0
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "mistakes": [],
+  "openNotes": []
+}

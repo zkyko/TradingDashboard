@@ -1,0 +1,190 @@
+{
+  "id": "2021-01-15",
+  "date": "2021-01-15",
+  "label": "Friday, Jan 15, 2021",
+  "weekday": "Fri",
+  "weekId": "2021-W02",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:02.682Z",
+  "realizedPnl": 4.49935507470006,
+  "tradeCount": 3,
+  "winCount": 3,
+  "lossCount": 0,
+  "processGrades": {
+    "A": 0,
+    "B": 3,
+    "C": 0
+  },
+  "metrics": {
+    "tradeCount": 3,
+    "winCount": 3,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": 1,
+    "winPct": 100,
+    "profitFactor": null,
+    "profitFactorInfinite": true,
+    "rewardRisk": null,
+    "expectancy": 1.49978502490002,
+    "avgWin": 1.49978502490002,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 4.49935507470006,
+    "grossLoss": 0,
+    "realizedPnl": 4.49935507470006,
+    "bestTrade": 2.7054331266000595,
+    "worstTrade": 0.0016612580999997729,
+    "avgHoldMinutes": 3062.94815,
+    "equityCurve": [
+      {
+        "t": "2021-01-15T14:38:32.040833Z",
+        "pnl": 2.7054331266000595
+      },
+      {
+        "t": "2021-01-15T14:38:32.040833Z",
+        "pnl": 2.7070943847000595
+      },
+      {
+        "t": "2021-01-15T14:41:19.297Z",
+        "pnl": 4.49935507470006
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "TSLA",
+      "pnl": 2.7070943847000595,
+      "trades": 2,
+      "wins": 2
+    },
+    {
+      "ticker": "FRSX",
+      "pnl": 1.7922606900000002,
+      "trades": 1,
+      "wins": 1
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "TSLA",
+      "qty": 0.819158,
+      "entryPrice": 854.0123,
+      "exitPrice": 857.315,
+      "pnl": 2.7054331266000595,
+      "openedAt": "2021-01-12T20:09:43.329Z",
+      "closedAt": "2021-01-15T14:38:32.040833Z",
+      "holdMinutes": 3988.81185,
+      "overnight": true
+    },
+    {
+      "ticker": "TSLA",
+      "qty": 0.0005029999999999202,
+      "entryPrice": 854.0123,
+      "exitPrice": 857.315,
+      "pnl": 0.0016612580999997729,
+      "openedAt": "2021-01-12T20:09:43.329Z",
+      "closedAt": "2021-01-15T14:38:32.040833Z",
+      "holdMinutes": 3988.81185,
+      "overnight": true
+    },
+    {
+      "ticker": "FRSX",
+      "qty": 10.862186,
+      "entryPrice": 7.365,
+      "exitPrice": 7.53,
+      "pnl": 1.7922606900000002,
+      "openedAt": "2021-01-14T18:30:06.052Z",
+      "closedAt": "2021-01-15T14:41:19.297Z",
+      "holdMinutes": 1211.22075,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "TSLA",
+      "qty": 0.819158,
+      "entryPrice": 854.0123,
+      "exitPrice": 857.315,
+      "pnl": 2.7054331266000595,
+      "openedAt": "2021-01-12T20:09:43.329Z",
+      "closedAt": "2021-01-15T14:38:32.040833Z",
+      "holdMinutes": 3988.81185,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 3.3027000000000726,
+      "notional": 699.5710076434,
+      "review": "overnight · 3989m · 3.30 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "TSLA",
+      "qty": 0.0005029999999999202,
+      "entryPrice": 854.0123,
+      "exitPrice": 857.315,
+      "pnl": 0.0016612580999997729,
+      "openedAt": "2021-01-12T20:09:43.329Z",
+      "closedAt": "2021-01-15T14:38:32.040833Z",
+      "holdMinutes": 3988.81185,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 3.3027000000000726,
+      "notional": 0.4295681868999318,
+      "review": "overnight · 3989m · 3.30 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "FRSX",
+      "qty": 10.862186,
+      "entryPrice": 7.365,
+      "exitPrice": 7.53,
+      "pnl": 1.7922606900000002,
+      "openedAt": "2021-01-14T18:30:06.052Z",
+      "closedAt": "2021-01-15T14:41:19.297Z",
+      "holdMinutes": 1211.22075,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.16500000000000004,
+      "notional": 79.99999989,
+      "review": "overnight · 1211m · 0.17 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "on_streak",
+    "score": 24,
+    "reasons": [
+      "Win streak ×3"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 3
+    },
+    "maxWin": 3,
+    "maxLoss": 0
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

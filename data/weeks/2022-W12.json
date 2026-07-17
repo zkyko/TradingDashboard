@@ -1,0 +1,143 @@
+{
+  "id": "2022-W12",
+  "label": "Mar 21 – Mar 25, 2022",
+  "start": "2022-03-21",
+  "end": "2022-03-28",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:06.891Z",
+  "realizedPnl": 8.58082546,
+  "tradeCount": 6,
+  "winCount": 5,
+  "lossCount": 1,
+  "priorWeekPnl": null,
+  "metrics": {
+    "tradeCount": 6,
+    "winCount": 5,
+    "lossCount": 1,
+    "flatCount": 0,
+    "winRate": 0.8333333333333334,
+    "winPct": 83.33333333333334,
+    "profitFactor": 2.547549951626315,
+    "profitFactorInfinite": false,
+    "rewardRisk": 0.509509990325263,
+    "expectancy": 1.4301375766666666,
+    "avgWin": 2.8251212779999983,
+    "avgLoss": -5.544780929999991,
+    "avgLossAbs": 5.544780929999991,
+    "grossWin": 14.12560638999999,
+    "grossLoss": -5.544780929999991,
+    "realizedPnl": 8.58082546,
+    "bestTrade": 6.495968959999995,
+    "worstTrade": -5.544780929999991,
+    "avgHoldMinutes": 977.1972555555557,
+    "equityCurve": [
+      {
+        "t": "2022-03-25T13:30:32.308Z",
+        "pnl": 2.3184951900000006
+      },
+      {
+        "t": "2022-03-25T13:30:32.308Z",
+        "pnl": 2.4471387900000003
+      },
+      {
+        "t": "2022-03-25T13:30:32.308Z",
+        "pnl": 2.67411023
+      },
+      {
+        "t": "2022-03-25T13:30:32.308Z",
+        "pnl": 9.170079189999996
+      },
+      {
+        "t": "2022-03-25T13:30:32.308Z",
+        "pnl": 14.12560638999999
+      },
+      {
+        "t": "2022-03-25T13:30:32.308Z",
+        "pnl": 8.58082546
+      }
+    ]
+  },
+  "soxlMetrics": {
+    "tradeCount": 0,
+    "winCount": 0,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": null,
+    "winPct": null,
+    "profitFactor": null,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": null,
+    "avgWin": null,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0,
+    "grossLoss": 0,
+    "realizedPnl": 0,
+    "bestTrade": null,
+    "worstTrade": null,
+    "avgHoldMinutes": null,
+    "equityCurve": []
+  },
+  "days": [
+    {
+      "date": "2022-03-21",
+      "label": "Mon",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2022-03-22",
+      "label": "Tue",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2022-03-23",
+      "label": "Wed",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2022-03-24",
+      "label": "Thu",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2022-03-25",
+      "label": "Fri",
+      "pnl": 8.58082546,
+      "trades": 6
+    }
+  ],
+  "byTicker": [
+    {
+      "ticker": "TLRY",
+      "pnl": 8.58082546,
+      "trades": 6,
+      "wins": 5
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 1
+    },
+    "maxWin": 5,
+    "maxLoss": 1
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "mistakes": [],
+  "openNotes": []
+}

@@ -1,0 +1,198 @@
+{
+  "id": "2022-W25",
+  "label": "Jun 20 – Jun 24, 2022",
+  "start": "2022-06-20",
+  "end": "2022-06-27",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:06.619Z",
+  "realizedPnl": -691.6816497999998,
+  "tradeCount": 18,
+  "winCount": 4,
+  "lossCount": 14,
+  "priorWeekPnl": null,
+  "metrics": {
+    "tradeCount": 18,
+    "winCount": 4,
+    "lossCount": 14,
+    "flatCount": 0,
+    "winRate": 0.2222222222222222,
+    "winPct": 22.22222222222222,
+    "profitFactor": 0.0122096725521148,
+    "profitFactorInfinite": false,
+    "rewardRisk": 0.0427338539324018,
+    "expectancy": -38.42675832222221,
+    "avgWin": 2.1373985500000003,
+    "avgLoss": -50.01651742857143,
+    "avgLossAbs": 50.01651742857143,
+    "grossWin": 8.549594200000001,
+    "grossLoss": -700.2312440000001,
+    "realizedPnl": -691.6816497999998,
+    "bestTrade": 4.295405800000002,
+    "worstTrade": -322.00725,
+    "avgHoldMinutes": 16436.82605462963,
+    "equityCurve": [
+      {
+        "t": "2022-06-21T13:37:10.276Z",
+        "pnl": 1.7249999999999988
+      },
+      {
+        "t": "2022-06-21T13:37:10.276Z",
+        "pnl": -7.058699999999999
+      },
+      {
+        "t": "2022-06-21T13:37:10.276Z",
+        "pnl": -17.507499999999997
+      },
+      {
+        "t": "2022-06-21T18:56:25.153Z",
+        "pnl": -27.109099999999998
+      },
+      {
+        "t": "2022-06-21T18:56:25.153Z",
+        "pnl": -27.953894
+      },
+      {
+        "t": "2022-06-21T18:56:25.153Z",
+        "pnl": -110.643494
+      },
+      {
+        "t": "2022-06-21T18:56:25.153Z",
+        "pnl": -166.82199400000002
+      },
+      {
+        "t": "2022-06-21T18:56:25.153Z",
+        "pnl": -173.996944
+      },
+      {
+        "t": "2022-06-21T18:56:25.153Z",
+        "pnl": -175.09974400000002
+      },
+      {
+        "t": "2022-06-21T18:56:25.153Z",
+        "pnl": -188.057644
+      },
+      {
+        "t": "2022-06-21T19:36:26.183Z",
+        "pnl": -333.338844
+      },
+      {
+        "t": "2022-06-21T19:36:26.183Z",
+        "pnl": -354.483044
+      },
+      {
+        "t": "2022-06-21T19:36:26.183Z",
+        "pnl": -676.490294
+      },
+      {
+        "t": "2022-06-21T19:36:26.183Z",
+        "pnl": -697.7770939999999
+      },
+      {
+        "t": "2022-06-21T19:36:26.183Z",
+        "pnl": -698.5062439999999
+      },
+      {
+        "t": "2022-06-24T22:37:52.294745Z",
+        "pnl": -697.2416497999999
+      },
+      {
+        "t": "2022-06-24T22:37:52.453Z",
+        "pnl": -695.9770555999999
+      },
+      {
+        "t": "2022-06-24T22:37:52.453Z",
+        "pnl": -691.6816497999998
+      }
+    ]
+  },
+  "soxlMetrics": {
+    "tradeCount": 0,
+    "winCount": 0,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": null,
+    "winPct": null,
+    "profitFactor": null,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": null,
+    "avgWin": null,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0,
+    "grossLoss": 0,
+    "realizedPnl": 0,
+    "bestTrade": null,
+    "worstTrade": null,
+    "avgHoldMinutes": null,
+    "equityCurve": []
+  },
+  "days": [
+    {
+      "date": "2022-06-20",
+      "label": "Mon",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2022-06-21",
+      "label": "Tue",
+      "pnl": -698.5062439999999,
+      "trades": 15
+    },
+    {
+      "date": "2022-06-22",
+      "label": "Wed",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2022-06-23",
+      "label": "Thu",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2022-06-24",
+      "label": "Fri",
+      "pnl": 6.824594200000003,
+      "trades": 3
+    }
+  ],
+  "byTicker": [
+    {
+      "ticker": "IMPP",
+      "pnl": -698.5062439999999,
+      "trades": 15,
+      "wins": 1
+    },
+    {
+      "ticker": "AMD",
+      "pnl": 6.824594200000003,
+      "trades": 3,
+      "wins": 3
+    }
+  ],
+  "tilt": {
+    "state": "overnight_hungover",
+    "score": 80,
+    "reasons": [
+      "Win streak ×3",
+      "Overnight PnL $-692"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 3
+    },
+    "maxWin": 3,
+    "maxLoss": 14
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "mistakes": [],
+  "openNotes": []
+}

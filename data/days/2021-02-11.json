@@ -1,0 +1,423 @@
+{
+  "id": "2021-02-11",
+  "date": "2021-02-11",
+  "label": "Thursday, Feb 11, 2021",
+  "weekday": "Thu",
+  "weekId": "2021-W06",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:02.920Z",
+  "realizedPnl": 10.934468827300009,
+  "tradeCount": 9,
+  "winCount": 9,
+  "lossCount": 0,
+  "processGrades": {
+    "A": 0,
+    "B": 9,
+    "C": 0
+  },
+  "metrics": {
+    "tradeCount": 9,
+    "winCount": 9,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": 1,
+    "winPct": 100,
+    "profitFactor": null,
+    "profitFactorInfinite": true,
+    "rewardRisk": null,
+    "expectancy": 1.214940980811112,
+    "avgWin": 1.214940980811112,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 10.934468827300009,
+    "grossLoss": 0,
+    "realizedPnl": 10.934468827300009,
+    "bestTrade": 3.567357984599999,
+    "worstTrade": 0.006507651200000013,
+    "avgHoldMinutes": 39036.47141481481,
+    "equityCurve": [
+      {
+        "t": "2021-02-11T15:01:46.813Z",
+        "pnl": 3.567357984599999
+      },
+      {
+        "t": "2021-02-11T15:02:17.214Z",
+        "pnl": 3.7795079845999995
+      },
+      {
+        "t": "2021-02-11T15:02:17.214Z",
+        "pnl": 3.9916579845999998
+      },
+      {
+        "t": "2021-02-11T15:02:17.214Z",
+        "pnl": 5.251657984600001
+      },
+      {
+        "t": "2021-02-11T15:02:17.214Z",
+        "pnl": 8.401657984600003
+      },
+      {
+        "t": "2021-02-11T15:05:55.392543Z",
+        "pnl": 8.464381024700003
+      },
+      {
+        "t": "2021-02-11T15:05:55.501Z",
+        "pnl": 8.473383470500004
+      },
+      {
+        "t": "2021-02-11T15:05:55.501Z",
+        "pnl": 8.479891121700003
+      },
+      {
+        "t": "2021-02-11T15:05:55.501Z",
+        "pnl": 10.934468827300009
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "ACST",
+      "pnl": 4.834300000000004,
+      "trades": 4,
+      "wins": 4
+    },
+    {
+      "ticker": "IDEX",
+      "pnl": 3.567357984599999,
+      "trades": 1,
+      "wins": 1
+    },
+    {
+      "ticker": "GEVO",
+      "pnl": 2.5328108427000053,
+      "trades": 4,
+      "wins": 4
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "IDEX",
+      "qty": 1.625146,
+      "entryPrice": 2.7299,
+      "exitPrice": 4.925,
+      "pnl": 3.567357984599999,
+      "openedAt": "2020-06-25T17:50:34.476Z",
+      "closedAt": "2021-02-11T15:01:46.813Z",
+      "holdMinutes": 332471.20561666664,
+      "overnight": true
+    },
+    {
+      "ticker": "ACST",
+      "qty": 1,
+      "entryPrice": 0.88785,
+      "exitPrice": 1.1,
+      "pnl": 0.21215000000000006,
+      "openedAt": "2021-02-08T20:48:25.804Z",
+      "closedAt": "2021-02-11T15:02:17.214Z",
+      "holdMinutes": 3973.8568333333333,
+      "overnight": true
+    },
+    {
+      "ticker": "ACST",
+      "qty": 1,
+      "entryPrice": 0.88785,
+      "exitPrice": 1.1,
+      "pnl": 0.21215000000000006,
+      "openedAt": "2021-02-08T20:48:25.804Z",
+      "closedAt": "2021-02-11T15:02:17.214Z",
+      "holdMinutes": 3973.8568333333333,
+      "overnight": true
+    },
+    {
+      "ticker": "ACST",
+      "qty": 14,
+      "entryPrice": 1.01,
+      "exitPrice": 1.1,
+      "pnl": 1.2600000000000011,
+      "openedAt": "2021-02-09T19:35:26.675Z",
+      "closedAt": "2021-02-11T15:02:17.214Z",
+      "holdMinutes": 2606.8423166666666,
+      "overnight": true
+    },
+    {
+      "ticker": "ACST",
+      "qty": 35,
+      "entryPrice": 1.01,
+      "exitPrice": 1.1,
+      "pnl": 3.150000000000003,
+      "openedAt": "2021-02-09T19:35:26.675Z",
+      "closedAt": "2021-02-11T15:02:17.214Z",
+      "holdMinutes": 2606.8423166666666,
+      "overnight": true
+    },
+    {
+      "ticker": "GEVO",
+      "qty": 0.015082,
+      "entryPrice": 14.255,
+      "exitPrice": 14.8519,
+      "pnl": 0.009002445799999996,
+      "openedAt": "2021-02-10T15:22:00.833825Z",
+      "closedAt": "2021-02-11T15:05:55.501Z",
+      "holdMinutes": 1423.9111333333333,
+      "overnight": true
+    },
+    {
+      "ticker": "GEVO",
+      "qty": 0.010537,
+      "entryPrice": 14.2343,
+      "exitPrice": 14.8519,
+      "pnl": 0.006507651200000013,
+      "openedAt": "2021-02-10T15:22:00.911Z",
+      "closedAt": "2021-02-11T15:05:55.501Z",
+      "holdMinutes": 1423.9098333333334,
+      "overnight": true
+    },
+    {
+      "ticker": "GEVO",
+      "qty": 3.974381,
+      "entryPrice": 14.2343,
+      "exitPrice": 14.8519,
+      "pnl": 2.454577705600005,
+      "openedAt": "2021-02-10T15:22:00.911Z",
+      "closedAt": "2021-02-11T15:05:55.501Z",
+      "holdMinutes": 1423.9098333333334,
+      "overnight": true
+    },
+    {
+      "ticker": "GEVO",
+      "qty": 0.105293,
+      "entryPrice": 14.2343,
+      "exitPrice": 14.83,
+      "pnl": 0.06272304010000009,
+      "openedAt": "2021-02-10T15:22:00.911Z",
+      "closedAt": "2021-02-11T15:05:55.392543Z",
+      "holdMinutes": 1423.9080166666668,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "IDEX",
+      "qty": 1.625146,
+      "entryPrice": 2.7299,
+      "exitPrice": 4.925,
+      "pnl": 3.567357984599999,
+      "openedAt": "2020-06-25T17:50:34.476Z",
+      "closedAt": "2021-02-11T15:01:46.813Z",
+      "holdMinutes": 332471.20561666664,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 2.1950999999999996,
+      "notional": 4.4364860654000005,
+      "review": "overnight · 332471m · 2.20 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "ACST",
+      "qty": 1,
+      "entryPrice": 0.88785,
+      "exitPrice": 1.1,
+      "pnl": 0.21215000000000006,
+      "openedAt": "2021-02-08T20:48:25.804Z",
+      "closedAt": "2021-02-11T15:02:17.214Z",
+      "holdMinutes": 3973.8568333333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.21215000000000006,
+      "notional": 0.88785,
+      "review": "overnight · 3974m · 0.21 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "ACST",
+      "qty": 1,
+      "entryPrice": 0.88785,
+      "exitPrice": 1.1,
+      "pnl": 0.21215000000000006,
+      "openedAt": "2021-02-08T20:48:25.804Z",
+      "closedAt": "2021-02-11T15:02:17.214Z",
+      "holdMinutes": 3973.8568333333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.21215000000000006,
+      "notional": 0.88785,
+      "review": "overnight · 3974m · 0.21 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "ACST",
+      "qty": 14,
+      "entryPrice": 1.01,
+      "exitPrice": 1.1,
+      "pnl": 1.2600000000000011,
+      "openedAt": "2021-02-09T19:35:26.675Z",
+      "closedAt": "2021-02-11T15:02:17.214Z",
+      "holdMinutes": 2606.8423166666666,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.09000000000000008,
+      "notional": 14.14,
+      "review": "overnight · 2607m · 0.09 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "ACST",
+      "qty": 35,
+      "entryPrice": 1.01,
+      "exitPrice": 1.1,
+      "pnl": 3.150000000000003,
+      "openedAt": "2021-02-09T19:35:26.675Z",
+      "closedAt": "2021-02-11T15:02:17.214Z",
+      "holdMinutes": 2606.8423166666666,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 0.09000000000000008,
+      "notional": 35.35,
+      "review": "overnight · 2607m · 0.09 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "GEVO",
+      "qty": 0.015082,
+      "entryPrice": 14.255,
+      "exitPrice": 14.8519,
+      "pnl": 0.009002445799999996,
+      "openedAt": "2021-02-10T15:22:00.833825Z",
+      "closedAt": "2021-02-11T15:05:55.501Z",
+      "holdMinutes": 1423.9111333333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 0.5968999999999998,
+      "notional": 0.21499391,
+      "review": "overnight · 1424m · 0.60 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "GEVO",
+      "qty": 0.010537,
+      "entryPrice": 14.2343,
+      "exitPrice": 14.8519,
+      "pnl": 0.006507651200000013,
+      "openedAt": "2021-02-10T15:22:00.911Z",
+      "closedAt": "2021-02-11T15:05:55.501Z",
+      "holdMinutes": 1423.9098333333334,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 0.6176000000000013,
+      "notional": 0.14998681909999997,
+      "review": "overnight · 1424m · 0.62 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "GEVO",
+      "qty": 3.974381,
+      "entryPrice": 14.2343,
+      "exitPrice": 14.8519,
+      "pnl": 2.454577705600005,
+      "openedAt": "2021-02-10T15:22:00.911Z",
+      "closedAt": "2021-02-11T15:05:55.501Z",
+      "holdMinutes": 1423.9098333333334,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 0.6176000000000013,
+      "notional": 56.5725314683,
+      "review": "overnight · 1424m · 0.62 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "GEVO",
+      "qty": 0.105293,
+      "entryPrice": 14.2343,
+      "exitPrice": 14.83,
+      "pnl": 0.06272304010000009,
+      "openedAt": "2021-02-10T15:22:00.911Z",
+      "closedAt": "2021-02-11T15:05:55.392543Z",
+      "holdMinutes": 1423.9080166666668,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 0.5957000000000008,
+      "notional": 1.4987721499,
+      "review": "overnight · 1424m · 0.60 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "on_streak",
+    "score": 40,
+    "reasons": [
+      "Win streak ×9"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 9
+    },
+    "maxWin": 9,
+    "maxLoss": 0
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

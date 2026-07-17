@@ -1,0 +1,464 @@
+{
+  "id": "2022-10-21",
+  "date": "2022-10-21",
+  "label": "Friday, Oct 21, 2022",
+  "weekday": "Fri",
+  "weekId": "2022-W42",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:04.297Z",
+  "realizedPnl": -1.0903629578999992,
+  "tradeCount": 10,
+  "winCount": 5,
+  "lossCount": 5,
+  "processGrades": {
+    "A": 0,
+    "B": 5,
+    "C": 5
+  },
+  "metrics": {
+    "tradeCount": 10,
+    "winCount": 5,
+    "lossCount": 5,
+    "flatCount": 0,
+    "winRate": 0.5,
+    "winPct": 50,
+    "profitFactor": 0.13073070588445332,
+    "profitFactorInfinite": false,
+    "rewardRisk": 0.13073070588445332,
+    "expectancy": -0.10903629578999992,
+    "avgWin": 0.03279626236,
+    "avgLoss": -0.25086885393999986,
+    "avgLossAbs": 0.25086885393999986,
+    "grossWin": 0.1639813118,
+    "grossLoss": -1.2543442696999993,
+    "realizedPnl": -1.0903629578999992,
+    "bestTrade": 0.16267724,
+    "worstTrade": -0.8456511749999999,
+    "avgHoldMinutes": 465723.6419966666,
+    "equityCurve": [
+      {
+        "t": "2022-10-21T17:45:02.73543Z",
+        "pnl": -0.8456511749999999
+      },
+      {
+        "t": "2022-10-21T17:45:16.352602Z",
+        "pnl": -0.6829739349999999
+      },
+      {
+        "t": "2022-10-21T17:45:16.352602Z",
+        "pnl": -0.6827107749999999
+      },
+      {
+        "t": "2022-10-21T17:45:16.352602Z",
+        "pnl": -0.6831222327999998
+      },
+      {
+        "t": "2022-10-21T17:45:16.352602Z",
+        "pnl": -0.6830735127999998
+      },
+      {
+        "t": "2022-10-21T17:45:16.352602Z",
+        "pnl": -0.6827645997999998
+      },
+      {
+        "t": "2022-10-21T17:45:16.352602Z",
+        "pnl": -0.6820813209999999
+      },
+      {
+        "t": "2022-10-21T17:45:16.352602Z",
+        "pnl": -0.6824626977999999
+      },
+      {
+        "t": "2022-10-21T17:45:16.352602Z",
+        "pnl": -0.6830629578999999
+      },
+      {
+        "t": "2022-10-21T17:45:25.049Z",
+        "pnl": -1.0903629578999992
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "COIN",
+      "pnl": -0.8456511749999999,
+      "trades": 1,
+      "wins": 0
+    },
+    {
+      "ticker": "TQQQ",
+      "pnl": -0.40729999999999933,
+      "trades": 1,
+      "wins": 0
+    },
+    {
+      "ticker": "VICI",
+      "pnl": 0.16258821710000002,
+      "trades": 8,
+      "wins": 5
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "COIN",
+      "qty": 0.002361,
+      "entryPrice": 423.465,
+      "exitPrice": 65.29,
+      "pnl": -0.8456511749999999,
+      "openedAt": "2021-04-14T17:34:38.87767Z",
+      "closedAt": "2022-10-21T17:45:02.73543Z",
+      "holdMinutes": 799210.3976333333,
+      "overnight": true
+    },
+    {
+      "ticker": "VICI",
+      "qty": 0.038918,
+      "entryPrice": 25.695,
+      "exitPrice": 29.875,
+      "pnl": 0.16267724,
+      "openedAt": "2021-01-08T17:51:31.732615Z",
+      "closedAt": "2022-10-21T17:45:16.352602Z",
+      "holdMinutes": 937433.7436666667,
+      "overnight": true
+    },
+    {
+      "ticker": "VICI",
+      "qty": 0.000344,
+      "entryPrice": 29.11,
+      "exitPrice": 29.875,
+      "pnl": 0.0002631600000000002,
+      "openedAt": "2021-04-09T13:30:01Z",
+      "closedAt": "2022-10-21T17:45:16.352602Z",
+      "holdMinutes": 806655.2558666667,
+      "overnight": true
+    },
+    {
+      "ticker": "VICI",
+      "qty": 0.000321,
+      "entryPrice": 31.1568,
+      "exitPrice": 29.875,
+      "pnl": -0.00041145780000000017,
+      "openedAt": "2021-07-09T13:30:03.112825Z",
+      "closedAt": "2022-10-21T17:45:16.352602Z",
+      "holdMinutes": 675615.2206666666,
+      "overnight": true
+    },
+    {
+      "ticker": "VICI",
+      "qty": 0.000336,
+      "entryPrice": 29.73,
+      "exitPrice": 29.875,
+      "pnl": 0.00004871999999999985,
+      "openedAt": "2021-10-08T13:30:01.544Z",
+      "closedAt": "2022-10-21T17:45:16.352602Z",
+      "holdMinutes": 544575.2468,
+      "overnight": true
+    },
+    {
+      "ticker": "VICI",
+      "qty": 0.000345,
+      "entryPrice": 28.9796,
+      "exitPrice": 29.875,
+      "pnl": 0.00030891299999999953,
+      "openedAt": "2022-01-07T14:30:01.159Z",
+      "closedAt": "2022-10-21T17:45:16.352602Z",
+      "holdMinutes": 413475.2532166667,
+      "overnight": true
+    },
+    {
+      "ticker": "VICI",
+      "qty": 0.000358,
+      "entryPrice": 27.9664,
+      "exitPrice": 29.875,
+      "pnl": 0.0006832787999999999,
+      "openedAt": "2022-04-08T13:30:00.902Z",
+      "closedAt": "2022-10-21T17:45:16.352602Z",
+      "holdMinutes": 282495.2575,
+      "overnight": true
+    },
+    {
+      "ticker": "VICI",
+      "qty": 0.000322,
+      "entryPrice": 31.0594,
+      "exitPrice": 29.875,
+      "pnl": -0.00038137680000000006,
+      "openedAt": "2022-07-08T13:30:00.858Z",
+      "closedAt": "2022-10-21T17:45:16.352602Z",
+      "holdMinutes": 151455.25823333333,
+      "overnight": true
+    },
+    {
+      "ticker": "VICI",
+      "qty": 0.0006489999999999966,
+      "entryPrice": 30.7999,
+      "exitPrice": 29.875,
+      "pnl": -0.0006002600999999975,
+      "openedAt": "2022-10-07T13:30:02.133Z",
+      "closedAt": "2022-10-21T17:45:16.352602Z",
+      "holdMinutes": 20415.236983333332,
+      "overnight": true
+    },
+    {
+      "ticker": "TQQQ",
+      "qty": 1,
+      "entryPrice": 20.5074,
+      "exitPrice": 20.1001,
+      "pnl": -0.40729999999999933,
+      "openedAt": "2022-10-03T17:59:52.085Z",
+      "closedAt": "2022-10-21T17:45:25.049Z",
+      "holdMinutes": 25905.5494,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "COIN",
+      "qty": 0.002361,
+      "entryPrice": 423.465,
+      "exitPrice": 65.29,
+      "pnl": -0.8456511749999999,
+      "openedAt": "2021-04-14T17:34:38.87767Z",
+      "closedAt": "2022-10-21T17:45:02.73543Z",
+      "holdMinutes": 799210.3976333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 358.17499999999995,
+      "notional": 0.9998008649999999,
+      "review": "overnight · 799210m · 358.17 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "VICI",
+      "qty": 0.038918,
+      "entryPrice": 25.695,
+      "exitPrice": 29.875,
+      "pnl": 0.16267724,
+      "openedAt": "2021-01-08T17:51:31.732615Z",
+      "closedAt": "2022-10-21T17:45:16.352602Z",
+      "holdMinutes": 937433.7436666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 4.18,
+      "notional": 0.99999801,
+      "review": "overnight · 937434m · 4.18 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "VICI",
+      "qty": 0.000344,
+      "entryPrice": 29.11,
+      "exitPrice": 29.875,
+      "pnl": 0.0002631600000000002,
+      "openedAt": "2021-04-09T13:30:01Z",
+      "closedAt": "2022-10-21T17:45:16.352602Z",
+      "holdMinutes": 806655.2558666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.7650000000000006,
+      "notional": 0.01001384,
+      "review": "overnight · 806655m · 0.77 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "VICI",
+      "qty": 0.000321,
+      "entryPrice": 31.1568,
+      "exitPrice": 29.875,
+      "pnl": -0.00041145780000000017,
+      "openedAt": "2021-07-09T13:30:03.112825Z",
+      "closedAt": "2022-10-21T17:45:16.352602Z",
+      "holdMinutes": 675615.2206666666,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 1.2818000000000005,
+      "notional": 0.0100013328,
+      "review": "overnight · 675615m · 1.28 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "VICI",
+      "qty": 0.000336,
+      "entryPrice": 29.73,
+      "exitPrice": 29.875,
+      "pnl": 0.00004871999999999985,
+      "openedAt": "2021-10-08T13:30:01.544Z",
+      "closedAt": "2022-10-21T17:45:16.352602Z",
+      "holdMinutes": 544575.2468,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 0.14499999999999957,
+      "notional": 0.00998928,
+      "review": "overnight · 544575m · 0.14 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "VICI",
+      "qty": 0.000345,
+      "entryPrice": 28.9796,
+      "exitPrice": 29.875,
+      "pnl": 0.00030891299999999953,
+      "openedAt": "2022-01-07T14:30:01.159Z",
+      "closedAt": "2022-10-21T17:45:16.352602Z",
+      "holdMinutes": 413475.2532166667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 0.8953999999999986,
+      "notional": 0.009997961999999999,
+      "review": "overnight · 413475m · 0.90 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "VICI",
+      "qty": 0.000358,
+      "entryPrice": 27.9664,
+      "exitPrice": 29.875,
+      "pnl": 0.0006832787999999999,
+      "openedAt": "2022-04-08T13:30:00.902Z",
+      "closedAt": "2022-10-21T17:45:16.352602Z",
+      "holdMinutes": 282495.2575,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 1.9085999999999999,
+      "notional": 0.010011971199999999,
+      "review": "overnight · 282495m · 1.91 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "VICI",
+      "qty": 0.000322,
+      "entryPrice": 31.0594,
+      "exitPrice": 29.875,
+      "pnl": -0.00038137680000000006,
+      "openedAt": "2022-07-08T13:30:00.858Z",
+      "closedAt": "2022-10-21T17:45:16.352602Z",
+      "holdMinutes": 151455.25823333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 1.1844000000000001,
+      "notional": 0.010001126800000001,
+      "review": "overnight · 151455m · 1.18 pts · Flags: overnight, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "VICI",
+      "qty": 0.0006489999999999966,
+      "entryPrice": 30.7999,
+      "exitPrice": 29.875,
+      "pnl": -0.0006002600999999975,
+      "openedAt": "2022-10-07T13:30:02.133Z",
+      "closedAt": "2022-10-21T17:45:16.352602Z",
+      "holdMinutes": 20415.236983333332,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 0.9249000000000009,
+      "notional": 0.019989135099999895,
+      "review": "overnight · 20415m · 0.92 pts · Flags: overnight, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "TQQQ",
+      "qty": 1,
+      "entryPrice": 20.5074,
+      "exitPrice": 20.1001,
+      "pnl": -0.40729999999999933,
+      "openedAt": "2022-10-03T17:59:52.085Z",
+      "closedAt": "2022-10-21T17:45:25.049Z",
+      "holdMinutes": 25905.5494,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 0.40729999999999933,
+      "notional": 20.5074,
+      "review": "overnight · 25906m · 0.41 pts · Flags: overnight, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    }
+  ],
+  "tilt": {
+    "state": "cooling_off",
+    "score": 60,
+    "reasons": [
+      "Loss streak ×3"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 3
+    },
+    "maxWin": 3,
+    "maxLoss": 3
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

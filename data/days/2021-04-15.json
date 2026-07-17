@@ -1,0 +1,399 @@
+{
+  "id": "2021-04-15",
+  "date": "2021-04-15",
+  "label": "Thursday, Apr 15, 2021",
+  "weekday": "Thu",
+  "weekId": "2021-W15",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:03.120Z",
+  "realizedPnl": 60.045476724999986,
+  "tradeCount": 8,
+  "winCount": 5,
+  "lossCount": 3,
+  "processGrades": {
+    "A": 0,
+    "B": 5,
+    "C": 3
+  },
+  "metrics": {
+    "tradeCount": 8,
+    "winCount": 5,
+    "lossCount": 3,
+    "flatCount": 0,
+    "winRate": 0.625,
+    "winPct": 62.5,
+    "profitFactor": 2.518554052798381,
+    "profitFactorInfinite": false,
+    "rewardRisk": 1.5111324316790287,
+    "expectancy": 7.505684590624998,
+    "avgWin": 19.917338929,
+    "avgLoss": -13.180405973333336,
+    "avgLossAbs": 13.180405973333336,
+    "grossWin": 99.586694645,
+    "grossLoss": -39.54121792000001,
+    "realizedPnl": 60.045476724999986,
+    "bestTrade": 52.36828223,
+    "worstTrade": -19.219217920000006,
+    "avgHoldMinutes": 90328.95183958333,
+    "equityCurve": [
+      {
+        "t": "2021-04-15T19:57:37.889Z",
+        "pnl": 14.754999999999995
+      },
+      {
+        "t": "2021-04-15T19:58:42.468Z",
+        "pnl": 3.2229999999999954
+      },
+      {
+        "t": "2021-04-15T20:07:42.32Z",
+        "pnl": -15.99621792000001
+      },
+      {
+        "t": "2021-04-15T20:07:42.32Z",
+        "pnl": -15.609881505000011
+      },
+      {
+        "t": "2021-04-15T20:08:14.938Z",
+        "pnl": -24.39988150500001
+      },
+      {
+        "t": "2021-04-15T20:10:38.423218Z",
+        "pnl": -13.424728875000014
+      },
+      {
+        "t": "2021-04-15T20:10:54.967547Z",
+        "pnl": 7.677194494999984
+      },
+      {
+        "t": "2021-04-15T20:10:55.136279Z",
+        "pnl": 60.045476724999986
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "GME",
+      "pnl": 73.4702056,
+      "trades": 2,
+      "wins": 2
+    },
+    {
+      "ticker": "AAPL",
+      "pnl": 25.730152629999992,
+      "trades": 2,
+      "wins": 2
+    },
+    {
+      "ticker": "NOK",
+      "pnl": -18.832881505000007,
+      "trades": 2,
+      "wins": 1
+    },
+    {
+      "ticker": "OBSVF",
+      "pnl": -11.532,
+      "trades": 1,
+      "wins": 0
+    },
+    {
+      "ticker": "PFE",
+      "pnl": -8.79,
+      "trades": 1,
+      "wins": 0
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "AAPL",
+      "qty": 1,
+      "entryPrice": 119.685,
+      "exitPrice": 134.44,
+      "pnl": 14.754999999999995,
+      "openedAt": "2021-03-04T20:23:37.108Z",
+      "closedAt": "2021-04-15T19:57:37.889Z",
+      "holdMinutes": 60454.013016666664,
+      "overnight": true
+    },
+    {
+      "ticker": "OBSVF",
+      "qty": 10,
+      "entryPrice": 3.9482,
+      "exitPrice": 2.795,
+      "pnl": -11.532,
+      "openedAt": "2021-03-01T20:16:33.881Z",
+      "closedAt": "2021-04-15T19:58:42.468Z",
+      "holdMinutes": 64782.143116666666,
+      "overnight": true
+    },
+    {
+      "ticker": "NOK",
+      "qty": 7.507507,
+      "entryPrice": 6.66,
+      "exitPrice": 4.1,
+      "pnl": -19.219217920000006,
+      "openedAt": "2021-01-27T20:58:45.912Z",
+      "closedAt": "2021-04-15T20:07:42.32Z",
+      "holdMinutes": 112268.94013333334,
+      "overnight": true
+    },
+    {
+      "ticker": "NOK",
+      "qty": 2.4924929999999996,
+      "entryPrice": 3.945,
+      "exitPrice": 4.1,
+      "pnl": 0.38633641499999943,
+      "openedAt": "2021-02-24T14:37:11.604Z",
+      "closedAt": "2021-04-15T20:07:42.32Z",
+      "holdMinutes": 72330.51193333333,
+      "overnight": true
+    },
+    {
+      "ticker": "PFE",
+      "qty": 3,
+      "entryPrice": 40.49,
+      "exitPrice": 37.56,
+      "pnl": -8.79,
+      "openedAt": "2020-12-02T14:31:56.767Z",
+      "closedAt": "2021-04-15T20:08:14.938Z",
+      "holdMinutes": 193296.30285,
+      "overnight": true
+    },
+    {
+      "ticker": "AAPL",
+      "qty": 0.743826,
+      "entryPrice": 119.685,
+      "exitPrice": 134.44,
+      "pnl": 10.975152629999997,
+      "openedAt": "2021-03-04T20:23:37.108Z",
+      "closedAt": "2021-04-15T20:10:38.423218Z",
+      "holdMinutes": 60467.021916666665,
+      "overnight": true
+    },
+    {
+      "ticker": "GME",
+      "qty": 0.184991,
+      "entryPrice": 41.19,
+      "exitPrice": 155.26,
+      "pnl": 21.101923369999998,
+      "openedAt": "2021-02-19T14:54:34.599Z",
+      "closedAt": "2021-04-15T20:10:54.967547Z",
+      "holdMinutes": 79516.33946666667,
+      "overnight": true
+    },
+    {
+      "ticker": "GME",
+      "qty": 0.459089,
+      "entryPrice": 41.19,
+      "exitPrice": 155.26,
+      "pnl": 52.36828223,
+      "openedAt": "2021-02-19T14:54:34.599Z",
+      "closedAt": "2021-04-15T20:10:55.136279Z",
+      "holdMinutes": 79516.34228333333,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "AAPL",
+      "qty": 1,
+      "entryPrice": 119.685,
+      "exitPrice": 134.44,
+      "pnl": 14.754999999999995,
+      "openedAt": "2021-03-04T20:23:37.108Z",
+      "closedAt": "2021-04-15T19:57:37.889Z",
+      "holdMinutes": 60454.013016666664,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 14.754999999999995,
+      "notional": 119.685,
+      "review": "overnight · 60454m · 14.75 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "OBSVF",
+      "qty": 10,
+      "entryPrice": 3.9482,
+      "exitPrice": 2.795,
+      "pnl": -11.532,
+      "openedAt": "2021-03-01T20:16:33.881Z",
+      "closedAt": "2021-04-15T19:58:42.468Z",
+      "holdMinutes": 64782.143116666666,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 1.1532,
+      "notional": 39.482,
+      "review": "overnight · 64782m · 1.15 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "NOK",
+      "qty": 7.507507,
+      "entryPrice": 6.66,
+      "exitPrice": 4.1,
+      "pnl": -19.219217920000006,
+      "openedAt": "2021-01-27T20:58:45.912Z",
+      "closedAt": "2021-04-15T20:07:42.32Z",
+      "holdMinutes": 112268.94013333334,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "size_up_after_loss"
+      ],
+      "movePts": 2.5600000000000005,
+      "notional": 49.999996620000005,
+      "review": "overnight · 112269m · 2.56 pts · Flags: overnight, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "NOK",
+      "qty": 2.4924929999999996,
+      "entryPrice": 3.945,
+      "exitPrice": 4.1,
+      "pnl": 0.38633641499999943,
+      "openedAt": "2021-02-24T14:37:11.604Z",
+      "closedAt": "2021-04-15T20:07:42.32Z",
+      "holdMinutes": 72330.51193333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "after_loss_streak"
+      ],
+      "movePts": 0.1549999999999998,
+      "notional": 9.832884884999999,
+      "review": "overnight · 72331m · 0.15 pts · Flags: overnight, after_loss_streak · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "PFE",
+      "qty": 3,
+      "entryPrice": 40.49,
+      "exitPrice": 37.56,
+      "pnl": -8.79,
+      "openedAt": "2020-12-02T14:31:56.767Z",
+      "closedAt": "2021-04-15T20:08:14.938Z",
+      "holdMinutes": 193296.30285,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 2.9299999999999997,
+      "notional": 121.47,
+      "review": "overnight · 193296m · 2.93 pts · Flags: overnight, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AAPL",
+      "qty": 0.743826,
+      "entryPrice": 119.685,
+      "exitPrice": 134.44,
+      "pnl": 10.975152629999997,
+      "openedAt": "2021-03-04T20:23:37.108Z",
+      "closedAt": "2021-04-15T20:10:38.423218Z",
+      "holdMinutes": 60467.021916666665,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 14.754999999999995,
+      "notional": 89.02481481,
+      "review": "overnight · 60467m · 14.75 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "GME",
+      "qty": 0.184991,
+      "entryPrice": 41.19,
+      "exitPrice": 155.26,
+      "pnl": 21.101923369999998,
+      "openedAt": "2021-02-19T14:54:34.599Z",
+      "closedAt": "2021-04-15T20:10:54.967547Z",
+      "holdMinutes": 79516.33946666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 114.07,
+      "notional": 7.619779289999999,
+      "review": "overnight · 79516m · 114.07 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "GME",
+      "qty": 0.459089,
+      "entryPrice": 41.19,
+      "exitPrice": 155.26,
+      "pnl": 52.36828223,
+      "openedAt": "2021-02-19T14:54:34.599Z",
+      "closedAt": "2021-04-15T20:10:55.136279Z",
+      "holdMinutes": 79516.34228333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 114.07,
+      "notional": 18.90987591,
+      "review": "overnight · 79516m · 114.07 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "on_streak",
+    "score": 24,
+    "reasons": [
+      "Win streak ×3"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 3
+    },
+    "maxWin": 3,
+    "maxLoss": 2
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

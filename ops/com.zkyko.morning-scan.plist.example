@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+  <key>Label</key><string>com.zkyko.morning-scan</string>
+  <key>ProgramArguments</key><array>
+    <string>/usr/local/bin/node</string>
+    <string>/Users/zk/Trading/scripts/morning-scan.mjs</string>
+  </array>
+  <key>WorkingDirectory</key><string>/Users/zk/Trading</string>
+  <key>EnvironmentVariables</key><dict>
+    <key>THESIS_LOOP_URL</key><string>http://127.0.0.1:3000</string>
+    <key>SYNC_SECRET</key><string>change-me</string>
+  </dict>
+  <!-- Weekdays 7:30 America/Chicago — set Mac timezone accordingly, or adjust Hour -->
+  <key>StartCalendarInterval</key><array>
+    <dict>
+      <key>Weekday</key><integer>1</integer>
+      <key>Hour</key><integer>7</integer>
+      <key>Minute</key><integer>30</integer>
+    </dict>
+    <dict>
+      <key>Weekday</key><integer>2</integer>
+      <key>Hour</key><integer>7</integer>
+      <key>Minute</key><integer>30</integer>
+    </dict>
+    <dict>
+      <key>Weekday</key><integer>3</integer>
+      <key>Hour</key><integer>7</integer>
+      <key>Minute</key><integer>30</integer>
+    </dict>
+    <dict>
+      <key>Weekday</key><integer>4</integer>
+      <key>Hour</key><integer>7</integer>
+      <key>Minute</key><integer>30</integer>
+    </dict>
+    <dict>
+      <key>Weekday</key><integer>5</integer>
+      <key>Hour</key><integer>7</integer>
+      <key>Minute</key><integer>30</integer>
+    </dict>
+  </array>
+  <key>StandardOutPath</key><string>/tmp/zkyko-morning-scan.log</string>
+  <key>StandardErrorPath</key><string>/tmp/zkyko-morning-scan-error.log</string>
+</dict></plist>

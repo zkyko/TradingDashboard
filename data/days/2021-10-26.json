@@ -1,0 +1,227 @@
+{
+  "id": "2021-10-26",
+  "date": "2021-10-26",
+  "label": "Tuesday, Oct 26, 2021",
+  "weekday": "Tue",
+  "weekId": "2021-W43",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:03.495Z",
+  "realizedPnl": -19.062577400000002,
+  "tradeCount": 4,
+  "winCount": 3,
+  "lossCount": 1,
+  "processGrades": {
+    "A": 0,
+    "B": 3,
+    "C": 1
+  },
+  "metrics": {
+    "tradeCount": 4,
+    "winCount": 3,
+    "lossCount": 1,
+    "flatCount": 0,
+    "winRate": 0.75,
+    "winPct": 75,
+    "profitFactor": 0.2840346516431926,
+    "profitFactorInfinite": false,
+    "rewardRisk": 0.09467821721439752,
+    "expectancy": -4.7656443500000005,
+    "avgWin": 2.520807533333335,
+    "avgLoss": -26.625000000000007,
+    "avgLossAbs": 26.625000000000007,
+    "grossWin": 7.562422600000005,
+    "grossLoss": -26.625000000000007,
+    "realizedPnl": -19.062577400000002,
+    "bestTrade": 7.519932000000005,
+    "worstTrade": -26.625000000000007,
+    "avgHoldMinutes": 1296.4672416666667,
+    "equityCurve": [
+      {
+        "t": "2021-10-26T13:46:28.637Z",
+        "pnl": -26.625000000000007
+      },
+      {
+        "t": "2021-10-26T13:46:41.96919Z",
+        "pnl": -26.604477400000007
+      },
+      {
+        "t": "2021-10-26T13:46:42.059Z",
+        "pnl": -26.582509400000006
+      },
+      {
+        "t": "2021-10-26T13:46:42.059Z",
+        "pnl": -19.062577400000002
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "MARK",
+      "pnl": -26.625000000000007,
+      "trades": 1,
+      "wins": 0
+    },
+    {
+      "ticker": "XELA",
+      "pnl": 7.562422600000005,
+      "trades": 3,
+      "wins": 3
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "MARK",
+      "qty": 15,
+      "entryPrice": 4.275,
+      "exitPrice": 2.5,
+      "pnl": -26.625000000000007,
+      "openedAt": "2021-10-25T16:13:54.792Z",
+      "closedAt": "2021-10-26T13:46:28.637Z",
+      "holdMinutes": 1292.5640833333334,
+      "overnight": true
+    },
+    {
+      "ticker": "XELA",
+      "qty": 0.14659,
+      "entryPrice": 1.745,
+      "exitPrice": 1.885,
+      "pnl": 0.020522599999999985,
+      "openedAt": "2021-10-25T16:08:55.904973Z",
+      "closedAt": "2021-10-26T13:46:41.96919Z",
+      "holdMinutes": 1297.76775,
+      "overnight": true
+    },
+    {
+      "ticker": "XELA",
+      "qty": 0.15999999999999998,
+      "entryPrice": 1.745,
+      "exitPrice": 1.8823,
+      "pnl": 0.021967999999999994,
+      "openedAt": "2021-10-25T16:08:55.904973Z",
+      "closedAt": "2021-10-26T13:46:42.059Z",
+      "holdMinutes": 1297.76925,
+      "overnight": true
+    },
+    {
+      "ticker": "XELA",
+      "qty": 56.84,
+      "entryPrice": 1.75,
+      "exitPrice": 1.8823,
+      "pnl": 7.519932000000005,
+      "openedAt": "2021-10-25T16:08:55.986Z",
+      "closedAt": "2021-10-26T13:46:42.059Z",
+      "holdMinutes": 1297.7678833333334,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "MARK",
+      "qty": 15,
+      "entryPrice": 4.275,
+      "exitPrice": 2.5,
+      "pnl": -26.625000000000007,
+      "openedAt": "2021-10-25T16:13:54.792Z",
+      "closedAt": "2021-10-26T13:46:28.637Z",
+      "holdMinutes": 1292.5640833333334,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 1.7750000000000004,
+      "notional": 64.125,
+      "review": "overnight · 1293m · 1.78 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "XELA",
+      "qty": 0.14659,
+      "entryPrice": 1.745,
+      "exitPrice": 1.885,
+      "pnl": 0.020522599999999985,
+      "openedAt": "2021-10-25T16:08:55.904973Z",
+      "closedAt": "2021-10-26T13:46:41.96919Z",
+      "holdMinutes": 1297.76775,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.1399999999999999,
+      "notional": 0.25579955,
+      "review": "overnight · 1298m · 0.14 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "XELA",
+      "qty": 0.15999999999999998,
+      "entryPrice": 1.745,
+      "exitPrice": 1.8823,
+      "pnl": 0.021967999999999994,
+      "openedAt": "2021-10-25T16:08:55.904973Z",
+      "closedAt": "2021-10-26T13:46:42.059Z",
+      "holdMinutes": 1297.76925,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.13729999999999998,
+      "notional": 0.27919999999999995,
+      "review": "overnight · 1298m · 0.14 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "XELA",
+      "qty": 56.84,
+      "entryPrice": 1.75,
+      "exitPrice": 1.8823,
+      "pnl": 7.519932000000005,
+      "openedAt": "2021-10-25T16:08:55.986Z",
+      "closedAt": "2021-10-26T13:46:42.059Z",
+      "holdMinutes": 1297.7678833333334,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.13230000000000008,
+      "notional": 99.47,
+      "review": "overnight · 1298m · 0.13 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "on_streak",
+    "score": 24,
+    "reasons": [
+      "Win streak ×3"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 3
+    },
+    "maxWin": 3,
+    "maxLoss": 1
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

@@ -1,0 +1,110 @@
+{
+  "id": "2022-04-13",
+  "date": "2022-04-13",
+  "label": "Wednesday, Apr 13, 2022",
+  "weekday": "Wed",
+  "weekId": "2022-W15",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:03.924Z",
+  "realizedPnl": -0.3557762999999948,
+  "tradeCount": 1,
+  "winCount": 0,
+  "lossCount": 1,
+  "processGrades": {
+    "A": 0,
+    "B": 0,
+    "C": 1
+  },
+  "metrics": {
+    "tradeCount": 1,
+    "winCount": 0,
+    "lossCount": 1,
+    "flatCount": 0,
+    "winRate": 0,
+    "winPct": 0,
+    "profitFactor": 0,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": -0.3557762999999948,
+    "avgWin": null,
+    "avgLoss": -0.3557762999999948,
+    "avgLossAbs": 0.3557762999999948,
+    "grossWin": 0,
+    "grossLoss": -0.3557762999999948,
+    "realizedPnl": -0.3557762999999948,
+    "bestTrade": -0.3557762999999948,
+    "worstTrade": -0.3557762999999948,
+    "avgHoldMinutes": 28333.967683333332,
+    "equityCurve": [
+      {
+        "t": "2022-04-13T13:52:25.804419Z",
+        "pnl": -0.3557762999999948
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "TLRY",
+      "pnl": -0.3557762999999948,
+      "trades": 1,
+      "wins": 0
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "TLRY",
+      "qty": 0.1960199999999972,
+      "entryPrice": 8.09,
+      "exitPrice": 6.275,
+      "pnl": -0.3557762999999948,
+      "openedAt": "2022-03-24T21:38:27.743Z",
+      "closedAt": "2022-04-13T13:52:25.804419Z",
+      "holdMinutes": 28333.967683333332,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "TLRY",
+      "qty": 0.1960199999999972,
+      "entryPrice": 8.09,
+      "exitPrice": 6.275,
+      "pnl": -0.3557762999999948,
+      "openedAt": "2022-03-24T21:38:27.743Z",
+      "closedAt": "2022-04-13T13:52:25.804419Z",
+      "holdMinutes": 28333.967683333332,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 1.8149999999999995,
+      "notional": 1.5858017999999774,
+      "review": "overnight · 28334m · 1.81 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 1
+    },
+    "maxWin": 0,
+    "maxLoss": 1
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

@@ -1,0 +1,389 @@
+{
+  "id": "2021-05-28",
+  "date": "2021-05-28",
+  "label": "Friday, May 28, 2021",
+  "weekday": "Fri",
+  "weekId": "2021-W21",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:03.255Z",
+  "realizedPnl": -64.34362398,
+  "tradeCount": 8,
+  "winCount": 0,
+  "lossCount": 8,
+  "processGrades": {
+    "A": 0,
+    "B": 0,
+    "C": 8
+  },
+  "metrics": {
+    "tradeCount": 8,
+    "winCount": 0,
+    "lossCount": 8,
+    "flatCount": 0,
+    "winRate": 0,
+    "winPct": 0,
+    "profitFactor": 0,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": -8.0429529975,
+    "avgWin": null,
+    "avgLoss": -8.0429529975,
+    "avgLossAbs": 8.0429529975,
+    "grossWin": 0,
+    "grossLoss": -64.34362398,
+    "realizedPnl": -64.34362398,
+    "bestTrade": -0.015736279999999932,
+    "worstTrade": -36.873200000000004,
+    "avgHoldMinutes": 162981.08053958334,
+    "equityCurve": [
+      {
+        "t": "2021-05-28T14:43:01.661Z",
+        "pnl": -1.8609169605000002
+      },
+      {
+        "t": "2021-05-28T14:43:01.661Z",
+        "pnl": -1.8788023093000001
+      },
+      {
+        "t": "2021-05-28T14:43:01.661Z",
+        "pnl": -7.776568303300001
+      },
+      {
+        "t": "2021-05-28T14:43:01.661Z",
+        "pnl": -44.64976830330001
+      },
+      {
+        "t": "2021-05-28T14:43:01.661Z",
+        "pnl": -49.90509699000001
+      },
+      {
+        "t": "2021-05-28T15:54:47.243307Z",
+        "pnl": -50.50371547000001
+      },
+      {
+        "t": "2021-05-28T15:54:47.312Z",
+        "pnl": -50.51945175000001
+      },
+      {
+        "t": "2021-05-28T15:54:47.312Z",
+        "pnl": -64.34362398
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "BB",
+      "pnl": -49.90509699000001,
+      "trades": 5,
+      "wins": 0
+    },
+    {
+      "ticker": "HEXO",
+      "pnl": -14.438526989999996,
+      "trades": 3,
+      "wins": 0
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "BB",
+      "qty": 0.201435,
+      "entryPrice": 20.66,
+      "exitPrice": 11.4217,
+      "pnl": -1.8609169605000002,
+      "openedAt": "2021-01-27T14:32:27.97005Z",
+      "closedAt": "2021-05-28T14:43:01.661Z",
+      "holdMinutes": 174250.56151666667,
+      "overnight": true
+    },
+    {
+      "ticker": "BB",
+      "qty": 0.001936,
+      "entryPrice": 20.66,
+      "exitPrice": 11.4217,
+      "pnl": -0.017885348800000003,
+      "openedAt": "2021-01-27T14:32:27.97005Z",
+      "closedAt": "2021-05-28T14:43:01.661Z",
+      "holdMinutes": 174250.56151666667,
+      "overnight": true
+    },
+    {
+      "ticker": "BB",
+      "qty": 0.64118,
+      "entryPrice": 20.62,
+      "exitPrice": 11.4217,
+      "pnl": -5.897765994000001,
+      "openedAt": "2021-01-27T14:32:27.272791Z",
+      "closedAt": "2021-05-28T14:43:01.661Z",
+      "holdMinutes": 174250.57315,
+      "overnight": true
+    },
+    {
+      "ticker": "BB",
+      "qty": 4,
+      "entryPrice": 20.64,
+      "exitPrice": 11.4217,
+      "pnl": -36.873200000000004,
+      "openedAt": "2021-01-27T14:32:27.394Z",
+      "closedAt": "2021-05-28T14:43:01.661Z",
+      "holdMinutes": 174250.57111666666,
+      "overnight": true
+    },
+    {
+      "ticker": "BB",
+      "qty": 1.155449,
+      "entryPrice": 15.97,
+      "exitPrice": 11.4217,
+      "pnl": -5.255328686700001,
+      "openedAt": "2021-01-29T16:56:03.515Z",
+      "closedAt": "2021-05-28T14:43:01.661Z",
+      "holdMinutes": 171226.9691,
+      "overnight": true
+    },
+    {
+      "ticker": "HEXO",
+      "qty": 0.348034,
+      "entryPrice": 8.735,
+      "exitPrice": 7.015,
+      "pnl": -0.59861848,
+      "openedAt": "2021-02-16T19:48:19.105997Z",
+      "closedAt": "2021-05-28T15:54:47.243307Z",
+      "holdMinutes": 145206.46896666667,
+      "overnight": true
+    },
+    {
+      "ticker": "HEXO",
+      "qty": 0.009148999999999963,
+      "entryPrice": 8.735,
+      "exitPrice": 7.015,
+      "pnl": -0.015736279999999932,
+      "openedAt": "2021-02-16T19:48:19.105997Z",
+      "closedAt": "2021-05-28T15:54:47.312Z",
+      "holdMinutes": 145206.47011666666,
+      "overnight": true
+    },
+    {
+      "ticker": "HEXO",
+      "qty": 7.990851,
+      "entryPrice": 8.745,
+      "exitPrice": 7.015,
+      "pnl": -13.824172229999997,
+      "openedAt": "2021-02-16T19:48:19.182Z",
+      "closedAt": "2021-05-28T15:54:47.312Z",
+      "holdMinutes": 145206.46883333335,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "BB",
+      "qty": 0.201435,
+      "entryPrice": 20.66,
+      "exitPrice": 11.4217,
+      "pnl": -1.8609169605000002,
+      "openedAt": "2021-01-27T14:32:27.97005Z",
+      "closedAt": "2021-05-28T14:43:01.661Z",
+      "holdMinutes": 174250.56151666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 9.2383,
+      "notional": 4.1616471,
+      "review": "overnight · 174251m · 9.24 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "BB",
+      "qty": 0.001936,
+      "entryPrice": 20.66,
+      "exitPrice": 11.4217,
+      "pnl": -0.017885348800000003,
+      "openedAt": "2021-01-27T14:32:27.97005Z",
+      "closedAt": "2021-05-28T14:43:01.661Z",
+      "holdMinutes": 174250.56151666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 9.2383,
+      "notional": 0.03999776,
+      "review": "overnight · 174251m · 9.24 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "BB",
+      "qty": 0.64118,
+      "entryPrice": 20.62,
+      "exitPrice": 11.4217,
+      "pnl": -5.897765994000001,
+      "openedAt": "2021-01-27T14:32:27.272791Z",
+      "closedAt": "2021-05-28T14:43:01.661Z",
+      "holdMinutes": 174250.57315,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "size_up_after_loss"
+      ],
+      "movePts": 9.198300000000001,
+      "notional": 13.2211316,
+      "review": "overnight · 174251m · 9.20 pts · Flags: overnight, after_loss_streak, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "BB",
+      "qty": 4,
+      "entryPrice": 20.64,
+      "exitPrice": 11.4217,
+      "pnl": -36.873200000000004,
+      "openedAt": "2021-01-27T14:32:27.394Z",
+      "closedAt": "2021-05-28T14:43:01.661Z",
+      "holdMinutes": 174250.57111666666,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "size_up_after_loss"
+      ],
+      "movePts": 9.218300000000001,
+      "notional": 82.56,
+      "review": "overnight · 174251m · 9.22 pts · Flags: overnight, after_loss_streak, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "BB",
+      "qty": 1.155449,
+      "entryPrice": 15.97,
+      "exitPrice": 11.4217,
+      "pnl": -5.255328686700001,
+      "openedAt": "2021-01-29T16:56:03.515Z",
+      "closedAt": "2021-05-28T14:43:01.661Z",
+      "holdMinutes": 171226.9691,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 4.548300000000001,
+      "notional": 18.45252053,
+      "review": "overnight · 171227m · 4.55 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "HEXO",
+      "qty": 0.348034,
+      "entryPrice": 8.735,
+      "exitPrice": 7.015,
+      "pnl": -0.59861848,
+      "openedAt": "2021-02-16T19:48:19.105997Z",
+      "closedAt": "2021-05-28T15:54:47.243307Z",
+      "holdMinutes": 145206.46896666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 1.7199999999999998,
+      "notional": 3.0400769899999998,
+      "review": "overnight · 145206m · 1.72 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "HEXO",
+      "qty": 0.009148999999999963,
+      "entryPrice": 8.735,
+      "exitPrice": 7.015,
+      "pnl": -0.015736279999999932,
+      "openedAt": "2021-02-16T19:48:19.105997Z",
+      "closedAt": "2021-05-28T15:54:47.312Z",
+      "holdMinutes": 145206.47011666666,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 1.7199999999999998,
+      "notional": 0.07991651499999967,
+      "review": "overnight · 145206m · 1.72 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "HEXO",
+      "qty": 7.990851,
+      "entryPrice": 8.745,
+      "exitPrice": 7.015,
+      "pnl": -13.824172229999997,
+      "openedAt": "2021-02-16T19:48:19.182Z",
+      "closedAt": "2021-05-28T15:54:47.312Z",
+      "holdMinutes": 145206.46883333335,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 1.7299999999999995,
+      "notional": 69.879991995,
+      "review": "overnight · 145206m · 1.73 pts · Flags: overnight, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    }
+  ],
+  "tilt": {
+    "state": "overnight_hungover",
+    "score": 80,
+    "reasons": [
+      "Loss streak ×8",
+      "Overnight PnL $-64"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 8
+    },
+    "maxWin": 0,
+    "maxLoss": 8
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

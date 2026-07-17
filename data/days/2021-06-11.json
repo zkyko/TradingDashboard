@@ -1,0 +1,184 @@
+{
+  "id": "2021-06-11",
+  "date": "2021-06-11",
+  "label": "Friday, Jun 11, 2021",
+  "weekday": "Fri",
+  "weekId": "2021-W23",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:03.314Z",
+  "realizedPnl": 2.2470339443999943,
+  "tradeCount": 3,
+  "winCount": 3,
+  "lossCount": 0,
+  "processGrades": {
+    "A": 0,
+    "B": 3,
+    "C": 0
+  },
+  "metrics": {
+    "tradeCount": 3,
+    "winCount": 3,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": 1,
+    "winPct": 100,
+    "profitFactor": null,
+    "profitFactorInfinite": true,
+    "rewardRisk": null,
+    "expectancy": 0.749011314799998,
+    "avgWin": 0.749011314799998,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 2.2470339443999943,
+    "grossLoss": 0,
+    "realizedPnl": 2.2470339443999943,
+    "bestTrade": 2.1642401087999943,
+    "worstTrade": 0.0028445856000000047,
+    "avgHoldMinutes": 4115.204588888889,
+    "equityCurve": [
+      {
+        "t": "2021-06-11T14:32:04.679941Z",
+        "pnl": 0.07994925000000018
+      },
+      {
+        "t": "2021-06-11T14:32:04.797Z",
+        "pnl": 0.08279383560000018
+      },
+      {
+        "t": "2021-06-11T14:32:04.797Z",
+        "pnl": 2.2470339443999943
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "WISH",
+      "pnl": 2.2470339443999943,
+      "trades": 3,
+      "wins": 3
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "WISH",
+      "qty": 0.177665,
+      "entryPrice": 9.645,
+      "exitPrice": 10.095,
+      "pnl": 0.07994925000000018,
+      "openedAt": "2021-06-08T17:56:52.456996Z",
+      "closedAt": "2021-06-11T14:32:04.679941Z",
+      "holdMinutes": 4115.203716666667,
+      "overnight": true
+    },
+    {
+      "ticker": "WISH",
+      "qty": 0.0063680000000000125,
+      "entryPrice": 9.645,
+      "exitPrice": 10.0917,
+      "pnl": 0.0028445856000000047,
+      "openedAt": "2021-06-08T17:56:52.456996Z",
+      "closedAt": "2021-06-11T14:32:04.797Z",
+      "holdMinutes": 4115.205683333334,
+      "overnight": true
+    },
+    {
+      "ticker": "WISH",
+      "qty": 4.993632,
+      "entryPrice": 9.6583,
+      "exitPrice": 10.0917,
+      "pnl": 2.1642401087999943,
+      "openedAt": "2021-06-08T17:56:52.535Z",
+      "closedAt": "2021-06-11T14:32:04.797Z",
+      "holdMinutes": 4115.204366666667,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "WISH",
+      "qty": 0.177665,
+      "entryPrice": 9.645,
+      "exitPrice": 10.095,
+      "pnl": 0.07994925000000018,
+      "openedAt": "2021-06-08T17:56:52.456996Z",
+      "closedAt": "2021-06-11T14:32:04.679941Z",
+      "holdMinutes": 4115.203716666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.45000000000000107,
+      "notional": 1.7135789249999998,
+      "review": "overnight · 4115m · 0.45 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "WISH",
+      "qty": 0.0063680000000000125,
+      "entryPrice": 9.645,
+      "exitPrice": 10.0917,
+      "pnl": 0.0028445856000000047,
+      "openedAt": "2021-06-08T17:56:52.456996Z",
+      "closedAt": "2021-06-11T14:32:04.797Z",
+      "holdMinutes": 4115.205683333334,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.4466999999999999,
+      "notional": 0.06141936000000012,
+      "review": "overnight · 4115m · 0.45 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "WISH",
+      "qty": 4.993632,
+      "entryPrice": 9.6583,
+      "exitPrice": 10.0917,
+      "pnl": 2.1642401087999943,
+      "openedAt": "2021-06-08T17:56:52.535Z",
+      "closedAt": "2021-06-11T14:32:04.797Z",
+      "holdMinutes": 4115.204366666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.4333999999999989,
+      "notional": 48.2299959456,
+      "review": "overnight · 4115m · 0.43 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "on_streak",
+    "score": 24,
+    "reasons": [
+      "Win streak ×3"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 3
+    },
+    "maxWin": 3,
+    "maxLoss": 0
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

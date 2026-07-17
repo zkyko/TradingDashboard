@@ -1,0 +1,752 @@
+{
+  "id": "2021-10-28",
+  "date": "2021-10-28",
+  "label": "Thursday, Oct 28, 2021",
+  "weekday": "Thu",
+  "weekId": "2021-W43",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:03.552Z",
+  "realizedPnl": -426.53477059520003,
+  "tradeCount": 17,
+  "winCount": 0,
+  "lossCount": 17,
+  "processGrades": {
+    "A": 0,
+    "B": 0,
+    "C": 17
+  },
+  "metrics": {
+    "tradeCount": 17,
+    "winCount": 0,
+    "lossCount": 17,
+    "flatCount": 0,
+    "winRate": 0,
+    "winPct": 0,
+    "profitFactor": 0,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": -25.09028062324706,
+    "avgWin": null,
+    "avgLoss": -25.09028062324706,
+    "avgLossAbs": 25.09028062324706,
+    "grossWin": 0,
+    "grossLoss": -426.53477059520003,
+    "realizedPnl": -426.53477059520003,
+    "bestTrade": -0.013614636000000084,
+    "worstTrade": -205.38213040799997,
+    "avgHoldMinutes": 1713.0499529411768,
+    "equityCurve": [
+      {
+        "t": "2021-10-28T14:14:33.065014Z",
+        "pnl": -0.8613303999999998
+      },
+      {
+        "t": "2021-10-28T14:14:33.139Z",
+        "pnl": -1.5335728579999999
+      },
+      {
+        "t": "2021-10-28T14:14:33.139Z",
+        "pnl": -20.103517362000005
+      },
+      {
+        "t": "2021-10-28T14:14:33.139Z",
+        "pnl": -225.48564776999996
+      },
+      {
+        "t": "2021-10-28T14:24:22.143Z",
+        "pnl": -245.50433520719997
+      },
+      {
+        "t": "2021-10-28T14:24:22.143Z",
+        "pnl": -245.78186388719996
+      },
+      {
+        "t": "2021-10-28T14:24:22.143Z",
+        "pnl": -256.5539168932
+      },
+      {
+        "t": "2021-10-28T14:24:22.143Z",
+        "pnl": -256.5799184952
+      },
+      {
+        "t": "2021-10-28T14:24:22.143Z",
+        "pnl": -270.9997583692
+      },
+      {
+        "t": "2021-10-28T14:24:22.143Z",
+        "pnl": -271.0133730052
+      },
+      {
+        "t": "2021-10-28T14:24:22.143Z",
+        "pnl": -276.3471561802
+      },
+      {
+        "t": "2021-10-28T14:34:06.325Z",
+        "pnl": -382.1371561802
+      },
+      {
+        "t": "2021-10-28T14:34:06.326Z",
+        "pnl": -382.35464893520003
+      },
+      {
+        "t": "2021-10-28T14:34:06.326Z",
+        "pnl": -387.2346489352
+      },
+      {
+        "t": "2021-10-28T14:34:06.326Z",
+        "pnl": -403.2346489352
+      },
+      {
+        "t": "2021-10-28T14:34:06.326Z",
+        "pnl": -403.3984528652
+      },
+      {
+        "t": "2021-10-28T14:34:06.326Z",
+        "pnl": -426.53477059520003
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "TIGR",
+      "pnl": -225.48564776999996,
+      "trades": 4,
+      "wins": 0
+    },
+    {
+      "ticker": "GNUS",
+      "pnl": -150.18761441500004,
+      "trades": 6,
+      "wins": 0
+    },
+    {
+      "ticker": "PHUN",
+      "pnl": -50.86150841020003,
+      "trades": 7,
+      "wins": 0
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "TIGR",
+      "qty": 0.465584,
+      "entryPrice": 9.235,
+      "exitPrice": 7.385,
+      "pnl": -0.8613303999999998,
+      "openedAt": "2021-10-27T14:29:56.752777Z",
+      "closedAt": "2021-10-28T14:14:33.065014Z",
+      "holdMinutes": 1424.6052166666666,
+      "overnight": true
+    },
+    {
+      "ticker": "TIGR",
+      "qty": 0.36278600000000005,
+      "entryPrice": 9.235,
+      "exitPrice": 7.382,
+      "pnl": -0.672242458,
+      "openedAt": "2021-10-27T14:29:56.752777Z",
+      "closedAt": "2021-10-28T14:14:33.139Z",
+      "holdMinutes": 1424.60645,
+      "overnight": true
+    },
+    {
+      "ticker": "TIGR",
+      "qty": 9.994588,
+      "entryPrice": 9.24,
+      "exitPrice": 7.382,
+      "pnl": -18.569944504000006,
+      "openedAt": "2021-10-27T14:29:56.882Z",
+      "closedAt": "2021-10-28T14:14:33.139Z",
+      "holdMinutes": 1424.6042833333333,
+      "overnight": true
+    },
+    {
+      "ticker": "TIGR",
+      "qty": 107.642626,
+      "entryPrice": 9.29,
+      "exitPrice": 7.382,
+      "pnl": -205.38213040799997,
+      "openedAt": "2021-10-27T14:30:10.321Z",
+      "closedAt": "2021-10-28T14:14:33.139Z",
+      "holdMinutes": 1424.3803,
+      "overnight": true
+    },
+    {
+      "ticker": "PHUN",
+      "qty": 30.902574,
+      "entryPrice": 5.4688,
+      "exitPrice": 4.821,
+      "pnl": -20.018687437200004,
+      "openedAt": "2021-10-27T14:54:43.716Z",
+      "closedAt": "2021-10-28T14:24:22.143Z",
+      "holdMinutes": 1409.64045,
+      "overnight": true
+    },
+    {
+      "ticker": "PHUN",
+      "qty": 0.46722,
+      "entryPrice": 5.415,
+      "exitPrice": 4.821,
+      "pnl": -0.27752868000000014,
+      "openedAt": "2021-10-27T14:55:32.389098Z",
+      "closedAt": "2021-10-28T14:24:22.143Z",
+      "holdMinutes": 1408.8292333333334,
+      "overnight": true
+    },
+    {
+      "ticker": "PHUN",
+      "qty": 17.983394,
+      "entryPrice": 5.42,
+      "exitPrice": 4.821,
+      "pnl": -10.772053006000004,
+      "openedAt": "2021-10-27T14:55:32.464Z",
+      "closedAt": "2021-10-28T14:24:22.143Z",
+      "holdMinutes": 1408.8279833333333,
+      "overnight": true
+    },
+    {
+      "ticker": "PHUN",
+      "qty": 0.031943,
+      "entryPrice": 5.635,
+      "exitPrice": 4.821,
+      "pnl": -0.026001602000000002,
+      "openedAt": "2021-10-27T15:07:38.137Z",
+      "closedAt": "2021-10-28T14:24:22.143Z",
+      "holdMinutes": 1396.7334333333333,
+      "overnight": true
+    },
+    {
+      "ticker": "PHUN",
+      "qty": 17.714791,
+      "entryPrice": 5.635,
+      "exitPrice": 4.821,
+      "pnl": -14.419839874000003,
+      "openedAt": "2021-10-27T15:07:38.137Z",
+      "closedAt": "2021-10-28T14:24:22.143Z",
+      "holdMinutes": 1396.7334333333333,
+      "overnight": true
+    },
+    {
+      "ticker": "PHUN",
+      "qty": 0.162079,
+      "entryPrice": 4.905,
+      "exitPrice": 4.821,
+      "pnl": -0.013614636000000084,
+      "openedAt": "2021-10-28T14:14:49.650832Z",
+      "closedAt": "2021-10-28T14:24:22.143Z",
+      "holdMinutes": 9.54155,
+      "overnight": false
+    },
+    {
+      "ticker": "PHUN",
+      "qty": 60.957522,
+      "entryPrice": 4.9085,
+      "exitPrice": 4.821,
+      "pnl": -5.333783175000021,
+      "openedAt": "2021-10-28T14:14:49.729Z",
+      "closedAt": "2021-10-28T14:24:22.143Z",
+      "holdMinutes": 9.540233333333333,
+      "overnight": false
+    },
+    {
+      "ticker": "GNUS",
+      "qty": 0.713091,
+      "entryPrice": 1.795,
+      "exitPrice": 1.49,
+      "pnl": -0.21749275499999995,
+      "openedAt": "2021-10-25T19:21:14.384732Z",
+      "closedAt": "2021-10-28T14:34:06.326Z",
+      "holdMinutes": 4032.8657,
+      "overnight": true
+    },
+    {
+      "ticker": "GNUS",
+      "qty": 16,
+      "entryPrice": 1.795,
+      "exitPrice": 1.49,
+      "pnl": -4.879999999999999,
+      "openedAt": "2021-10-25T19:21:14.455Z",
+      "closedAt": "2021-10-28T14:34:06.326Z",
+      "holdMinutes": 4032.8645166666665,
+      "overnight": true
+    },
+    {
+      "ticker": "GNUS",
+      "qty": 50,
+      "entryPrice": 1.81,
+      "exitPrice": 1.49,
+      "pnl": -16.000000000000004,
+      "openedAt": "2021-10-25T19:21:46.167Z",
+      "closedAt": "2021-10-28T14:34:06.326Z",
+      "holdMinutes": 4032.3359833333334,
+      "overnight": true
+    },
+    {
+      "ticker": "GNUS",
+      "qty": 0.232346,
+      "entryPrice": 2.195,
+      "exitPrice": 1.49,
+      "pnl": -0.16380392999999996,
+      "openedAt": "2021-10-27T14:45:31.457405Z",
+      "closedAt": "2021-10-28T14:34:06.326Z",
+      "holdMinutes": 1428.58115,
+      "overnight": true
+    },
+    {
+      "ticker": "GNUS",
+      "qty": 32.586363,
+      "entryPrice": 2.2,
+      "exitPrice": 1.49,
+      "pnl": -23.136317730000005,
+      "openedAt": "2021-10-27T14:45:31.547Z",
+      "closedAt": "2021-10-28T14:34:06.326Z",
+      "holdMinutes": 1428.57965,
+      "overnight": true
+    },
+    {
+      "ticker": "GNUS",
+      "qty": 149,
+      "entryPrice": 2.2,
+      "exitPrice": 1.49,
+      "pnl": -105.79000000000003,
+      "openedAt": "2021-10-27T14:45:31.547Z",
+      "closedAt": "2021-10-28T14:34:06.325Z",
+      "holdMinutes": 1428.5796333333333,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "TIGR",
+      "qty": 0.465584,
+      "entryPrice": 9.235,
+      "exitPrice": 7.385,
+      "pnl": -0.8613303999999998,
+      "openedAt": "2021-10-27T14:29:56.752777Z",
+      "closedAt": "2021-10-28T14:14:33.065014Z",
+      "holdMinutes": 1424.6052166666666,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 1.8499999999999996,
+      "notional": 4.29966824,
+      "review": "overnight · 1425m · 1.85 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "TIGR",
+      "qty": 0.36278600000000005,
+      "entryPrice": 9.235,
+      "exitPrice": 7.382,
+      "pnl": -0.672242458,
+      "openedAt": "2021-10-27T14:29:56.752777Z",
+      "closedAt": "2021-10-28T14:14:33.139Z",
+      "holdMinutes": 1424.60645,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 1.8529999999999998,
+      "notional": 3.3503287100000003,
+      "review": "overnight · 1425m · 1.85 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "TIGR",
+      "qty": 9.994588,
+      "entryPrice": 9.24,
+      "exitPrice": 7.382,
+      "pnl": -18.569944504000006,
+      "openedAt": "2021-10-27T14:29:56.882Z",
+      "closedAt": "2021-10-28T14:14:33.139Z",
+      "holdMinutes": 1424.6042833333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "size_up_after_loss"
+      ],
+      "movePts": 1.8580000000000005,
+      "notional": 92.34999312000001,
+      "review": "overnight · 1425m · 1.86 pts · Flags: overnight, after_loss_streak, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "TIGR",
+      "qty": 107.642626,
+      "entryPrice": 9.29,
+      "exitPrice": 7.382,
+      "pnl": -205.38213040799997,
+      "openedAt": "2021-10-27T14:30:10.321Z",
+      "closedAt": "2021-10-28T14:14:33.139Z",
+      "holdMinutes": 1424.3803,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "size_up_after_loss"
+      ],
+      "movePts": 1.9079999999999995,
+      "notional": 999.99999554,
+      "review": "overnight · 1424m · 1.91 pts · Flags: overnight, after_loss_streak, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "PHUN",
+      "qty": 30.902574,
+      "entryPrice": 5.4688,
+      "exitPrice": 4.821,
+      "pnl": -20.018687437200004,
+      "openedAt": "2021-10-27T14:54:43.716Z",
+      "closedAt": "2021-10-28T14:24:22.143Z",
+      "holdMinutes": 1409.64045,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 0.6478000000000002,
+      "notional": 168.9999966912,
+      "review": "overnight · 1410m · 0.65 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "PHUN",
+      "qty": 0.46722,
+      "entryPrice": 5.415,
+      "exitPrice": 4.821,
+      "pnl": -0.27752868000000014,
+      "openedAt": "2021-10-27T14:55:32.389098Z",
+      "closedAt": "2021-10-28T14:24:22.143Z",
+      "holdMinutes": 1408.8292333333334,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 0.5940000000000003,
+      "notional": 2.5299963,
+      "review": "overnight · 1409m · 0.59 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "PHUN",
+      "qty": 17.983394,
+      "entryPrice": 5.42,
+      "exitPrice": 4.821,
+      "pnl": -10.772053006000004,
+      "openedAt": "2021-10-27T14:55:32.464Z",
+      "closedAt": "2021-10-28T14:24:22.143Z",
+      "holdMinutes": 1408.8279833333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 0.5990000000000002,
+      "notional": 97.46999548000001,
+      "review": "overnight · 1409m · 0.60 pts · Flags: overnight, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "PHUN",
+      "qty": 0.031943,
+      "entryPrice": 5.635,
+      "exitPrice": 4.821,
+      "pnl": -0.026001602000000002,
+      "openedAt": "2021-10-27T15:07:38.137Z",
+      "closedAt": "2021-10-28T14:24:22.143Z",
+      "holdMinutes": 1396.7334333333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 0.8140000000000001,
+      "notional": 0.17999880499999998,
+      "review": "overnight · 1397m · 0.81 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "PHUN",
+      "qty": 17.714791,
+      "entryPrice": 5.635,
+      "exitPrice": 4.821,
+      "pnl": -14.419839874000003,
+      "openedAt": "2021-10-27T15:07:38.137Z",
+      "closedAt": "2021-10-28T14:24:22.143Z",
+      "holdMinutes": 1396.7334333333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 0.8140000000000001,
+      "notional": 99.82284728500001,
+      "review": "overnight · 1397m · 0.81 pts · Flags: overnight, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "PHUN",
+      "qty": 0.162079,
+      "entryPrice": 4.905,
+      "exitPrice": 4.821,
+      "pnl": -0.013614636000000084,
+      "openedAt": "2021-10-28T14:14:49.650832Z",
+      "closedAt": "2021-10-28T14:24:22.143Z",
+      "holdMinutes": 9.54155,
+      "overnight": false,
+      "holdBucket": "sub_15m",
+      "grade": "C",
+      "flags": [
+        "losing_scratch",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 0.08400000000000052,
+      "notional": 0.794997495,
+      "review": "sub 15m · 10m · 0.08 pts · Flags: losing_scratch, after_loss_streak, high_frequency_day · Chop after losses — consistency cost, not information.",
+      "whatWorked": "",
+      "whatFailed": "Chop after losses — consistency cost, not information.",
+      "nextTime": "Default to ≥15m hold or stand down — your sub-15m sample is negative EV."
+    },
+    {
+      "ticker": "PHUN",
+      "qty": 60.957522,
+      "entryPrice": 4.9085,
+      "exitPrice": 4.821,
+      "pnl": -5.333783175000021,
+      "openedAt": "2021-10-28T14:14:49.729Z",
+      "closedAt": "2021-10-28T14:24:22.143Z",
+      "holdMinutes": 9.540233333333333,
+      "overnight": false,
+      "holdBucket": "sub_15m",
+      "grade": "C",
+      "flags": [
+        "losing_scratch",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 0.08750000000000036,
+      "notional": 299.209996737,
+      "review": "sub 15m · 10m · 0.09 pts · Flags: losing_scratch, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "GNUS",
+      "qty": 0.713091,
+      "entryPrice": 1.795,
+      "exitPrice": 1.49,
+      "pnl": -0.21749275499999995,
+      "openedAt": "2021-10-25T19:21:14.384732Z",
+      "closedAt": "2021-10-28T14:34:06.326Z",
+      "holdMinutes": 4032.8657,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 0.30499999999999994,
+      "notional": 1.279998345,
+      "review": "overnight · 4033m · 0.30 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "GNUS",
+      "qty": 16,
+      "entryPrice": 1.795,
+      "exitPrice": 1.49,
+      "pnl": -4.879999999999999,
+      "openedAt": "2021-10-25T19:21:14.455Z",
+      "closedAt": "2021-10-28T14:34:06.326Z",
+      "holdMinutes": 4032.8645166666665,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 0.30499999999999994,
+      "notional": 28.72,
+      "review": "overnight · 4033m · 0.30 pts · Flags: overnight, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "GNUS",
+      "qty": 50,
+      "entryPrice": 1.81,
+      "exitPrice": 1.49,
+      "pnl": -16.000000000000004,
+      "openedAt": "2021-10-25T19:21:46.167Z",
+      "closedAt": "2021-10-28T14:34:06.326Z",
+      "holdMinutes": 4032.3359833333334,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 0.32000000000000006,
+      "notional": 90.5,
+      "review": "overnight · 4032m · 0.32 pts · Flags: overnight, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "GNUS",
+      "qty": 0.232346,
+      "entryPrice": 2.195,
+      "exitPrice": 1.49,
+      "pnl": -0.16380392999999996,
+      "openedAt": "2021-10-27T14:45:31.457405Z",
+      "closedAt": "2021-10-28T14:34:06.326Z",
+      "holdMinutes": 1428.58115,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 0.7049999999999998,
+      "notional": 0.50999947,
+      "review": "overnight · 1429m · 0.70 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "GNUS",
+      "qty": 32.586363,
+      "entryPrice": 2.2,
+      "exitPrice": 1.49,
+      "pnl": -23.136317730000005,
+      "openedAt": "2021-10-27T14:45:31.547Z",
+      "closedAt": "2021-10-28T14:34:06.326Z",
+      "holdMinutes": 1428.57965,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 0.7100000000000002,
+      "notional": 71.68999860000001,
+      "review": "overnight · 1429m · 0.71 pts · Flags: overnight, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "GNUS",
+      "qty": 149,
+      "entryPrice": 2.2,
+      "exitPrice": 1.49,
+      "pnl": -105.79000000000003,
+      "openedAt": "2021-10-27T14:45:31.547Z",
+      "closedAt": "2021-10-28T14:34:06.325Z",
+      "holdMinutes": 1428.5796333333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 0.7100000000000002,
+      "notional": 327.8,
+      "review": "overnight · 1429m · 0.71 pts · Flags: overnight, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    }
+  ],
+  "tilt": {
+    "state": "overnight_hungover",
+    "score": 80,
+    "reasons": [
+      "Loss streak ×17",
+      "Overnight PnL $-421"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 17
+    },
+    "maxWin": 0,
+    "maxLoss": 17
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

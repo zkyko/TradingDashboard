@@ -1,0 +1,110 @@
+{
+  "id": "2026-01-21",
+  "date": "2026-01-21",
+  "label": "Wednesday, Jan 21, 2026",
+  "weekday": "Wed",
+  "weekId": "2026-W04",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:04.317Z",
+  "realizedPnl": 0.23645623919999906,
+  "tradeCount": 1,
+  "winCount": 1,
+  "lossCount": 0,
+  "processGrades": {
+    "A": 0,
+    "B": 1,
+    "C": 0
+  },
+  "metrics": {
+    "tradeCount": 1,
+    "winCount": 1,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": 1,
+    "winPct": 100,
+    "profitFactor": null,
+    "profitFactorInfinite": true,
+    "rewardRisk": null,
+    "expectancy": 0.23645623919999906,
+    "avgWin": 0.23645623919999906,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0.23645623919999906,
+    "grossLoss": 0,
+    "realizedPnl": 0.23645623919999906,
+    "bestTrade": 0.23645623919999906,
+    "worstTrade": 0.23645623919999906,
+    "avgHoldMinutes": 27146.509883333332,
+    "equityCurve": [
+      {
+        "t": "2026-01-21T14:48:40.698Z",
+        "pnl": 0.23645623919999906
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "SQQQ",
+      "pnl": 0.23645623919999906,
+      "trades": 1,
+      "wins": 1
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "SQQQ",
+      "qty": 0.274566,
+      "entryPrice": 69.1999,
+      "exitPrice": 70.0611,
+      "pnl": 0.23645623919999906,
+      "openedAt": "2026-01-02T18:22:10.105Z",
+      "closedAt": "2026-01-21T14:48:40.698Z",
+      "holdMinutes": 27146.509883333332,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "SQQQ",
+      "qty": 0.274566,
+      "entryPrice": 69.1999,
+      "exitPrice": 70.0611,
+      "pnl": 0.23645623919999906,
+      "openedAt": "2026-01-02T18:22:10.105Z",
+      "closedAt": "2026-01-21T14:48:40.698Z",
+      "holdMinutes": 27146.509883333332,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.8611999999999966,
+      "notional": 18.9999397434,
+      "review": "overnight · 27147m · 0.86 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 1
+    },
+    "maxWin": 1,
+    "maxLoss": 0
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

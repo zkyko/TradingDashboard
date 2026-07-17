@@ -1,0 +1,1158 @@
+{
+  "updatedAt": "2026-07-17T16:33:08.276Z",
+  "timeZone": "America/Chicago",
+  "months": [
+    {
+      "month": "2026-07",
+      "days": [
+        {
+          "date": "2026-07-01",
+          "weekday": "Wed",
+          "weekId": "2026-W27",
+          "realizedPnl": -17.508106443395036,
+          "tradeCount": 17,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2026-07-06",
+          "weekday": "Mon",
+          "weekId": "2026-W28",
+          "realizedPnl": -3.644782167997995,
+          "tradeCount": 8,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2026-07-08",
+          "weekday": "Wed",
+          "weekId": "2026-W28",
+          "realizedPnl": -191.85517444399997,
+          "tradeCount": 8,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2026-07-09",
+          "weekday": "Thu",
+          "weekId": "2026-W28",
+          "realizedPnl": 119.7972986499999,
+          "tradeCount": 16,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2026-07-10",
+          "weekday": "Fri",
+          "weekId": "2026-W28",
+          "realizedPnl": 16.06000000000001,
+          "tradeCount": 7,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2026-07-13",
+          "weekday": "Mon",
+          "weekId": "2026-W29",
+          "realizedPnl": -87.92500000000004,
+          "tradeCount": 1,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2026-07-14",
+          "weekday": "Tue",
+          "weekId": "2026-W29",
+          "realizedPnl": 24.53999999999985,
+          "tradeCount": 1,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2026-07-15",
+          "weekday": "Wed",
+          "weekId": "2026-W29",
+          "realizedPnl": -4.582300000000004,
+          "tradeCount": 10,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2026-07-16",
+          "weekday": "Thu",
+          "weekId": "2026-W29",
+          "realizedPnl": -320.6740378980001,
+          "tradeCount": 12,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2026-07-17",
+          "weekday": "Fri",
+          "weekId": "2026-W29",
+          "realizedPnl": 382.86800000000005,
+          "tradeCount": 10,
+          "lesson": "Friday bounce recovered SOXL week; overnight CONL still the real damage.",
+          "hasNotes": true
+        }
+      ],
+      "realizedPnl": -82.92410230339334,
+      "tradeCount": 90
+    },
+    {
+      "month": "2026-06",
+      "days": [
+        {
+          "date": "2026-06-12",
+          "weekday": "Fri",
+          "weekId": "2026-W24",
+          "realizedPnl": 1.061360999999998,
+          "tradeCount": 2,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2026-06-15",
+          "weekday": "Mon",
+          "weekId": "2026-W25",
+          "realizedPnl": -11.641760082999951,
+          "tradeCount": 3,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2026-06-30",
+          "weekday": "Tue",
+          "weekId": "2026-W27",
+          "realizedPnl": 19.150000000000027,
+          "tradeCount": 2,
+          "lesson": "",
+          "hasNotes": false
+        }
+      ],
+      "realizedPnl": 8.569600917000074,
+      "tradeCount": 7
+    },
+    {
+      "month": "2026-04",
+      "days": [
+        {
+          "date": "2026-04-15",
+          "weekday": "Wed",
+          "weekId": "2026-W16",
+          "realizedPnl": 0.8264450990000077,
+          "tradeCount": 5,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2026-04-29",
+          "weekday": "Wed",
+          "weekId": "2026-W18",
+          "realizedPnl": 9.799999999999969,
+          "tradeCount": 3,
+          "lesson": "",
+          "hasNotes": false
+        }
+      ],
+      "realizedPnl": 10.626445098999977,
+      "tradeCount": 8
+    },
+    {
+      "month": "2026-03",
+      "days": [
+        {
+          "date": "2026-03-04",
+          "weekday": "Wed",
+          "weekId": "2026-W10",
+          "realizedPnl": -6.196294977599995,
+          "tradeCount": 3,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2026-03-05",
+          "weekday": "Thu",
+          "weekId": "2026-W10",
+          "realizedPnl": 6.385456879999968,
+          "tradeCount": 1,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2026-03-11",
+          "weekday": "Wed",
+          "weekId": "2026-W11",
+          "realizedPnl": 14.839999999999986,
+          "tradeCount": 2,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2026-03-26",
+          "weekday": "Thu",
+          "weekId": "2026-W13",
+          "realizedPnl": 5.951100305000009,
+          "tradeCount": 1,
+          "lesson": "",
+          "hasNotes": false
+        }
+      ],
+      "realizedPnl": 20.980262207399967,
+      "tradeCount": 7
+    },
+    {
+      "month": "2026-02",
+      "days": [
+        {
+          "date": "2026-02-10",
+          "weekday": "Tue",
+          "weekId": "2026-W07",
+          "realizedPnl": -0.27916648799999083,
+          "tradeCount": 2,
+          "lesson": "",
+          "hasNotes": false
+        }
+      ],
+      "realizedPnl": -0.27916648799999083,
+      "tradeCount": 2
+    },
+    {
+      "month": "2026-01",
+      "days": [
+        {
+          "date": "2026-01-21",
+          "weekday": "Wed",
+          "weekId": "2026-W04",
+          "realizedPnl": 0.23645623919999906,
+          "tradeCount": 1,
+          "lesson": "",
+          "hasNotes": false
+        }
+      ],
+      "realizedPnl": 0.23645623919999906,
+      "tradeCount": 1
+    },
+    {
+      "month": "2022-10",
+      "days": [
+        {
+          "date": "2022-10-21",
+          "weekday": "Fri",
+          "weekId": "2022-W42",
+          "realizedPnl": -1.0903629578999992,
+          "tradeCount": 10,
+          "lesson": "",
+          "hasNotes": false
+        }
+      ],
+      "realizedPnl": -1.0903629578999992,
+      "tradeCount": 10
+    },
+    {
+      "month": "2022-07",
+      "days": [
+        {
+          "date": "2022-07-01",
+          "weekday": "Fri",
+          "weekId": "2022-W26",
+          "realizedPnl": -21.512514273499985,
+          "tradeCount": 14,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2022-07-08",
+          "weekday": "Fri",
+          "weekId": "2022-W27",
+          "realizedPnl": 9.236981261599997,
+          "tradeCount": 3,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2022-07-12",
+          "weekday": "Tue",
+          "weekId": "2022-W28",
+          "realizedPnl": 52.79447932259996,
+          "tradeCount": 5,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2022-07-15",
+          "weekday": "Fri",
+          "weekId": "2022-W28",
+          "realizedPnl": -16.577077684000045,
+          "tradeCount": 4,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2022-07-19",
+          "weekday": "Tue",
+          "weekId": "2022-W29",
+          "realizedPnl": -8.713205267000003,
+          "tradeCount": 1,
+          "lesson": "",
+          "hasNotes": false
+        }
+      ],
+      "realizedPnl": 15.228663359699926,
+      "tradeCount": 27
+    },
+    {
+      "month": "2022-06",
+      "days": [
+        {
+          "date": "2022-06-02",
+          "weekday": "Thu",
+          "weekId": "2022-W22",
+          "realizedPnl": 2.5265000000000057,
+          "tradeCount": 1,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2022-06-08",
+          "weekday": "Wed",
+          "weekId": "2022-W23",
+          "realizedPnl": -2.0710010229999507,
+          "tradeCount": 6,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2022-06-21",
+          "weekday": "Tue",
+          "weekId": "2022-W25",
+          "realizedPnl": -698.5062439999999,
+          "tradeCount": 15,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2022-06-24",
+          "weekday": "Fri",
+          "weekId": "2022-W25",
+          "realizedPnl": 6.824594200000003,
+          "tradeCount": 3,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2022-06-27",
+          "weekday": "Mon",
+          "weekId": "2022-W26",
+          "realizedPnl": 2.3980187199999996,
+          "tradeCount": 2,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2022-06-28",
+          "weekday": "Tue",
+          "weekId": "2022-W26",
+          "realizedPnl": -0.6532518840000667,
+          "tradeCount": 3,
+          "lesson": "",
+          "hasNotes": false
+        }
+      ],
+      "realizedPnl": -689.481383987,
+      "tradeCount": 30
+    },
+    {
+      "month": "2022-05",
+      "days": [
+        {
+          "date": "2022-05-19",
+          "weekday": "Thu",
+          "weekId": "2022-W20",
+          "realizedPnl": -50.8926,
+          "tradeCount": 1,
+          "lesson": "",
+          "hasNotes": false
+        }
+      ],
+      "realizedPnl": -50.8926,
+      "tradeCount": 1
+    },
+    {
+      "month": "2022-04",
+      "days": [
+        {
+          "date": "2022-04-12",
+          "weekday": "Tue",
+          "weekId": "2022-W15",
+          "realizedPnl": 0.02999999999999936,
+          "tradeCount": 1,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2022-04-13",
+          "weekday": "Wed",
+          "weekId": "2022-W15",
+          "realizedPnl": -0.3557762999999948,
+          "tradeCount": 1,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2022-04-14",
+          "weekday": "Thu",
+          "weekId": "2022-W15",
+          "realizedPnl": -34.676100000000005,
+          "tradeCount": 1,
+          "lesson": "",
+          "hasNotes": false
+        }
+      ],
+      "realizedPnl": -35.0018763,
+      "tradeCount": 3
+    },
+    {
+      "month": "2022-03",
+      "days": [
+        {
+          "date": "2022-03-25",
+          "weekday": "Fri",
+          "weekId": "2022-W12",
+          "realizedPnl": 8.58082546,
+          "tradeCount": 6,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2022-03-29",
+          "weekday": "Tue",
+          "weekId": "2022-W13",
+          "realizedPnl": -76.36410720510005,
+          "tradeCount": 7,
+          "lesson": "",
+          "hasNotes": false
+        }
+      ],
+      "realizedPnl": -67.78328174510006,
+      "tradeCount": 13
+    },
+    {
+      "month": "2022-02",
+      "days": [
+        {
+          "date": "2022-02-11",
+          "weekday": "Fri",
+          "weekId": "2022-W06",
+          "realizedPnl": -34.08749999999999,
+          "tradeCount": 1,
+          "lesson": "",
+          "hasNotes": false
+        }
+      ],
+      "realizedPnl": -34.08749999999999,
+      "tradeCount": 1
+    },
+    {
+      "month": "2022-01",
+      "days": [
+        {
+          "date": "2022-01-28",
+          "weekday": "Fri",
+          "weekId": "2022-W04",
+          "realizedPnl": 0.33899999999999864,
+          "tradeCount": 1,
+          "lesson": "",
+          "hasNotes": false
+        }
+      ],
+      "realizedPnl": 0.33899999999999864,
+      "tradeCount": 1
+    },
+    {
+      "month": "2021-12",
+      "days": [
+        {
+          "date": "2021-12-13",
+          "weekday": "Mon",
+          "weekId": "2021-W50",
+          "realizedPnl": -2501.649402861,
+          "tradeCount": 5,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-12-17",
+          "weekday": "Fri",
+          "weekId": "2021-W50",
+          "realizedPnl": 180.09500000000003,
+          "tradeCount": 1,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-12-20",
+          "weekday": "Mon",
+          "weekId": "2021-W51",
+          "realizedPnl": 201.91,
+          "tradeCount": 1,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-12-22",
+          "weekday": "Wed",
+          "weekId": "2021-W51",
+          "realizedPnl": 263.74,
+          "tradeCount": 2,
+          "lesson": "",
+          "hasNotes": false
+        }
+      ],
+      "realizedPnl": -1855.9044028610003,
+      "tradeCount": 9
+    },
+    {
+      "month": "2021-11",
+      "days": [
+        {
+          "date": "2021-11-02",
+          "weekday": "Tue",
+          "weekId": "2021-W44",
+          "realizedPnl": 101.95336799999998,
+          "tradeCount": 10,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-11-03",
+          "weekday": "Wed",
+          "weekId": "2021-W44",
+          "realizedPnl": -270.79370409579974,
+          "tradeCount": 6,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-11-12",
+          "weekday": "Fri",
+          "weekId": "2021-W45",
+          "realizedPnl": -22.649134539999995,
+          "tradeCount": 7,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-11-15",
+          "weekday": "Mon",
+          "weekId": "2021-W46",
+          "realizedPnl": -11.936340000000001,
+          "tradeCount": 3,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-11-17",
+          "weekday": "Wed",
+          "weekId": "2021-W46",
+          "realizedPnl": -64.19771384570012,
+          "tradeCount": 8,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-11-18",
+          "weekday": "Thu",
+          "weekId": "2021-W46",
+          "realizedPnl": -6.143769000000003,
+          "tradeCount": 1,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-11-19",
+          "weekday": "Fri",
+          "weekId": "2021-W46",
+          "realizedPnl": 0.4553999999999938,
+          "tradeCount": 1,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-11-29",
+          "weekday": "Mon",
+          "weekId": "2021-W48",
+          "realizedPnl": 1.222406780000003,
+          "tradeCount": 2,
+          "lesson": "",
+          "hasNotes": false
+        }
+      ],
+      "realizedPnl": -272.0894867014999,
+      "tradeCount": 38
+    },
+    {
+      "month": "2021-10",
+      "days": [
+        {
+          "date": "2021-10-20",
+          "weekday": "Wed",
+          "weekId": "2021-W42",
+          "realizedPnl": -214.78496854999997,
+          "tradeCount": 7,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-10-22",
+          "weekday": "Fri",
+          "weekId": "2021-W42",
+          "realizedPnl": -1829.5134639333994,
+          "tradeCount": 43,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-10-25",
+          "weekday": "Mon",
+          "weekId": "2021-W43",
+          "realizedPnl": -4.649999999999994,
+          "tradeCount": 1,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-10-26",
+          "weekday": "Tue",
+          "weekId": "2021-W43",
+          "realizedPnl": -19.062577400000002,
+          "tradeCount": 4,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-10-27",
+          "weekday": "Wed",
+          "weekId": "2021-W43",
+          "realizedPnl": -65.6059889314,
+          "tradeCount": 10,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-10-28",
+          "weekday": "Thu",
+          "weekId": "2021-W43",
+          "realizedPnl": -426.53477059520003,
+          "tradeCount": 17,
+          "lesson": "",
+          "hasNotes": false
+        }
+      ],
+      "realizedPnl": -2560.1517694099994,
+      "tradeCount": 82
+    },
+    {
+      "month": "2021-09",
+      "days": [
+        {
+          "date": "2021-09-09",
+          "weekday": "Thu",
+          "weekId": "2021-W36",
+          "realizedPnl": -33.340775833,
+          "tradeCount": 3,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-09-27",
+          "weekday": "Mon",
+          "weekId": "2021-W39",
+          "realizedPnl": -146.1400651371,
+          "tradeCount": 10,
+          "lesson": "",
+          "hasNotes": false
+        }
+      ],
+      "realizedPnl": -179.48084097010002,
+      "tradeCount": 13
+    },
+    {
+      "month": "2021-08",
+      "days": [
+        {
+          "date": "2021-08-09",
+          "weekday": "Mon",
+          "weekId": "2021-W32",
+          "realizedPnl": -16.887792247800004,
+          "tradeCount": 6,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-08-13",
+          "weekday": "Fri",
+          "weekId": "2021-W32",
+          "realizedPnl": -18.618736906699972,
+          "tradeCount": 8,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-08-24",
+          "weekday": "Tue",
+          "weekId": "2021-W34",
+          "realizedPnl": 7932.357992998301,
+          "tradeCount": 47,
+          "lesson": "",
+          "hasNotes": false
+        }
+      ],
+      "realizedPnl": 7896.851463843801,
+      "tradeCount": 61
+    },
+    {
+      "month": "2021-06",
+      "days": [
+        {
+          "date": "2021-06-01",
+          "weekday": "Tue",
+          "weekId": "2021-W22",
+          "realizedPnl": -0.3748957601999979,
+          "tradeCount": 1,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-06-08",
+          "weekday": "Tue",
+          "weekId": "2021-W23",
+          "realizedPnl": 5.134200000000003,
+          "tradeCount": 1,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-06-11",
+          "weekday": "Fri",
+          "weekId": "2021-W23",
+          "realizedPnl": 2.2470339443999943,
+          "tradeCount": 3,
+          "lesson": "",
+          "hasNotes": false
+        }
+      ],
+      "realizedPnl": 7.0063381842000005,
+      "tradeCount": 5
+    },
+    {
+      "month": "2021-05",
+      "days": [
+        {
+          "date": "2021-05-03",
+          "weekday": "Mon",
+          "weekId": "2021-W18",
+          "realizedPnl": 44.30230092000001,
+          "tradeCount": 4,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-05-05",
+          "weekday": "Wed",
+          "weekId": "2021-W18",
+          "realizedPnl": 2.4720791000000015,
+          "tradeCount": 1,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-05-18",
+          "weekday": "Tue",
+          "weekId": "2021-W20",
+          "realizedPnl": -11.194499999999996,
+          "tradeCount": 1,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-05-26",
+          "weekday": "Wed",
+          "weekId": "2021-W21",
+          "realizedPnl": -27.51920227159997,
+          "tradeCount": 8,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-05-28",
+          "weekday": "Fri",
+          "weekId": "2021-W21",
+          "realizedPnl": -64.34362398,
+          "tradeCount": 8,
+          "lesson": "",
+          "hasNotes": false
+        }
+      ],
+      "realizedPnl": -56.282946231599965,
+      "tradeCount": 22
+    },
+    {
+      "month": "2021-04",
+      "days": [
+        {
+          "date": "2021-04-15",
+          "weekday": "Thu",
+          "weekId": "2021-W15",
+          "realizedPnl": 60.045476724999986,
+          "tradeCount": 8,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-04-16",
+          "weekday": "Fri",
+          "weekId": "2021-W15",
+          "realizedPnl": -46.61819265699995,
+          "tradeCount": 7,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-04-23",
+          "weekday": "Fri",
+          "weekId": "2021-W16",
+          "realizedPnl": 15.499800000000008,
+          "tradeCount": 1,
+          "lesson": "",
+          "hasNotes": false
+        }
+      ],
+      "realizedPnl": 28.927084068000042,
+      "tradeCount": 16
+    },
+    {
+      "month": "2021-03",
+      "days": [
+        {
+          "date": "2021-03-10",
+          "weekday": "Wed",
+          "weekId": "2021-W10",
+          "realizedPnl": 262.61718357,
+          "tradeCount": 6,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-03-12",
+          "weekday": "Fri",
+          "weekId": "2021-W10",
+          "realizedPnl": -5.100000000000001,
+          "tradeCount": 1,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-03-18",
+          "weekday": "Thu",
+          "weekId": "2021-W11",
+          "realizedPnl": 5.852499999999998,
+          "tradeCount": 2,
+          "lesson": "",
+          "hasNotes": false
+        }
+      ],
+      "realizedPnl": 263.36968357,
+      "tradeCount": 9
+    },
+    {
+      "month": "2021-02",
+      "days": [
+        {
+          "date": "2021-02-01",
+          "weekday": "Mon",
+          "weekId": "2021-W05",
+          "realizedPnl": 5.126978117199997,
+          "tradeCount": 5,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-02-02",
+          "weekday": "Tue",
+          "weekId": "2021-W05",
+          "realizedPnl": 97.383495,
+          "tradeCount": 9,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-02-03",
+          "weekday": "Wed",
+          "weekId": "2021-W05",
+          "realizedPnl": 22.510808009999995,
+          "tradeCount": 2,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-02-05",
+          "weekday": "Fri",
+          "weekId": "2021-W05",
+          "realizedPnl": 0.3338000000000001,
+          "tradeCount": 1,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-02-08",
+          "weekday": "Mon",
+          "weekId": "2021-W06",
+          "realizedPnl": 381.90548335290003,
+          "tradeCount": 8,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-02-09",
+          "weekday": "Tue",
+          "weekId": "2021-W06",
+          "realizedPnl": -68.320052,
+          "tradeCount": 4,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-02-10",
+          "weekday": "Wed",
+          "weekId": "2021-W06",
+          "realizedPnl": 463.4621358365,
+          "tradeCount": 10,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-02-11",
+          "weekday": "Thu",
+          "weekId": "2021-W06",
+          "realizedPnl": 10.934468827300009,
+          "tradeCount": 9,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-02-16",
+          "weekday": "Tue",
+          "weekId": "2021-W07",
+          "realizedPnl": 200.579563104,
+          "tradeCount": 14,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-02-17",
+          "weekday": "Wed",
+          "weekId": "2021-W07",
+          "realizedPnl": 9.48125632,
+          "tradeCount": 3,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-02-18",
+          "weekday": "Thu",
+          "weekId": "2021-W07",
+          "realizedPnl": -7.148694488999981,
+          "tradeCount": 12,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-02-19",
+          "weekday": "Fri",
+          "weekId": "2021-W07",
+          "realizedPnl": 17.448805772399986,
+          "tradeCount": 13,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-02-24",
+          "weekday": "Wed",
+          "weekId": "2021-W08",
+          "realizedPnl": 33.39366205379999,
+          "tradeCount": 1,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-02-25",
+          "weekday": "Thu",
+          "weekId": "2021-W08",
+          "realizedPnl": 7.140184999999999,
+          "tradeCount": 4,
+          "lesson": "",
+          "hasNotes": false
+        }
+      ],
+      "realizedPnl": 1174.2318949051,
+      "tradeCount": 95
+    },
+    {
+      "month": "2021-01",
+      "days": [
+        {
+          "date": "2021-01-04",
+          "weekday": "Mon",
+          "weekId": "2021-W01",
+          "realizedPnl": 213.1995185,
+          "tradeCount": 7,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-01-06",
+          "weekday": "Wed",
+          "weekId": "2021-W01",
+          "realizedPnl": 64.92137499999998,
+          "tradeCount": 3,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-01-07",
+          "weekday": "Thu",
+          "weekId": "2021-W01",
+          "realizedPnl": 107.82,
+          "tradeCount": 4,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-01-11",
+          "weekday": "Mon",
+          "weekId": "2021-W02",
+          "realizedPnl": 10.471000000000004,
+          "tradeCount": 1,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-01-12",
+          "weekday": "Tue",
+          "weekId": "2021-W02",
+          "realizedPnl": 846.5742000000001,
+          "tradeCount": 4,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-01-14",
+          "weekday": "Thu",
+          "weekId": "2021-W02",
+          "realizedPnl": 2.962099999999997,
+          "tradeCount": 2,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-01-15",
+          "weekday": "Fri",
+          "weekId": "2021-W02",
+          "realizedPnl": 4.49935507470006,
+          "tradeCount": 3,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-01-20",
+          "weekday": "Wed",
+          "weekId": "2021-W03",
+          "realizedPnl": 4.44189999999999,
+          "tradeCount": 1,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-01-26",
+          "weekday": "Tue",
+          "weekId": "2021-W04",
+          "realizedPnl": 18.045,
+          "tradeCount": 1,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-01-27",
+          "weekday": "Wed",
+          "weekId": "2021-W04",
+          "realizedPnl": 91.27409109559997,
+          "tradeCount": 9,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2021-01-29",
+          "weekday": "Fri",
+          "weekId": "2021-W04",
+          "realizedPnl": 6.815899999999999,
+          "tradeCount": 1,
+          "lesson": "",
+          "hasNotes": false
+        }
+      ],
+      "realizedPnl": 1371.0244396703004,
+      "tradeCount": 36
+    },
+    {
+      "month": "2020-12",
+      "days": [
+        {
+          "date": "2020-12-21",
+          "weekday": "Mon",
+          "weekId": "2020-W52",
+          "realizedPnl": 1.4450000000000074,
+          "tradeCount": 1,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2020-12-22",
+          "weekday": "Tue",
+          "weekId": "2020-W52",
+          "realizedPnl": 116.57889601,
+          "tradeCount": 9,
+          "lesson": "",
+          "hasNotes": false
+        },
+        {
+          "date": "2020-12-23",
+          "weekday": "Wed",
+          "weekId": "2020-W52",
+          "realizedPnl": 13.0047,
+          "tradeCount": 2,
+          "lesson": "",
+          "hasNotes": false
+        }
+      ],
+      "realizedPnl": 131.02859601,
+      "tradeCount": 12
+    },
+    {
+      "month": "2020-10",
+      "days": [
+        {
+          "date": "2020-10-26",
+          "weekday": "Mon",
+          "weekId": "2020-W44",
+          "realizedPnl": 1.5499999999999998,
+          "tradeCount": 1,
+          "lesson": "",
+          "hasNotes": false
+        }
+      ],
+      "realizedPnl": 1.5499999999999998,
+      "tradeCount": 1
+    }
+  ]
+}

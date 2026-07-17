@@ -1,0 +1,123 @@
+{
+  "id": "2021-W20",
+  "label": "May 17 – May 21, 2021",
+  "start": "2021-05-17",
+  "end": "2021-05-24",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:07.665Z",
+  "realizedPnl": -11.194499999999996,
+  "tradeCount": 1,
+  "winCount": 0,
+  "lossCount": 1,
+  "priorWeekPnl": null,
+  "metrics": {
+    "tradeCount": 1,
+    "winCount": 0,
+    "lossCount": 1,
+    "flatCount": 0,
+    "winRate": 0,
+    "winPct": 0,
+    "profitFactor": 0,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": -11.194499999999996,
+    "avgWin": null,
+    "avgLoss": -11.194499999999996,
+    "avgLossAbs": 11.194499999999996,
+    "grossWin": 0,
+    "grossLoss": -11.194499999999996,
+    "realizedPnl": -11.194499999999996,
+    "bestTrade": -11.194499999999996,
+    "worstTrade": -11.194499999999996,
+    "avgHoldMinutes": 142713.2575,
+    "equityCurve": [
+      {
+        "t": "2021-05-18T17:56:33.919Z",
+        "pnl": -11.194499999999996
+      }
+    ]
+  },
+  "soxlMetrics": {
+    "tradeCount": 0,
+    "winCount": 0,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": null,
+    "winPct": null,
+    "profitFactor": null,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": null,
+    "avgWin": null,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0,
+    "grossLoss": 0,
+    "realizedPnl": 0,
+    "bestTrade": null,
+    "worstTrade": null,
+    "avgHoldMinutes": null,
+    "equityCurve": []
+  },
+  "days": [
+    {
+      "date": "2021-05-17",
+      "label": "Mon",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-05-18",
+      "label": "Tue",
+      "pnl": -11.194499999999996,
+      "trades": 1
+    },
+    {
+      "date": "2021-05-19",
+      "label": "Wed",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-05-20",
+      "label": "Thu",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-05-21",
+      "label": "Fri",
+      "pnl": 0,
+      "trades": 0
+    }
+  ],
+  "byTicker": [
+    {
+      "ticker": "OCGN",
+      "pnl": -11.194499999999996,
+      "trades": 1,
+      "wins": 0
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 1
+    },
+    "maxWin": 0,
+    "maxLoss": 1
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "mistakes": [],
+  "openNotes": []
+}

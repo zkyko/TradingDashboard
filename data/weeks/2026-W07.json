@@ -1,0 +1,127 @@
+{
+  "id": "2026-W07",
+  "label": "Feb 9 – Feb 13, 2026",
+  "start": "2026-02-09",
+  "end": "2026-02-16",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:06.308Z",
+  "realizedPnl": -0.27916648799999083,
+  "tradeCount": 2,
+  "winCount": 0,
+  "lossCount": 2,
+  "priorWeekPnl": null,
+  "metrics": {
+    "tradeCount": 2,
+    "winCount": 0,
+    "lossCount": 2,
+    "flatCount": 0,
+    "winRate": 0,
+    "winPct": 0,
+    "profitFactor": 0,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": -0.13958324399999542,
+    "avgWin": null,
+    "avgLoss": -0.13958324399999542,
+    "avgLossAbs": 0.13958324399999542,
+    "grossWin": 0,
+    "grossLoss": -0.27916648799999083,
+    "realizedPnl": -0.27916648799999083,
+    "bestTrade": -0.017866487999999413,
+    "worstTrade": -0.26129999999999143,
+    "avgHoldMinutes": 5453.26175,
+    "equityCurve": [
+      {
+        "t": "2026-02-10T14:32:15.955Z",
+        "pnl": -0.017866487999999413
+      },
+      {
+        "t": "2026-02-10T14:32:15.955Z",
+        "pnl": -0.27916648799999083
+      }
+    ]
+  },
+  "soxlMetrics": {
+    "tradeCount": 0,
+    "winCount": 0,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": null,
+    "winPct": null,
+    "profitFactor": null,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": null,
+    "avgWin": null,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0,
+    "grossLoss": 0,
+    "realizedPnl": 0,
+    "bestTrade": null,
+    "worstTrade": null,
+    "avgHoldMinutes": null,
+    "equityCurve": []
+  },
+  "days": [
+    {
+      "date": "2026-02-09",
+      "label": "Mon",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2026-02-10",
+      "label": "Tue",
+      "pnl": -0.27916648799999083,
+      "trades": 2
+    },
+    {
+      "date": "2026-02-11",
+      "label": "Wed",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2026-02-12",
+      "label": "Thu",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2026-02-13",
+      "label": "Fri",
+      "pnl": 0,
+      "trades": 0
+    }
+  ],
+  "byTicker": [
+    {
+      "ticker": "UA",
+      "pnl": -0.27916648799999083,
+      "trades": 2,
+      "wins": 0
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 2
+    },
+    "maxWin": 0,
+    "maxLoss": 2
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "mistakes": [],
+  "openNotes": []
+}

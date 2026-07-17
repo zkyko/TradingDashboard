@@ -1,0 +1,127 @@
+{
+  "id": "2021-W48",
+  "label": "Nov 29 – Dec 3, 2021",
+  "start": "2021-11-29",
+  "end": "2021-12-06",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:07.161Z",
+  "realizedPnl": 1.222406780000003,
+  "tradeCount": 2,
+  "winCount": 2,
+  "lossCount": 0,
+  "priorWeekPnl": null,
+  "metrics": {
+    "tradeCount": 2,
+    "winCount": 2,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": 1,
+    "winPct": 100,
+    "profitFactor": null,
+    "profitFactorInfinite": true,
+    "rewardRisk": null,
+    "expectancy": 0.6112033900000015,
+    "avgWin": 0.6112033900000015,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 1.222406780000003,
+    "grossLoss": 0,
+    "realizedPnl": 1.222406780000003,
+    "bestTrade": 1.2000000000000028,
+    "worstTrade": 0.022406780000000015,
+    "avgHoldMinutes": 4320.068891666667,
+    "equityCurve": [
+      {
+        "t": "2021-11-29T14:31:24.097973Z",
+        "pnl": 0.022406780000000015
+      },
+      {
+        "t": "2021-11-29T14:31:24.196Z",
+        "pnl": 1.222406780000003
+      }
+    ]
+  },
+  "soxlMetrics": {
+    "tradeCount": 0,
+    "winCount": 0,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": null,
+    "winPct": null,
+    "profitFactor": null,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": null,
+    "avgWin": null,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0,
+    "grossLoss": 0,
+    "realizedPnl": 0,
+    "bestTrade": null,
+    "worstTrade": null,
+    "avgHoldMinutes": null,
+    "equityCurve": []
+  },
+  "days": [
+    {
+      "date": "2021-11-29",
+      "label": "Mon",
+      "pnl": 1.222406780000003,
+      "trades": 2
+    },
+    {
+      "date": "2021-11-30",
+      "label": "Tue",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-12-01",
+      "label": "Wed",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-12-02",
+      "label": "Thu",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-12-03",
+      "label": "Fri",
+      "pnl": 0,
+      "trades": 0
+    }
+  ],
+  "byTicker": [
+    {
+      "ticker": "PFE",
+      "pnl": 1.222406780000003,
+      "trades": 2,
+      "wins": 2
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 2
+    },
+    "maxWin": 2,
+    "maxLoss": 0
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "mistakes": [],
+  "openNotes": []
+}

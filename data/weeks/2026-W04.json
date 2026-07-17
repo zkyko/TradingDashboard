@@ -1,0 +1,123 @@
+{
+  "id": "2026-W04",
+  "label": "Jan 19 – Jan 23, 2026",
+  "start": "2026-01-19",
+  "end": "2026-01-26",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:06.345Z",
+  "realizedPnl": 0.23645623919999906,
+  "tradeCount": 1,
+  "winCount": 1,
+  "lossCount": 0,
+  "priorWeekPnl": null,
+  "metrics": {
+    "tradeCount": 1,
+    "winCount": 1,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": 1,
+    "winPct": 100,
+    "profitFactor": null,
+    "profitFactorInfinite": true,
+    "rewardRisk": null,
+    "expectancy": 0.23645623919999906,
+    "avgWin": 0.23645623919999906,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0.23645623919999906,
+    "grossLoss": 0,
+    "realizedPnl": 0.23645623919999906,
+    "bestTrade": 0.23645623919999906,
+    "worstTrade": 0.23645623919999906,
+    "avgHoldMinutes": 27146.509883333332,
+    "equityCurve": [
+      {
+        "t": "2026-01-21T14:48:40.698Z",
+        "pnl": 0.23645623919999906
+      }
+    ]
+  },
+  "soxlMetrics": {
+    "tradeCount": 0,
+    "winCount": 0,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": null,
+    "winPct": null,
+    "profitFactor": null,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": null,
+    "avgWin": null,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0,
+    "grossLoss": 0,
+    "realizedPnl": 0,
+    "bestTrade": null,
+    "worstTrade": null,
+    "avgHoldMinutes": null,
+    "equityCurve": []
+  },
+  "days": [
+    {
+      "date": "2026-01-19",
+      "label": "Mon",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2026-01-20",
+      "label": "Tue",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2026-01-21",
+      "label": "Wed",
+      "pnl": 0.23645623919999906,
+      "trades": 1
+    },
+    {
+      "date": "2026-01-22",
+      "label": "Thu",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2026-01-23",
+      "label": "Fri",
+      "pnl": 0,
+      "trades": 0
+    }
+  ],
+  "byTicker": [
+    {
+      "ticker": "SQQQ",
+      "pnl": 0.23645623919999906,
+      "trades": 1,
+      "wins": 1
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 1
+    },
+    "maxWin": 1,
+    "maxLoss": 0
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "mistakes": [],
+  "openNotes": []
+}

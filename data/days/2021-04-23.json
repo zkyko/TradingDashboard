@@ -1,0 +1,110 @@
+{
+  "id": "2021-04-23",
+  "date": "2021-04-23",
+  "label": "Friday, Apr 23, 2021",
+  "weekday": "Fri",
+  "weekId": "2021-W16",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:03.162Z",
+  "realizedPnl": 15.499800000000008,
+  "tradeCount": 1,
+  "winCount": 1,
+  "lossCount": 0,
+  "processGrades": {
+    "A": 0,
+    "B": 1,
+    "C": 0
+  },
+  "metrics": {
+    "tradeCount": 1,
+    "winCount": 1,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": 1,
+    "winPct": 100,
+    "profitFactor": null,
+    "profitFactorInfinite": true,
+    "rewardRisk": null,
+    "expectancy": 15.499800000000008,
+    "avgWin": 15.499800000000008,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 15.499800000000008,
+    "grossLoss": 0,
+    "realizedPnl": 15.499800000000008,
+    "bestTrade": 15.499800000000008,
+    "worstTrade": 15.499800000000008,
+    "avgHoldMinutes": 106653.86515,
+    "equityCurve": [
+      {
+        "t": "2021-04-23T16:57:10.378Z",
+        "pnl": 15.499800000000008
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "OCGN",
+      "pnl": 15.499800000000008,
+      "trades": 1,
+      "wins": 1
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "OCGN",
+      "qty": 18,
+      "entryPrice": 11.3889,
+      "exitPrice": 12.25,
+      "pnl": 15.499800000000008,
+      "openedAt": "2021-02-08T15:23:18.469Z",
+      "closedAt": "2021-04-23T16:57:10.378Z",
+      "holdMinutes": 106653.86515,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "OCGN",
+      "qty": 18,
+      "entryPrice": 11.3889,
+      "exitPrice": 12.25,
+      "pnl": 15.499800000000008,
+      "openedAt": "2021-02-08T15:23:18.469Z",
+      "closedAt": "2021-04-23T16:57:10.378Z",
+      "holdMinutes": 106653.86515,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.8611000000000004,
+      "notional": 205.0002,
+      "review": "overnight · 106654m · 0.86 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 1
+    },
+    "maxWin": 1,
+    "maxLoss": 0
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

@@ -1,0 +1,310 @@
+{
+  "id": "2022-06-08",
+  "date": "2022-06-08",
+  "label": "Wednesday, Jun 8, 2022",
+  "weekday": "Wed",
+  "weekId": "2022-W23",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:04.008Z",
+  "realizedPnl": -2.0710010229999507,
+  "tradeCount": 6,
+  "winCount": 1,
+  "lossCount": 5,
+  "processGrades": {
+    "A": 0,
+    "B": 0,
+    "C": 6
+  },
+  "metrics": {
+    "tradeCount": 6,
+    "winCount": 1,
+    "lossCount": 5,
+    "flatCount": 0,
+    "winRate": 0.16666666666666666,
+    "winPct": 16.666666666666664,
+    "profitFactor": 0.18714007126686344,
+    "profitFactorInfinite": false,
+    "rewardRisk": 0.9357003563343171,
+    "expectancy": -0.34516683716665847,
+    "avgWin": 0.4767946669999979,
+    "avgLoss": -0.5095591379999898,
+    "avgLossAbs": 0.5095591379999898,
+    "grossWin": 0.4767946669999979,
+    "grossLoss": -2.5477956899999485,
+    "realizedPnl": -2.0710010229999507,
+    "bestTrade": 0.4767946669999979,
+    "worstTrade": -0.9782767139999411,
+    "avgHoldMinutes": 31329.501380555554,
+    "equityCurve": [
+      {
+        "t": "2022-06-08T14:20:24.965Z",
+        "pnl": -0.46770000000000067
+      },
+      {
+        "t": "2022-06-08T14:43:45.184Z",
+        "pnl": -1.4459767139999418
+      },
+      {
+        "t": "2022-06-08T14:43:45.184Z",
+        "pnl": -1.6558717139999426
+      },
+      {
+        "t": "2022-06-08T14:43:45.184Z",
+        "pnl": -2.5461445211999485
+      },
+      {
+        "t": "2022-06-08T14:43:45.184Z",
+        "pnl": -2.5477956899999485
+      },
+      {
+        "t": "2022-06-08T16:53:40.402Z",
+        "pnl": -2.0710010229999507
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "AMC",
+      "pnl": -1.60330102299995,
+      "trades": 5,
+      "wins": 1
+    },
+    {
+      "ticker": "TWTR",
+      "pnl": -0.46770000000000067,
+      "trades": 1,
+      "wins": 0
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "TWTR",
+      "qty": 1,
+      "entryPrice": 40.4685,
+      "exitPrice": 40.0008,
+      "pnl": -0.46770000000000067,
+      "openedAt": "2022-05-27T17:18:10.954Z",
+      "closedAt": "2022-06-08T14:20:24.965Z",
+      "holdMinutes": 17102.233516666667,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.059544999999996406,
+      "entryPrice": 29.6992,
+      "exitPrice": 13.27,
+      "pnl": -0.9782767139999411,
+      "openedAt": "2022-03-29T13:45:47.68Z",
+      "closedAt": "2022-06-08T14:43:45.184Z",
+      "holdMinutes": 102297.9584,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 2.9985,
+      "entryPrice": 13.34,
+      "exitPrice": 13.27,
+      "pnl": -0.20989500000000086,
+      "openedAt": "2022-05-27T17:18:36.597Z",
+      "closedAt": "2022-06-08T14:43:45.184Z",
+      "holdMinutes": 17125.143116666666,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 4.469241000000004,
+      "entryPrice": 13.4692,
+      "exitPrice": 13.27,
+      "pnl": -0.8902728072000059,
+      "openedAt": "2022-05-27T17:36:30.125Z",
+      "closedAt": "2022-06-08T14:43:45.184Z",
+      "holdMinutes": 17107.25098333333,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.008289,
+      "entryPrice": 13.4692,
+      "exitPrice": 13.27,
+      "pnl": -0.0016511688000000095,
+      "openedAt": "2022-05-27T17:36:30.125Z",
+      "closedAt": "2022-06-08T14:43:45.184Z",
+      "holdMinutes": 17107.25098333333,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 2.946814999999996,
+      "entryPrice": 13.4692,
+      "exitPrice": 13.631,
+      "pnl": 0.4767946669999979,
+      "openedAt": "2022-05-27T17:36:30.125Z",
+      "closedAt": "2022-06-08T16:53:40.402Z",
+      "holdMinutes": 17237.171283333333,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "TWTR",
+      "qty": 1,
+      "entryPrice": 40.4685,
+      "exitPrice": 40.0008,
+      "pnl": -0.46770000000000067,
+      "openedAt": "2022-05-27T17:18:10.954Z",
+      "closedAt": "2022-06-08T14:20:24.965Z",
+      "holdMinutes": 17102.233516666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.46770000000000067,
+      "notional": 40.4685,
+      "review": "overnight · 17102m · 0.47 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.059544999999996406,
+      "entryPrice": 29.6992,
+      "exitPrice": 13.27,
+      "pnl": -0.9782767139999411,
+      "openedAt": "2022-03-29T13:45:47.68Z",
+      "closedAt": "2022-06-08T14:43:45.184Z",
+      "holdMinutes": 102297.9584,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 16.4292,
+      "notional": 1.7684388639998934,
+      "review": "overnight · 102298m · 16.43 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 2.9985,
+      "entryPrice": 13.34,
+      "exitPrice": 13.27,
+      "pnl": -0.20989500000000086,
+      "openedAt": "2022-05-27T17:18:36.597Z",
+      "closedAt": "2022-06-08T14:43:45.184Z",
+      "holdMinutes": 17125.143116666666,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "size_up_after_loss"
+      ],
+      "movePts": 0.07000000000000028,
+      "notional": 39.99999,
+      "review": "overnight · 17125m · 0.07 pts · Flags: overnight, after_loss_streak, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 4.469241000000004,
+      "entryPrice": 13.4692,
+      "exitPrice": 13.27,
+      "pnl": -0.8902728072000059,
+      "openedAt": "2022-05-27T17:36:30.125Z",
+      "closedAt": "2022-06-08T14:43:45.184Z",
+      "holdMinutes": 17107.25098333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "size_up_after_loss"
+      ],
+      "movePts": 0.19920000000000115,
+      "notional": 60.19710087720006,
+      "review": "overnight · 17107m · 0.20 pts · Flags: overnight, after_loss_streak, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 0.008289,
+      "entryPrice": 13.4692,
+      "exitPrice": 13.27,
+      "pnl": -0.0016511688000000095,
+      "openedAt": "2022-05-27T17:36:30.125Z",
+      "closedAt": "2022-06-08T14:43:45.184Z",
+      "holdMinutes": 17107.25098333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 0.19920000000000115,
+      "notional": 0.1116461988,
+      "review": "overnight · 17107m · 0.20 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 2.946814999999996,
+      "entryPrice": 13.4692,
+      "exitPrice": 13.631,
+      "pnl": 0.4767946669999979,
+      "openedAt": "2022-05-27T17:36:30.125Z",
+      "closedAt": "2022-06-08T16:53:40.402Z",
+      "holdMinutes": 17237.171283333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 0.1617999999999995,
+      "notional": 39.69124059799995,
+      "review": "overnight · 17237m · 0.16 pts · Flags: overnight, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 1
+    },
+    "maxWin": 1,
+    "maxLoss": 5
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

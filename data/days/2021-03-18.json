@@ -1,0 +1,147 @@
+{
+  "id": "2021-03-18",
+  "date": "2021-03-18",
+  "label": "Thursday, Mar 18, 2021",
+  "weekday": "Thu",
+  "weekId": "2021-W11",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:03.103Z",
+  "realizedPnl": 5.852499999999998,
+  "tradeCount": 2,
+  "winCount": 2,
+  "lossCount": 0,
+  "processGrades": {
+    "A": 0,
+    "B": 2,
+    "C": 0
+  },
+  "metrics": {
+    "tradeCount": 2,
+    "winCount": 2,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": 1,
+    "winPct": 100,
+    "profitFactor": null,
+    "profitFactorInfinite": true,
+    "rewardRisk": null,
+    "expectancy": 2.926249999999999,
+    "avgWin": 2.926249999999999,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 5.852499999999998,
+    "grossLoss": 0,
+    "realizedPnl": 5.852499999999998,
+    "bestTrade": 4.681999999999999,
+    "worstTrade": 1.1704999999999997,
+    "avgHoldMinutes": 20018.7131,
+    "equityCurve": [
+      {
+        "t": "2021-03-18T14:04:27.172Z",
+        "pnl": 1.1704999999999997
+      },
+      {
+        "t": "2021-03-18T14:04:27.172Z",
+        "pnl": 5.852499999999998
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "SLGG",
+      "pnl": 5.852499999999998,
+      "trades": 2,
+      "wins": 2
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "SLGG",
+      "qty": 1,
+      "entryPrice": 7.0095,
+      "exitPrice": 8.18,
+      "pnl": 1.1704999999999997,
+      "openedAt": "2021-03-04T16:25:44.386Z",
+      "closedAt": "2021-03-18T14:04:27.172Z",
+      "holdMinutes": 20018.7131,
+      "overnight": true
+    },
+    {
+      "ticker": "SLGG",
+      "qty": 4,
+      "entryPrice": 7.0095,
+      "exitPrice": 8.18,
+      "pnl": 4.681999999999999,
+      "openedAt": "2021-03-04T16:25:44.386Z",
+      "closedAt": "2021-03-18T14:04:27.172Z",
+      "holdMinutes": 20018.7131,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "SLGG",
+      "qty": 1,
+      "entryPrice": 7.0095,
+      "exitPrice": 8.18,
+      "pnl": 1.1704999999999997,
+      "openedAt": "2021-03-04T16:25:44.386Z",
+      "closedAt": "2021-03-18T14:04:27.172Z",
+      "holdMinutes": 20018.7131,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 1.1704999999999997,
+      "notional": 7.0095,
+      "review": "overnight · 20019m · 1.17 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "SLGG",
+      "qty": 4,
+      "entryPrice": 7.0095,
+      "exitPrice": 8.18,
+      "pnl": 4.681999999999999,
+      "openedAt": "2021-03-04T16:25:44.386Z",
+      "closedAt": "2021-03-18T14:04:27.172Z",
+      "holdMinutes": 20018.7131,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 1.1704999999999997,
+      "notional": 28.038,
+      "review": "overnight · 20019m · 1.17 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 2
+    },
+    "maxWin": 2,
+    "maxLoss": 0
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

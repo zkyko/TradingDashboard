@@ -1,0 +1,209 @@
+{
+  "id": "2021-W15",
+  "label": "Apr 12 – Apr 16, 2021",
+  "start": "2021-04-12",
+  "end": "2021-04-19",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:07.787Z",
+  "realizedPnl": 13.427284068000034,
+  "tradeCount": 15,
+  "winCount": 8,
+  "lossCount": 7,
+  "priorWeekPnl": null,
+  "metrics": {
+    "tradeCount": 15,
+    "winCount": 8,
+    "lossCount": 7,
+    "flatCount": 0,
+    "winRate": 0.5333333333333333,
+    "winPct": 53.333333333333336,
+    "profitFactor": 1.1052712603781132,
+    "profitFactorInfinite": false,
+    "rewardRisk": 0.9671123528308491,
+    "expectancy": 0.8951522712000023,
+    "avgWin": 17.622083097500003,
+    "avgLoss": -18.221340101714283,
+    "avgLossAbs": 18.221340101714283,
+    "grossWin": 140.97666478000002,
+    "grossLoss": -127.54938071199999,
+    "realizedPnl": 13.427284068000034,
+    "bestTrade": 52.36828223,
+    "worstTrade": -58.50816279199998,
+    "avgHoldMinutes": 99710.39600222223,
+    "equityCurve": [
+      {
+        "t": "2021-04-15T19:57:37.889Z",
+        "pnl": 14.754999999999995
+      },
+      {
+        "t": "2021-04-15T19:58:42.468Z",
+        "pnl": 3.2229999999999954
+      },
+      {
+        "t": "2021-04-15T20:07:42.32Z",
+        "pnl": -15.99621792000001
+      },
+      {
+        "t": "2021-04-15T20:07:42.32Z",
+        "pnl": -15.609881505000011
+      },
+      {
+        "t": "2021-04-15T20:08:14.938Z",
+        "pnl": -24.39988150500001
+      },
+      {
+        "t": "2021-04-15T20:10:38.423218Z",
+        "pnl": -13.424728875000014
+      },
+      {
+        "t": "2021-04-15T20:10:54.967547Z",
+        "pnl": 7.677194494999984
+      },
+      {
+        "t": "2021-04-15T20:10:55.136279Z",
+        "pnl": 60.045476724999986
+      },
+      {
+        "t": "2021-04-16T13:43:33.185Z",
+        "pnl": 36.47547672499999
+      },
+      {
+        "t": "2021-04-16T13:43:33.185Z",
+        "pnl": 35.325476724999994
+      },
+      {
+        "t": "2021-04-16T13:44:46.921Z",
+        "pnl": 30.545476724999993
+      },
+      {
+        "t": "2021-04-16T13:44:46.921Z",
+        "pnl": 31.034264519999994
+      },
+      {
+        "t": "2021-04-16T13:44:46.921Z",
+        "pnl": 31.890887659999997
+      },
+      {
+        "t": "2021-04-16T20:23:56.743Z",
+        "pnl": 71.93544686000001
+      },
+      {
+        "t": "2021-04-16T20:23:56.743Z",
+        "pnl": 13.427284068000034
+      }
+    ]
+  },
+  "soxlMetrics": {
+    "tradeCount": 0,
+    "winCount": 0,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": null,
+    "winPct": null,
+    "profitFactor": null,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": null,
+    "avgWin": null,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0,
+    "grossLoss": 0,
+    "realizedPnl": 0,
+    "bestTrade": null,
+    "worstTrade": null,
+    "avgHoldMinutes": null,
+    "equityCurve": []
+  },
+  "days": [
+    {
+      "date": "2021-04-12",
+      "label": "Mon",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-04-13",
+      "label": "Tue",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-04-14",
+      "label": "Wed",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-04-15",
+      "label": "Thu",
+      "pnl": 60.045476724999986,
+      "trades": 8
+    },
+    {
+      "date": "2021-04-16",
+      "label": "Fri",
+      "pnl": -46.61819265699995,
+      "trades": 7
+    }
+  ],
+  "byTicker": [
+    {
+      "ticker": "GME",
+      "pnl": 55.006602008000044,
+      "trades": 4,
+      "wins": 3
+    },
+    {
+      "ticker": "AAPL",
+      "pnl": 25.730152629999992,
+      "trades": 2,
+      "wins": 2
+    },
+    {
+      "ticker": "BBBYQ",
+      "pnl": -24.719999999999995,
+      "trades": 2,
+      "wins": 0
+    },
+    {
+      "ticker": "NOK",
+      "pnl": -18.832881505000007,
+      "trades": 2,
+      "wins": 1
+    },
+    {
+      "ticker": "PFE",
+      "pnl": -12.224589064999996,
+      "trades": 4,
+      "wins": 2
+    },
+    {
+      "ticker": "OBSVF",
+      "pnl": -11.532,
+      "trades": 1,
+      "wins": 0
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 1
+    },
+    "maxWin": 3,
+    "maxLoss": 3
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "mistakes": [],
+  "openNotes": []
+}

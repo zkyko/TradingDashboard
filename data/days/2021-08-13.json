@@ -1,0 +1,388 @@
+{
+  "id": "2021-08-13",
+  "date": "2021-08-13",
+  "label": "Friday, Aug 13, 2021",
+  "weekday": "Fri",
+  "weekId": "2021-W32",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:03.355Z",
+  "realizedPnl": -18.618736906699972,
+  "tradeCount": 8,
+  "winCount": 3,
+  "lossCount": 5,
+  "processGrades": {
+    "A": 0,
+    "B": 3,
+    "C": 5
+  },
+  "metrics": {
+    "tradeCount": 8,
+    "winCount": 3,
+    "lossCount": 5,
+    "flatCount": 0,
+    "winRate": 0.375,
+    "winPct": 37.5,
+    "profitFactor": 0.3089952362952631,
+    "profitFactorInfinite": false,
+    "rewardRisk": 0.5149920604921051,
+    "expectancy": -2.3273421133374965,
+    "avgWin": 2.7752346111000024,
+    "avgLoss": -5.388888147999996,
+    "avgLossAbs": 5.388888147999996,
+    "grossWin": 8.325703833300008,
+    "grossLoss": -26.94444073999998,
+    "realizedPnl": -18.618736906699972,
+    "bestTrade": 4.790000000000006,
+    "worstTrade": -10.871699999999997,
+    "avgHoldMinutes": 184638.78187916667,
+    "equityCurve": [
+      {
+        "t": "2021-08-13T14:33:09.96Z",
+        "pnl": -0.3199999999999932
+      },
+      {
+        "t": "2021-08-13T14:33:09.96Z",
+        "pnl": 4.470000000000013
+      },
+      {
+        "t": "2021-08-13T14:33:28.416Z",
+        "pnl": 5.3323038333000135
+      },
+      {
+        "t": "2021-08-13T14:33:28.416Z",
+        "pnl": 8.005703833300014
+      },
+      {
+        "t": "2021-08-13T15:12:44.093Z",
+        "pnl": -1.5189961666999778
+      },
+      {
+        "t": "2021-08-13T15:12:44.093Z",
+        "pnl": -12.390696166699975
+      },
+      {
+        "t": "2021-08-13T15:12:44.093Z",
+        "pnl": -15.003736906699974
+      },
+      {
+        "t": "2021-08-13T15:12:44.093Z",
+        "pnl": -18.618736906699972
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "PLTR",
+      "pnl": -26.624440739999987,
+      "trades": 4,
+      "wins": 0
+    },
+    {
+      "ticker": "NIO",
+      "pnl": 4.470000000000013,
+      "trades": 2,
+      "wins": 1
+    },
+    {
+      "ticker": "DKNG",
+      "pnl": 3.5357038333000013,
+      "trades": 2,
+      "wins": 2
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "NIO",
+      "qty": 2,
+      "entryPrice": 41.44,
+      "exitPrice": 41.28,
+      "pnl": -0.3199999999999932,
+      "openedAt": "2021-03-03T20:44:26.037Z",
+      "closedAt": "2021-08-13T14:33:09.96Z",
+      "holdMinutes": 234348.73205,
+      "overnight": true
+    },
+    {
+      "ticker": "NIO",
+      "qty": 2,
+      "entryPrice": 38.885,
+      "exitPrice": 41.28,
+      "pnl": 4.790000000000006,
+      "openedAt": "2021-03-04T20:24:53.221Z",
+      "closedAt": "2021-08-13T14:33:09.96Z",
+      "holdMinutes": 232928.27898333332,
+      "overnight": true
+    },
+    {
+      "ticker": "DKNG",
+      "qty": 0.645099,
+      "entryPrice": 52.55,
+      "exitPrice": 53.8867,
+      "pnl": 0.8623038333000003,
+      "openedAt": "2021-08-09T19:06:17.600378Z",
+      "closedAt": "2021-08-13T14:33:28.416Z",
+      "holdMinutes": 5487.180266666666,
+      "overnight": true
+    },
+    {
+      "ticker": "DKNG",
+      "qty": 2,
+      "entryPrice": 52.55,
+      "exitPrice": 53.8867,
+      "pnl": 2.673400000000001,
+      "openedAt": "2021-08-09T19:06:17.678Z",
+      "closedAt": "2021-08-13T14:33:28.416Z",
+      "holdMinutes": 5487.178966666666,
+      "overnight": true
+    },
+    {
+      "ticker": "PLTR",
+      "qty": 3,
+      "entryPrice": 27.9899,
+      "exitPrice": 24.815,
+      "pnl": -9.524699999999992,
+      "openedAt": "2021-02-19T15:13:31.701Z",
+      "closedAt": "2021-08-13T15:12:44.093Z",
+      "holdMinutes": 251999.20653333334,
+      "overnight": true
+    },
+    {
+      "ticker": "PLTR",
+      "qty": 3,
+      "entryPrice": 28.4389,
+      "exitPrice": 24.815,
+      "pnl": -10.871699999999997,
+      "openedAt": "2021-02-19T15:25:31.709Z",
+      "closedAt": "2021-08-13T15:12:44.093Z",
+      "holdMinutes": 251987.2064,
+      "overnight": true
+    },
+    {
+      "ticker": "PLTR",
+      "qty": 0.723834,
+      "entryPrice": 28.425,
+      "exitPrice": 24.815,
+      "pnl": -2.6130407399999993,
+      "openedAt": "2021-02-22T19:16:29.888934Z",
+      "closedAt": "2021-08-13T15:12:44.093Z",
+      "holdMinutes": 247436.23675,
+      "overnight": true
+    },
+    {
+      "ticker": "PLTR",
+      "qty": 1,
+      "entryPrice": 28.43,
+      "exitPrice": 24.815,
+      "pnl": -3.6149999999999984,
+      "openedAt": "2021-02-22T19:16:29.988Z",
+      "closedAt": "2021-08-13T15:12:44.093Z",
+      "holdMinutes": 247436.23508333333,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "NIO",
+      "qty": 2,
+      "entryPrice": 41.44,
+      "exitPrice": 41.28,
+      "pnl": -0.3199999999999932,
+      "openedAt": "2021-03-03T20:44:26.037Z",
+      "closedAt": "2021-08-13T14:33:09.96Z",
+      "holdMinutes": 234348.73205,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.1599999999999966,
+      "notional": 82.88,
+      "review": "overnight · 234349m · 0.16 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "NIO",
+      "qty": 2,
+      "entryPrice": 38.885,
+      "exitPrice": 41.28,
+      "pnl": 4.790000000000006,
+      "openedAt": "2021-03-04T20:24:53.221Z",
+      "closedAt": "2021-08-13T14:33:09.96Z",
+      "holdMinutes": 232928.27898333332,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 2.395000000000003,
+      "notional": 77.77,
+      "review": "overnight · 232928m · 2.40 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "DKNG",
+      "qty": 0.645099,
+      "entryPrice": 52.55,
+      "exitPrice": 53.8867,
+      "pnl": 0.8623038333000003,
+      "openedAt": "2021-08-09T19:06:17.600378Z",
+      "closedAt": "2021-08-13T14:33:28.416Z",
+      "holdMinutes": 5487.180266666666,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 1.3367000000000004,
+      "notional": 33.899952449999994,
+      "review": "overnight · 5487m · 1.34 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "DKNG",
+      "qty": 2,
+      "entryPrice": 52.55,
+      "exitPrice": 53.8867,
+      "pnl": 2.673400000000001,
+      "openedAt": "2021-08-09T19:06:17.678Z",
+      "closedAt": "2021-08-13T14:33:28.416Z",
+      "holdMinutes": 5487.178966666666,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 1.3367000000000004,
+      "notional": 105.1,
+      "review": "overnight · 5487m · 1.34 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "PLTR",
+      "qty": 3,
+      "entryPrice": 27.9899,
+      "exitPrice": 24.815,
+      "pnl": -9.524699999999992,
+      "openedAt": "2021-02-19T15:13:31.701Z",
+      "closedAt": "2021-08-13T15:12:44.093Z",
+      "holdMinutes": 251999.20653333334,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 3.1748999999999974,
+      "notional": 83.96969999999999,
+      "review": "overnight · 251999m · 3.17 pts · Flags: overnight, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "PLTR",
+      "qty": 3,
+      "entryPrice": 28.4389,
+      "exitPrice": 24.815,
+      "pnl": -10.871699999999997,
+      "openedAt": "2021-02-19T15:25:31.709Z",
+      "closedAt": "2021-08-13T15:12:44.093Z",
+      "holdMinutes": 251987.2064,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 3.623899999999999,
+      "notional": 85.3167,
+      "review": "overnight · 251987m · 3.62 pts · Flags: overnight, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "PLTR",
+      "qty": 0.723834,
+      "entryPrice": 28.425,
+      "exitPrice": 24.815,
+      "pnl": -2.6130407399999993,
+      "openedAt": "2021-02-22T19:16:29.888934Z",
+      "closedAt": "2021-08-13T15:12:44.093Z",
+      "holdMinutes": 247436.23675,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 3.6099999999999994,
+      "notional": 20.57498145,
+      "review": "overnight · 247436m · 3.61 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "PLTR",
+      "qty": 1,
+      "entryPrice": 28.43,
+      "exitPrice": 24.815,
+      "pnl": -3.6149999999999984,
+      "openedAt": "2021-02-22T19:16:29.988Z",
+      "closedAt": "2021-08-13T15:12:44.093Z",
+      "holdMinutes": 247436.23508333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 3.6149999999999984,
+      "notional": 28.43,
+      "review": "overnight · 247436m · 3.61 pts · Flags: overnight, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    }
+  ],
+  "tilt": {
+    "state": "cooling_off",
+    "score": 70,
+    "reasons": [
+      "Loss streak ×4"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 4
+    },
+    "maxWin": 3,
+    "maxLoss": 4
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

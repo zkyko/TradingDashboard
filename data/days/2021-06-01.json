@@ -1,0 +1,110 @@
+{
+  "id": "2021-06-01",
+  "date": "2021-06-01",
+  "label": "Tuesday, Jun 1, 2021",
+  "weekday": "Tue",
+  "weekId": "2021-W22",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:03.280Z",
+  "realizedPnl": -0.3748957601999979,
+  "tradeCount": 1,
+  "winCount": 0,
+  "lossCount": 1,
+  "processGrades": {
+    "A": 0,
+    "B": 0,
+    "C": 1
+  },
+  "metrics": {
+    "tradeCount": 1,
+    "winCount": 0,
+    "lossCount": 1,
+    "flatCount": 0,
+    "winRate": 0,
+    "winPct": 0,
+    "profitFactor": 0,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": -0.3748957601999979,
+    "avgWin": null,
+    "avgLoss": -0.3748957601999979,
+    "avgLossAbs": 0.3748957601999979,
+    "grossWin": 0,
+    "grossLoss": -0.3748957601999979,
+    "realizedPnl": -0.3748957601999979,
+    "bestTrade": -0.3748957601999979,
+    "worstTrade": -0.3748957601999979,
+    "avgHoldMinutes": 119506.79706666667,
+    "equityCurve": [
+      {
+        "t": "2021-06-01T17:39:36.099151Z",
+        "pnl": -0.3748957601999979
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "GME",
+      "pnl": -0.3748957601999979,
+      "trades": 1,
+      "wins": 0
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "GME",
+      "qty": 0.205998,
+      "entryPrice": 244.5399,
+      "exitPrice": 242.72,
+      "pnl": -0.3748957601999979,
+      "openedAt": "2021-03-10T17:52:48.275Z",
+      "closedAt": "2021-06-01T17:39:36.099151Z",
+      "holdMinutes": 119506.79706666667,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "GME",
+      "qty": 0.205998,
+      "entryPrice": 244.5399,
+      "exitPrice": 242.72,
+      "pnl": -0.3748957601999979,
+      "openedAt": "2021-03-10T17:52:48.275Z",
+      "closedAt": "2021-06-01T17:39:36.099151Z",
+      "holdMinutes": 119506.79706666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 1.8198999999999899,
+      "notional": 50.374730320199994,
+      "review": "overnight · 119507m · 1.82 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 1
+    },
+    "maxWin": 0,
+    "maxLoss": 1
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

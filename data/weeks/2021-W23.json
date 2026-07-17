@@ -1,0 +1,141 @@
+{
+  "id": "2021-W23",
+  "label": "Jun 7 – Jun 11, 2021",
+  "start": "2021-06-07",
+  "end": "2021-06-14",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:07.553Z",
+  "realizedPnl": 7.381233944399998,
+  "tradeCount": 4,
+  "winCount": 4,
+  "lossCount": 0,
+  "priorWeekPnl": -0.3748957601999979,
+  "metrics": {
+    "tradeCount": 4,
+    "winCount": 4,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": 1,
+    "winPct": 100,
+    "profitFactor": null,
+    "profitFactorInfinite": true,
+    "rewardRisk": null,
+    "expectancy": 1.8453084860999995,
+    "avgWin": 1.8453084860999995,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 7.381233944399998,
+    "grossLoss": 0,
+    "realizedPnl": 7.381233944399998,
+    "bestTrade": 5.134200000000003,
+    "worstTrade": 0.0028445856000000047,
+    "avgHoldMinutes": 40843.38237083334,
+    "equityCurve": [
+      {
+        "t": "2021-06-08T17:55:57.021Z",
+        "pnl": 5.134200000000003
+      },
+      {
+        "t": "2021-06-11T14:32:04.679941Z",
+        "pnl": 5.214149250000004
+      },
+      {
+        "t": "2021-06-11T14:32:04.797Z",
+        "pnl": 5.216993835600004
+      },
+      {
+        "t": "2021-06-11T14:32:04.797Z",
+        "pnl": 7.381233944399998
+      }
+    ]
+  },
+  "soxlMetrics": {
+    "tradeCount": 0,
+    "winCount": 0,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": null,
+    "winPct": null,
+    "profitFactor": null,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": null,
+    "avgWin": null,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0,
+    "grossLoss": 0,
+    "realizedPnl": 0,
+    "bestTrade": null,
+    "worstTrade": null,
+    "avgHoldMinutes": null,
+    "equityCurve": []
+  },
+  "days": [
+    {
+      "date": "2021-06-07",
+      "label": "Mon",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-06-08",
+      "label": "Tue",
+      "pnl": 5.134200000000003,
+      "trades": 1
+    },
+    {
+      "date": "2021-06-09",
+      "label": "Wed",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-06-10",
+      "label": "Thu",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-06-11",
+      "label": "Fri",
+      "pnl": 2.2470339443999943,
+      "trades": 3
+    }
+  ],
+  "byTicker": [
+    {
+      "ticker": "WKHS",
+      "pnl": 5.134200000000003,
+      "trades": 1,
+      "wins": 1
+    },
+    {
+      "ticker": "WISH",
+      "pnl": 2.2470339443999943,
+      "trades": 3,
+      "wins": 3
+    }
+  ],
+  "tilt": {
+    "state": "on_streak",
+    "score": 32,
+    "reasons": [
+      "Win streak ×4"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 4
+    },
+    "maxWin": 4,
+    "maxLoss": 0
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "mistakes": [],
+  "openNotes": []
+}

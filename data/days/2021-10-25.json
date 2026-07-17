@@ -1,0 +1,110 @@
+{
+  "id": "2021-10-25",
+  "date": "2021-10-25",
+  "label": "Monday, Oct 25, 2021",
+  "weekday": "Mon",
+  "weekId": "2021-W43",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:03.478Z",
+  "realizedPnl": -4.649999999999994,
+  "tradeCount": 1,
+  "winCount": 0,
+  "lossCount": 1,
+  "processGrades": {
+    "A": 0,
+    "B": 1,
+    "C": 0
+  },
+  "metrics": {
+    "tradeCount": 1,
+    "winCount": 0,
+    "lossCount": 1,
+    "flatCount": 0,
+    "winRate": 0,
+    "winPct": 0,
+    "profitFactor": 0,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": -4.649999999999994,
+    "avgWin": null,
+    "avgLoss": -4.649999999999994,
+    "avgLossAbs": 4.649999999999994,
+    "grossWin": 0,
+    "grossLoss": -4.649999999999994,
+    "realizedPnl": -4.649999999999994,
+    "bestTrade": -4.649999999999994,
+    "worstTrade": -4.649999999999994,
+    "avgHoldMinutes": 9.526383333333333,
+    "equityCurve": [
+      {
+        "t": "2021-10-25T15:22:53.273Z",
+        "pnl": -4.649999999999994
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "MARK",
+      "pnl": -4.649999999999994,
+      "trades": 1,
+      "wins": 0
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "MARK",
+      "qty": 15,
+      "entryPrice": 4.31,
+      "exitPrice": 4,
+      "pnl": -4.649999999999994,
+      "openedAt": "2021-10-25T15:13:21.69Z",
+      "closedAt": "2021-10-25T15:22:53.273Z",
+      "holdMinutes": 9.526383333333333,
+      "overnight": false
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "MARK",
+      "qty": 15,
+      "entryPrice": 4.31,
+      "exitPrice": 4,
+      "pnl": -4.649999999999994,
+      "openedAt": "2021-10-25T15:13:21.69Z",
+      "closedAt": "2021-10-25T15:22:53.273Z",
+      "holdMinutes": 9.526383333333333,
+      "overnight": false,
+      "holdBucket": "sub_15m",
+      "grade": "B",
+      "flags": [
+        "losing_scratch"
+      ],
+      "movePts": 0.3099999999999996,
+      "notional": 64.64999999999999,
+      "review": "sub 15m · 10m · 0.31 pts · Flags: losing_scratch · Neutral process.",
+      "whatWorked": "",
+      "whatFailed": "Scratch/chop — no edge proven.",
+      "nextTime": "Default to ≥15m hold or stand down — your sub-15m sample is negative EV."
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 1
+    },
+    "maxWin": 0,
+    "maxLoss": 1
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

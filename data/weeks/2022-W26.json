@@ -1,0 +1,201 @@
+{
+  "id": "2022-W26",
+  "label": "Jun 27 – Jul 1, 2022",
+  "start": "2022-06-27",
+  "end": "2022-07-04",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:06.583Z",
+  "realizedPnl": -19.767747437500052,
+  "tradeCount": 19,
+  "winCount": 4,
+  "lossCount": 15,
+  "priorWeekPnl": -691.6816497999998,
+  "metrics": {
+    "tradeCount": 19,
+    "winCount": 4,
+    "lossCount": 15,
+    "flatCount": 0,
+    "winRate": 0.21052631578947367,
+    "winPct": 21.052631578947366,
+    "profitFactor": 0.1869885475434474,
+    "profitFactorInfinite": false,
+    "rewardRisk": 0.7012070532879278,
+    "expectancy": -1.0404077598684238,
+    "avgWin": 1.1366206374999899,
+    "avgLoss": -1.6209486658333339,
+    "avgLossAbs": 1.6209486658333339,
+    "grossWin": 4.5464825499999595,
+    "grossLoss": -24.314229987500006,
+    "realizedPnl": -19.767747437500052,
+    "bestTrade": 2.271619439999999,
+    "worstTrade": -7.680000000000004,
+    "avgHoldMinutes": 5925.805861403508,
+    "equityCurve": [
+      {
+        "t": "2022-06-27T19:03:15.147Z",
+        "pnl": 0.1263992800000005
+      },
+      {
+        "t": "2022-06-27T19:03:15.147Z",
+        "pnl": 2.3980187199999996
+      },
+      {
+        "t": "2022-06-28T13:33:26.26Z",
+        "pnl": 4.306326759999958
+      },
+      {
+        "t": "2022-06-28T13:33:26.26Z",
+        "pnl": 1.5046110459999316
+      },
+      {
+        "t": "2022-06-28T13:33:26.26Z",
+        "pnl": 1.7447668359999327
+      },
+      {
+        "t": "2022-07-01T13:41:54.976Z",
+        "pnl": -2.066895873200066
+      },
+      {
+        "t": "2022-07-01T13:41:54.976Z",
+        "pnl": -2.489257710800066
+      },
+      {
+        "t": "2022-07-01T13:41:54.976Z",
+        "pnl": -5.0276577108000655
+      },
+      {
+        "t": "2022-07-01T14:33:13.761507Z",
+        "pnl": -5.263911310800065
+      },
+      {
+        "t": "2022-07-01T14:33:13.826Z",
+        "pnl": -5.267623943100065
+      },
+      {
+        "t": "2022-07-01T14:33:13.826Z",
+        "pnl": -7.260852693600056
+      },
+      {
+        "t": "2022-07-01T14:33:13.826Z",
+        "pnl": -7.516899656800052
+      },
+      {
+        "t": "2022-07-01T14:33:13.826Z",
+        "pnl": -8.086628634100052
+      },
+      {
+        "t": "2022-07-01T14:33:13.826Z",
+        "pnl": -9.310181117500049
+      },
+      {
+        "t": "2022-07-01T15:24:49.72047Z",
+        "pnl": -9.644993117500048
+      },
+      {
+        "t": "2022-07-01T15:24:49.772Z",
+        "pnl": -11.583635117500046
+      },
+      {
+        "t": "2022-07-01T15:25:11.605Z",
+        "pnl": -12.031500557500047
+      },
+      {
+        "t": "2022-07-01T15:30:59.763019Z",
+        "pnl": -12.087747437500047
+      },
+      {
+        "t": "2022-07-01T15:30:59.838Z",
+        "pnl": -19.767747437500052
+      }
+    ]
+  },
+  "soxlMetrics": {
+    "tradeCount": 0,
+    "winCount": 0,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": null,
+    "winPct": null,
+    "profitFactor": null,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": null,
+    "avgWin": null,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0,
+    "grossLoss": 0,
+    "realizedPnl": 0,
+    "bestTrade": null,
+    "worstTrade": null,
+    "avgHoldMinutes": null,
+    "equityCurve": []
+  },
+  "days": [
+    {
+      "date": "2022-06-27",
+      "label": "Mon",
+      "pnl": 2.3980187199999996,
+      "trades": 2
+    },
+    {
+      "date": "2022-06-28",
+      "label": "Tue",
+      "pnl": -0.6532518840000667,
+      "trades": 3
+    },
+    {
+      "date": "2022-06-29",
+      "label": "Wed",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2022-06-30",
+      "label": "Thu",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2022-07-01",
+      "label": "Fri",
+      "pnl": -21.512514273499985,
+      "trades": 14
+    }
+  ],
+  "byTicker": [
+    {
+      "ticker": "NIO",
+      "pnl": -12.995322890700052,
+      "trades": 16,
+      "wins": 4
+    },
+    {
+      "ticker": "HOOD",
+      "pnl": -6.772424546799998,
+      "trades": 3,
+      "wins": 0
+    }
+  ],
+  "tilt": {
+    "state": "cooling_off",
+    "score": 70,
+    "reasons": [
+      "Loss streak ×14"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 14
+    },
+    "maxWin": 3,
+    "maxLoss": 14
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "mistakes": [],
+  "openNotes": []
+}

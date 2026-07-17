@@ -1,0 +1,357 @@
+{
+  "id": "2021-10-20",
+  "date": "2021-10-20",
+  "label": "Wednesday, Oct 20, 2021",
+  "weekday": "Wed",
+  "weekId": "2021-W42",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:03.435Z",
+  "realizedPnl": -214.78496854999997,
+  "tradeCount": 7,
+  "winCount": 0,
+  "lossCount": 7,
+  "processGrades": {
+    "A": 0,
+    "B": 0,
+    "C": 7
+  },
+  "metrics": {
+    "tradeCount": 7,
+    "winCount": 0,
+    "lossCount": 7,
+    "flatCount": 0,
+    "winRate": 0,
+    "winPct": 0,
+    "profitFactor": 0,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": -30.683566935714282,
+    "avgWin": null,
+    "avgLoss": -30.683566935714282,
+    "avgLossAbs": 30.683566935714282,
+    "grossWin": 0,
+    "grossLoss": -214.78496854999997,
+    "realizedPnl": -214.78496854999997,
+    "bestTrade": -0.41695715,
+    "worstTrade": -81.43339999999999,
+    "avgHoldMinutes": 330541.91042619053,
+    "equityCurve": [
+      {
+        "t": "2021-10-20T13:43:16.100815Z",
+        "pnl": -0.41695715
+      },
+      {
+        "t": "2021-10-20T13:43:16.21Z",
+        "pnl": -57.26135775000001
+      },
+      {
+        "t": "2021-10-20T13:43:16.21Z",
+        "pnl": -57.873314549999996
+      },
+      {
+        "t": "2021-10-20T13:43:31.377Z",
+        "pnl": -73.70646855
+      },
+      {
+        "t": "2021-10-20T13:45:31.561Z",
+        "pnl": -155.13986855
+      },
+      {
+        "t": "2021-10-20T13:45:31.561Z",
+        "pnl": -177.68486854999998
+      },
+      {
+        "t": "2021-10-20T13:45:31.561Z",
+        "pnl": -214.78496854999997
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "RIOT",
+      "pnl": -141.0785,
+      "trades": 3,
+      "wins": 0
+    },
+    {
+      "ticker": "CLEU",
+      "pnl": -57.873314549999996,
+      "trades": 3,
+      "wins": 0
+    },
+    {
+      "ticker": "SNDL",
+      "pnl": -15.833153999999997,
+      "trades": 1,
+      "wins": 0
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "CLEU",
+      "qty": 0.12391,
+      "entryPrice": 5.84,
+      "exitPrice": 2.475,
+      "pnl": -0.41695715,
+      "openedAt": "2021-02-12T17:49:15.845Z",
+      "closedAt": "2021-10-20T13:43:16.100815Z",
+      "holdMinutes": 359754.00425,
+      "overnight": true
+    },
+    {
+      "ticker": "CLEU",
+      "qty": 16.817870000000003,
+      "entryPrice": 5.84,
+      "exitPrice": 2.46,
+      "pnl": -56.84440060000001,
+      "openedAt": "2021-02-12T17:49:15.845Z",
+      "closedAt": "2021-10-20T13:43:16.21Z",
+      "holdMinutes": 359754.00608333334,
+      "overnight": true
+    },
+    {
+      "ticker": "CLEU",
+      "qty": 0.18212999999999724,
+      "entryPrice": 5.82,
+      "exitPrice": 2.46,
+      "pnl": -0.6119567999999908,
+      "openedAt": "2021-02-12T17:49:15.705405Z",
+      "closedAt": "2021-10-20T13:43:16.21Z",
+      "holdMinutes": 359754.00841666665,
+      "overnight": true
+    },
+    {
+      "ticker": "SNDL",
+      "qty": 46,
+      "entryPrice": 1.015,
+      "exitPrice": 0.670801,
+      "pnl": -15.833153999999997,
+      "openedAt": "2021-06-01T18:31:52.404Z",
+      "closedAt": "2021-10-20T13:43:31.377Z",
+      "holdMinutes": 202751.64955,
+      "overnight": true
+    },
+    {
+      "ticker": "RIOT",
+      "qty": 2,
+      "entryPrice": 72.52,
+      "exitPrice": 31.8033,
+      "pnl": -81.43339999999999,
+      "openedAt": "2021-02-19T17:42:43.344Z",
+      "closedAt": "2021-10-20T13:45:31.561Z",
+      "holdMinutes": 349682.80361666664,
+      "overnight": true
+    },
+    {
+      "ticker": "RIOT",
+      "qty": 1,
+      "entryPrice": 54.3483,
+      "exitPrice": 31.8033,
+      "pnl": -22.545,
+      "openedAt": "2021-02-24T14:36:12.636Z",
+      "closedAt": "2021-10-20T13:45:31.561Z",
+      "holdMinutes": 342669.3154166667,
+      "overnight": true
+    },
+    {
+      "ticker": "RIOT",
+      "qty": 3,
+      "entryPrice": 44.17,
+      "exitPrice": 31.8033,
+      "pnl": -37.100100000000005,
+      "openedAt": "2021-02-26T20:37:56.422Z",
+      "closedAt": "2021-10-20T13:45:31.561Z",
+      "holdMinutes": 339427.58565,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "CLEU",
+      "qty": 0.12391,
+      "entryPrice": 5.84,
+      "exitPrice": 2.475,
+      "pnl": -0.41695715,
+      "openedAt": "2021-02-12T17:49:15.845Z",
+      "closedAt": "2021-10-20T13:43:16.100815Z",
+      "holdMinutes": 359754.00425,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 3.3649999999999998,
+      "notional": 0.7236344,
+      "review": "overnight · 359754m · 3.36 pts · Flags: overnight · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "CLEU",
+      "qty": 16.817870000000003,
+      "entryPrice": 5.84,
+      "exitPrice": 2.46,
+      "pnl": -56.84440060000001,
+      "openedAt": "2021-02-12T17:49:15.845Z",
+      "closedAt": "2021-10-20T13:43:16.21Z",
+      "holdMinutes": 359754.00608333334,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "size_up_after_loss"
+      ],
+      "movePts": 3.38,
+      "notional": 98.21636080000002,
+      "review": "overnight · 359754m · 3.38 pts · Flags: overnight, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "CLEU",
+      "qty": 0.18212999999999724,
+      "entryPrice": 5.82,
+      "exitPrice": 2.46,
+      "pnl": -0.6119567999999908,
+      "openedAt": "2021-02-12T17:49:15.705405Z",
+      "closedAt": "2021-10-20T13:43:16.21Z",
+      "holdMinutes": 359754.00841666665,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak"
+      ],
+      "movePts": 3.3600000000000003,
+      "notional": 1.059996599999984,
+      "review": "overnight · 359754m · 3.36 pts · Flags: overnight, after_loss_streak · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "SNDL",
+      "qty": 46,
+      "entryPrice": 1.015,
+      "exitPrice": 0.670801,
+      "pnl": -15.833153999999997,
+      "openedAt": "2021-06-01T18:31:52.404Z",
+      "closedAt": "2021-10-20T13:43:31.377Z",
+      "holdMinutes": 202751.64955,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "size_up_after_loss"
+      ],
+      "movePts": 0.3441989999999999,
+      "notional": 46.69,
+      "review": "overnight · 202752m · 0.34 pts · Flags: overnight, after_loss_streak, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "RIOT",
+      "qty": 2,
+      "entryPrice": 72.52,
+      "exitPrice": 31.8033,
+      "pnl": -81.43339999999999,
+      "openedAt": "2021-02-19T17:42:43.344Z",
+      "closedAt": "2021-10-20T13:45:31.561Z",
+      "holdMinutes": 349682.80361666664,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 40.716699999999996,
+      "notional": 145.04,
+      "review": "overnight · 349683m · 40.72 pts · Flags: overnight, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "RIOT",
+      "qty": 1,
+      "entryPrice": 54.3483,
+      "exitPrice": 31.8033,
+      "pnl": -22.545,
+      "openedAt": "2021-02-24T14:36:12.636Z",
+      "closedAt": "2021-10-20T13:45:31.561Z",
+      "holdMinutes": 342669.3154166667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 22.545,
+      "notional": 54.3483,
+      "review": "overnight · 342669m · 22.55 pts · Flags: overnight, after_loss_streak, high_frequency_day · Overnight risk — binary path; not a consistency skill.",
+      "whatWorked": "",
+      "whatFailed": "Overnight risk — binary path; not a consistency skill.",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "RIOT",
+      "qty": 3,
+      "entryPrice": 44.17,
+      "exitPrice": 31.8033,
+      "pnl": -37.100100000000005,
+      "openedAt": "2021-02-26T20:37:56.422Z",
+      "closedAt": "2021-10-20T13:45:31.561Z",
+      "holdMinutes": 339427.58565,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "C",
+      "flags": [
+        "overnight",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 12.366700000000002,
+      "notional": 132.51,
+      "review": "overnight · 339428m · 12.37 pts · Flags: overnight, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    }
+  ],
+  "tilt": {
+    "state": "overnight_hungover",
+    "score": 80,
+    "reasons": [
+      "Loss streak ×7",
+      "Overnight PnL $-215"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 7
+    },
+    "maxWin": 0,
+    "maxLoss": 7
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

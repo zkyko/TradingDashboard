@@ -1,0 +1,166 @@
+{
+  "id": "2021-W39",
+  "label": "Sep 27 – Oct 1, 2021",
+  "start": "2021-09-27",
+  "end": "2021-10-04",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:07.391Z",
+  "realizedPnl": -146.1400651371,
+  "tradeCount": 10,
+  "winCount": 0,
+  "lossCount": 10,
+  "priorWeekPnl": null,
+  "metrics": {
+    "tradeCount": 10,
+    "winCount": 0,
+    "lossCount": 10,
+    "flatCount": 0,
+    "winRate": 0,
+    "winPct": 0,
+    "profitFactor": 0,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": -14.61400651371,
+    "avgWin": null,
+    "avgLoss": -14.61400651371,
+    "avgLossAbs": 14.61400651371,
+    "grossWin": 0,
+    "grossLoss": -146.1400651371,
+    "realizedPnl": -146.1400651371,
+    "bestTrade": -0.032129055000000004,
+    "worstTrade": -33.6665,
+    "avgHoldMinutes": 379464.8592016667,
+    "equityCurve": [
+      {
+        "t": "2021-09-27T18:17:48.689Z",
+        "pnl": -33.6665
+      },
+      {
+        "t": "2021-09-27T18:18:09.763Z",
+        "pnl": -43.5562379597
+      },
+      {
+        "t": "2021-09-27T18:18:09.763Z",
+        "pnl": -65.55849256489999
+      },
+      {
+        "t": "2021-09-27T18:18:09.763Z",
+        "pnl": -65.6496116921
+      },
+      {
+        "t": "2021-09-27T18:18:09.763Z",
+        "pnl": -69.4697549921
+      },
+      {
+        "t": "2021-09-27T18:18:09.763Z",
+        "pnl": -95.71307989209998
+      },
+      {
+        "t": "2021-09-27T18:18:09.763Z",
+        "pnl": -114.7989798921
+      },
+      {
+        "t": "2021-09-27T18:18:09.763Z",
+        "pnl": -129.7987857771
+      },
+      {
+        "t": "2021-09-27T18:18:09.763Z",
+        "pnl": -129.8309148321
+      },
+      {
+        "t": "2021-09-27T18:18:09.763Z",
+        "pnl": -146.1400651371
+      }
+    ]
+  },
+  "soxlMetrics": {
+    "tradeCount": 0,
+    "winCount": 0,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": null,
+    "winPct": null,
+    "profitFactor": null,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": null,
+    "avgWin": null,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0,
+    "grossLoss": 0,
+    "realizedPnl": 0,
+    "bestTrade": null,
+    "worstTrade": null,
+    "avgHoldMinutes": null,
+    "equityCurve": []
+  },
+  "days": [
+    {
+      "date": "2021-09-27",
+      "label": "Mon",
+      "pnl": -146.1400651371,
+      "trades": 10
+    },
+    {
+      "date": "2021-09-28",
+      "label": "Tue",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-09-29",
+      "label": "Wed",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-09-30",
+      "label": "Thu",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-10-01",
+      "label": "Fri",
+      "pnl": 0,
+      "trades": 0
+    }
+  ],
+  "byTicker": [
+    {
+      "ticker": "JMIA",
+      "pnl": -112.47356513709998,
+      "trades": 9,
+      "wins": 0
+    },
+    {
+      "ticker": "GEVO",
+      "pnl": -33.6665,
+      "trades": 1,
+      "wins": 0
+    }
+  ],
+  "tilt": {
+    "state": "overnight_hungover",
+    "score": 80,
+    "reasons": [
+      "Loss streak ×10",
+      "Overnight PnL $-146"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 10
+    },
+    "maxWin": 0,
+    "maxLoss": 10
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "mistakes": [],
+  "openNotes": []
+}

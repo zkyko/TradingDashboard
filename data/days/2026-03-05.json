@@ -1,0 +1,110 @@
+{
+  "id": "2026-03-05",
+  "date": "2026-03-05",
+  "label": "Thursday, Mar 5, 2026",
+  "weekday": "Thu",
+  "weekId": "2026-W10",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:04.383Z",
+  "realizedPnl": 6.385456879999968,
+  "tradeCount": 1,
+  "winCount": 1,
+  "lossCount": 0,
+  "processGrades": {
+    "A": 0,
+    "B": 1,
+    "C": 0
+  },
+  "metrics": {
+    "tradeCount": 1,
+    "winCount": 1,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": 1,
+    "winPct": 100,
+    "profitFactor": null,
+    "profitFactorInfinite": true,
+    "rewardRisk": null,
+    "expectancy": 6.385456879999968,
+    "avgWin": 6.385456879999968,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 6.385456879999968,
+    "grossLoss": 0,
+    "realizedPnl": 6.385456879999968,
+    "bestTrade": 6.385456879999968,
+    "worstTrade": 6.385456879999968,
+    "avgHoldMinutes": 8631.041616666667,
+    "equityCurve": [
+      {
+        "t": "2026-03-05T18:27:05.329Z",
+        "pnl": 6.385456879999968
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "AVGO",
+      "pnl": 6.385456879999968,
+      "trades": 1,
+      "wins": 1
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "AVGO",
+      "qty": 0.630974,
+      "entryPrice": 316.97,
+      "exitPrice": 327.09,
+      "pnl": 6.385456879999968,
+      "openedAt": "2026-02-27T18:36:02.832Z",
+      "closedAt": "2026-03-05T18:27:05.329Z",
+      "holdMinutes": 8631.041616666667,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "AVGO",
+      "qty": 0.630974,
+      "entryPrice": 316.97,
+      "exitPrice": 327.09,
+      "pnl": 6.385456879999968,
+      "openedAt": "2026-02-27T18:36:02.832Z",
+      "closedAt": "2026-03-05T18:27:05.329Z",
+      "holdMinutes": 8631.041616666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 10.119999999999948,
+      "notional": 199.99982878000003,
+      "review": "overnight · 8631m · 10.12 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 1
+    },
+    "maxWin": 1,
+    "maxLoss": 0
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

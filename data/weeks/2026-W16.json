@@ -1,0 +1,145 @@
+{
+  "id": "2026-W16",
+  "label": "Apr 13 – Apr 17, 2026",
+  "start": "2026-04-13",
+  "end": "2026-04-20",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:05.912Z",
+  "realizedPnl": 0.8264450990000077,
+  "tradeCount": 5,
+  "winCount": 1,
+  "lossCount": 4,
+  "priorWeekPnl": null,
+  "metrics": {
+    "tradeCount": 5,
+    "winCount": 1,
+    "lossCount": 4,
+    "flatCount": 0,
+    "winRate": 0.2,
+    "winPct": 20,
+    "profitFactor": 1.027660142926536,
+    "profitFactorInfinite": false,
+    "rewardRisk": 4.110640571706144,
+    "expectancy": 0.16528901980000155,
+    "avgWin": 30.705,
+    "avgLoss": -7.469638725249998,
+    "avgLossAbs": 7.469638725249998,
+    "grossWin": 30.705,
+    "grossLoss": -29.87855490099999,
+    "realizedPnl": 0.8264450990000077,
+    "bestTrade": 30.705,
+    "worstTrade": -17.593400000000003,
+    "avgHoldMinutes": 93968.00520333332,
+    "equityCurve": [
+      {
+        "t": "2026-04-15T19:08:31.143Z",
+        "pnl": 30.705
+      },
+      {
+        "t": "2026-04-15T19:08:43.174Z",
+        "pnl": 29.881045098999998
+      },
+      {
+        "t": "2026-04-15T19:08:43.174Z",
+        "pnl": 12.287645098999995
+      },
+      {
+        "t": "2026-04-15T19:08:43.174Z",
+        "pnl": 1.3184791905000068
+      },
+      {
+        "t": "2026-04-15T19:08:43.174Z",
+        "pnl": 0.8264450990000077
+      }
+    ]
+  },
+  "soxlMetrics": {
+    "tradeCount": 0,
+    "winCount": 0,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": null,
+    "winPct": null,
+    "profitFactor": null,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": null,
+    "avgWin": null,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0,
+    "grossLoss": 0,
+    "realizedPnl": 0,
+    "bestTrade": null,
+    "worstTrade": null,
+    "avgHoldMinutes": null,
+    "equityCurve": []
+  },
+  "days": [
+    {
+      "date": "2026-04-13",
+      "label": "Mon",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2026-04-14",
+      "label": "Tue",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2026-04-15",
+      "label": "Wed",
+      "pnl": 0.8264450990000077,
+      "trades": 5
+    },
+    {
+      "date": "2026-04-16",
+      "label": "Thu",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2026-04-17",
+      "label": "Fri",
+      "pnl": 0,
+      "trades": 0
+    }
+  ],
+  "byTicker": [
+    {
+      "ticker": "NFLX",
+      "pnl": 30.705,
+      "trades": 1,
+      "wins": 1
+    },
+    {
+      "ticker": "QS",
+      "pnl": -29.87855490099999,
+      "trades": 4,
+      "wins": 0
+    }
+  ],
+  "tilt": {
+    "state": "cooling_off",
+    "score": 70,
+    "reasons": [
+      "Loss streak ×4"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 4
+    },
+    "maxWin": 1,
+    "maxLoss": 4
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "mistakes": [],
+  "openNotes": []
+}

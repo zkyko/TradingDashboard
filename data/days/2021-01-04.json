@@ -1,0 +1,341 @@
+{
+  "id": "2021-01-04",
+  "date": "2021-01-04",
+  "label": "Monday, Jan 4, 2021",
+  "weekday": "Mon",
+  "weekId": "2021-W01",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:02.564Z",
+  "realizedPnl": 213.1995185,
+  "tradeCount": 7,
+  "winCount": 7,
+  "lossCount": 0,
+  "processGrades": {
+    "A": 0,
+    "B": 7,
+    "C": 0
+  },
+  "metrics": {
+    "tradeCount": 7,
+    "winCount": 7,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": 1,
+    "winPct": 100,
+    "profitFactor": null,
+    "profitFactorInfinite": true,
+    "rewardRisk": null,
+    "expectancy": 30.457074071428572,
+    "avgWin": 30.457074071428572,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 213.1995185,
+    "grossLoss": 0,
+    "realizedPnl": 213.1995185,
+    "bestTrade": 123.64999999999999,
+    "worstTrade": 0.10120099999999987,
+    "avgHoldMinutes": 17223.069533333335,
+    "equityCurve": [
+      {
+        "t": "2021-01-04T16:15:44.661Z",
+        "pnl": 86.50590000000001
+      },
+      {
+        "t": "2021-01-04T16:16:00.271769Z",
+        "pnl": 86.6683555
+      },
+      {
+        "t": "2021-01-04T16:16:00.351Z",
+        "pnl": 210.3183555
+      },
+      {
+        "t": "2021-01-04T16:16:00.351Z",
+        "pnl": 212.7543595
+      },
+      {
+        "t": "2021-01-04T16:16:00.351Z",
+        "pnl": 212.8555605
+      },
+      {
+        "t": "2021-01-04T16:16:00.351Z",
+        "pnl": 213.016324
+      },
+      {
+        "t": "2021-01-04T16:16:00.351Z",
+        "pnl": 213.1995185
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "JAGX",
+      "pnl": 126.69361849999999,
+      "trades": 6,
+      "wins": 6
+    },
+    {
+      "ticker": "OCGN",
+      "pnl": 86.50590000000001,
+      "trades": 1,
+      "wins": 1
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "OCGN",
+      "qty": 39,
+      "entryPrice": 0.7226,
+      "exitPrice": 2.9407,
+      "pnl": 86.50590000000001,
+      "openedAt": "2020-12-22T17:29:18.586Z",
+      "closedAt": "2021-01-04T16:15:44.661Z",
+      "holdMinutes": 18646.434583333332,
+      "overnight": true
+    },
+    {
+      "ticker": "JAGX",
+      "qty": 200,
+      "entryPrice": 0.40675,
+      "exitPrice": 1.025,
+      "pnl": 123.64999999999999,
+      "openedAt": "2020-12-22T17:11:14.658Z",
+      "closedAt": "2021-01-04T16:16:00.351Z",
+      "holdMinutes": 18664.76155,
+      "overnight": true
+    },
+    {
+      "ticker": "JAGX",
+      "qty": 4,
+      "entryPrice": 0.415999,
+      "exitPrice": 1.025,
+      "pnl": 2.4360039999999996,
+      "openedAt": "2020-12-22T17:32:29.824Z",
+      "closedAt": "2021-01-04T16:16:00.351Z",
+      "holdMinutes": 18643.508783333335,
+      "overnight": true
+    },
+    {
+      "ticker": "JAGX",
+      "qty": 1,
+      "entryPrice": 0.923799,
+      "exitPrice": 1.025,
+      "pnl": 0.10120099999999987,
+      "openedAt": "2020-12-23T16:38:17.658Z",
+      "closedAt": "2021-01-04T16:16:00.351Z",
+      "holdMinutes": 17257.71155,
+      "overnight": true
+    },
+    {
+      "ticker": "JAGX",
+      "qty": 0.47,
+      "entryPrice": 0.68295,
+      "exitPrice": 1.025,
+      "pnl": 0.16076349999999998,
+      "openedAt": "2020-12-24T17:12:58.921759Z",
+      "closedAt": "2021-01-04T16:16:00.351Z",
+      "holdMinutes": 15783.023833333333,
+      "overnight": true
+    },
+    {
+      "ticker": "JAGX",
+      "qty": 0.53,
+      "entryPrice": 0.67935,
+      "exitPrice": 1.025,
+      "pnl": 0.18319449999999995,
+      "openedAt": "2020-12-24T17:12:58.918Z",
+      "closedAt": "2021-01-04T16:16:00.351Z",
+      "holdMinutes": 15783.023883333333,
+      "overnight": true
+    },
+    {
+      "ticker": "JAGX",
+      "qty": 0.47,
+      "entryPrice": 0.67935,
+      "exitPrice": 1.025,
+      "pnl": 0.16245549999999995,
+      "openedAt": "2020-12-24T17:12:58.918Z",
+      "closedAt": "2021-01-04T16:16:00.271769Z",
+      "holdMinutes": 15783.02255,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "OCGN",
+      "qty": 39,
+      "entryPrice": 0.7226,
+      "exitPrice": 2.9407,
+      "pnl": 86.50590000000001,
+      "openedAt": "2020-12-22T17:29:18.586Z",
+      "closedAt": "2021-01-04T16:15:44.661Z",
+      "holdMinutes": 18646.434583333332,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 2.2181,
+      "notional": 28.1814,
+      "review": "overnight · 18646m · 2.22 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "JAGX",
+      "qty": 200,
+      "entryPrice": 0.40675,
+      "exitPrice": 1.025,
+      "pnl": 123.64999999999999,
+      "openedAt": "2020-12-22T17:11:14.658Z",
+      "closedAt": "2021-01-04T16:16:00.351Z",
+      "holdMinutes": 18664.76155,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.61825,
+      "notional": 81.35,
+      "review": "overnight · 18665m · 0.62 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "JAGX",
+      "qty": 4,
+      "entryPrice": 0.415999,
+      "exitPrice": 1.025,
+      "pnl": 2.4360039999999996,
+      "openedAt": "2020-12-22T17:32:29.824Z",
+      "closedAt": "2021-01-04T16:16:00.351Z",
+      "holdMinutes": 18643.508783333335,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.6090009999999999,
+      "notional": 1.663996,
+      "review": "overnight · 18644m · 0.61 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "JAGX",
+      "qty": 1,
+      "entryPrice": 0.923799,
+      "exitPrice": 1.025,
+      "pnl": 0.10120099999999987,
+      "openedAt": "2020-12-23T16:38:17.658Z",
+      "closedAt": "2021-01-04T16:16:00.351Z",
+      "holdMinutes": 17257.71155,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.10120099999999987,
+      "notional": 0.923799,
+      "review": "overnight · 17258m · 0.10 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "JAGX",
+      "qty": 0.47,
+      "entryPrice": 0.68295,
+      "exitPrice": 1.025,
+      "pnl": 0.16076349999999998,
+      "openedAt": "2020-12-24T17:12:58.921759Z",
+      "closedAt": "2021-01-04T16:16:00.351Z",
+      "holdMinutes": 15783.023833333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 0.34204999999999997,
+      "notional": 0.32098649999999995,
+      "review": "overnight · 15783m · 0.34 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "JAGX",
+      "qty": 0.53,
+      "entryPrice": 0.67935,
+      "exitPrice": 1.025,
+      "pnl": 0.18319449999999995,
+      "openedAt": "2020-12-24T17:12:58.918Z",
+      "closedAt": "2021-01-04T16:16:00.351Z",
+      "holdMinutes": 15783.023883333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 0.3456499999999999,
+      "notional": 0.36005550000000003,
+      "review": "overnight · 15783m · 0.35 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "JAGX",
+      "qty": 0.47,
+      "entryPrice": 0.67935,
+      "exitPrice": 1.025,
+      "pnl": 0.16245549999999995,
+      "openedAt": "2020-12-24T17:12:58.918Z",
+      "closedAt": "2021-01-04T16:16:00.271769Z",
+      "holdMinutes": 15783.02255,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 0.3456499999999999,
+      "notional": 0.3192945,
+      "review": "overnight · 15783m · 0.35 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "on_streak",
+    "score": 40,
+    "reasons": [
+      "Win streak ×7"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 7
+    },
+    "maxWin": 7,
+    "maxLoss": 0
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

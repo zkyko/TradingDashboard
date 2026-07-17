@@ -1,0 +1,196 @@
+{
+  "id": "2021-W44",
+  "label": "Nov 1 – Nov 5, 2021",
+  "start": "2021-11-01",
+  "end": "2021-11-08",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:07.271Z",
+  "realizedPnl": -168.84033609579976,
+  "tradeCount": 16,
+  "winCount": 10,
+  "lossCount": 6,
+  "priorWeekPnl": -515.8533369266,
+  "metrics": {
+    "tradeCount": 16,
+    "winCount": 10,
+    "lossCount": 6,
+    "flatCount": 0,
+    "winRate": 0.625,
+    "winPct": 62.5,
+    "profitFactor": 0.3764982954106331,
+    "profitFactorInfinite": false,
+    "rewardRisk": 0.22589897724637986,
+    "expectancy": -10.552521005987485,
+    "avgWin": 10.195336799999998,
+    "avgLoss": -45.132284015966626,
+    "avgLossAbs": 45.132284015966626,
+    "grossWin": 101.95336799999998,
+    "grossLoss": -270.79370409579974,
+    "realizedPnl": -168.84033609579976,
+    "bestTrade": 18.6313,
+    "worstTrade": -140.29999006099976,
+    "avgHoldMinutes": 37795.572471875006,
+    "equityCurve": [
+      {
+        "t": "2021-11-02T18:08:43.176Z",
+        "pnl": 7.359999999999999
+      },
+      {
+        "t": "2021-11-02T18:08:43.176Z",
+        "pnl": 13.410099999999996
+      },
+      {
+        "t": "2021-11-02T18:08:43.177Z",
+        "pnl": 25.820099999999996
+      },
+      {
+        "t": "2021-11-02T18:08:43.177Z",
+        "pnl": 41.580099999999995
+      },
+      {
+        "t": "2021-11-02T18:08:43.177Z",
+        "pnl": 59.24009999999999
+      },
+      {
+        "t": "2021-11-02T18:08:43.177Z",
+        "pnl": 77.8714
+      },
+      {
+        "t": "2021-11-02T18:08:43.177Z",
+        "pnl": 85.7301
+      },
+      {
+        "t": "2021-11-02T18:08:43.177Z",
+        "pnl": 86.5397
+      },
+      {
+        "t": "2021-11-02T18:08:43.177Z",
+        "pnl": 91.77239999999999
+      },
+      {
+        "t": "2021-11-02T18:08:43.177Z",
+        "pnl": 101.95336799999998
+      },
+      {
+        "t": "2021-11-03T14:01:41.48Z",
+        "pnl": 62.69387253000002
+      },
+      {
+        "t": "2021-11-03T15:54:52.206Z",
+        "pnl": 62.669234518800025
+      },
+      {
+        "t": "2021-11-03T15:54:52.206Z",
+        "pnl": -77.63075554219974
+      },
+      {
+        "t": "2021-11-03T15:54:52.206Z",
+        "pnl": -80.77015554219973
+      },
+      {
+        "t": "2021-11-03T15:54:52.206Z",
+        "pnl": -83.92855554219973
+      },
+      {
+        "t": "2021-11-03T15:54:52.206Z",
+        "pnl": -168.84033609579976
+      }
+    ]
+  },
+  "soxlMetrics": {
+    "tradeCount": 0,
+    "winCount": 0,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": null,
+    "winPct": null,
+    "profitFactor": null,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": null,
+    "avgWin": null,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0,
+    "grossLoss": 0,
+    "realizedPnl": 0,
+    "bestTrade": null,
+    "worstTrade": null,
+    "avgHoldMinutes": null,
+    "equityCurve": []
+  },
+  "days": [
+    {
+      "date": "2021-11-01",
+      "label": "Mon",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-11-02",
+      "label": "Tue",
+      "pnl": 101.95336799999998,
+      "trades": 10
+    },
+    {
+      "date": "2021-11-03",
+      "label": "Wed",
+      "pnl": -270.79370409579974,
+      "trades": 6
+    },
+    {
+      "date": "2021-11-04",
+      "label": "Thu",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-11-05",
+      "label": "Fri",
+      "pnl": 0,
+      "trades": 0
+    }
+  ],
+  "byTicker": [
+    {
+      "ticker": "AMC",
+      "pnl": -231.5342086257998,
+      "trades": 5,
+      "wins": 0
+    },
+    {
+      "ticker": "METX",
+      "pnl": 101.95336799999998,
+      "trades": 10,
+      "wins": 10
+    },
+    {
+      "ticker": "OCGN",
+      "pnl": -39.25949546999996,
+      "trades": 1,
+      "wins": 0
+    }
+  ],
+  "tilt": {
+    "state": "overnight_hungover",
+    "score": 80,
+    "reasons": [
+      "Loss streak ×6",
+      "Overnight PnL $-130"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 6
+    },
+    "maxWin": 10,
+    "maxLoss": 6
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "mistakes": [],
+  "openNotes": []
+}

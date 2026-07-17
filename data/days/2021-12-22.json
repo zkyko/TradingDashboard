@@ -1,0 +1,147 @@
+{
+  "id": "2021-12-22",
+  "date": "2021-12-22",
+  "label": "Wednesday, Dec 22, 2021",
+  "weekday": "Wed",
+  "weekId": "2021-W51",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:03.791Z",
+  "realizedPnl": 263.74,
+  "tradeCount": 2,
+  "winCount": 2,
+  "lossCount": 0,
+  "processGrades": {
+    "A": 0,
+    "B": 2,
+    "C": 0
+  },
+  "metrics": {
+    "tradeCount": 2,
+    "winCount": 2,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": 1,
+    "winPct": 100,
+    "profitFactor": null,
+    "profitFactorInfinite": true,
+    "rewardRisk": null,
+    "expectancy": 131.87,
+    "avgWin": 131.87,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 263.74,
+    "grossLoss": 0,
+    "realizedPnl": 263.74,
+    "bestTrade": 206.832,
+    "worstTrade": 56.907999999999994,
+    "avgHoldMinutes": 12902.794741666667,
+    "equityCurve": [
+      {
+        "t": "2021-12-22T14:37:30.066Z",
+        "pnl": 56.907999999999994
+      },
+      {
+        "t": "2021-12-22T15:12:24.059Z",
+        "pnl": 263.74
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "AMC",
+      "pnl": 263.74,
+      "trades": 2,
+      "wins": 2
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "AMC",
+      "qty": 10,
+      "entryPrice": 24.1192,
+      "exitPrice": 29.81,
+      "pnl": 56.907999999999994,
+      "openedAt": "2021-12-13T15:52:09.378Z",
+      "closedAt": "2021-12-22T14:37:30.066Z",
+      "holdMinutes": 12885.3448,
+      "overnight": true
+    },
+    {
+      "ticker": "AMC",
+      "qty": 40,
+      "entryPrice": 24.1192,
+      "exitPrice": 29.29,
+      "pnl": 206.832,
+      "openedAt": "2021-12-13T15:52:09.378Z",
+      "closedAt": "2021-12-22T15:12:24.059Z",
+      "holdMinutes": 12920.244683333332,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "AMC",
+      "qty": 10,
+      "entryPrice": 24.1192,
+      "exitPrice": 29.81,
+      "pnl": 56.907999999999994,
+      "openedAt": "2021-12-13T15:52:09.378Z",
+      "closedAt": "2021-12-22T14:37:30.066Z",
+      "holdMinutes": 12885.3448,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 5.690799999999999,
+      "notional": 241.192,
+      "review": "overnight · 12885m · 5.69 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "AMC",
+      "qty": 40,
+      "entryPrice": 24.1192,
+      "exitPrice": 29.29,
+      "pnl": 206.832,
+      "openedAt": "2021-12-13T15:52:09.378Z",
+      "closedAt": "2021-12-22T15:12:24.059Z",
+      "holdMinutes": 12920.244683333332,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 5.1708,
+      "notional": 964.768,
+      "review": "overnight · 12920m · 5.17 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 2
+    },
+    "maxWin": 2,
+    "maxLoss": 0
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}

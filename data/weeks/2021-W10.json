@@ -1,0 +1,153 @@
+{
+  "id": "2021-W10",
+  "label": "Mar 8 – Mar 12, 2021",
+  "start": "2021-03-08",
+  "end": "2021-03-15",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:07.865Z",
+  "realizedPnl": 257.51718357,
+  "tradeCount": 7,
+  "winCount": 6,
+  "lossCount": 1,
+  "priorWeekPnl": null,
+  "metrics": {
+    "tradeCount": 7,
+    "winCount": 6,
+    "lossCount": 1,
+    "flatCount": 0,
+    "winRate": 0.8571428571428571,
+    "winPct": 85.71428571428571,
+    "profitFactor": 51.49356540588234,
+    "profitFactorInfinite": false,
+    "rewardRisk": 8.582260900980389,
+    "expectancy": 36.78816908142857,
+    "avgWin": 43.769530595,
+    "avgLoss": -5.100000000000001,
+    "avgLossAbs": 5.100000000000001,
+    "grossWin": 262.61718357,
+    "grossLoss": -5.100000000000001,
+    "realizedPnl": 257.51718357,
+    "bestTrade": 116.09479299,
+    "worstTrade": -5.100000000000001,
+    "avgHoldMinutes": 34204.20594047619,
+    "equityCurve": [
+      {
+        "t": "2021-03-10T16:41:19.723823Z",
+        "pnl": 64.18713354
+      },
+      {
+        "t": "2021-03-10T17:40:59.266Z",
+        "pnl": 104.34262541000001
+      },
+      {
+        "t": "2021-03-10T17:46:10.594Z",
+        "pnl": 117.16049912000001
+      },
+      {
+        "t": "2021-03-10T17:46:10.594Z",
+        "pnl": 233.25529211000003
+      },
+      {
+        "t": "2021-03-10T17:46:16.214082Z",
+        "pnl": 247.60480157000003
+      },
+      {
+        "t": "2021-03-10T17:46:18.084248Z",
+        "pnl": 262.61718357
+      },
+      {
+        "t": "2021-03-12T18:01:06.207Z",
+        "pnl": 257.51718357
+      }
+    ]
+  },
+  "soxlMetrics": {
+    "tradeCount": 0,
+    "winCount": 0,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": null,
+    "winPct": null,
+    "profitFactor": null,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": null,
+    "avgWin": null,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0,
+    "grossLoss": 0,
+    "realizedPnl": 0,
+    "bestTrade": null,
+    "worstTrade": null,
+    "avgHoldMinutes": null,
+    "equityCurve": []
+  },
+  "days": [
+    {
+      "date": "2021-03-08",
+      "label": "Mon",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-03-09",
+      "label": "Tue",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-03-10",
+      "label": "Wed",
+      "pnl": 262.61718357,
+      "trades": 6
+    },
+    {
+      "date": "2021-03-11",
+      "label": "Thu",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-03-12",
+      "label": "Fri",
+      "pnl": -5.100000000000001,
+      "trades": 1
+    }
+  ],
+  "byTicker": [
+    {
+      "ticker": "GME",
+      "pnl": 262.61718357,
+      "trades": 6,
+      "wins": 6
+    },
+    {
+      "ticker": "CPNG",
+      "pnl": -5.100000000000001,
+      "trades": 1,
+      "wins": 0
+    }
+  ],
+  "tilt": {
+    "state": "calm",
+    "score": 0,
+    "reasons": [
+      "No active tilt flags in recent tape"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "loss",
+      "length": 1
+    },
+    "maxWin": 6,
+    "maxLoss": 1
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "mistakes": [],
+  "openNotes": []
+}

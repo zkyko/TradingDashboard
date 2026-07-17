@@ -1,0 +1,199 @@
+{
+  "id": "2021-W01",
+  "label": "Jan 4 – Jan 8, 2021",
+  "start": "2021-01-04",
+  "end": "2021-01-11",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:08.182Z",
+  "realizedPnl": 385.9408935,
+  "tradeCount": 14,
+  "winCount": 14,
+  "lossCount": 0,
+  "priorWeekPnl": null,
+  "metrics": {
+    "tradeCount": 14,
+    "winCount": 14,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": 1,
+    "winPct": 100,
+    "profitFactor": null,
+    "profitFactorInfinite": true,
+    "rewardRisk": null,
+    "expectancy": 27.56720667857143,
+    "avgWin": 27.56720667857143,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 385.9408935,
+    "grossLoss": 0,
+    "realizedPnl": 385.9408935,
+    "bestTrade": 123.64999999999999,
+    "worstTrade": 0.10120099999999987,
+    "avgHoldMinutes": 48939.5671797619,
+    "equityCurve": [
+      {
+        "t": "2021-01-04T16:15:44.661Z",
+        "pnl": 86.50590000000001
+      },
+      {
+        "t": "2021-01-04T16:16:00.271769Z",
+        "pnl": 86.6683555
+      },
+      {
+        "t": "2021-01-04T16:16:00.351Z",
+        "pnl": 210.3183555
+      },
+      {
+        "t": "2021-01-04T16:16:00.351Z",
+        "pnl": 212.7543595
+      },
+      {
+        "t": "2021-01-04T16:16:00.351Z",
+        "pnl": 212.8555605
+      },
+      {
+        "t": "2021-01-04T16:16:00.351Z",
+        "pnl": 213.016324
+      },
+      {
+        "t": "2021-01-04T16:16:00.351Z",
+        "pnl": 213.1995185
+      },
+      {
+        "t": "2021-01-06T15:38:07.041Z",
+        "pnl": 266.1995185
+      },
+      {
+        "t": "2021-01-06T16:02:52.826Z",
+        "pnl": 271.80089350000003
+      },
+      {
+        "t": "2021-01-06T22:44:49.741Z",
+        "pnl": 278.1208935
+      },
+      {
+        "t": "2021-01-07T17:33:16.891Z",
+        "pnl": 338.3708935
+      },
+      {
+        "t": "2021-01-07T20:36:30.37Z",
+        "pnl": 367.98589350000003
+      },
+      {
+        "t": "2021-01-07T20:37:13.411Z",
+        "pnl": 374.0108935
+      },
+      {
+        "t": "2021-01-07T20:37:13.411Z",
+        "pnl": 385.9408935
+      }
+    ]
+  },
+  "soxlMetrics": {
+    "tradeCount": 0,
+    "winCount": 0,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": null,
+    "winPct": null,
+    "profitFactor": null,
+    "profitFactorInfinite": false,
+    "rewardRisk": null,
+    "expectancy": null,
+    "avgWin": null,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 0,
+    "grossLoss": 0,
+    "realizedPnl": 0,
+    "bestTrade": null,
+    "worstTrade": null,
+    "avgHoldMinutes": null,
+    "equityCurve": []
+  },
+  "days": [
+    {
+      "date": "2021-01-04",
+      "label": "Mon",
+      "pnl": 213.1995185,
+      "trades": 7
+    },
+    {
+      "date": "2021-01-05",
+      "label": "Tue",
+      "pnl": 0,
+      "trades": 0
+    },
+    {
+      "date": "2021-01-06",
+      "label": "Wed",
+      "pnl": 64.92137499999998,
+      "trades": 3
+    },
+    {
+      "date": "2021-01-07",
+      "label": "Thu",
+      "pnl": 107.82,
+      "trades": 4
+    },
+    {
+      "date": "2021-01-08",
+      "label": "Fri",
+      "pnl": 0,
+      "trades": 0
+    }
+  ],
+  "byTicker": [
+    {
+      "ticker": "JAGX",
+      "pnl": 239.94361849999999,
+      "trades": 8,
+      "wins": 8
+    },
+    {
+      "ticker": "OCGN",
+      "pnl": 86.50590000000001,
+      "trades": 1,
+      "wins": 1
+    },
+    {
+      "ticker": "SNAP",
+      "pnl": 29.615000000000002,
+      "trades": 1,
+      "wins": 1
+    },
+    {
+      "ticker": "M",
+      "pnl": 24.275,
+      "trades": 3,
+      "wins": 3
+    },
+    {
+      "ticker": "GHSI",
+      "pnl": 5.601375,
+      "trades": 1,
+      "wins": 1
+    }
+  ],
+  "tilt": {
+    "state": "on_streak",
+    "score": 40,
+    "reasons": [
+      "Win streak ×14"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 14
+    },
+    "maxWin": 14,
+    "maxLoss": 0
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "mistakes": [],
+  "openNotes": []
+}

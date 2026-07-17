@@ -1,0 +1,449 @@
+{
+  "id": "2021-11-02",
+  "date": "2021-11-02",
+  "label": "Tuesday, Nov 2, 2021",
+  "weekday": "Tue",
+  "weekId": "2021-W44",
+  "timeZone": "America/Chicago",
+  "updatedAt": "2026-07-17T16:33:03.576Z",
+  "realizedPnl": 101.95336799999998,
+  "tradeCount": 10,
+  "winCount": 10,
+  "lossCount": 0,
+  "processGrades": {
+    "A": 0,
+    "B": 10,
+    "C": 0
+  },
+  "metrics": {
+    "tradeCount": 10,
+    "winCount": 10,
+    "lossCount": 0,
+    "flatCount": 0,
+    "winRate": 1,
+    "winPct": 100,
+    "profitFactor": null,
+    "profitFactorInfinite": true,
+    "rewardRisk": null,
+    "expectancy": 10.195336799999998,
+    "avgWin": 10.195336799999998,
+    "avgLoss": null,
+    "avgLossAbs": null,
+    "grossWin": 101.95336799999998,
+    "grossLoss": 0,
+    "realizedPnl": 101.95336799999998,
+    "bestTrade": 18.6313,
+    "worstTrade": 0.8096,
+    "avgHoldMinutes": 9448.567375000002,
+    "equityCurve": [
+      {
+        "t": "2021-11-02T18:08:43.176Z",
+        "pnl": 7.359999999999999
+      },
+      {
+        "t": "2021-11-02T18:08:43.176Z",
+        "pnl": 13.410099999999996
+      },
+      {
+        "t": "2021-11-02T18:08:43.177Z",
+        "pnl": 25.820099999999996
+      },
+      {
+        "t": "2021-11-02T18:08:43.177Z",
+        "pnl": 41.580099999999995
+      },
+      {
+        "t": "2021-11-02T18:08:43.177Z",
+        "pnl": 59.24009999999999
+      },
+      {
+        "t": "2021-11-02T18:08:43.177Z",
+        "pnl": 77.8714
+      },
+      {
+        "t": "2021-11-02T18:08:43.177Z",
+        "pnl": 85.7301
+      },
+      {
+        "t": "2021-11-02T18:08:43.177Z",
+        "pnl": 86.5397
+      },
+      {
+        "t": "2021-11-02T18:08:43.177Z",
+        "pnl": 91.77239999999999
+      },
+      {
+        "t": "2021-11-02T18:08:43.177Z",
+        "pnl": 101.95336799999998
+      }
+    ]
+  },
+  "byTicker": [
+    {
+      "ticker": "METX",
+      "pnl": 101.95336799999998,
+      "trades": 10,
+      "wins": 10
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "METX",
+      "qty": 100,
+      "entryPrice": 0.4133,
+      "exitPrice": 0.5374,
+      "pnl": 12.409999999999998,
+      "openedAt": "2021-10-25T13:33:50.31Z",
+      "closedAt": "2021-11-02T18:08:43.177Z",
+      "holdMinutes": 11794.881116666667,
+      "overnight": true
+    },
+    {
+      "ticker": "METX",
+      "qty": 100,
+      "entryPrice": 0.3798,
+      "exitPrice": 0.5374,
+      "pnl": 15.759999999999996,
+      "openedAt": "2021-10-25T13:52:54.575Z",
+      "closedAt": "2021-11-02T18:08:43.177Z",
+      "holdMinutes": 11775.810033333333,
+      "overnight": true
+    },
+    {
+      "ticker": "METX",
+      "qty": 200,
+      "entryPrice": 0.4491,
+      "exitPrice": 0.5374,
+      "pnl": 17.659999999999997,
+      "openedAt": "2021-10-27T14:16:44.728Z",
+      "closedAt": "2021-11-02T18:08:43.177Z",
+      "holdMinutes": 8871.97415,
+      "overnight": true
+    },
+    {
+      "ticker": "METX",
+      "qty": 211,
+      "entryPrice": 0.4491,
+      "exitPrice": 0.5374,
+      "pnl": 18.6313,
+      "openedAt": "2021-10-27T14:16:44.728Z",
+      "closedAt": "2021-11-02T18:08:43.177Z",
+      "holdMinutes": 8871.97415,
+      "overnight": true
+    },
+    {
+      "ticker": "METX",
+      "qty": 89,
+      "entryPrice": 0.4491,
+      "exitPrice": 0.5374,
+      "pnl": 7.858699999999999,
+      "openedAt": "2021-10-27T14:16:44.728Z",
+      "closedAt": "2021-11-02T18:08:43.177Z",
+      "holdMinutes": 8871.97415,
+      "overnight": true
+    },
+    {
+      "ticker": "METX",
+      "qty": 11,
+      "entryPrice": 0.4638,
+      "exitPrice": 0.5374,
+      "pnl": 0.8096,
+      "openedAt": "2021-10-27T14:26:16.656Z",
+      "closedAt": "2021-11-02T18:08:43.177Z",
+      "holdMinutes": 8862.442016666666,
+      "overnight": true
+    },
+    {
+      "ticker": "METX",
+      "qty": 100,
+      "entryPrice": 0.4638,
+      "exitPrice": 0.5374,
+      "pnl": 7.359999999999999,
+      "openedAt": "2021-10-27T14:26:16.656Z",
+      "closedAt": "2021-11-02T18:08:43.176Z",
+      "holdMinutes": 8862.442,
+      "overnight": true
+    },
+    {
+      "ticker": "METX",
+      "qty": 71,
+      "entryPrice": 0.4638,
+      "exitPrice": 0.5375,
+      "pnl": 5.2326999999999995,
+      "openedAt": "2021-10-27T14:26:16.656Z",
+      "closedAt": "2021-11-02T18:08:43.177Z",
+      "holdMinutes": 8862.442016666666,
+      "overnight": true
+    },
+    {
+      "ticker": "METX",
+      "qty": 168,
+      "entryPrice": 0.476899,
+      "exitPrice": 0.5375,
+      "pnl": 10.180967999999993,
+      "openedAt": "2021-10-27T14:32:51.153Z",
+      "closedAt": "2021-11-02T18:08:43.177Z",
+      "holdMinutes": 8855.867066666666,
+      "overnight": true
+    },
+    {
+      "ticker": "METX",
+      "qty": 100,
+      "entryPrice": 0.476899,
+      "exitPrice": 0.5374,
+      "pnl": 6.050099999999997,
+      "openedAt": "2021-10-27T14:32:51.153Z",
+      "closedAt": "2021-11-02T18:08:43.176Z",
+      "holdMinutes": 8855.86705,
+      "overnight": true
+    }
+  ],
+  "tradeReviews": [
+    {
+      "ticker": "METX",
+      "qty": 100,
+      "entryPrice": 0.4133,
+      "exitPrice": 0.5374,
+      "pnl": 12.409999999999998,
+      "openedAt": "2021-10-25T13:33:50.31Z",
+      "closedAt": "2021-11-02T18:08:43.177Z",
+      "holdMinutes": 11794.881116666667,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.12409999999999999,
+      "notional": 41.33,
+      "review": "overnight · 11795m · 0.12 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "METX",
+      "qty": 100,
+      "entryPrice": 0.3798,
+      "exitPrice": 0.5374,
+      "pnl": 15.759999999999996,
+      "openedAt": "2021-10-25T13:52:54.575Z",
+      "closedAt": "2021-11-02T18:08:43.177Z",
+      "holdMinutes": 11775.810033333333,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.15759999999999996,
+      "notional": 37.980000000000004,
+      "review": "overnight · 11776m · 0.16 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "METX",
+      "qty": 200,
+      "entryPrice": 0.4491,
+      "exitPrice": 0.5374,
+      "pnl": 17.659999999999997,
+      "openedAt": "2021-10-27T14:16:44.728Z",
+      "closedAt": "2021-11-02T18:08:43.177Z",
+      "holdMinutes": 8871.97415,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.08829999999999999,
+      "notional": 89.82,
+      "review": "overnight · 8872m · 0.09 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "METX",
+      "qty": 211,
+      "entryPrice": 0.4491,
+      "exitPrice": 0.5374,
+      "pnl": 18.6313,
+      "openedAt": "2021-10-27T14:16:44.728Z",
+      "closedAt": "2021-11-02T18:08:43.177Z",
+      "holdMinutes": 8871.97415,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight"
+      ],
+      "movePts": 0.08829999999999999,
+      "notional": 94.7601,
+      "review": "overnight · 8872m · 0.09 pts · Flags: overnight · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "METX",
+      "qty": 89,
+      "entryPrice": 0.4491,
+      "exitPrice": 0.5374,
+      "pnl": 7.858699999999999,
+      "openedAt": "2021-10-27T14:16:44.728Z",
+      "closedAt": "2021-11-02T18:08:43.177Z",
+      "holdMinutes": 8871.97415,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 0.08829999999999999,
+      "notional": 39.9699,
+      "review": "overnight · 8872m · 0.09 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "METX",
+      "qty": 11,
+      "entryPrice": 0.4638,
+      "exitPrice": 0.5374,
+      "pnl": 0.8096,
+      "openedAt": "2021-10-27T14:26:16.656Z",
+      "closedAt": "2021-11-02T18:08:43.177Z",
+      "holdMinutes": 8862.442016666666,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 0.0736,
+      "notional": 5.1018,
+      "review": "overnight · 8862m · 0.07 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "METX",
+      "qty": 100,
+      "entryPrice": 0.4638,
+      "exitPrice": 0.5374,
+      "pnl": 7.359999999999999,
+      "openedAt": "2021-10-27T14:26:16.656Z",
+      "closedAt": "2021-11-02T18:08:43.176Z",
+      "holdMinutes": 8862.442,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 0.0736,
+      "notional": 46.379999999999995,
+      "review": "overnight · 8862m · 0.07 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "METX",
+      "qty": 71,
+      "entryPrice": 0.4638,
+      "exitPrice": 0.5375,
+      "pnl": 5.2326999999999995,
+      "openedAt": "2021-10-27T14:26:16.656Z",
+      "closedAt": "2021-11-02T18:08:43.177Z",
+      "holdMinutes": 8862.442016666666,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 0.07369999999999999,
+      "notional": 32.9298,
+      "review": "overnight · 8862m · 0.07 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "METX",
+      "qty": 168,
+      "entryPrice": 0.476899,
+      "exitPrice": 0.5375,
+      "pnl": 10.180967999999993,
+      "openedAt": "2021-10-27T14:32:51.153Z",
+      "closedAt": "2021-11-02T18:08:43.177Z",
+      "holdMinutes": 8855.867066666666,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 0.06060099999999996,
+      "notional": 80.119032,
+      "review": "overnight · 8856m · 0.06 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    },
+    {
+      "ticker": "METX",
+      "qty": 100,
+      "entryPrice": 0.476899,
+      "exitPrice": 0.5374,
+      "pnl": 6.050099999999997,
+      "openedAt": "2021-10-27T14:32:51.153Z",
+      "closedAt": "2021-11-02T18:08:43.176Z",
+      "holdMinutes": 8855.86705,
+      "overnight": true,
+      "holdBucket": "overnight",
+      "grade": "B",
+      "flags": [
+        "overnight",
+        "high_frequency_day"
+      ],
+      "movePts": 0.06050099999999997,
+      "notional": 47.6899,
+      "review": "overnight · 8856m · 0.06 pts · Flags: overnight, high_frequency_day · Overnight worked this time. Do not update rules from one outcome.",
+      "whatWorked": "",
+      "whatFailed": "",
+      "nextTime": "If overnight is allowed, cap notional ≤15% equity and write invalidation before entry."
+    }
+  ],
+  "tilt": {
+    "state": "on_streak",
+    "score": 40,
+    "reasons": [
+      "Win streak ×10"
+    ]
+  },
+  "streaks": {
+    "current": {
+      "type": "win",
+      "length": 10
+    },
+    "maxWin": 10,
+    "maxLoss": 0
+  },
+  "keep": [],
+  "stop": [],
+  "improve": [],
+  "lesson": "",
+  "notes": ""
+}
