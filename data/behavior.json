@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T16:33:02.434Z",
+  "updatedAt": "2026-07-17T17:57:45.305Z",
   "timeZone": "America/Chicago",
   "currentStreak": {
     "type": "win",
@@ -14,29 +14,107 @@
       "pnl": -257.64631796300006
     },
     "under15m": {
-      "n": 9,
-      "pnl": -74.35430000000022
+      "n": 12,
+      "pnl": -69.43430000000026
     },
     "m15to60": {
-      "n": 13,
-      "pnl": 223.13846606500042
+      "n": 14,
+      "pnl": 265.1384660650004
     },
     "over60m": {
-      "n": 10,
-      "pnl": 115.63881399999957
+      "n": 6,
+      "pnl": 69.6838139999995
     }
   },
-  "sizeEscalationFlags": 9,
+  "sizeEscalationFlags": 11,
   "tilt": {
     "state": "overnight_hungover",
     "score": 80,
     "reasons": [
-      "Sub-15m scalps losing ($-74)",
-      "Size escalation after losses (9 flags)",
+      "Sub-15m scalps losing ($-69)",
+      "Size escalation after losses (11 flags)",
       "Overnight PnL $-258"
     ]
   },
   "recentTrades": [
+    {
+      "ticker": "SOXS",
+      "qty": 25,
+      "entryPrice": 51.78,
+      "exitPrice": 53.46,
+      "pnl": 41.99999999999999,
+      "pnlPct": 3.2444959443800694,
+      "openedAt": "2026-07-17T17:33:08.11Z",
+      "closedAt": "2026-07-17T17:57:10.901Z",
+      "side": "LONG",
+      "holdMinutes": 24.046516666666665,
+      "overnight": false
+    },
+    {
+      "ticker": "SOXS",
+      "qty": 25,
+      "entryPrice": 51.78,
+      "exitPrice": 52.44,
+      "pnl": 16.499999999999915,
+      "pnlPct": 1.274623406720735,
+      "openedAt": "2026-07-17T17:33:08.11Z",
+      "closedAt": "2026-07-17T17:36:05.539Z",
+      "side": "LONG",
+      "holdMinutes": 2.95715,
+      "overnight": false
+    },
+    {
+      "ticker": "SOXS",
+      "qty": 1,
+      "entryPrice": 52.08,
+      "exitPrice": 51.67,
+      "pnl": -0.4099999999999966,
+      "pnlPct": -0.7872503840245711,
+      "openedAt": "2026-07-17T17:21:34.553Z",
+      "closedAt": "2026-07-17T17:26:30.572Z",
+      "side": "LONG",
+      "holdMinutes": 4.93365,
+      "overnight": false
+    },
+    {
+      "ticker": "SOXS",
+      "qty": 39,
+      "entryPrice": 52.09,
+      "exitPrice": 51.67,
+      "pnl": -16.380000000000067,
+      "pnlPct": -0.8062967940103699,
+      "openedAt": "2026-07-17T17:21:34.553Z",
+      "closedAt": "2026-07-17T17:26:30.572Z",
+      "side": "LONG",
+      "holdMinutes": 4.93365,
+      "overnight": false
+    },
+    {
+      "ticker": "SOXS",
+      "qty": 40,
+      "entryPrice": 51.86,
+      "exitPrice": 51.53,
+      "pnl": -13.199999999999932,
+      "pnlPct": -0.6363285769379065,
+      "openedAt": "2026-07-17T17:15:27.746Z",
+      "closedAt": "2026-07-17T17:17:03.759Z",
+      "side": "LONG",
+      "holdMinutes": 1.6002166666666666,
+      "overnight": false
+    },
+    {
+      "ticker": "SOXS",
+      "qty": 25,
+      "entryPrice": 52.61,
+      "exitPrice": 52.0102,
+      "pnl": -14.995000000000047,
+      "pnlPct": -1.1400874358487016,
+      "openedAt": "2026-07-17T17:00:13.17Z",
+      "closedAt": "2026-07-17T17:01:49.892Z",
+      "side": "LONG",
+      "holdMinutes": 1.6120333333333334,
+      "overnight": false
+    },
     {
       "ticker": "SOXL",
       "qty": 10,
@@ -113,84 +191,6 @@
       "closedAt": "2026-07-17T14:01:03.134Z",
       "side": "LONG",
       "holdMinutes": 18.979583333333334,
-      "overnight": false
-    },
-    {
-      "ticker": "SOXL",
-      "qty": 5,
-      "entryPrice": 120.35,
-      "exitPrice": 130,
-      "pnl": 48.25000000000003,
-      "pnlPct": 8.018280016618201,
-      "openedAt": "2026-07-17T13:38:27.79Z",
-      "closedAt": "2026-07-17T14:01:03.134Z",
-      "side": "LONG",
-      "holdMinutes": 22.589066666666668,
-      "overnight": false
-    },
-    {
-      "ticker": "SOXL",
-      "qty": 5,
-      "entryPrice": 120.35,
-      "exitPrice": 124.53,
-      "pnl": 20.900000000000034,
-      "pnlPct": 3.473203157457422,
-      "openedAt": "2026-07-17T13:38:27.79Z",
-      "closedAt": "2026-07-17T13:54:02.343Z",
-      "side": "LONG",
-      "holdMinutes": 15.575883333333334,
-      "overnight": false
-    },
-    {
-      "ticker": "AAPU",
-      "qty": 10,
-      "entryPrice": 45.97,
-      "exitPrice": 45.37,
-      "pnl": -6.000000000000014,
-      "pnlPct": -1.3051990428540383,
-      "openedAt": "2026-07-17T12:37:39.987Z",
-      "closedAt": "2026-07-17T13:28:20.8Z",
-      "side": "LONG",
-      "holdMinutes": 50.68021666666667,
-      "overnight": false
-    },
-    {
-      "ticker": "NUGT",
-      "qty": 20,
-      "entryPrice": 102.72,
-      "exitPrice": 101.6,
-      "pnl": -22.40000000000009,
-      "pnlPct": -1.0903426791277304,
-      "openedAt": "2026-07-17T04:45:34.007Z",
-      "closedAt": "2026-07-17T12:45:15.993Z",
-      "side": "LONG",
-      "holdMinutes": 479.6997666666667,
-      "overnight": false
-    },
-    {
-      "ticker": "SOXL",
-      "qty": 10,
-      "entryPrice": 136.44,
-      "exitPrice": 134.71,
-      "pnl": -17.299999999999898,
-      "pnlPct": -1.267956610964519,
-      "openedAt": "2026-07-17T03:34:47.931Z",
-      "closedAt": "2026-07-17T03:59:31.389Z",
-      "side": "LONG",
-      "holdMinutes": 24.7243,
-      "overnight": false
-    },
-    {
-      "ticker": "SOXL",
-      "qty": 10,
-      "entryPrice": 136.87,
-      "exitPrice": 134.71,
-      "pnl": -21.599999999999966,
-      "pnlPct": -1.5781398407247726,
-      "openedAt": "2026-07-17T03:33:54.413Z",
-      "closedAt": "2026-07-17T03:59:31.389Z",
-      "side": "LONG",
-      "holdMinutes": 25.616266666666668,
       "overnight": false
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T16:33:02.437Z",
+  "updatedAt": "2026-07-17T17:57:45.306Z",
   "openLots": 34,
   "trades": [
     {
@@ -7800,6 +7800,84 @@
       "closedAt": "2026-07-17T16:16:04.407Z",
       "side": "LONG",
       "holdMinutes": 45.75706666666667,
+      "overnight": false
+    },
+    {
+      "ticker": "SOXS",
+      "qty": 25,
+      "entryPrice": 52.61,
+      "exitPrice": 52.0102,
+      "pnl": -14.995000000000047,
+      "pnlPct": -1.1400874358487016,
+      "openedAt": "2026-07-17T17:00:13.17Z",
+      "closedAt": "2026-07-17T17:01:49.892Z",
+      "side": "LONG",
+      "holdMinutes": 1.6120333333333334,
+      "overnight": false
+    },
+    {
+      "ticker": "SOXS",
+      "qty": 40,
+      "entryPrice": 51.86,
+      "exitPrice": 51.53,
+      "pnl": -13.199999999999932,
+      "pnlPct": -0.6363285769379065,
+      "openedAt": "2026-07-17T17:15:27.746Z",
+      "closedAt": "2026-07-17T17:17:03.759Z",
+      "side": "LONG",
+      "holdMinutes": 1.6002166666666666,
+      "overnight": false
+    },
+    {
+      "ticker": "SOXS",
+      "qty": 39,
+      "entryPrice": 52.09,
+      "exitPrice": 51.67,
+      "pnl": -16.380000000000067,
+      "pnlPct": -0.8062967940103699,
+      "openedAt": "2026-07-17T17:21:34.553Z",
+      "closedAt": "2026-07-17T17:26:30.572Z",
+      "side": "LONG",
+      "holdMinutes": 4.93365,
+      "overnight": false
+    },
+    {
+      "ticker": "SOXS",
+      "qty": 1,
+      "entryPrice": 52.08,
+      "exitPrice": 51.67,
+      "pnl": -0.4099999999999966,
+      "pnlPct": -0.7872503840245711,
+      "openedAt": "2026-07-17T17:21:34.553Z",
+      "closedAt": "2026-07-17T17:26:30.572Z",
+      "side": "LONG",
+      "holdMinutes": 4.93365,
+      "overnight": false
+    },
+    {
+      "ticker": "SOXS",
+      "qty": 25,
+      "entryPrice": 51.78,
+      "exitPrice": 52.44,
+      "pnl": 16.499999999999915,
+      "pnlPct": 1.274623406720735,
+      "openedAt": "2026-07-17T17:33:08.11Z",
+      "closedAt": "2026-07-17T17:36:05.539Z",
+      "side": "LONG",
+      "holdMinutes": 2.95715,
+      "overnight": false
+    },
+    {
+      "ticker": "SOXS",
+      "qty": 25,
+      "entryPrice": 51.78,
+      "exitPrice": 53.46,
+      "pnl": 41.99999999999999,
+      "pnlPct": 3.2444959443800694,
+      "openedAt": "2026-07-17T17:33:08.11Z",
+      "closedAt": "2026-07-17T17:57:10.901Z",
+      "side": "LONG",
+      "holdMinutes": 24.046516666666665,
       "overnight": false
     }
   ]

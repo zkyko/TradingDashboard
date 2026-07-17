@@ -4,32 +4,32 @@
   "start": "2026-07-13",
   "end": "2026-07-20",
   "timeZone": "America/Chicago",
-  "updatedAt": "2026-07-17T16:33:04.921Z",
-  "realizedPnl": -5.773337898000193,
-  "tradeCount": 34,
-  "winCount": 12,
-  "lossCount": 22,
+  "updatedAt": "2026-07-17T17:57:49.179Z",
+  "realizedPnl": 7.7416621019996725,
+  "tradeCount": 40,
+  "winCount": 14,
+  "lossCount": 26,
   "priorWeekPnl": -59.642657961998076,
   "metrics": {
-    "tradeCount": 34,
-    "winCount": 12,
-    "lossCount": 22,
+    "tradeCount": 40,
+    "winCount": 14,
+    "lossCount": 26,
     "flatCount": 0,
-    "winRate": 0.35294117647058826,
-    "winPct": 35.294117647058826,
-    "profitFactor": 0.9912050112437842,
+    "winRate": 0.35,
+    "winPct": 35,
+    "profitFactor": 1.0110371286638926,
     "profitFactorInfinite": false,
-    "rewardRisk": 1.8172091872802711,
-    "expectancy": -0.16980405582353508,
-    "avgWin": 54.22180000000002,
-    "avgLoss": -29.83795172263638,
-    "avgLossAbs": 29.83795172263638,
-    "grossWin": 650.6616000000002,
-    "grossLoss": -656.4349378980004,
-    "realizedPnl": -5.773337898000193,
+    "rewardRisk": 1.8776403818043719,
+    "expectancy": 0.1935415525499918,
+    "avgWin": 50.65440000000001,
+    "avgLoss": -26.97768991915386,
+    "avgLossAbs": 26.97768991915386,
+    "grossWin": 709.1616000000001,
+    "grossLoss": -701.4199378980004,
+    "realizedPnl": 7.7416621019996725,
     "bestTrade": 167.25000000000009,
     "worstTrade": -203.99999999999991,
-    "avgHoldMinutes": 377.97525490196085,
+    "avgHoldMinutes": 322.2810470833334,
     "equityCurve": [
       {
         "t": "2026-07-13T19:13:27.001Z",
@@ -166,6 +166,30 @@
       {
         "t": "2026-07-17T16:16:04.407Z",
         "pnl": -5.773337898000193
+      },
+      {
+        "t": "2026-07-17T17:01:49.892Z",
+        "pnl": -20.76833789800024
+      },
+      {
+        "t": "2026-07-17T17:17:03.759Z",
+        "pnl": -33.96833789800017
+      },
+      {
+        "t": "2026-07-17T17:26:30.572Z",
+        "pnl": -50.34833789800024
+      },
+      {
+        "t": "2026-07-17T17:26:30.572Z",
+        "pnl": -50.758337898000235
+      },
+      {
+        "t": "2026-07-17T17:36:05.539Z",
+        "pnl": -34.25833789800032
+      },
+      {
+        "t": "2026-07-17T17:57:10.901Z",
+        "pnl": 7.7416621019996725
       }
     ]
   },
@@ -312,8 +336,8 @@
     {
       "date": "2026-07-17",
       "label": "Fri",
-      "pnl": 382.86800000000005,
-      "trades": 10
+      "pnl": 396.3829999999999,
+      "trades": 16
     }
   ],
   "byTicker": [
@@ -342,6 +366,12 @@
       "wins": 0
     },
     {
+      "ticker": "SOXS",
+      "pnl": 10.382999999999917,
+      "trades": 7,
+      "wins": 2
+    },
+    {
       "ticker": "NFXL",
       "pnl": 9.499999999999886,
       "trades": 1,
@@ -352,19 +382,13 @@
       "pnl": -6.000000000000014,
       "trades": 1,
       "wins": 0
-    },
-    {
-      "ticker": "SOXS",
-      "pnl": -3.131999999999948,
-      "trades": 1,
-      "wins": 0
     }
   ],
   "tilt": {
     "state": "overnight_hungover",
     "score": 80,
     "reasons": [
-      "Sub-15m scalps losing ($-41)",
+      "Sub-15m scalps losing ($-69)",
       "Overnight PnL $-258"
     ]
   },

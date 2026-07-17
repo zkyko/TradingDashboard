@@ -5,36 +5,36 @@
   "weekday": "Fri",
   "weekId": "2026-W29",
   "timeZone": "America/Chicago",
-  "updatedAt": "2026-07-17T16:33:04.819Z",
-  "realizedPnl": 382.86800000000005,
-  "tradeCount": 10,
-  "winCount": 7,
-  "lossCount": 3,
+  "updatedAt": "2026-07-17T17:57:48.961Z",
+  "realizedPnl": 396.3829999999999,
+  "tradeCount": 16,
+  "winCount": 9,
+  "lossCount": 7,
   "processGrades": {
-    "A": 5,
-    "B": 3,
-    "C": 2
+    "A": 6,
+    "B": 4,
+    "C": 6
   },
   "metrics": {
-    "tradeCount": 10,
-    "winCount": 7,
-    "lossCount": 3,
+    "tradeCount": 16,
+    "winCount": 9,
+    "lossCount": 7,
     "flatCount": 0,
-    "winRate": 0.7,
-    "winPct": 70,
-    "profitFactor": 13.142204744386635,
+    "winRate": 0.5625,
+    "winPct": 56.25,
+    "profitFactor": 6.180325940640634,
     "profitFactorInfinite": false,
-    "rewardRisk": 5.632373461879986,
-    "expectancy": 38.28680000000001,
-    "avgWin": 59.20000000000001,
-    "avgLoss": -10.510666666666685,
-    "avgLossAbs": 10.510666666666685,
-    "grossWin": 414.4000000000001,
-    "grossLoss": -31.532000000000053,
-    "realizedPnl": 382.86800000000005,
+    "rewardRisk": 4.8069201760538265,
+    "expectancy": 24.773937499999995,
+    "avgWin": 52.544444444444444,
+    "avgLoss": -10.931000000000013,
+    "avgLossAbs": 10.931000000000013,
+    "grossWin": 472.9,
+    "grossLoss": -76.5170000000001,
+    "realizedPnl": 396.3829999999999,
     "bestTrade": 109.20000000000016,
     "worstTrade": -22.40000000000009,
-    "avgHoldMinutes": 70.48189166666667,
+    "avgHoldMinutes": 46.556383333333336,
     "equityCurve": [
       {
         "t": "2026-07-17T12:45:15.993Z",
@@ -75,6 +75,30 @@
       {
         "t": "2026-07-17T16:16:04.407Z",
         "pnl": 382.86800000000005
+      },
+      {
+        "t": "2026-07-17T17:01:49.892Z",
+        "pnl": 367.873
+      },
+      {
+        "t": "2026-07-17T17:17:03.759Z",
+        "pnl": 354.67300000000006
+      },
+      {
+        "t": "2026-07-17T17:26:30.572Z",
+        "pnl": 338.293
+      },
+      {
+        "t": "2026-07-17T17:26:30.572Z",
+        "pnl": 337.88300000000004
+      },
+      {
+        "t": "2026-07-17T17:36:05.539Z",
+        "pnl": 354.3829999999999
+      },
+      {
+        "t": "2026-07-17T17:57:10.901Z",
+        "pnl": 396.3829999999999
       }
     ]
   },
@@ -92,14 +116,14 @@
       "wins": 0
     },
     {
-      "ticker": "AAPU",
-      "pnl": -6.000000000000014,
-      "trades": 1,
-      "wins": 0
+      "ticker": "SOXS",
+      "pnl": 10.382999999999917,
+      "trades": 7,
+      "wins": 2
     },
     {
-      "ticker": "SOXS",
-      "pnl": -3.131999999999948,
+      "ticker": "AAPU",
+      "pnl": -6.000000000000014,
       "trades": 1,
       "wins": 0
     }
@@ -213,6 +237,72 @@
       "openedAt": "2026-07-17T15:30:18.983Z",
       "closedAt": "2026-07-17T16:16:04.407Z",
       "holdMinutes": 45.75706666666667,
+      "overnight": false
+    },
+    {
+      "ticker": "SOXS",
+      "qty": 25,
+      "entryPrice": 52.61,
+      "exitPrice": 52.0102,
+      "pnl": -14.995000000000047,
+      "openedAt": "2026-07-17T17:00:13.17Z",
+      "closedAt": "2026-07-17T17:01:49.892Z",
+      "holdMinutes": 1.6120333333333334,
+      "overnight": false
+    },
+    {
+      "ticker": "SOXS",
+      "qty": 40,
+      "entryPrice": 51.86,
+      "exitPrice": 51.53,
+      "pnl": -13.199999999999932,
+      "openedAt": "2026-07-17T17:15:27.746Z",
+      "closedAt": "2026-07-17T17:17:03.759Z",
+      "holdMinutes": 1.6002166666666666,
+      "overnight": false
+    },
+    {
+      "ticker": "SOXS",
+      "qty": 39,
+      "entryPrice": 52.09,
+      "exitPrice": 51.67,
+      "pnl": -16.380000000000067,
+      "openedAt": "2026-07-17T17:21:34.553Z",
+      "closedAt": "2026-07-17T17:26:30.572Z",
+      "holdMinutes": 4.93365,
+      "overnight": false
+    },
+    {
+      "ticker": "SOXS",
+      "qty": 1,
+      "entryPrice": 52.08,
+      "exitPrice": 51.67,
+      "pnl": -0.4099999999999966,
+      "openedAt": "2026-07-17T17:21:34.553Z",
+      "closedAt": "2026-07-17T17:26:30.572Z",
+      "holdMinutes": 4.93365,
+      "overnight": false
+    },
+    {
+      "ticker": "SOXS",
+      "qty": 25,
+      "entryPrice": 51.78,
+      "exitPrice": 52.44,
+      "pnl": 16.499999999999915,
+      "openedAt": "2026-07-17T17:33:08.11Z",
+      "closedAt": "2026-07-17T17:36:05.539Z",
+      "holdMinutes": 2.95715,
+      "overnight": false
+    },
+    {
+      "ticker": "SOXS",
+      "qty": 25,
+      "entryPrice": 51.78,
+      "exitPrice": 53.46,
+      "pnl": 41.99999999999999,
+      "openedAt": "2026-07-17T17:33:08.11Z",
+      "closedAt": "2026-07-17T17:57:10.901Z",
+      "holdMinutes": 24.046516666666665,
       "overnight": false
     }
   ],
@@ -443,13 +533,156 @@
       "whatWorked": "Held past noise. Matches your positive-EV hold window.",
       "whatFailed": "",
       "nextTime": "Repeat only if entry/invalidation were written first."
+    },
+    {
+      "ticker": "SOXS",
+      "qty": 25,
+      "entryPrice": 52.61,
+      "exitPrice": 52.0102,
+      "pnl": -14.995000000000047,
+      "openedAt": "2026-07-17T17:00:13.17Z",
+      "closedAt": "2026-07-17T17:01:49.892Z",
+      "holdMinutes": 1.6120333333333334,
+      "overnight": false,
+      "holdBucket": "sub_15m",
+      "grade": "B",
+      "flags": [
+        "losing_scratch",
+        "high_frequency_day"
+      ],
+      "movePts": 0.5998000000000019,
+      "notional": 1315.25,
+      "review": "sub 15m · 2m · 0.60 pts · Flags: losing_scratch, high_frequency_day · Neutral process.",
+      "whatWorked": "",
+      "whatFailed": "Scratch/chop — no edge proven.",
+      "nextTime": "Default to ≥15m hold or stand down — your sub-15m sample is negative EV."
+    },
+    {
+      "ticker": "SOXS",
+      "qty": 40,
+      "entryPrice": 51.86,
+      "exitPrice": 51.53,
+      "pnl": -13.199999999999932,
+      "openedAt": "2026-07-17T17:15:27.746Z",
+      "closedAt": "2026-07-17T17:17:03.759Z",
+      "holdMinutes": 1.6002166666666666,
+      "overnight": false,
+      "holdBucket": "sub_15m",
+      "grade": "C",
+      "flags": [
+        "losing_scratch",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 0.3299999999999983,
+      "notional": 2074.4,
+      "review": "sub 15m · 2m · 0.33 pts · Flags: losing_scratch, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "SOXS",
+      "qty": 39,
+      "entryPrice": 52.09,
+      "exitPrice": 51.67,
+      "pnl": -16.380000000000067,
+      "openedAt": "2026-07-17T17:21:34.553Z",
+      "closedAt": "2026-07-17T17:26:30.572Z",
+      "holdMinutes": 4.93365,
+      "overnight": false,
+      "holdBucket": "sub_15m",
+      "grade": "C",
+      "flags": [
+        "losing_scratch",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 0.4200000000000017,
+      "notional": 2031.5100000000002,
+      "review": "sub 15m · 5m · 0.42 pts · Flags: losing_scratch, after_loss_streak, high_frequency_day · Chop after losses — consistency cost, not information.",
+      "whatWorked": "",
+      "whatFailed": "Chop after losses — consistency cost, not information.",
+      "nextTime": "Default to ≥15m hold or stand down — your sub-15m sample is negative EV."
+    },
+    {
+      "ticker": "SOXS",
+      "qty": 1,
+      "entryPrice": 52.08,
+      "exitPrice": 51.67,
+      "pnl": -0.4099999999999966,
+      "openedAt": "2026-07-17T17:21:34.553Z",
+      "closedAt": "2026-07-17T17:26:30.572Z",
+      "holdMinutes": 4.93365,
+      "overnight": false,
+      "holdBucket": "sub_15m",
+      "grade": "C",
+      "flags": [
+        "losing_scratch",
+        "after_loss_streak",
+        "high_frequency_day"
+      ],
+      "movePts": 0.4099999999999966,
+      "notional": 52.08,
+      "review": "sub 15m · 5m · 0.41 pts · Flags: losing_scratch, after_loss_streak, high_frequency_day · Chop after losses — consistency cost, not information.",
+      "whatWorked": "",
+      "whatFailed": "Chop after losses — consistency cost, not information.",
+      "nextTime": "Default to ≥15m hold or stand down — your sub-15m sample is negative EV."
+    },
+    {
+      "ticker": "SOXS",
+      "qty": 25,
+      "entryPrice": 51.78,
+      "exitPrice": 52.44,
+      "pnl": 16.499999999999915,
+      "openedAt": "2026-07-17T17:33:08.11Z",
+      "closedAt": "2026-07-17T17:36:05.539Z",
+      "holdMinutes": 2.95715,
+      "overnight": false,
+      "holdBucket": "sub_15m",
+      "grade": "C",
+      "flags": [
+        "fast_win",
+        "after_loss_streak",
+        "high_frequency_day",
+        "size_up_after_loss"
+      ],
+      "movePts": 0.6599999999999966,
+      "notional": 1294.5,
+      "review": "sub 15m · 3m · 0.66 pts · Flags: fast_win, after_loss_streak, high_frequency_day, size_up_after_loss · Process break: risk expanded when discipline usually fails.",
+      "whatWorked": "",
+      "whatFailed": "Process break: risk expanded when discipline usually fails.",
+      "nextTime": "Same size after a loser. Size is earned by streaks of rule-following, not by P&L chase."
+    },
+    {
+      "ticker": "SOXS",
+      "qty": 25,
+      "entryPrice": 51.78,
+      "exitPrice": 53.46,
+      "pnl": 41.99999999999999,
+      "openedAt": "2026-07-17T17:33:08.11Z",
+      "closedAt": "2026-07-17T17:57:10.901Z",
+      "holdMinutes": 24.046516666666665,
+      "overnight": false,
+      "holdBucket": "m15_60",
+      "grade": "A",
+      "flags": [
+        "gave_room",
+        "high_frequency_day"
+      ],
+      "movePts": 1.6799999999999997,
+      "notional": 1294.5,
+      "review": "m15 60 · 24m · 1.68 pts · Flags: gave_room, high_frequency_day · Held past noise. Matches your positive-EV hold window.",
+      "whatWorked": "Held past noise. Matches your positive-EV hold window.",
+      "whatFailed": "",
+      "nextTime": "Repeat only if entry/invalidation were written first."
     }
   ],
   "tilt": {
-    "state": "calm",
-    "score": 0,
+    "state": "chopping",
+    "score": 55,
     "reasons": [
-      "No active tilt flags in recent tape"
+      "Sub-15m scalps losing ($-32)"
     ]
   },
   "streaks": {
@@ -458,7 +691,7 @@
       "length": 2
     },
     "maxWin": 5,
-    "maxLoss": 2
+    "maxLoss": 4
   },
   "keep": [
     "Bounce ladders on SOXL weakness",

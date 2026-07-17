@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T16:33:08.276Z",
+  "updatedAt": "2026-07-17T17:57:53.920Z",
   "timeZone": "America/Chicago",
   "months": [
     {
@@ -90,14 +90,14 @@
           "date": "2026-07-17",
           "weekday": "Fri",
           "weekId": "2026-W29",
-          "realizedPnl": 382.86800000000005,
-          "tradeCount": 10,
+          "realizedPnl": 396.3829999999999,
+          "tradeCount": 16,
           "lesson": "Friday bounce recovered SOXL week; overnight CONL still the real damage.",
           "hasNotes": true
         }
       ],
-      "realizedPnl": -82.92410230339334,
-      "tradeCount": 90
+      "realizedPnl": -69.40910230339347,
+      "tradeCount": 96
     },
     {
       "month": "2026-06",

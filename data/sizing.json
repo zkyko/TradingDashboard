@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-17T16:33:02.438Z",
-  "equity": 3864.2445346813884,
+  "updatedAt": "2026-07-17T17:57:45.309Z",
+  "equity": 3881.1369556371365,
   "assumptions": {
     "accountNote": "User: ~$2k risk book, trying ~$10 moves on SOXL",
     "targetPts": 10,
@@ -68,7 +68,7 @@
   "stance": "size_down_or_hold",
   "headline": "Do not size up — typical 7 sh is already above the 3 sh consistency cap.",
   "guidance": [
-    "For ~$3864 equity and a ~$10/share SOXL stop, 1% risk ⇒ ~3 shares. You are averaging ~7.",
+    "For ~$3881 equity and a ~$10/share SOXL stop, 1% risk ⇒ ~3 shares. You are averaging ~7.",
     "Growth path: trade A-setups at ≤3–5 sh until process weeks clear, then +1–2 shares.",
     ">15m SOXL is the engine ($352); ≤15m is a drag ($-73). Only size the first.",
     "Unbiased rule: size follows measured edge + rule adherence, never a green day or a $10 target fantasy."

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T16:33:02.434Z",
+  "updatedAt": "2026-07-17T17:57:45.305Z",
   "fills": [
     {
       "id": "700bddf9-b4d7-400c-94ff-73822069ddba",
@@ -6456,6 +6456,86 @@
       "quantity": 10,
       "price": 141.37,
       "executedAt": "2026-07-17T16:16:04.407Z"
+    },
+    {
+      "id": "6a5a5f9d-b9c6-4d84-a8a8-bed8cd467c7f",
+      "ticker": "SOXS",
+      "side": "BUY",
+      "quantity": 25,
+      "price": 52.61,
+      "executedAt": "2026-07-17T17:00:13.17Z"
+    },
+    {
+      "id": "6a5a5ffd-2494-40e3-98da-ce55448979e9",
+      "ticker": "SOXS",
+      "side": "SELL",
+      "quantity": 25,
+      "price": 52.0102,
+      "executedAt": "2026-07-17T17:01:49.892Z"
+    },
+    {
+      "id": "6a5a632f-9bc2-4fd8-8359-9f801dd641d1",
+      "ticker": "SOXS",
+      "side": "BUY",
+      "quantity": 40,
+      "price": 51.86,
+      "executedAt": "2026-07-17T17:15:27.746Z"
+    },
+    {
+      "id": "6a5a638f-3363-4bb1-8748-6d9f79d729e8",
+      "ticker": "SOXS",
+      "side": "SELL",
+      "quantity": 40,
+      "price": 51.53,
+      "executedAt": "2026-07-17T17:17:03.759Z"
+    },
+    {
+      "id": "6a5a649e-b447-4f55-9461-8ba2051cfef3",
+      "ticker": "SOXS",
+      "side": "BUY",
+      "quantity": 39,
+      "price": 52.09,
+      "executedAt": "2026-07-17T17:21:34.553Z"
+    },
+    {
+      "id": "6a5a649e-cd49-4038-841b-ac9288a33dc9",
+      "ticker": "SOXS",
+      "side": "BUY",
+      "quantity": 1,
+      "price": 52.08,
+      "executedAt": "2026-07-17T17:21:34.553Z"
+    },
+    {
+      "id": "6a5a65c6-bb0e-4650-a377-2ac8ada7bea4",
+      "ticker": "SOXS",
+      "side": "SELL",
+      "quantity": 40,
+      "price": 51.67,
+      "executedAt": "2026-07-17T17:26:30.572Z"
+    },
+    {
+      "id": "6a5a6754-f513-447d-ae05-8a17a49ce323",
+      "ticker": "SOXS",
+      "side": "BUY",
+      "quantity": 50,
+      "price": 51.78,
+      "executedAt": "2026-07-17T17:33:08.11Z"
+    },
+    {
+      "id": "6a5a6805-fc4f-4ff3-92bb-9d370d39f9ad",
+      "ticker": "SOXS",
+      "side": "SELL",
+      "quantity": 25,
+      "price": 52.44,
+      "executedAt": "2026-07-17T17:36:05.539Z"
+    },
+    {
+      "id": "6a5a6cf6-00e5-4b4b-9d52-f35e87f78658",
+      "ticker": "SOXS",
+      "side": "SELL",
+      "quantity": 25,
+      "price": 53.46,
+      "executedAt": "2026-07-17T17:57:10.901Z"
     }
   ]
 }

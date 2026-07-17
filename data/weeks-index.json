@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-07-17T16:33:08.276Z",
+  "updatedAt": "2026-07-17T17:57:53.920Z",
   "weeks": [
     {
       "id": "2026-W29",
       "label": "Jul 13 – Jul 17, 2026",
       "start": "2026-07-13",
       "end": "2026-07-20",
-      "realizedPnl": -5.773337898000193,
-      "tradeCount": 34,
-      "winRate": 0.35294117647058826,
-      "winPct": 35.294117647058826,
-      "profitFactor": 0.9912050112437842,
-      "rewardRisk": 1.8172091872802711,
-      "expectancy": -0.16980405582353508,
+      "realizedPnl": 7.7416621019996725,
+      "tradeCount": 40,
+      "winRate": 0.35,
+      "winPct": 35,
+      "profitFactor": 1.0110371286638926,
+      "rewardRisk": 1.8776403818043719,
+      "expectancy": 0.1935415525499918,
       "lesson": "SOXL skill is fine; overnight revenge size (CONL) and Wed size escalation erased the week.",
       "hasNotes": true
     },
