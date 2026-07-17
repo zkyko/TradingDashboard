@@ -2,6 +2,7 @@ import Link from "next/link";
 import { money, pnlClass } from "@/lib/review/format";
 import { localePath } from "@/lib/locale";
 import type { WeeksIndexFile } from "@/lib/review/types";
+import DashHeader from "@/app/components/DashHeader";
 
 export default function HistoryView({
   weeks,
@@ -11,35 +12,63 @@ export default function HistoryView({
   locale: string;
 }) {
   return (
-    <div className="review-page">
-      <header className="review-hero">
-        <p className="review-eyebrow">Archive</p>
-        <h1>Past weeks</h1>
-        <p className="review-lede">Lessons stack. Open a week to re-read the contract you made with yourself.</p>
-      </header>
+    <div className="space-y-4 sm:space-y-5">
+      <DashHeader
+        title="Weeks"
+        subtitle="Weekly reviews with lessons and process notes."
+      />
 
       {!weeks.weeks.length ? (
-        <p className="muted">No weeks yet — run <code>npm run sync:agent</code>.</p>
+        <div className="card bg-base-200 border border-base-300">
+          <div className="card-body">
+            <p className="opacity-60">
+              No weeks yet — run <code className="font-mono text-xs">npm run sync:rh</code>.
+            </p>
+          </div>
+        </div>
       ) : (
-        <ul className="history-list">
-          {weeks.weeks.map((w) => (
-            <li key={w.id}>
-              <Link href={localePath(locale, `/history/${w.id}`)} className="history-card">
-                <div>
-                  <strong>{w.label || w.id}</strong>
-                  <span className="muted">
-                    {w.id}
-                    {w.winPct != null ? ` · WR ${w.winPct.toFixed(0)}%` : ""}
-                    {w.profitFactor != null ? ` · PF ${w.profitFactor.toFixed(2)}` : ""}
-                    {w.rewardRisk != null ? ` · R:R ${w.rewardRisk.toFixed(2)}` : ""}
-                  </span>
-                </div>
-                <strong className={pnlClass(w.realizedPnl)}>{money(w.realizedPnl, 0)}</strong>
-                <p>{w.lesson || "No lesson written yet."}</p>
-              </Link>
-            </li>
-          ))}
-        </ul>
+        <section className="card bg-base-200 border border-base-300 shadow-sm">
+          <div className="card-body p-0 sm:p-0">
+            <div className="overflow-x-auto">
+              <table className="table">
+                <thead>
+                  <tr>
+                    <th>Week</th>
+                    <th>Lesson</th>
+                    <th>WR</th>
+                    <th>PF</th>
+                    <th>R:R</th>
+                    <th className="text-right">PnL</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {weeks.weeks.map((w) => (
+                    <tr key={w.id} className="hover">
+                      <td>
+                        <Link
+                          href={localePath(locale, `/history/${w.id}`)}
+                          className="link link-hover font-semibold"
+                        >
+                          {w.label || w.id}
+                        </Link>
+                        <div className="text-xs opacity-50">{w.id}</div>
+                      </td>
+                      <td className="max-w-md text-sm opacity-80">
+                        {w.lesson || "No lesson written yet."}
+                      </td>
+                      <td>{w.winPct != null ? `${w.winPct.toFixed(0)}%` : "—"}</td>
+                      <td>{w.profitFactor != null ? w.profitFactor.toFixed(2) : "—"}</td>
+                      <td>{w.rewardRisk != null ? w.rewardRisk.toFixed(2) : "—"}</td>
+                      <td className={`text-right font-semibold ${pnlClass(w.realizedPnl)}`}>
+                        {money(w.realizedPnl, 0)}
+                      </td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </section>
       )}
     </div>
   );

@@ -1,5 +1,5 @@
 export default {
-  "nav.calendar": "Calendar",
+  "nav.calendar": "Dashboard",
   "nav.growth": "Growth",
   "nav.journal": "Journal",
   "nav.history": "Weeks",

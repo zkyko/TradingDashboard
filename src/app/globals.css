@@ -1033,20 +1033,20 @@ textarea { min-height: 88px; resize: vertical; }
   text-transform: uppercase;
 }
 .cal-cell {
-  min-height: 84px;
+  min-height: 72px;
   border: 1px solid var(--border);
-  border-radius: 12px;
-  padding: 10px;
+  border-radius: 0.75rem;
+  padding: 8px;
   display: grid;
   align-content: start;
   gap: 4px;
-  background: var(--panel-soft);
+  background: color-mix(in oklab, var(--color-base-100) 70%, transparent);
   transition: transform 160ms ease, box-shadow 160ms ease, border-color 160ms ease;
 }
 .cal-cell:not(.empty):hover {
-  transform: translateY(-2px);
+  transform: translateY(-1px);
   box-shadow: var(--shadow-soft);
-  border-color: rgba(15, 118, 110, 0.28);
+  border-color: color-mix(in oklab, var(--color-primary) 35%, var(--border));
 }
 .cal-cell.empty { border-color: transparent; background: transparent; }
 .cal-cell.muted-cell { opacity: 0.45; }
