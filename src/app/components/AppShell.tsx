@@ -5,6 +5,7 @@ import { usePathname } from "next/navigation";
 import { useI18n, useCurrentLocale } from "@/locales/client";
 import TerminalClock from "@/app/components/TerminalClock";
 import ThemeToggle from "@/app/components/ThemeToggle";
+import { ReminderMobile, ReminderSidebar } from "@/app/components/ReminderRail";
 import { localePath } from "@/lib/locale";
 
 const NAV = [
@@ -137,7 +138,15 @@ export default function AppShell({ children }: { children: React.ReactNode }) {
           </div>
         </header>
 
-        <main className="flex-1 p-3 sm:p-5 lg:p-6">{children}</main>
+        <main className="flex-1 p-3 sm:p-5 lg:p-6">
+          <div className="mx-auto max-w-[1400px] flex flex-col xl:flex-row xl:items-start xl:gap-5">
+            <div className="min-w-0 flex-1">
+              <ReminderMobile />
+              {children}
+            </div>
+            <ReminderSidebar />
+          </div>
+        </main>
       </div>
 
       <div className="drawer-side z-40">

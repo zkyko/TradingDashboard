@@ -1,0 +1,47 @@
+{
+  "updatedAt": "2026-07-17T20:20:00.000Z",
+  "cards": [
+    {
+      "id": "risk",
+      "tone": "danger",
+      "title": "Risk 1–2%",
+      "body": "Max loss per trade = 1–2% of equity. On ~$3.9k that’s ~$40–$80 to the stop — not “bet the farm” on margin.",
+      "source": "Dr. David Paul / Ralph Vince"
+    },
+    {
+      "id": "clusters",
+      "tone": "warning",
+      "title": "Survive the clusters",
+      "body": "Even a 50% system gets 3 losers in a row often. First job is stay alive through the bad run — not avenge it.",
+      "source": "Dr. David Paul"
+    },
+    {
+      "id": "euphoria",
+      "tone": "warning",
+      "title": "Wins can kill you",
+      "body": "After 1–3 winners you feel invincible and size up. That’s when most blow up — not only after losers.",
+      "source": "Dr. David Paul"
+    },
+    {
+      "id": "edge",
+      "tone": "success",
+      "title": "Your edge band",
+      "body": "SOXL / SOXS · hold 15–60m (same-day runner OK). Sub-15m scalps and random overnight names are off-plan.",
+      "source": "Your tape (W29→)"
+    },
+    {
+      "id": "no-trade",
+      "tone": "info",
+      "title": "No trade is a trade",
+      "body": "Weekly deposits + selective entries compound. Forcing day-trade volume is what cooks you.",
+      "source": "Process"
+    },
+    {
+      "id": "office",
+      "tone": "neutral",
+      "title": "Office mode",
+      "body": "Apartment = desk only. No sleep. In = market. Flat = leave. Bed is not the trading floor.",
+      "source": "You"
+    }
+  ]
+}
