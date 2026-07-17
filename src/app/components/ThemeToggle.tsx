@@ -46,6 +46,7 @@ export default function ThemeToggle() {
       <input
         type="checkbox"
         className="theme-controller"
+        value="light"
         checked={ready ? theme === "light" : false}
         onChange={toggle}
         aria-label="Toggle light and dark theme"
