@@ -1,5 +1,7 @@
 import Link from "next/link";
 
+const base = process.env.NEXT_PUBLIC_BASE_PATH || "";
+
 /** Static hosting root — jump into the default locale. */
 export default function RootPage() {
   return (
@@ -11,7 +13,7 @@ export default function RootPage() {
       </p>
       <script
         dangerouslySetInnerHTML={{
-          __html: "try{location.replace('/en/')}catch(e){}",
+          __html: `try{location.replace(${JSON.stringify(`${base}/en/`)})}catch(e){}`,
         }}
       />
     </main>
