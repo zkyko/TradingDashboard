@@ -42,6 +42,17 @@ const NAV = [
     ),
   },
   {
+    href: "/practice",
+    key: "nav.practice" as const,
+    group: "Account",
+    icon: (
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" className="size-4.5">
+        <circle cx="12" cy="12" r="9" />
+        <path d="M12 7v5l3 2" />
+      </svg>
+    ),
+  },
+  {
     href: "/journal",
     key: "nav.journal" as const,
     group: "Notes",
@@ -59,6 +70,7 @@ function pageMeta(pathname: string, locale: string) {
   const base = `/${locale}`;
   if (path === base || path === `${base}/`) return { title: "Dashboard", crumbs: ["Review", "Dashboard"] };
   if (path.startsWith(`${base}/growth`)) return { title: "Growth", crumbs: ["Account", "Growth"] };
+  if (path.startsWith(`${base}/practice`)) return { title: "Practice", crumbs: ["Account", "Practice"] };
   if (path.startsWith(`${base}/journal`)) return { title: "Journal", crumbs: ["Notes", "Journal"] };
   if (path.startsWith(`${base}/history`)) return { title: "Weeks", crumbs: ["Review", "Weeks"] };
   if (path.startsWith(`${base}/day/`)) return { title: "Day review", crumbs: ["Review", "Day"] };

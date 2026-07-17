@@ -1,6 +1,7 @@
 export default {
   "nav.calendar": "Dashboard",
   "nav.growth": "Growth",
+  "nav.practice": "Practice",
   "nav.journal": "Journal",
   "nav.history": "Weeks",
   "nav.language": "Language",
