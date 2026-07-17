@@ -6,6 +6,7 @@ import {
   loadLatestWeek,
   loadMetricsForward,
   loadSizing,
+  loadTrades,
   loadWeeksIndex,
 } from "@/lib/review/load";
 
