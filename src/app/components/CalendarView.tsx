@@ -4,12 +4,13 @@ import { useMemo, useState } from "react";
 import Link from "next/link";
 import { money, pnlClass, tiltLabel } from "@/lib/review/format";
 import { localePath } from "@/lib/locale";
-import type { CalendarIndexFile, DaySummary, MetricsForwardFile, SizingFile, WeekReviewFile, WeeksIndexFile } from "@/lib/review/types";
+import type { CalendarIndexFile, DaySummary, MetricsForwardFile, SizingFile, WeekReviewFile, WeeksIndexFile, EarningsWeekFile } from "@/lib/review/types";
 import type { GoalPlan } from "@/lib/review/goal";
 import type { EdgeProfile } from "@/lib/review/edge";
 import SizingCard from "@/app/components/SizingCard";
 import GoalProgress from "@/app/components/GoalProgress";
 import EdgeProfileCard from "@/app/components/EdgeProfile";
+import EarningsWeekCard from "@/app/components/EarningsWeekCard";
 import { ForwardMetricsBoard } from "@/app/components/MetricsBoard";
 import DashHeader, { StatCard } from "@/app/components/DashHeader";
 
@@ -54,6 +55,7 @@ export default function CalendarView({
   forward,
   goal,
   edge,
+  earnings,
 }: {
   calendar: CalendarIndexFile;
   weeks: WeeksIndexFile;
@@ -63,6 +65,7 @@ export default function CalendarView({
   forward: MetricsForwardFile;
   goal: GoalPlan;
   edge: EdgeProfile;
+  earnings: EarningsWeekFile;
 }) {
   const months = calendar.months;
   const [activeMonth, setActiveMonth] = useState(
@@ -299,6 +302,8 @@ export default function CalendarView({
           </div>
         </section>
       </div>
+
+      <EarningsWeekCard earnings={earnings} />
 
       <GoalProgress goal={goal} />
 

@@ -291,3 +291,24 @@ export type JournalEntryMeta = JournalFrontmatter & {
   slug: string;
   path: string;
 };
+
+export type EarningsName = {
+  ticker: string;
+  name: string;
+};
+
+export type EarningsDay = {
+  date: string;
+  weekday: string;
+  beforeOpen: EarningsName[];
+  afterClose: EarningsName[];
+};
+
+export type EarningsWeekFile = {
+  updatedAt: string;
+  source: string;
+  sourceUrl: string;
+  weekOf: string;
+  label: string;
+  days: EarningsDay[];
+};

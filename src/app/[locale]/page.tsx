@@ -9,6 +9,7 @@ import {
   loadSizing,
   loadTrades,
   loadWeeksIndex,
+  loadEarningsWeek,
 } from "@/lib/review/load";
 
 const FORWARD_FROM = "2026-07-13T00:00:00.000Z";
@@ -40,6 +41,7 @@ export default async function HomePage({
         fromIso: FORWARD_FROM,
       })}
       edge={buildEdgeProfile(trades.trades, { fromIso: FORWARD_FROM })}
+      earnings={loadEarningsWeek()}
     />
   );
 }

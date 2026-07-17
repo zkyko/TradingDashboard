@@ -1,0 +1,132 @@
+{
+  "updatedAt": "2026-07-17T19:40:00.000Z",
+  "source": "Earnings Whispers",
+  "sourceUrl": "http://eps.sh/cal",
+  "weekOf": "2026-07-20",
+  "label": "Most anticipated earnings — week of Jul 20, 2026",
+  "days": [
+    {
+      "date": "2026-07-20",
+      "weekday": "Monday",
+      "beforeOpen": [
+        { "ticker": "AMC", "name": "AMC" },
+        { "ticker": "DPZ", "name": "Domino's" },
+        { "ticker": "RYAAY", "name": "Ryanair" },
+        { "ticker": "SMBK", "name": "SmartBank" }
+      ],
+      "afterClose": [
+        { "ticker": "CCK", "name": "Crown" },
+        { "ticker": "BOKF", "name": "BOK Financial" },
+        { "ticker": "STLD", "name": "Steel Dynamics" },
+        { "ticker": "WRB", "name": "Berkley" },
+        { "ticker": "ZION", "name": "Zions" },
+        { "ticker": "CALX", "name": "Calix" },
+        { "ticker": "WASH", "name": "Washington Trust" },
+        { "ticker": "WTFC", "name": "Wintrust" },
+        { "ticker": "AGNC", "name": "AGNC" },
+        { "ticker": "MCRI", "name": "Monarch" }
+      ]
+    },
+    {
+      "date": "2026-07-21",
+      "weekday": "Tuesday",
+      "beforeOpen": [
+        { "ticker": "HAL", "name": "Halliburton" },
+        { "ticker": "VICR", "name": "Vicor" },
+        { "ticker": "ALLY", "name": "Ally" },
+        { "ticker": "DHI", "name": "D.R. Horton" },
+        { "ticker": "DHR", "name": "Danaher" },
+        { "ticker": "SCHW", "name": "Charles Schwab" },
+        { "ticker": "GM", "name": "GM" },
+        { "ticker": "MMM", "name": "3M" },
+        { "ticker": "VMI", "name": "Valmont" },
+        { "ticker": "MSCI", "name": "MSCI" }
+      ],
+      "afterClose": [
+        { "ticker": "ALK", "name": "Alaska Airlines" },
+        { "ticker": "EWBC", "name": "East West Bank" },
+        { "ticker": "NLY", "name": "Annaly" },
+        { "ticker": "AIR", "name": "AAR" },
+        { "ticker": "EQT", "name": "EQT" },
+        { "ticker": "RRC", "name": "Range Resources" },
+        { "ticker": "NPB", "name": "Northpointe" },
+        { "ticker": "WAL", "name": "Western Alliance" },
+        { "ticker": "PEGA", "name": "Pega" },
+        { "ticker": "HWC", "name": "Hancock Whitney" }
+      ]
+    },
+    {
+      "date": "2026-07-22",
+      "weekday": "Wednesday",
+      "beforeOpen": [
+        { "ticker": "GEV", "name": "GE Vernova" },
+        { "ticker": "T", "name": "AT&T" },
+        { "ticker": "PM", "name": "Philip Morris" },
+        { "ticker": "TNL", "name": "Travel + Leisure" },
+        { "ticker": "WAB", "name": "Wabtec" },
+        { "ticker": "TEL", "name": "TE Connectivity" },
+        { "ticker": "PHM", "name": "PulteGroup" },
+        { "ticker": "IRDM", "name": "Iridium" },
+        { "ticker": "MCO", "name": "Moody's" },
+        { "ticker": "FBP", "name": "1 First Bank" }
+      ],
+      "afterClose": [
+        { "ticker": "TSLA", "name": "Tesla" },
+        { "ticker": "GOOGL", "name": "Alphabet" },
+        { "ticker": "NOW", "name": "ServiceNow" },
+        { "ticker": "IBM", "name": "IBM" },
+        { "ticker": "TXN", "name": "Texas Instruments" },
+        { "ticker": "KMI", "name": "Kinder Morgan" },
+        { "ticker": "TCBI", "name": "Texas Capital" },
+        { "ticker": "SLG", "name": "SL Green" },
+        { "ticker": "CCI", "name": "Crown Castle" },
+        { "ticker": "CSX", "name": "CSX" }
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "weekday": "Thursday",
+      "beforeOpen": [
+        { "ticker": "NOK", "name": "Nokia" },
+        { "ticker": "CLF", "name": "Cliffs" },
+        { "ticker": "AAL", "name": "American Airlines" },
+        { "ticker": "HBAN", "name": "Huntington" },
+        { "ticker": "FCX", "name": "Freeport" },
+        { "ticker": "STM", "name": "ST" },
+        { "ticker": "BX", "name": "Blackstone" },
+        { "ticker": "CX", "name": "Cemex" },
+        { "ticker": "LMT", "name": "Lockheed Martin" },
+        { "ticker": "TSCO", "name": "Tractor Supply" }
+      ],
+      "afterClose": [
+        { "ticker": "INTC", "name": "Intel" },
+        { "ticker": "MXL", "name": "MXL" },
+        { "ticker": "DECK", "name": "Deckers" },
+        { "ticker": "NEM", "name": "Newmont" },
+        { "ticker": "COLB", "name": "Columbia Bank" },
+        { "ticker": "BYD", "name": "Boyd" },
+        { "ticker": "SLM", "name": "Sallie Mae" },
+        { "ticker": "SAM", "name": "Boston Beer" },
+        { "ticker": "RNG", "name": "RingCentral" },
+        { "ticker": "JAKK", "name": "Jakks Pacific" }
+      ]
+    },
+    {
+      "date": "2026-07-24",
+      "weekday": "Friday",
+      "beforeOpen": [
+        { "ticker": "VZ", "name": "Verizon" },
+        { "ticker": "CHTR", "name": "Charter" },
+        { "ticker": "AXP", "name": "American Express" },
+        { "ticker": "NEE", "name": "NextEra" },
+        { "ticker": "CNI", "name": "CN" },
+        { "ticker": "BAH", "name": "Booz Allen" },
+        { "ticker": "LW", "name": "Lamb Weston" },
+        { "ticker": "SLB", "name": "SLB" },
+        { "ticker": "HCA", "name": "HCA" },
+        { "ticker": "CPF", "name": "Central Pacific" }
+      ],
+      "afterClose": []
+    }
+  ]
+}

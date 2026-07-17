@@ -11,6 +11,7 @@ import type {
   TradesFile,
   WeekReviewFile,
   WeeksIndexFile,
+  EarningsWeekFile,
 } from "./types";
 
 const ROOT = process.cwd();
@@ -155,6 +156,17 @@ export function loadMetricsForward(): import("./types").MetricsForwardFile {
       avgHoldMinutes: null,
     },
     weeks: [],
+  });
+}
+
+export function loadEarningsWeek(): EarningsWeekFile {
+  return readJson(path.join(dataDir(), "earnings-week.json"), {
+    updatedAt: "",
+    source: "Earnings Whispers",
+    sourceUrl: "http://eps.sh/cal",
+    weekOf: "",
+    label: "Earnings calendar",
+    days: [],
   });
 }
 
