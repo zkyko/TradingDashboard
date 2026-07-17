@@ -50,9 +50,6 @@ export function MetricsGrid({
             <h3 className="font-bold tracking-tight">{title}</h3>
             {subtitle ? <p className="text-xs opacity-50">{subtitle}</p> : null}
           </div>
-          <div className={`badge badge-lg font-bold ${metrics.realizedPnl >= 0 ? "badge-success" : "badge-error"}`}>
-            Net {money(metrics.realizedPnl, 0)}
-          </div>
         </div>
 
         <div className="stats stats-vertical lg:stats-horizontal w-full bg-base-100 border border-base-300 shadow-none">
@@ -83,14 +80,16 @@ export function MetricsGrid({
             <div className={`stat-value text-2xl ${pnlClass(metrics.expectancy ?? 0)}`}>
               {metrics.expectancy == null ? "—" : money(metrics.expectancy, 2)}
             </div>
-            <div className="stat-desc">per close</div>
+            <div className="stat-desc">
+              per close · net {money(metrics.realizedPnl, 0)}
+            </div>
           </div>
         </div>
 
         <div className="grid gap-3 sm:grid-cols-3">
           <div className="rounded-box border border-base-300 bg-base-100 p-3">
             <div className="mb-2 flex items-center justify-between text-xs">
-              <span className="opacity-60">Win %</span>
+              <span className="opacity-60">Win rate vs 50%</span>
               <span className="font-bold">{fmtPct(metrics.winPct)}</span>
             </div>
             <progress
@@ -98,11 +97,10 @@ export function MetricsGrid({
               value={winPct}
               max={100}
             />
-            <p className="mt-2 text-[11px] opacity-50">Target ≥ 50% with positive R:R</p>
           </div>
           <div className="rounded-box border border-base-300 bg-base-100 p-3">
             <div className="mb-2 flex items-center justify-between text-xs">
-              <span className="opacity-60">Profit factor</span>
+              <span className="opacity-60">PF vs 3.0</span>
               <span className={`font-bold ${toneClass(pf)}`}>{pfDisplay}</span>
             </div>
             <progress
@@ -110,11 +108,10 @@ export function MetricsGrid({
               value={pfNorm}
               max={100}
             />
-            <p className="mt-2 text-[11px] opacity-50">Scale marks 0 → 3.0</p>
           </div>
           <div className="rounded-box border border-base-300 bg-base-100 p-3">
             <div className="mb-2 flex items-center justify-between text-xs">
-              <span className="opacity-60">R:R</span>
+              <span className="opacity-60">R:R vs 3.0</span>
               <span className="font-bold">{fmtRatio(metrics.rewardRisk)}x</span>
             </div>
             <progress
@@ -122,11 +119,21 @@ export function MetricsGrid({
               value={rrNorm}
               max={100}
             />
-            <p className="mt-2 text-[11px] opacity-50">
-              Best {metrics.bestTrade == null ? "—" : money(metrics.bestTrade, 0)} · worst{" "}
-              {metrics.worstTrade == null ? "—" : money(metrics.worstTrade, 0)}
-            </p>
           </div>
+        </div>
+
+        <div className="flex flex-wrap gap-2 text-xs opacity-60">
+          <span>
+            Best {metrics.bestTrade == null ? "—" : money(metrics.bestTrade, 0)}
+          </span>
+          <span>·</span>
+          <span>
+            Worst {metrics.worstTrade == null ? "—" : money(metrics.worstTrade, 0)}
+          </span>
+          <span>·</span>
+          <span>
+            Avg hold {metrics.avgHoldMinutes == null ? "—" : `${metrics.avgHoldMinutes.toFixed(0)}m`}
+          </span>
         </div>
 
         {metrics.equityCurve && metrics.equityCurve.length > 1 ? (
@@ -164,9 +171,8 @@ function WeekSpark({ curve }: { curve: Array<{ t: string; pnl: number }> }) {
     <div className="rounded-box border border-base-300 bg-base-100 p-3">
       <div className="mb-2 flex items-center justify-between">
         <span className="text-xs font-semibold uppercase tracking-wide opacity-50">Equity curve</span>
-        <span className={`text-xs font-bold ${pnlClass(end)}`}>{money(end, 0)} cum</span>
       </div>
-      <svg viewBox={`0 0 ${w} ${h}`} className="w-full h-24" role="img" aria-label="Cumulative equity curve">
+      <svg viewBox={`0 0 ${w} ${h}`} className="w-full h-24" role="img" aria-label="Equity curve">
         <line x1={padX} x2={w - padX} y1={zeroY} y2={zeroY} stroke="currentColor" strokeOpacity="0.12" strokeWidth="1" />
         <path d={area} fill={fill} />
         <path d={line} fill="none" stroke={stroke} strokeWidth="2.5" strokeLinejoin="round" strokeLinecap="round" />
@@ -224,14 +230,6 @@ function WeeklyPnlChart({
               >
                 {wk.id.replace(/^\d{4}-/, "")}
               </text>
-              <text
-                x={x + barW / 2}
-                y={wk.realizedPnl >= 0 ? y - 6 : y + mag + 12}
-                textAnchor="middle"
-                style={{ fontSize: 9, fontWeight: 700, fill }}
-              >
-                {money(wk.realizedPnl, 0)}
-              </text>
             </g>
           );
         })}
@@ -254,8 +252,8 @@ export function ForwardMetricsBoard({ forward }: { forward: MetricsForwardFile }
 
       <MetricsGrid
         metrics={forward.cumulative}
-        title="Cumulative"
-        subtitle={`${forward.weeks.length} week(s) in window`}
+        title="Forward window"
+        subtitle={`Since ${forward.fromWeek} · ${forward.weeks.length} week${forward.weeks.length === 1 ? "" : "s"}`}
       />
 
       <div className="grid gap-4 xl:grid-cols-5">
