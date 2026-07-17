@@ -1019,7 +1019,7 @@ textarea { min-height: 88px; resize: vertical; }
 .cal-grid-head,
 .cal-grid {
   display: grid;
-  grid-template-columns: repeat(7, 1fr);
+  grid-template-columns: repeat(7, minmax(0, 1fr)) minmax(4.5rem, 0.85fr);
   gap: 6px;
 }
 .cal-grid-head {
@@ -1031,6 +1031,10 @@ textarea { min-height: 88px; resize: vertical; }
   color: var(--faint);
   letter-spacing: 0.06em;
   text-transform: uppercase;
+}
+.cal-grid-head span:last-child {
+  color: var(--color-primary);
+  opacity: 0.85;
 }
 .cal-cell {
   min-height: 72px;
@@ -1056,11 +1060,33 @@ textarea { min-height: 88px; resize: vertical; }
 }
 .cal-cell strong { font-size: 14px; letter-spacing: -0.02em; }
 .cal-cell em { font-style: normal; font-size: 11px; color: var(--faint); }
+.cal-week-total {
+  background: color-mix(in oklab, var(--color-primary) 10%, var(--color-base-100));
+  border-color: color-mix(in oklab, var(--color-primary) 22%, var(--border));
+  align-content: center;
+  text-align: center;
+  justify-items: center;
+}
+.cal-week-total.pos {
+  background: color-mix(in oklab, var(--color-success) 12%, var(--color-base-100));
+  border-color: color-mix(in oklab, var(--color-success) 28%, var(--border));
+}
+.cal-week-total.neg {
+  background: color-mix(in oklab, var(--color-error) 12%, var(--color-base-100));
+  border-color: color-mix(in oklab, var(--color-error) 28%, var(--border));
+}
+.cal-week-total strong { font-size: 13px; }
 .cal-panel { overflow: hidden; }
 
 @media (max-width: 720px) {
-  .cal-cell { min-height: 64px; padding: 6px; }
-  .cal-cell strong { font-size: 12px; }
+  .cal-grid-head,
+  .cal-grid {
+    grid-template-columns: repeat(7, minmax(0, 1fr)) minmax(3.4rem, 0.75fr);
+    gap: 4px;
+  }
+  .cal-cell { min-height: 58px; padding: 5px; }
+  .cal-cell strong { font-size: 11px; }
+  .cal-week-total strong { font-size: 11px; }
 }
 
 .trade-review-list {

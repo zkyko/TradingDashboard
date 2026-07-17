@@ -154,7 +154,7 @@ export default function CalendarView({
             <div className="flex flex-wrap items-center justify-between gap-2">
               <div>
                 <h3 className="font-bold tracking-tight">Trading calendar</h3>
-                <p className="text-xs opacity-50">Daily realized heat-map</p>
+                <p className="text-xs opacity-50">Daily heat-map · weekly & monthly totals</p>
               </div>
               <div className="join">
                 <button
@@ -179,44 +179,87 @@ export default function CalendarView({
               </div>
             </div>
 
+            <div className="flex flex-wrap items-center justify-between gap-2 rounded-box border border-base-300 bg-base-100 px-3 py-2.5">
+              <div className="text-xs font-semibold uppercase tracking-wide opacity-50">Month PnL</div>
+              <div className="flex items-baseline gap-3">
+                <strong className={`text-xl font-extrabold tracking-tight ${pnlClass(month.realizedPnl)}`}>
+                  {money(month.realizedPnl, 0)}
+                </strong>
+                <span className="text-xs opacity-50">{month.tradeCount} closes</span>
+              </div>
+            </div>
+
             <div className="cal-grid-head" aria-hidden="true">
-              {["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"].map((d) => (
+              {["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun", "Week"].map((d) => (
                 <span key={d}>{d}</span>
               ))}
             </div>
             <div className="cal-grid">
-              {cells.map((cell, i) => {
-                if (!cell.date) return <div key={`e-${i}`} className="cal-cell empty" />;
-                const pnl = cell.day?.realizedPnl ?? 0;
-                const trades = cell.day?.tradeCount ?? 0;
-                const has = Boolean(cell.day);
-                const inner = (
-                  <>
-                    <span className="cal-date">{Number(cell.date.slice(-2))}</span>
-                    {has ? (
-                      <>
-                        <strong className={pnlClass(pnl)}>{money(pnl, 0)}</strong>
-                        <em>
-                          {trades} tx{cell.day?.hasNotes ? " · ★" : ""}
-                        </em>
-                      </>
+              {Array.from({ length: cells.length / 7 }, (_, rowIdx) => {
+                const row = cells.slice(rowIdx * 7, rowIdx * 7 + 7);
+                const rowDays = row.filter((c) => c.day);
+                const weekPnl = rowDays.reduce((s, c) => s + (c.day?.realizedPnl ?? 0), 0);
+                const weekTrades = rowDays.reduce((s, c) => s + (c.day?.tradeCount ?? 0), 0);
+                const weekId =
+                  rowDays.find((c) => c.day?.weekId)?.day?.weekId ??
+                  row.find((c) => c.date)?.day?.weekId ??
+                  null;
+                const weekLabel = weekId ? weekId.replace(/^\d{4}-/, "") : `W${rowIdx + 1}`;
+
+                return (
+                  <div key={`row-${rowIdx}`} className="cal-week-row contents">
+                    {row.map((cell, i) => {
+                      const key = cell.date ?? `e-${rowIdx}-${i}`;
+                      if (!cell.date) return <div key={key} className="cal-cell empty" />;
+                      const pnl = cell.day?.realizedPnl ?? 0;
+                      const trades = cell.day?.tradeCount ?? 0;
+                      const has = Boolean(cell.day);
+                      const inner = (
+                        <>
+                          <span className="cal-date">{Number(cell.date.slice(-2))}</span>
+                          {has ? (
+                            <>
+                              <strong className={pnlClass(pnl)}>{money(pnl, 0)}</strong>
+                              <em>
+                                {trades} tx{cell.day?.hasNotes ? " · ★" : ""}
+                              </em>
+                            </>
+                          ) : (
+                            <em className="opacity-40">—</em>
+                          )}
+                        </>
+                      );
+                      return has ? (
+                        <Link
+                          key={key}
+                          href={localePath(locale, `/day/${cell.date}`)}
+                          className="cal-cell"
+                          style={{ background: heat(pnl, maxAbs) }}
+                        >
+                          {inner}
+                        </Link>
+                      ) : (
+                        <div key={key} className="cal-cell muted-cell">
+                          {inner}
+                        </div>
+                      );
+                    })}
+                    {weekTrades > 0 && weekId ? (
+                      <Link
+                        href={localePath(locale, `/history/${weekId}`)}
+                        className={`cal-cell cal-week-total ${weekPnl >= 0 ? "pos" : "neg"}`}
+                        title={`${weekId} · open week review`}
+                      >
+                        <span className="cal-date">{weekLabel}</span>
+                        <strong className={pnlClass(weekPnl)}>{money(weekPnl, 0)}</strong>
+                        <em>{weekTrades} tx</em>
+                      </Link>
                     ) : (
-                      <em className="opacity-40">—</em>
+                      <div className="cal-cell cal-week-total muted-cell">
+                        <span className="cal-date">{weekLabel}</span>
+                        <em className="opacity-40">—</em>
+                      </div>
                     )}
-                  </>
-                );
-                return has ? (
-                  <Link
-                    key={cell.date}
-                    href={localePath(locale, `/day/${cell.date}`)}
-                    className="cal-cell"
-                    style={{ background: heat(pnl, maxAbs) }}
-                  >
-                    {inner}
-                  </Link>
-                ) : (
-                  <div key={cell.date} className="cal-cell muted-cell">
-                    {inner}
                   </div>
                 );
               })}
