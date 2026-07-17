@@ -98,10 +98,11 @@ export default function CalendarView({
       <GoalProgress goal={goal} />
 
       {currentWeek ? (
-        <section className="score-card score-main cal-current-week">
+        <section className="card bg-base-200 border border-base-300 shadow-sm">
+          <div className="card-body p-5 flex-row items-end justify-between gap-4 flex-wrap">
           <div>
             <span className="score-label">This week · {currentWeek.id}</span>
-            <strong className={pnlClass(currentWeek.realizedPnl)}>
+            <strong className={`text-3xl font-extrabold tracking-tight block mt-1 ${pnlClass(currentWeek.realizedPnl)}`}>
               {money(currentWeek.realizedPnl, 0)}
             </strong>
             <span className="score-meta">
@@ -109,9 +110,10 @@ export default function CalendarView({
               {currentWeek.lesson ? ` · ${currentWeek.lesson}` : ""}
             </span>
           </div>
-          <Link className="cal-week-link" href={localePath(locale, `/history/${currentWeek.id}`)}>
-            Open week review →
+          <Link className="btn btn-primary btn-sm" href={localePath(locale, `/history/${currentWeek.id}`)}>
+            Open week review
           </Link>
+          </div>
         </section>
       ) : null}
 
@@ -121,7 +123,8 @@ export default function CalendarView({
 
       <ForwardMetricsBoard forward={forward} />
 
-      <section className="review-panel cal-panel">
+      <section className="card bg-base-200 border border-base-300 shadow-sm review-panel cal-panel">
+        <div className="card-body p-5 gap-3">
         <div className="cal-month-nav">
           {older ? (
             <button type="button" className="cal-nav-btn" onClick={() => setActiveMonth(older)}>
@@ -185,10 +188,12 @@ export default function CalendarView({
             );
           })}
         </div>
+        </div>
       </section>
 
-      <section className="review-panel">
-        <h2>Weekly reviews</h2>
+      <section className="card bg-base-200 border border-base-300 shadow-sm review-panel">
+        <div className="card-body p-5">
+        <h2 className="card-title text-base">Weekly reviews</h2>
         <ul className="history-list">
           {weeks.weeks.map((w) => (
             <li key={w.id}>
@@ -209,6 +214,7 @@ export default function CalendarView({
             </li>
           ))}
         </ul>
+        </div>
       </section>
     </div>
   );

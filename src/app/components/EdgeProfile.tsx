@@ -82,10 +82,11 @@ function SleeveBlock({ sleeve, highlight }: { sleeve: SleeveStats; highlight?: b
 
 export default function EdgeProfileCard({ edge }: { edge: EdgeProfileData }) {
   return (
-    <section className="review-panel edge-panel">
+    <section className="card bg-base-200 border border-base-300 shadow-sm review-panel edge-panel">
+      <div className="card-body gap-4 p-5">
       <div className="edge-head">
         <div>
-          <h2>Hold-time edge</h2>
+          <h2 className="card-title text-base tracking-tight">Hold-time edge</h2>
           <p className="score-meta">
             Measured from your closes ({edge.label}) — strength vs leak by how long you actually held.
             No assumed style.
@@ -144,6 +145,7 @@ export default function EdgeProfileCard({ edge }: { edge: EdgeProfileData }) {
             </ul>
           </div>
         ) : null}
+      </div>
       </div>
     </section>
   );

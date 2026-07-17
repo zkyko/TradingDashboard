@@ -7,8 +7,9 @@ export default function SizingCard({ sizing }: { sizing: SizingFile }) {
   if (!sizing.updatedAt) return null;
   const s = sizing.suggested;
   return (
-    <section className="review-panel sizing-panel">
-      <h2>Sizing · consistency first</h2>
+    <section className="card bg-base-200 border border-base-300 shadow-sm review-panel sizing-panel">
+      <div className="card-body gap-3 p-5">
+      <h2 className="card-title text-base tracking-tight">Sizing · consistency first</h2>
       <p className={`sizing-headline ${s.sizeUpReady ? "ready" : "hold"}`}>{sizing.headline}</p>
       <div className="sizing-metrics">
         <div>
@@ -55,6 +56,7 @@ export default function SizingCard({ sizing }: { sizing: SizingFile }) {
         /trade · &gt;15m {money(sizing.soxl28d.over15.pnl, 0)} · ≤15m{" "}
         {money(sizing.soxl28d.under15.pnl, 0)}
       </p>
+      </div>
     </section>
   );
 }

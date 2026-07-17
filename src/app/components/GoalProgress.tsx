@@ -39,10 +39,11 @@ export default function GoalProgress({ goal }: { goal: GoalPlan }) {
   const soxl = goal.soxlSample;
 
   return (
-    <section className="review-panel goal-panel">
+    <section className="card bg-base-200 border border-base-300 shadow-sm review-panel goal-panel">
+      <div className="card-body gap-4 p-5">
       <div className="goal-head">
         <div>
-          <h2>$100k goal</h2>
+          <h2 className="card-title text-base tracking-tight">$100k goal</h2>
           <p className="score-meta">
             {money(goal.equity, 0).replace(/^[+−]/, "")} now ·{" "}
             {money(goal.remaining, 0).replace(/^[+−]/, "")} to go ·{" "}
@@ -118,6 +119,7 @@ export default function GoalProgress({ goal }: { goal: GoalPlan }) {
         Path uses your measured average $ expectancy ÷ equity (compounded). No assumed 2–3%.
         Notional % is what the trade itself returned on capital deployed.
       </p>
+      </div>
     </section>
   );
 }
