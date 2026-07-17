@@ -6,8 +6,10 @@ import { money, pnlClass, tiltLabel } from "@/lib/review/format";
 import { localePath } from "@/lib/locale";
 import type { CalendarIndexFile, DaySummary, MetricsForwardFile, SizingFile, WeekReviewFile, WeeksIndexFile } from "@/lib/review/types";
 import type { GoalPlan } from "@/lib/review/goal";
+import type { EdgeProfile } from "@/lib/review/edge";
 import SizingCard from "@/app/components/SizingCard";
 import GoalProgress from "@/app/components/GoalProgress";
+import EdgeProfileCard from "@/app/components/EdgeProfile";
 import { ForwardMetricsBoard } from "@/app/components/MetricsBoard";
 
 function monthLabel(ym: string) {
@@ -50,6 +52,7 @@ export default function CalendarView({
   sizing,
   forward,
   goal,
+  edge,
 }: {
   calendar: CalendarIndexFile;
   weeks: WeeksIndexFile;
@@ -58,6 +61,7 @@ export default function CalendarView({
   sizing: SizingFile;
   forward: MetricsForwardFile;
   goal: GoalPlan;
+  edge: EdgeProfile;
 }) {
   const months = calendar.months;
   const [activeMonth, setActiveMonth] = useState(
@@ -112,6 +116,8 @@ export default function CalendarView({
       ) : null}
 
       <SizingCard sizing={sizing} />
+
+      <EdgeProfileCard edge={edge} />
 
       <ForwardMetricsBoard forward={forward} />
 

@@ -3,7 +3,9 @@
 import { money, pct, pnlClass } from "@/lib/review/format";
 import type { EquityFile, TradesFile, WeeksIndexFile } from "@/lib/review/types";
 import type { GoalPlan } from "@/lib/review/goal";
+import type { EdgeProfile } from "@/lib/review/edge";
 import GoalProgress from "@/app/components/GoalProgress";
+import EdgeProfileCard from "@/app/components/EdgeProfile";
 
 function sparkPath(points: Array<{ x: number; y: number }>, w: number, h: number) {
   if (points.length < 2) return "";
@@ -17,11 +19,13 @@ export default function GrowthView({
   trades,
   weeks,
   goal,
+  edge,
 }: {
   equity: EquityFile;
   trades: TradesFile;
   weeks: WeeksIndexFile;
   goal: GoalPlan;
+  edge: EdgeProfile;
 }) {
   const series = equity.series.length
     ? equity.series
@@ -67,6 +71,8 @@ export default function GrowthView({
       </header>
 
       <GoalProgress goal={goal} />
+
+      <EdgeProfileCard edge={edge} />
 
       <section className="review-scoreboard">
         <div className="score-card score-main">

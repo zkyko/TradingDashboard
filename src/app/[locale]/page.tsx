@@ -1,4 +1,5 @@
 import CalendarView from "@/app/components/CalendarView";
+import { buildEdgeProfile } from "@/lib/review/edge";
 import { buildGoalPlan } from "@/lib/review/goal";
 import {
   loadCalendarIndex,
@@ -9,6 +10,8 @@ import {
   loadTrades,
   loadWeeksIndex,
 } from "@/lib/review/load";
+
+const FORWARD_FROM = "2026-07-13T00:00:00.000Z";
 
 export default async function HomePage({
   params,
@@ -34,8 +37,9 @@ export default async function HomePage({
         goal: 100_000,
         startEquity,
         trades: trades.trades,
-        fromIso: "2026-07-13T00:00:00.000Z",
+        fromIso: FORWARD_FROM,
       })}
+      edge={buildEdgeProfile(trades.trades, { fromIso: FORWARD_FROM })}
     />
   );
 }

@@ -1,6 +1,9 @@
 import GrowthView from "@/app/components/GrowthView";
+import { buildEdgeProfile } from "@/lib/review/edge";
 import { buildGoalPlan } from "@/lib/review/goal";
 import { loadEquity, loadTrades, loadWeeksIndex } from "@/lib/review/load";
+
+const FORWARD_FROM = "2026-07-13T00:00:00.000Z";
 
 export default function GrowthPage() {
   const equity = loadEquity();
@@ -16,8 +19,9 @@ export default function GrowthPage() {
         goal: 100_000,
         startEquity: series[0]?.equity ?? null,
         trades: trades.trades,
-        fromIso: "2026-07-13T00:00:00.000Z",
+        fromIso: FORWARD_FROM,
       })}
+      edge={buildEdgeProfile(trades.trades, { fromIso: FORWARD_FROM })}
     />
   );
 }
